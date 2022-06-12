@@ -13,18 +13,20 @@ read_file = open('cameras.json', 'r').read()
 data = json.loads(read_file)
 
 # account for ouptut
-count = 1
+count = 0
 output = ''
 
 # iterate through each camera
 for camera in data:
 
     # get values
-    name = camera.get('name').replace('&', 'and')
-    longitude = camera.get('lng')
+    name = camera.get('commonName').replace('&', 'and')
+    cam_id = camera.get('id').replace('JamCams_','')
+    longitude = camera.get('lon')
     latitude = camera.get('lat')
-    link = camera.get('image').replace('&', '&amp;')
-    # link = camera.get('image')
+
+    # format values
+    link = f'https://www.hlsplayer.net/mp4-player#src=https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fjamcams.tfl.gov.uk%2F{cam_id}.mp4'
 
     # write to placemark
     placemark = f'''
@@ -59,7 +61,7 @@ kml_start = '''<?xml version="1.0" encoding="UTF-8"?>
 <Style id="traffic_camera">
 <IconStyle>
     <Icon>
-    <href>https://cdn3.iconfinder.com/data/icons/world-top-cities-2-1/180/50-256.png</href>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
     </Icon>
 </IconStyle>
 <BalloonStyle>
@@ -73,5 +75,6 @@ kml_end = '''
 </kml>
 '''
 
-with open('washingtondc.kml', 'w') as kml:
+with open('london.kml', 'w') as kml:
     kml.write(kml_start + output + kml_end)
+
