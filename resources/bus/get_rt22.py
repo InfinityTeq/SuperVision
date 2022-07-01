@@ -5,8 +5,8 @@
 
 # For Python 3, change import urllib to urllib.request
 
-import urllib
-u = urllib.urlopen('http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=22')
+import urllib.request
+u = urllib.request.urlopen('http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=22')
 data = u.read()
 f = open('rt22.xml', 'wb')
 f.write(data)
