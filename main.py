@@ -1,92 +1,21 @@
 #!/usr/bin/env python
-# Watchdogs Website
+# SuperVision
 # created by : C0SM0
 
 # imports
 import os
 import folium # pip req
-import urllib.request
-from livereload import Server # pip req
 from folium.plugins import *
-from bs4 import BeautifulSoup # pip req
-from flask import Flask, render_template # pip req
+from flask import Flask, render_template, send_from_directory # pip req
+from flask_navigation import Navigation
 
-import atexit
-from apscheduler.schedulers.background import BackgroundScheduler # pip req
-
-# get bus data
-def get_bus_data():
-
-    output_list = []
-
-    # get and read bus data
-    u = urllib.request.urlopen('http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=22')
-    data = u.read()
-
-    # parse bus data
-    soup = BeautifulSoup(data, "xml")
-    bus = soup.find_all('bus')
-
-    # iterate bus data
-    for item in bus:
-
-        bus_values = []
-
-        # assign values
-        name = item.find('id').text
-        longitude = item.find('lon').text
-        latitude = item.find('lat').text
-
-        # add values
-        bus_values.append(name)
-        bus_values.append(longitude)
-        bus_values.append(latitude)
-        output_list.append(bus_values)
-
-    return output_list
-
-# gets kml data
-def get_kml_data(file):
-
-    output_list = []
-
-    # read data
-    page = open(file, 'r').read()
-    soup = BeautifulSoup(page, "xml")
-
-    # iterate over kml
-    placemark = soup.find_all('Placemark')
-    for item in placemark:
-
-        camera = []
-
-        # get values
-        name = item.find('name').text # name
-        link = item.find('value').text # link
-
-        # get and format coordinates
-        coordinates = item.find('coordinates').text # coordinates
-        coordinates = coordinates.replace("'", '').replace("(",'').replace(")", '')
-
-        # get longitude and latitude
-        coordinates = coordinates.split(',')
-        longitude = coordinates[0]
-        latitude = coordinates[1]
-
-        # add to list
-        camera.append(name)
-        camera.append(link)
-        camera.append(longitude)
-        camera.append(latitude)
-        output_list.append(camera)
-
-    # returns list of camera data
-    return output_list
+# packages
+from packages import get_bus_data
+from packages import get_real_time
+from packages import get_kml_data
 
 # main code, makes map
 def main():
-
-    kml_directory = 'kml'
 
     # generate map
     map = folium.Map(zoom_start=12, control_scale=True, width='100%', height='80%')
@@ -112,21 +41,19 @@ def main():
     folium.LayerControl().add_to(map)
 
     # iterate through kml files
+    kml_directory = 'kml'
     for kml in os.listdir(kml_directory):
-        kml_path = os.path.join(kml_directory, kml)
 
+        kml_path = os.path.join(kml_directory, kml)
         print(kml_path)
 
         # get kml data
-        kml_data = get_kml_data(kml_path)
+        kml_data = get_kml_data.get(kml_path)
         kml_name = kml[:-4].title()
 
-        # sub_group = FeatureGroupSubGroup(fg, kml_name)
-        # map.add_child(sub_group)
-
+        # marker clusters
         marker_cluster = MarkerCluster(name=kml_name)
         marker_cluster.add_to(fg)
-        # sub_group.add_child(marker_cluster)
 
         # iterate over and assign kml data
         for data in kml_data:
@@ -140,75 +67,28 @@ def main():
             # add marker to map
             folium.Marker([latitude, longitude], popup='<a href={LINK} target="_blank">View Camera</a>'.format(LINK=link), tooltip=name, icon=folium.Icon(color="black", icon="camera")).add_to(marker_cluster)
 
-    # iterate through bust data
-    buses = get_bus_data()
-
-    # iterate through buses
-    for bus in buses:
-
-        # get values from bus data
-        name = bus[0]
-        longitude = bus[1]
-        latitude = bus[2]
-
-        # create marker
-        folium.Marker([latitude, longitude], popup='Bus'.format(LINK=link), tooltip=name, icon=folium.Icon(color="green", icon="car")).add_to(marker_cluster)
-
     # save and display the map
     map.save('templates/index.html')
-
-    # add realtime visualization to html
-    realtime = '''
-    L.control.liveupdate ({
-            update_map: function () {
-            },
-            position: 'topleft',
-            interval: 5000
-    })
-    .addTo(map)
-    .startUpdating();
-    </script>
-    '''
-    read_index = open('templates/index.html', 'r').readlines()
-    map_name = ''
-    with open('templates/index.html', 'w') as index:
-        for line in range(len(read_index) - 1):
-            # # var map_51e7d4c78adf02fa68853a29191878a2 = L.map(
-            # if read_index[line].strip().endswith('L.map('):
-            #     map_name = read_index[line].strip(' ').replace('\t', '').replace('var ','').replace(' = L.map(','')
-            #     print(map_name)
-            #     print()
-
-            index.write(read_index[line])
-        index.write(realtime)
-
     # return map._repr_html_()
 
 # flask processes
 app = Flask(__name__)
 
+# render home page
+# NOTE: "get_bus_data" is referenced twice
 @app.route("/")
-
 def index():
     main()
-
-    # imported code
-    scheduler = BackgroundScheduler()
-    scheduler.add_job(func=main, trigger="interval", seconds=5)
-    scheduler.start()
-
-    # Shut down the scheduler when exiting the app
-    atexit.register(lambda: scheduler.shutdown())
+    get_real_time.get()
+    get_bus_data.get()
 
     return render_template('index.html')
     # return main()
 
+# TODO: loop this and iterate through all xml
+@app.route("/xml/bus.xml")
+def bus_xml():
+    return get_bus_data.get()
+
 if __name__ == "__main__":
-    # server = Server(app.wsgi_app)
-    # server.serve()
     app.run(debug=True)
-
-
-
-
-
