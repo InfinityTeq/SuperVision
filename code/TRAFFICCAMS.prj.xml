@@ -1,0 +1,3786 @@
+<TaskerData sr="" dvi="1" tv="4.1u3m">
+	<Project sr="proj0">
+		<cdate>1368479433234</cdate>
+		<name>TRAFFICCAMS</name>
+		<psort>ActiveAlpha</psort>
+		<scenes>DISPLAY,Black,LIST3,LIST2,LISTC,LIST1,White,FIVE,ONE,Info,FOUR,THREE,TWO,TRAFFIC CAM,START</scenes>
+		<tids>127,116,65,105,171,170,118,161,100,113,98,111,163,185,166,162,103,99,106,50,67,62,115,184,126,76,91,112,97,177,120,123,107,179,160,168,101,96,70,108,88,104,102,90,94,95,7,109,187,164,114,186,93,46,63,119,169,124,87,125,174,121,165,122,110,44,183,172,159,68,129,52,117,178,92</tids>
+		<Kid sr="Kid">
+			<eperm0></eperm0>
+			<launchID>90</launchID>
+			<pkg>com.tobidog.a.john.trafficcams</pkg>
+			<vnme>1.0</vnme>
+			<vnum>46</vnum>
+		</Kid>
+		<Img sr="icon" ve="2">
+			<fle>/mnt/sdcard/Simple Text/traffic-tasker-version--1370525453.png</fle>
+		</Img>
+	</Project>
+	<Scene sr="sceneBlack">
+		<backColour>-15466496</backColour>
+		<cdate>1366668170118</cdate>
+		<edate>1366668241061</edate>
+		<heightLand>-1</heightLand>
+		<heightPort>948</heightPort>
+		<nme>Black</nme>
+		<widthLand>-1</widthLand>
+		<widthPort>531</widthPort>
+	</Scene>
+	<Scene sr="sceneDISPLAY">
+		<backColour>-3342</backColour>
+		<cdate>1368455658467</cdate>
+		<edate>1380118598865</edate>
+		<gridSize>10</gridSize>
+		<heightLand>522</heightLand>
+		<heightPort>921</heightPort>
+		<nme>DISPLAY</nme>
+		<widthLand>960</widthLand>
+		<widthPort>528</widthPort>
+		<ImageElement sr="elements0">
+			<clickTask>91</clickTask>
+			<flags>4</flags>
+			<geom>255,0,270,272,554,0,275,285</geom>
+			<Str sr="arg0" ve="3">Image2</Str>
+			<Img sr="arg1" ve="2"/>
+			<Int sr="arg2" val="255"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#00333333</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</ImageElement>
+		<ImageElement sr="elements1">
+			<clickTask>93</clickTask>
+			<flags>4</flags>
+			<geom>0,272,255,285,281,1,281,280</geom>
+			<Str sr="arg0" ve="3">Image3</Str>
+			<Img sr="arg1" ve="2"/>
+			<Int sr="arg2" val="255"/>
+		</ImageElement>
+		<ImageElement sr="elements2">
+			<clickTask>94</clickTask>
+			<flags>4</flags>
+			<geom>255,272,272,288,281,281,275,240</geom>
+			<Str sr="arg0" ve="3">Image4</Str>
+			<Img sr="arg1" ve="2"/>
+			<Int sr="arg2" val="255"/>
+		</ImageElement>
+		<ButtonElement sr="elements3">
+			<clickTask>87</clickTask>
+			<flags>4</flags>
+			<geom>255,557,271,96,554,285,200,100</geom>
+			<Str sr="arg0" ve="3">Button1</Str>
+			<Str sr="arg1" ve="3">REFRESH</Str>
+			<Int sr="arg2" val="24"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="0"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements4">
+			<clickTask>76</clickTask>
+			<flags>4</flags>
+			<geom>255,767,271,90,554,385,204,100</geom>
+			<Str sr="arg0" ve="3">Button2</Str>
+			<Str sr="arg1" ve="3">EXIT</Str>
+			<Int sr="arg2" val="25"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="0"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ImageElement sr="elements5">
+			<clickTask>92</clickTask>
+			<flags>4</flags>
+			<geom>0,557,255,288,1,281,292,240</geom>
+			<Str sr="arg0" ve="3">Image5</Str>
+			<Img sr="arg1" ve="2"/>
+			<Int sr="arg2" val="255"/>
+		</ImageElement>
+		<ButtonElement sr="elements6">
+			<clickTask>95</clickTask>
+			<flags>4</flags>
+			<geom>255,662,270,90,768,377,192,110</geom>
+			<Str sr="arg0" ve="3">Button3</Str>
+			<Str sr="arg1" ve="3">Setup</Str>
+			<Int sr="arg2" val="25"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="0"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<TextElement sr="elements7" ve="2">
+			<flags>4</flags>
+			<geom>60,842,418,48,60,474,418,48</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">Tap picture to enlarge</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</TextElement>
+		<ImageElement sr="elements8">
+			<clickTask>63</clickTask>
+			<flags>4</flags>
+			<geom>0,0,255,272,1,1,284,281</geom>
+			<Str sr="arg0" ve="3">Image1</Str>
+			<Img sr="arg1" ve="2"/>
+			<Int sr="arg2" val="255"/>
+		</ImageElement>
+	</Scene>
+	<Scene sr="sceneFIVE">
+		<backColour>-15728640</backColour>
+		<cdate>1368482764265</cdate>
+		<edate>1375901592320</edate>
+		<heightLand>-1</heightLand>
+		<heightPort>921</heightPort>
+		<nme>FIVE</nme>
+		<widthLand>-1</widthLand>
+		<widthPort>528</widthPort>
+		<ImageElement sr="elements0">
+			<clickTask>62</clickTask>
+			<flags>4</flags>
+			<geom>0,85,526,648,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Image1</Str>
+			<Img sr="arg1" ve="2"/>
+			<Int sr="arg2" val="255"/>
+		</ImageElement>
+		<TextElement sr="elements1" ve="2">
+			<flags>4</flags>
+			<geom>121,628,336,72,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">Tap to return</Str>
+			<Int sr="arg2" val="25"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</TextElement>
+	</Scene>
+	<Scene sr="sceneFOUR">
+		<backColour>-201326592</backColour>
+		<cdate>1368476567367</cdate>
+		<edate>1369239112234</edate>
+		<heightLand>540</heightLand>
+		<heightPort>921</heightPort>
+		<nme>FOUR</nme>
+		<widthLand>531</widthLand>
+		<widthPort>534</widthPort>
+		<ImageElement sr="elements0">
+			<clickTask>50</clickTask>
+			<flags>4</flags>
+			<geom>0,85,528,624,0,0,530,540</geom>
+			<Str sr="arg0" ve="3">Image1</Str>
+			<Img sr="arg1" ve="2"/>
+			<Int sr="arg2" val="255"/>
+		</ImageElement>
+		<TextElement sr="elements1" ve="2">
+			<flags>4</flags>
+			<geom>125,604,288,96,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">Tap to return</Str>
+			<Int sr="arg2" val="25"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</TextElement>
+	</Scene>
+	<Scene sr="sceneInfo">
+		<backColour>-1</backColour>
+		<cdate>1369220902630</cdate>
+		<edate>1380105816852</edate>
+		<gridSize>10</gridSize>
+		<heightLand>-1</heightLand>
+		<heightPort>921</heightPort>
+		<nme>Info</nme>
+		<widthLand>-1</widthLand>
+		<widthPort>527</widthPort>
+		<WebElement sr="elements0" ve="2">
+			<flags>4</flags>
+			<geom>0,0,322,561,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">WebView1</Str>
+			<Int sr="arg1" val="1"/>
+			<Str sr="arg2" ve="3">/sdcard/information.htm</Str>
+			<Int sr="arg3" val="1"/>
+			<Int sr="arg4" val="0"/>
+		</WebElement>
+		<TextElement sr="elements1" ve="2">
+			<clickTask>129</clickTask>
+			<flags>4</flags>
+			<geom>2,10,520,910,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">TRAFFIC CAMS
+
+This App shows the Southampton traffic cameras of your choice.
+
+A full list is provided.
+
+Images copyright Romanse Hampshire.
+
+ALSO try TRAFFIC AI written with AppInventor.</Str>
+			<Int sr="arg2" val="20"/>
+			<Int sr="arg3" val="103"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="2"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#FF333333</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements2" ve="2">
+			<flags>4</flags>
+			<geom>132,690,260,200,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text2</Str>
+			<Str sr="arg1" ve="3">tap to return</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</TextElement>
+	</Scene>
+	<Scene sr="sceneLIST1">
+		<backColour>-919811</backColour>
+		<cdate>1379261759648</cdate>
+		<edate>1380059175787</edate>
+		<heightLand>-1</heightLand>
+		<heightPort>921</heightPort>
+		<nme>LIST1</nme>
+		<widthLand>-1</widthLand>
+		<widthPort>531</widthPort>
+		<ButtonElement sr="elements0">
+			<clickTask>118</clickTask>
+			<flags>4</flags>
+			<geom>0,135,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List1</Str>
+			<Str sr="arg1" ve="3">%DES1</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements1">
+			<clickTask>120</clickTask>
+			<flags>4</flags>
+			<geom>0,185,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List2</Str>
+			<Str sr="arg1" ve="3">%DES2</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements10">
+			<clickTask>104</clickTask>
+			<flags>4</flags>
+			<geom>0,635,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List11</Str>
+			<Str sr="arg1" ve="3">%DES11</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements11">
+			<clickTask>105</clickTask>
+			<flags>4</flags>
+			<geom>0,685,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List12</Str>
+			<Str sr="arg1" ve="3">%DES12</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements12">
+			<clickTask>106</clickTask>
+			<flags>4</flags>
+			<geom>0,735,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List13</Str>
+			<Str sr="arg1" ve="3">%DES13</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<TextElement sr="elements13" ve="2">
+			<clickTask>121</clickTask>
+			<flags>4</flags>
+			<geom>0,785,277,74,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text2</Str>
+			<Str sr="arg1" ve="3">MORE...........</Str>
+			<Int sr="arg2" val="24"/>
+			<Int sr="arg3" val="114"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#DD060F4C</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements14" ve="2">
+			<clickTask>185</clickTask>
+			<flags>4</flags>
+			<geom>277,785,253,75,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text3</Str>
+			<Str sr="arg1" ve="3">RETURN</Str>
+			<Int sr="arg2" val="24"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFCAC210</Str>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#FF1A0F54</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ButtonElement sr="elements15">
+			<clickTask>172</clickTask>
+			<flags>4</flags>
+			<geom>2,585,525,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List10</Str>
+			<Str sr="arg1" ve="3">%DES10</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements2">
+			<clickTask>183</clickTask>
+			<flags>4</flags>
+			<geom>0,235,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List3</Str>
+			<Str sr="arg1" ve="3">%DES3</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements3">
+			<clickTask>184</clickTask>
+			<flags>4</flags>
+			<geom>0,285,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List4</Str>
+			<Str sr="arg1" ve="3">%DES4</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<TextElement sr="elements4" ve="2">
+			<flags>4</flags>
+			<geom>0,60,530,74,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">CAMERA LIST - TAP TO SELECT</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="200"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#FF070B7C</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ButtonElement sr="elements5">
+			<clickTask>97</clickTask>
+			<flags>4</flags>
+			<geom>0,335,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List5</Str>
+			<Str sr="arg1" ve="3">%DES5</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements6">
+			<clickTask>98</clickTask>
+			<flags>4</flags>
+			<geom>0,385,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List6</Str>
+			<Str sr="arg1" ve="3">%DES6</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements7">
+			<clickTask>99</clickTask>
+			<flags>4</flags>
+			<geom>0,435,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List7</Str>
+			<Str sr="arg1" ve="3">%DES7</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements8">
+			<clickTask>101</clickTask>
+			<flags>4</flags>
+			<geom>0,485,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List8</Str>
+			<Str sr="arg1" ve="3">%DES8</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements9">
+			<clickTask>102</clickTask>
+			<flags>4</flags>
+			<geom>0,535,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List9</Str>
+			<Str sr="arg1" ve="3">%DES9</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+	</Scene>
+	<Scene sr="sceneLIST2">
+		<backColour>-919811</backColour>
+		<cdate>1379261759648</cdate>
+		<edate>1380046504696</edate>
+		<heightLand>-1</heightLand>
+		<heightPort>921</heightPort>
+		<nme>LIST2</nme>
+		<widthLand>-1</widthLand>
+		<widthPort>531</widthPort>
+		<ButtonElement sr="elements0">
+			<clickTask>96</clickTask>
+			<flags>4</flags>
+			<geom>0,135,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List1</Str>
+			<Str sr="arg1" ve="3">%DES21</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements1">
+			<clickTask>100</clickTask>
+			<flags>4</flags>
+			<geom>0,185,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List2</Str>
+			<Str sr="arg1" ve="3">%DES22</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements10">
+			<clickTask>114</clickTask>
+			<flags>4</flags>
+			<geom>0,585,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List73</Str>
+			<Str sr="arg1" ve="3">%DES45</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements11">
+			<clickTask>115</clickTask>
+			<flags>4</flags>
+			<geom>0,635,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List74</Str>
+			<Str sr="arg1" ve="3">%DES47</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements12">
+			<clickTask>117</clickTask>
+			<flags>4</flags>
+			<geom>0,735,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List76</Str>
+			<Str sr="arg1" ve="3">%DES49</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<TextElement sr="elements13" ve="2">
+			<clickTask>122</clickTask>
+			<flags>4</flags>
+			<geom>0,785,277,74,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text2</Str>
+			<Str sr="arg1" ve="3">MORE...........</Str>
+			<Int sr="arg2" val="24"/>
+			<Int sr="arg3" val="114"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#DD060F4C</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements14" ve="2">
+			<clickTask>186</clickTask>
+			<flags>4</flags>
+			<geom>277,785,253,75,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text3</Str>
+			<Str sr="arg1" ve="3">RETURN</Str>
+			<Int sr="arg2" val="24"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFCAC210</Str>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#FF1A0F54</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ButtonElement sr="elements15">
+			<clickTask>170</clickTask>
+			<flags>4</flags>
+			<geom>2,685,525,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List741</Str>
+			<Str sr="arg1" ve="3">%DES48</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements2">
+			<clickTask>103</clickTask>
+			<flags>4</flags>
+			<geom>0,235,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List3</Str>
+			<Str sr="arg1" ve="3">%DES23</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements3">
+			<clickTask>108</clickTask>
+			<flags>4</flags>
+			<geom>0,285,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List4</Str>
+			<Str sr="arg1" ve="3">%DES25</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<TextElement sr="elements4" ve="2">
+			<flags>4</flags>
+			<geom>0,60,530,74,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">CAMERA LIST - TAP TO SELECT</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="200"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#FF070B7C</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ButtonElement sr="elements5">
+			<clickTask>109</clickTask>
+			<flags>4</flags>
+			<geom>0,335,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List5</Str>
+			<Str sr="arg1" ve="3">%DES39</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements6">
+			<clickTask>110</clickTask>
+			<flags>4</flags>
+			<geom>0,385,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List6</Str>
+			<Str sr="arg1" ve="3">%DES40</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements7">
+			<clickTask>111</clickTask>
+			<flags>4</flags>
+			<geom>0,435,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List7</Str>
+			<Str sr="arg1" ve="3">%DES41</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements8">
+			<clickTask>112</clickTask>
+			<flags>4</flags>
+			<geom>0,485,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List71</Str>
+			<Str sr="arg1" ve="3">%DES42</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements9">
+			<clickTask>113</clickTask>
+			<flags>4</flags>
+			<geom>0,535,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List72</Str>
+			<Str sr="arg1" ve="3">%DES43</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+	</Scene>
+	<Scene sr="sceneLIST3">
+		<backColour>-919811</backColour>
+		<cdate>1379261759648</cdate>
+		<edate>1380045440466</edate>
+		<heightLand>-1</heightLand>
+		<heightPort>921</heightPort>
+		<nme>LIST3</nme>
+		<widthLand>-1</widthLand>
+		<widthPort>531</widthPort>
+		<ButtonElement sr="elements0">
+			<clickTask>107</clickTask>
+			<flags>4</flags>
+			<geom>0,135,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List1</Str>
+			<Str sr="arg1" ve="3">%DES51</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements1">
+			<clickTask>116</clickTask>
+			<flags>4</flags>
+			<geom>0,185,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List2</Str>
+			<Str sr="arg1" ve="3">%DES52</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements10">
+			<clickTask>165</clickTask>
+			<flags>4</flags>
+			<geom>0,585,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List73</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements11">
+			<clickTask>166</clickTask>
+			<flags>4</flags>
+			<geom>0,635,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List74</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements12">
+			<clickTask>168</clickTask>
+			<flags>4</flags>
+			<geom>0,735,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List76</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<TextElement sr="elements13" ve="2">
+			<clickTask>169</clickTask>
+			<flags>4</flags>
+			<geom>0,785,277,74,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text2</Str>
+			<Str sr="arg1" ve="3">MORE...........</Str>
+			<Int sr="arg2" val="24"/>
+			<Int sr="arg3" val="114"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#DD060F4C</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements14" ve="2">
+			<clickTask>187</clickTask>
+			<flags>4</flags>
+			<geom>277,785,253,75,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text3</Str>
+			<Str sr="arg1" ve="3">RETURN</Str>
+			<Int sr="arg2" val="24"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFCAC210</Str>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#FF1A0F54</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ButtonElement sr="elements15">
+			<clickTask>171</clickTask>
+			<flags>4</flags>
+			<geom>2,685,525,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List741</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements2">
+			<clickTask>123</clickTask>
+			<flags>4</flags>
+			<geom>0,235,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List3</Str>
+			<Str sr="arg1" ve="3">%DES53</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements3">
+			<clickTask>159</clickTask>
+			<flags>4</flags>
+			<geom>0,285,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List4</Str>
+			<Str sr="arg1" ve="3">%DES55</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<TextElement sr="elements4" ve="2">
+			<flags>4</flags>
+			<geom>0,60,530,74,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">CAMERA LIST - TAP TO SELECT</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="200"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#FF070B7C</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ButtonElement sr="elements5">
+			<clickTask>160</clickTask>
+			<flags>4</flags>
+			<geom>0,335,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List5</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements6">
+			<clickTask>161</clickTask>
+			<flags>4</flags>
+			<geom>0,385,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List6</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements7">
+			<clickTask>162</clickTask>
+			<flags>4</flags>
+			<geom>0,435,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List7</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements8">
+			<clickTask>163</clickTask>
+			<flags>4</flags>
+			<geom>0,485,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List71</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements9">
+			<clickTask>164</clickTask>
+			<flags>4</flags>
+			<geom>0,535,530,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">List72</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="3"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+	</Scene>
+	<Scene sr="sceneLISTC">
+		<cdate>1369136723712</cdate>
+		<edate>1380058518661</edate>
+		<heightLand>-1</heightLand>
+		<heightPort>921</heightPort>
+		<nme>LISTC</nme>
+		<widthLand>-1</widthLand>
+		<widthPort>539</widthPort>
+		<TextElement sr="elements0" ve="2">
+			<clickTask>67</clickTask>
+			<flags>4</flags>
+			<geom>0,0,531,921,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">1	Redbridge
+2	Millbrook Roundabout
+3	Regents Park Road
+4	Mountbatten Way
+5	Charlotte Place
+6	Stag Gates
+7	Burgess Road
+8	Chilworth
+9	Bursledon Road
+10	Bitterne Road
+11	Bullar Road
+12	Northam Bridge
+13	Six Dials
+21	Swaythling
+22	Thomas Lewis Way
+23	Itchen Bridge
+25	West Quay
+39	Basset Avenue
+40	University Road
+41	Romsey Road
+42	Wilton Road
+43	Bevois Valley Road
+45	Winchester Road / Hill Lane
+47	Town Quay / High Street
+48	Polygon
+49	Onslow Road / St Mary's
+51	Cobden Bridge
+52	Itchen Bridge
+53	West Quay
+55	Charlotte Place</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="3"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#FF333333</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements1" ve="2">
+			<flags>4</flags>
+			<geom>2,0,200,50,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text2</Str>
+			<Str sr="arg1" ve="3">tap to return</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</TextElement>
+	</Scene>
+	<Scene sr="sceneONE">
+		<backColour>-16774891</backColour>
+		<cdate>1368461935594</cdate>
+		<edate>1379878194453</edate>
+		<heightLand>539</heightLand>
+		<heightPort>921</heightPort>
+		<nme>ONE</nme>
+		<widthLand>959</widthLand>
+		<widthPort>539</widthPort>
+		<ImageElement sr="elements0">
+			<clickTask>44</clickTask>
+			<flags>4</flags>
+			<geom>0,160,530,600,154,6,625,475</geom>
+			<longclickTask>65</longclickTask>
+			<Str sr="arg0" ve="3">Image1</Str>
+			<Img sr="arg1" ve="2"/>
+			<Int sr="arg2" val="255"/>
+		</ImageElement>
+		<TextElement sr="elements1" ve="2">
+			<flags>4</flags>
+			<geom>121,652,264,120,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Return</Str>
+			<Str sr="arg1" ve="3">Tap to return</Str>
+			<Int sr="arg2" val="25"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</TextElement>
+	</Scene>
+	<Scene sr="sceneSTART">
+		<backColour>-592142</backColour>
+		<cdate>1368739224318</cdate>
+		<edate>1380118659678</edate>
+		<gridSize>10</gridSize>
+		<heightLand>502</heightLand>
+		<heightPort>914</heightPort>
+		<nme>START</nme>
+		<widthLand>510</widthLand>
+		<widthPort>517</widthPort>
+		<TextElement sr="elements0" ve="2">
+			<flags>6</flags>
+			<geom>0,0,517,914,129,42,250,460</geom>
+			<Str sr="arg0" ve="3">Text7</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#00FFE4E4</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements1" ve="2">
+			<flags>4</flags>
+			<geom>0,0,496,130,0,0,496,124</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">SOUTHAMPTON TRAFFIC CAMS</Str>
+			<Int sr="arg2" val="25"/>
+			<Int sr="arg3" val="112"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#77333333</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ButtonElement sr="elements10">
+			<clickTask>179</clickTask>
+			<flags>4</flags>
+			<geom>0,810,496,70,0,432,503,70</geom>
+			<Str sr="arg0" ve="3">Button3</Str>
+			<Str sr="arg1" ve="3">INFORMATION</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="67"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="0"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<TextElement sr="elements11" ve="2">
+			<flags>4</flags>
+			<geom>0,600,279,90,0,422,279,80</geom>
+			<Str sr="arg0" ve="3">Text8</Str>
+			<Str sr="arg1" ve="3">Press above
+to change</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#00050500</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ButtonElement sr="elements2">
+			<clickTask>177</clickTask>
+			<flags>4</flags>
+			<geom>0,140,496,80,0,152,496,67</geom>
+			<Str sr="arg0" ve="3">Button1</Str>
+			<Str sr="arg1" ve="3">LIST OF CAMERAS</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="0"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+		<ListElement sr="elements3">
+			<flags>4</flags>
+			<geom>2,230,279,450,0,99,344,403</geom>
+			<Str sr="arg0" ve="3">Picture Menu</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3"/>
+			<Int sr="arg3" val="0"/>
+			<Scene sr="arg4">
+				<Scene sr="val">
+					<backColour>0</backColour>
+					<cdate>1368789422488</cdate>
+					<edate>1368789422488</edate>
+					<heightLand>-1</heightLand>
+					<heightPort>75</heightPort>
+					<nme>Builtin Item Layout</nme>
+					<widthLand>-1</widthLand>
+					<widthPort>330</widthPort>
+					<ImageElement sr="elements0">
+						<flags>5</flags>
+						<geom>255,7,68,61,-1,-1,-1,-1</geom>
+						<Str sr="arg0" ve="3">Icon</Str>
+						<Img sr="arg1" ve="2">
+							<nme>hd_aaa_ext_tiles_small</nme>
+						</Img>
+						<Int sr="arg2" val="255"/>
+					</ImageElement>
+					<TextElement sr="elements1" ve="2">
+						<flags>5</flags>
+						<geom>44,7,204,61,-1,-1,-1,-1</geom>
+						<Str sr="arg0" ve="3">Label</Str>
+						<Str sr="arg1" ve="3"/>
+						<Int sr="arg2" val="18"/>
+						<Int sr="arg3"/>
+						<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+						<Int sr="arg5" val="3"/>
+						<Int sr="arg6"/>
+						<Int sr="arg7"/>
+					</TextElement>
+					<TextElement sr="elements2" ve="2">
+						<flags>1</flags>
+						<geom>7,7,30,61,-1,-1,-1,-1</geom>
+						<Str sr="arg0" ve="3">Index</Str>
+						<Str sr="arg1" ve="3">1.</Str>
+						<Int sr="arg2" val="18"/>
+						<Int sr="arg3"/>
+						<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+						<Int sr="arg5" val="3"/>
+						<Int sr="arg6"/>
+						<Int sr="arg7"/>
+					</TextElement>
+				</Scene>
+			</Scene>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="1"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#5F050500</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+			<ListElementItem sr="item0">
+				<label>Picture1</label>
+				<Action sr="action" ve="3">
+					<code>130</code>
+					<Str sr="arg0" ve="3">GET1</Str>
+					<Int sr="arg1" val="0"/>
+					<Int sr="arg2" val="5"/>
+					<Str sr="arg3" ve="3"/>
+					<Str sr="arg4" ve="3"/>
+					<Str sr="arg5" ve="3"/>
+				</Action>
+			</ListElementItem>
+			<ListElementItem sr="item1">
+				<label>Picture2</label>
+				<Action sr="action" ve="3">
+					<code>130</code>
+					<Str sr="arg0" ve="3">GET2</Str>
+					<Int sr="arg1" val="0"/>
+					<Int sr="arg2" val="5"/>
+					<Str sr="arg3" ve="3"/>
+					<Str sr="arg4" ve="3"/>
+					<Str sr="arg5" ve="3"/>
+				</Action>
+			</ListElementItem>
+			<ListElementItem sr="item2">
+				<label>Picture3</label>
+				<Action sr="action" ve="3">
+					<code>130</code>
+					<Str sr="arg0" ve="3">GET3</Str>
+					<Int sr="arg1" val="0"/>
+					<Int sr="arg2" val="5"/>
+					<Str sr="arg3" ve="3"/>
+					<Str sr="arg4" ve="3"/>
+					<Str sr="arg5" ve="3"/>
+				</Action>
+			</ListElementItem>
+			<ListElementItem sr="item3">
+				<label>Picture4</label>
+				<Action sr="action" ve="3">
+					<code>130</code>
+					<Str sr="arg0" ve="3">GET4</Str>
+					<Int sr="arg1" val="0"/>
+					<Int sr="arg2" val="5"/>
+					<Str sr="arg3" ve="3"/>
+					<Str sr="arg4" ve="3"/>
+					<Str sr="arg5" ve="3"/>
+				</Action>
+			</ListElementItem>
+			<ListElementItem sr="item4">
+				<label>Picture5</label>
+				<Action sr="action" ve="3">
+					<code>130</code>
+					<Str sr="arg0" ve="3">GET5</Str>
+					<Int sr="arg1" val="0"/>
+					<Int sr="arg2" val="5"/>
+					<Str sr="arg3" ve="3"/>
+					<Str sr="arg4" ve="3"/>
+					<Str sr="arg5" ve="3"/>
+				</Action>
+			</ListElementItem>
+		</ListElement>
+		<TextElement sr="elements4" ve="2">
+			<flags>4</flags>
+			<geom>292,230,200,70,354,249,144,67</geom>
+			<Str sr="arg0" ve="3">Text2</Str>
+			<Str sr="arg1" ve="3">%CLOC1</Str>
+			<Int sr="arg2" val="15"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="1"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#47333333</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="30"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements5" ve="2">
+			<flags>4</flags>
+			<geom>287,308,200,78,354,325,144,67</geom>
+			<Str sr="arg0" ve="3">Text21</Str>
+			<Str sr="arg1" ve="3">%CLOC2</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="1"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#47333333</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="30"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements6" ve="2">
+			<flags>4</flags>
+			<geom>297,556,200,67,354,435,144,67</geom>
+			<Str sr="arg0" ve="3">Text22</Str>
+			<Str sr="arg1" ve="3">%CLOC5</Str>
+			<Int sr="arg2" val="15"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="1"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#47333333</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="30"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements7" ve="2">
+			<flags>4</flags>
+			<geom>297,476,200,67,354,435,144,67</geom>
+			<Str sr="arg0" ve="3">Text23</Str>
+			<Str sr="arg1" ve="3">%CLOC4</Str>
+			<Int sr="arg2" val="15"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="1"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#47333333</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="30"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements8" ve="2">
+			<flags>4</flags>
+			<geom>297,397,200,70,354,402,144,67</geom>
+			<Str sr="arg0" ve="3">Text24</Str>
+			<Str sr="arg1" ve="3">%CLOC3</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="1"/>
+			<Int sr="arg7" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#47333333</Str>
+				<Str sr="arg3" ve="3">#77333333</Str>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="30"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ButtonElement sr="elements9">
+			<clickTask>178</clickTask>
+			<flags>4</flags>
+			<geom>0,720,496,80,0,378,496,124</geom>
+			<Str sr="arg0" ve="3">Button2</Str>
+			<Str sr="arg1" ve="3">Press for images</Str>
+			<Int sr="arg2" val="25"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Int sr="arg5" val="0"/>
+			<Img sr="arg6" ve="2"/>
+		</ButtonElement>
+	</Scene>
+	<Scene sr="sceneTHREE">
+		<backColour>-218103808</backColour>
+		<cdate>1368476383039</cdate>
+		<edate>1369239062528</edate>
+		<heightLand>540</heightLand>
+		<heightPort>903</heightPort>
+		<nme>THREE</nme>
+		<widthLand>531</widthLand>
+		<widthPort>536</widthPort>
+		<ImageElement sr="elements0">
+			<clickTask>46</clickTask>
+			<flags>4</flags>
+			<geom>0,152,536,648,0,0,530,540</geom>
+			<Str sr="arg0" ve="3">Image1</Str>
+			<Img sr="arg1" ve="2"/>
+			<Int sr="arg2" val="255"/>
+		</ImageElement>
+		<TextElement sr="elements1" ve="2">
+			<flags>4</flags>
+			<geom>125,676,264,96,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">Tap to return</Str>
+			<Int sr="arg2" val="25"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</TextElement>
+	</Scene>
+	<Scene sr="sceneTRAFFIC CAM">
+		<backColour>-16774381</backColour>
+		<cdate>1368459159047</cdate>
+		<edate>1380046542757</edate>
+		<heightLand>539</heightLand>
+		<heightPort>921</heightPort>
+		<nme>TRAFFIC CAM</nme>
+		<widthLand>960</widthLand>
+		<widthPort>539</widthPort>
+		<TextElement sr="elements0" ve="2">
+			<flags>4</flags>
+			<geom>131,310,264,250,131,289,264,250</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">Loading Pictures</Str>
+			<Int sr="arg2" val="25"/>
+			<Int sr="arg3" val="103"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</TextElement>
+		<TextElement sr="elements1" ve="2">
+			<flags>4</flags>
+			<geom>10,0,500,285,10,0,500,285</geom>
+			<Str sr="arg0" ve="3">Text2</Str>
+			<Str sr="arg1" ve="3">SOUTHAMPTON TRAFFIC CAMERAS</Str>
+			<Int sr="arg2" val="25"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFF4EC42</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</TextElement>
+		<TextElement sr="elements2" ve="2">
+			<flags>4</flags>
+			<geom>131,660,275,100,131,439,275,100</geom>
+			<Str sr="arg0" ve="3">Text3</Str>
+			<Str sr="arg1" ve="3">%SIG</Str>
+			<Int sr="arg2" val="25"/>
+			<Int sr="arg3" val="111"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</TextElement>
+	</Scene>
+	<Scene sr="sceneTWO">
+		<backColour>-368115712</backColour>
+		<cdate>1368475836115</cdate>
+		<edate>1374694680734</edate>
+		<heightLand>539</heightLand>
+		<heightPort>921</heightPort>
+		<nme>TWO</nme>
+		<widthLand>959</widthLand>
+		<widthPort>528</widthPort>
+		<ImageElement sr="elements0">
+			<clickTask>7</clickTask>
+			<flags>4</flags>
+			<geom>0,85,525,697,229,6,625,531</geom>
+			<Str sr="arg0" ve="3">Image1</Str>
+			<Img sr="arg1" ve="2"/>
+			<Int sr="arg2" val="255"/>
+		</ImageElement>
+		<TextElement sr="elements1" ve="2">
+			<flags>4</flags>
+			<geom>120,676,264,96,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">Tap to return</Str>
+			<Int sr="arg2" val="25"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</TextElement>
+	</Scene>
+	<Scene sr="sceneWhite">
+		<backColour>-1</backColour>
+		<cdate>1369463872661</cdate>
+		<edate>1379276209092</edate>
+		<heightLand>-1</heightLand>
+		<heightPort>921</heightPort>
+		<nme>White</nme>
+		<widthLand>-1</widthLand>
+		<widthPort>531</widthPort>
+	</Scene>
+	<Task sr="task100">
+		<cdate>1379956440600</cdate>
+		<edate>1379956440600</edate>
+		<id>100</id>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES22</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task101">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>101</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES8</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+	<Task sr="task102">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>102</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES9</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+	<Task sr="task103">
+		<cdate>1379956501791</cdate>
+		<edate>1379956501791</edate>
+		<id>103</id>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES23</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task104">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>104</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES11</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+	<Task sr="task105">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>105</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES12</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+	<Task sr="task106">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>106</id>
+		<pri>13</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES13</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+	<Task sr="task107">
+		<cdate>1379960856104</cdate>
+		<edate>1379960856104</edate>
+		<id>107</id>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES51</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST3</Str>
+		</Action>
+	</Task>
+	<Task sr="task108">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>108</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES25</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task109">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>109</id>
+		<pri>12</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES39</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task110">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>110</id>
+		<pri>12</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES40</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task111">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>111</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES41</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task112">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>112</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES42</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task113">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>113</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES43</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task114">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>114</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES45</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task115">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>115</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES47</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task116">
+		<cdate>1379961031312</cdate>
+		<edate>1379961031312</edate>
+		<id>116</id>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES52</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST3</Str>
+		</Action>
+	</Task>
+	<Task sr="task117">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>117</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES49</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task118">
+		<cdate>1379418170050</cdate>
+		<edate>1379418170050</edate>
+		<id>118</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+	<Task sr="task119">
+		<cdate>1379418369266</cdate>
+		<edate>1380057949544</edate>
+		<id>119</id>
+		<nme>INIT</nme>
+		<pri>10</pri>
+		<rty>1</rty>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES1</Str>
+			<Str sr="arg1" ve="3">1.Redbridge</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES2</Str>
+			<Str sr="arg1" ve="3">2.Millbrook Roundabout</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act10" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES11</Str>
+			<Str sr="arg1" ve="3">11.Bullar Road</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act11" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES12</Str>
+			<Str sr="arg1" ve="3">12.Northam Bridge</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act12" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES13</Str>
+			<Str sr="arg1" ve="3">13.Six Dials</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act13" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES21</Str>
+			<Str sr="arg1" ve="3">21.Swaythling</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act14" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES22</Str>
+			<Str sr="arg1" ve="3">22.Thomas Lewis Way</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act15" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES23</Str>
+			<Str sr="arg1" ve="3">23.Itchen Bridge</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act16" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES25</Str>
+			<Str sr="arg1" ve="3">25.West Quay</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act17" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES39</Str>
+			<Str sr="arg1" ve="3">39.Basset Avenue</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act18" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES40</Str>
+			<Str sr="arg1" ve="3">40.University Road</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act19" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES41</Str>
+			<Str sr="arg1" ve="3">41.Romsey Road</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES3</Str>
+			<Str sr="arg1" ve="3">3.Regents Park Road</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act20" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES42</Str>
+			<Str sr="arg1" ve="3">42.Wilton Road</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act21" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES43</Str>
+			<Str sr="arg1" ve="3">43.Bevois Valley Road</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act22" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES45</Str>
+			<Str sr="arg1" ve="3">45.Winchester Rd / Hill Lane</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act23" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES47</Str>
+			<Str sr="arg1" ve="3">47.Town Quay / High St</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act24" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES48</Str>
+			<Str sr="arg1" ve="3">48.Polygon</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act25" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES49</Str>
+			<Str sr="arg1" ve="3">49.Onslow Road / St Mary's</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act26" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES51</Str>
+			<Str sr="arg1" ve="3">51.Cobden Bridge</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act27" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES52</Str>
+			<Str sr="arg1" ve="3">52.Itchen Bridge</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act28" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES53</Str>
+			<Str sr="arg1" ve="3">53.West Quay</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act29" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES55</Str>
+			<Str sr="arg1" ve="3">55.Charlotte Place</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES4</Str>
+			<Str sr="arg1" ve="3">4.Mountbatten Way</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES5</Str>
+			<Str sr="arg1" ve="3">5.Charlotte Place</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES6</Str>
+			<Str sr="arg1" ve="3">6.Stag Gates</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES7</Str>
+			<Str sr="arg1" ve="3">7.Burgess Road</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act7" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES8</Str>
+			<Str sr="arg1" ve="3">8.Chilworth</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act8" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES9</Str>
+			<Str sr="arg1" ve="3">9.Bursledon Road</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act9" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DES10</Str>
+			<Str sr="arg1" ve="3">10.Bitterne Road</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task120">
+		<cdate>1379430905990</cdate>
+		<edate>1379430905990</edate>
+		<id>120</id>
+		<pri>22</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES2</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+	<Task sr="task121">
+		<cdate>1379444670987</cdate>
+		<edate>1379444670987</edate>
+		<id>121</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+			<Int sr="arg1" val="8"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task122">
+		<cdate>1379445051702</cdate>
+		<edate>1379445051702</edate>
+		<id>122</id>
+		<pri>15</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">LIST3</Str>
+			<Int sr="arg1" val="8"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task123">
+		<cdate>1379961073932</cdate>
+		<edate>1379961073932</edate>
+		<id>123</id>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES53</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST3</Str>
+		</Action>
+	</Task>
+	<Task sr="task124">
+		<cdate>1379599168363</cdate>
+		<edate>1379974321700</edate>
+		<id>124</id>
+		<nme>GET2</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="3">
+			<code>130</code>
+			<lhs>%DES1</lhs>
+			<op>10</op>
+			<rhs></rhs>
+			<Str sr="arg0" ve="3">INIT</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="10"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%result</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Add</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="10"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3">%result</Str>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>35</code>
+			<lhs>%result</lhs>
+			<op>9</op>
+			<rhs></rhs>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%cnam</Str>
+			<Str sr="arg1" ve="3">%result</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>590</code>
+			<Str sr="arg0" ve="3">%cnam</Str>
+			<Str sr="arg1" ve="3">.</Str>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CAM2</Str>
+			<Str sr="arg1" ve="3">%cnam1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act7" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CLOC2</Str>
+			<Str sr="arg1" ve="3">%cnam2</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task125">
+		<cdate>1379599168363</cdate>
+		<edate>1379974317903</edate>
+		<id>125</id>
+		<nme>GET3</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="3">
+			<code>130</code>
+			<lhs>%DES1</lhs>
+			<op>10</op>
+			<rhs></rhs>
+			<Str sr="arg0" ve="3">INIT</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="10"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%result</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Add</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="10"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3">%result</Str>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>35</code>
+			<lhs>%result</lhs>
+			<op>9</op>
+			<rhs></rhs>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%cnam</Str>
+			<Str sr="arg1" ve="3">%result</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>590</code>
+			<Str sr="arg0" ve="3">%cnam</Str>
+			<Str sr="arg1" ve="3">.</Str>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CAM3</Str>
+			<Str sr="arg1" ve="3">%cnam1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act7" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CLOC3</Str>
+			<Str sr="arg1" ve="3">%cnam2</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task126">
+		<cdate>1379599168363</cdate>
+		<edate>1379974313589</edate>
+		<id>126</id>
+		<nme>GET4</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="3">
+			<code>130</code>
+			<lhs>%DES1</lhs>
+			<op>10</op>
+			<rhs></rhs>
+			<Str sr="arg0" ve="3">INIT</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="10"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%result</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Add</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="10"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3">%result</Str>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>35</code>
+			<lhs>%result</lhs>
+			<op>9</op>
+			<rhs></rhs>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%cnam</Str>
+			<Str sr="arg1" ve="3">%result</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>590</code>
+			<Str sr="arg0" ve="3">%cnam</Str>
+			<Str sr="arg1" ve="3">.</Str>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CAM4</Str>
+			<Str sr="arg1" ve="3">%cnam1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act7" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CLOC4</Str>
+			<Str sr="arg1" ve="3">%cnam2</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task127">
+		<cdate>1379599168363</cdate>
+		<edate>1379974308358</edate>
+		<id>127</id>
+		<nme>GET5</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="3">
+			<code>130</code>
+			<lhs>%DES1</lhs>
+			<op>10</op>
+			<rhs></rhs>
+			<Str sr="arg0" ve="3">INIT</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="10"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%result</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Add</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="10"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3">%result</Str>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>35</code>
+			<lhs>%result</lhs>
+			<op>9</op>
+			<rhs></rhs>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%cnam</Str>
+			<Str sr="arg1" ve="3">%result</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>590</code>
+			<Str sr="arg0" ve="3">%cnam</Str>
+			<Str sr="arg1" ve="3">.</Str>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CAM5</Str>
+			<Str sr="arg1" ve="3">%cnam1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act7" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CLOC5</Str>
+			<Str sr="arg1" ve="3">%cnam2</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task129">
+		<cdate>1380059065421</cdate>
+		<edate>1380059065421</edate>
+		<id>129</id>
+		<pri>7</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">Info</Str>
+		</Action>
+	</Task>
+	<Task sr="task159">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>159</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES55</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST3</Str>
+		</Action>
+	</Task>
+	<Task sr="task160">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>160</id>
+		<pri>12</pri>
+		<Action sr="act0" ve="3">
+			<code>548</code>
+			<Str sr="arg0" ve="3">CAMERA</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task161">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>161</id>
+		<pri>12</pri>
+		<Action sr="act0" ve="3">
+			<code>548</code>
+			<Str sr="arg0" ve="3">CAMERA</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task162">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>162</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>548</code>
+			<Str sr="arg0" ve="3">CAMERA</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task163">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>163</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>548</code>
+			<Str sr="arg0" ve="3">CAMERA</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task164">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>164</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>548</code>
+			<Str sr="arg0" ve="3">CAMERA</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task165">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>165</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>548</code>
+			<Str sr="arg0" ve="3">CAMERA</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task166">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>166</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>548</code>
+			<Str sr="arg0" ve="3">CAMERA</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task168">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>168</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>548</code>
+			<Str sr="arg0" ve="3">CAMERA</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task169">
+		<cdate>1379445051702</cdate>
+		<edate>1379445051702</edate>
+		<id>169</id>
+		<pri>13</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">LIST3</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+			<Int sr="arg1" val="8"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task170">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>170</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES48</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task171">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>171</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>548</code>
+			<Str sr="arg0" ve="3">CAMERA</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task172">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>172</id>
+		<pri>22</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES10</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+	<Task sr="task174">
+		<cdate>1379599168363</cdate>
+		<edate>1380059208087</edate>
+		<id>174</id>
+		<nme>GET1</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="3">
+			<code>130</code>
+			<lhs>%DES1</lhs>
+			<op>10</op>
+			<rhs></rhs>
+			<Str sr="arg0" ve="3">INIT</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="10"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%result</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Add</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="10"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3">%result</Str>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>35</code>
+			<lhs>%result</lhs>
+			<op>9</op>
+			<rhs></rhs>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%cnam</Str>
+			<Str sr="arg1" ve="3">%result</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>590</code>
+			<Str sr="arg0" ve="3">%cnam</Str>
+			<Str sr="arg1" ve="3">.</Str>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CAM1</Str>
+			<Str sr="arg1" ve="3">%cnam1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act7" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CLOC1</Str>
+			<Str sr="arg1" ve="3">%cnam2</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task177">
+		<cdate>1369154427932</cdate>
+		<edate>1369154427932</edate>
+		<id>177</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">LISTC</Str>
+			<Int sr="arg1" val="8"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task178">
+		<cdate>1368914722508</cdate>
+		<edate>1368914722508</edate>
+		<id>178</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">DISPLAY</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">TRAFFIC CAM</Str>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>11391</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.devasque.rotationlocker.IS_PERSISTENT>false</com.devasque.rotationlocker.IS_PERSISTENT>
+					<com.devasque.rotationlocker.IS_PERSISTENT-type>java.lang.Boolean</com.devasque.rotationlocker.IS_PERSISTENT-type>
+					<com.devasque.rotationlocker.ROTATION_STATE>0</com.devasque.rotationlocker.ROTATION_STATE>
+					<com.devasque.rotationlocker.ROTATION_STATE-type>java.lang.Integer</com.devasque.rotationlocker.ROTATION_STATE-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Rotation state: Auto
+Background service: Disable</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.devasque.rotationlocker</Str>
+			<Str sr="arg2" ve="3">Rotation Locker</Str>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>130</code>
+			<Str sr="arg0" ve="3">HTTPPICS</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task179">
+		<cdate>1369239907958</cdate>
+		<edate>1369239907958</edate>
+		<id>179</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">Info</Str>
+			<Int sr="arg1" val="7"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task183">
+		<cdate>1379875289812</cdate>
+		<edate>1379875289812</edate>
+		<id>183</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES3</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+	<Task sr="task184">
+		<cdate>1379876716986</cdate>
+		<edate>1379876716986</edate>
+		<id>184</id>
+		<pri>22</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES4</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+	<Task sr="task185">
+		<cdate>1379880885435</cdate>
+		<edate>1379880885435</edate>
+		<id>185</id>
+		<pri>22</pri>
+		<Action sr="act0" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">Black</Str>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET1</Str>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET2</Str>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET3</Str>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET4</Str>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET5</Str>
+		</Action>
+		<Action sr="act7" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">Add</Str>
+		</Action>
+		<Action sr="act8" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">White</Str>
+		</Action>
+	</Task>
+	<Task sr="task186">
+		<cdate>1379884215360</cdate>
+		<edate>1379884215360</edate>
+		<id>186</id>
+		<Action sr="act0" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">Black</Str>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET1</Str>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET2</Str>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET3</Str>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET4</Str>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET5</Str>
+		</Action>
+		<Action sr="act7" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">Add</Str>
+		</Action>
+		<Action sr="act8" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">White</Str>
+		</Action>
+	</Task>
+	<Task sr="task187">
+		<cdate>1379884240136</cdate>
+		<edate>1379884240136</edate>
+		<id>187</id>
+		<Action sr="act0" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST3</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">Black</Str>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET1</Str>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">Add</Str>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET2</Str>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET3</Str>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET4</Str>
+		</Action>
+		<Action sr="act7" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">GET5</Str>
+		</Action>
+		<Action sr="act8" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">White</Str>
+		</Action>
+	</Task>
+	<Task sr="task44">
+		<cdate>1368962400060</cdate>
+		<edate>1368962400060</edate>
+		<id>44</id>
+		<pri>7</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">ONE</Str>
+		</Action>
+	</Task>
+	<Task sr="task46">
+		<cdate>1368979074297</cdate>
+		<edate>1368979074297</edate>
+		<id>46</id>
+		<pri>7</pri>
+		<Action sr="act0" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">THREE</Str>
+		</Action>
+	</Task>
+	<Task sr="task50">
+		<cdate>1368979093446</cdate>
+		<edate>1368979093446</edate>
+		<id>50</id>
+		<pri>7</pri>
+		<Action sr="act0" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">FOUR</Str>
+		</Action>
+	</Task>
+	<Task sr="task52">
+		<cdate>1368447204791</cdate>
+		<edate>1380145607305</edate>
+		<id>52</id>
+		<nme>HTTPPICS</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="3">
+			<code>11391</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.devasque.rotationlocker.IS_PERSISTENT>false</com.devasque.rotationlocker.IS_PERSISTENT>
+					<com.devasque.rotationlocker.IS_PERSISTENT-type>java.lang.Boolean</com.devasque.rotationlocker.IS_PERSISTENT-type>
+					<com.devasque.rotationlocker.ROTATION_STATE>0</com.devasque.rotationlocker.ROTATION_STATE>
+					<com.devasque.rotationlocker.ROTATION_STATE-type>java.lang.Integer</com.devasque.rotationlocker.ROTATION_STATE-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Rotation state: Auto
+Background service: Disable</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.devasque.rotationlocker</Str>
+			<Str sr="arg2" ve="3">Rotation Locker</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">White</Str>
+		</Action>
+		<Action sr="act10" ve="3">
+			<code>118</code>
+			<Str sr="arg0" ve="3">www.hants.gov.uk/cctv/southampton</Str>
+			<Str sr="arg1" ve="3">WCAM%CAM4.jpg</Str>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="20"/>
+			<Str sr="arg5" ve="3">image/jpeg</Str>
+			<Str sr="arg6" ve="3">wcam4.jpg</Str>
+		</Action>
+		<Action sr="act11" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%SIG</Str>
+			<Str sr="arg1" ve="3">4</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act12" ve="3">
+			<code>118</code>
+			<Str sr="arg0" ve="3">www.hants.gov.uk/cctv/southampton</Str>
+			<Str sr="arg1" ve="3">WCAM%CAM5.jpg</Str>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="20"/>
+			<Str sr="arg5" ve="3">image/jpeg</Str>
+			<Str sr="arg6" ve="3">wcam5.jpg</Str>
+		</Action>
+		<Action sr="act13" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%SIG</Str>
+			<Str sr="arg1" ve="3">5</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act14" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%SDLOC1</Str>
+			<Str sr="arg1" ve="3">/sdcard/wcam1.jpg</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act15" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%SDLOC2</Str>
+			<Str sr="arg1" ve="3">/sdcard/wcam2.jpg</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act16" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%SDLOC3</Str>
+			<Str sr="arg1" ve="3">/sdcard/wcam3.jpg</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act17" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%SDLOC4</Str>
+			<Str sr="arg1" ve="3">/sdcard/wcam4.jpg</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act18" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%SDLOC5</Str>
+			<Str sr="arg1" ve="3">/sdcard/wcam5.jpg</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act19" ve="3">
+			<code>46</code>
+			<Str sr="arg0" ve="3">DISPLAY</Str>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">DISPLAY</Str>
+		</Action>
+		<Action sr="act20" ve="3">
+			<code>66</code>
+			<Str sr="arg0" ve="3">DISPLAY</Str>
+			<Str sr="arg1" ve="3">Image1</Str>
+			<Img sr="arg2" ve="2">
+				<var>%SDLOC1</var>
+			</Img>
+		</Action>
+		<Action sr="act21" ve="3">
+			<code>66</code>
+			<Str sr="arg0" ve="3">DISPLAY</Str>
+			<Str sr="arg1" ve="3">Image2</Str>
+			<Img sr="arg2" ve="2">
+				<var>%SDLOC2</var>
+			</Img>
+		</Action>
+		<Action sr="act22" ve="3">
+			<code>66</code>
+			<Str sr="arg0" ve="3">DISPLAY</Str>
+			<Str sr="arg1" ve="3">Image3</Str>
+			<Img sr="arg2" ve="2">
+				<var>%SDLOC3</var>
+			</Img>
+		</Action>
+		<Action sr="act23" ve="3">
+			<code>66</code>
+			<Str sr="arg0" ve="3">DISPLAY</Str>
+			<Str sr="arg1" ve="3">Image4</Str>
+			<Img sr="arg2" ve="2">
+				<var>%SDLOC4</var>
+			</Img>
+		</Action>
+		<Action sr="act24" ve="3">
+			<code>66</code>
+			<Str sr="arg0" ve="3">DISPLAY</Str>
+			<Str sr="arg1" ve="3">Image5</Str>
+			<Img sr="arg2" ve="2">
+				<var>%SDLOC5</var>
+			</Img>
+		</Action>
+		<Action sr="act25" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">DISPLAY</Str>
+			<Int sr="arg1" val="8"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+		<Action sr="act26" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">Black</Str>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">TRAFFIC CAM</Str>
+			<Int sr="arg1" val="6"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>118</code>
+			<Str sr="arg0" ve="3">www.hants.gov.uk/cctv/southampton</Str>
+			<Str sr="arg1" ve="3">WCAM%CAM1.jpg</Str>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="20"/>
+			<Str sr="arg5" ve="3">image/jpeg</Str>
+			<Str sr="arg6" ve="3">wcam1.jpg</Str>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%SIG</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>118</code>
+			<Str sr="arg0" ve="3">www.hants.gov.uk/cctv/southampton</Str>
+			<Str sr="arg1" ve="3">WCAM%CAM2.jpg</Str>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="20"/>
+			<Str sr="arg5" ve="3">image/jpeg</Str>
+			<Str sr="arg6" ve="3">wcam2.jpg</Str>
+		</Action>
+		<Action sr="act7" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%SIG</Str>
+			<Str sr="arg1" ve="3">2</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act8" ve="3">
+			<code>118</code>
+			<Str sr="arg0" ve="3">www.hants.gov.uk/cctv/southampton</Str>
+			<Str sr="arg1" ve="3">WCAM%CAM3.jpg</Str>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="20"/>
+			<Str sr="arg5" ve="3">image/jpeg</Str>
+			<Str sr="arg6" ve="3">wcam3.jpg</Str>
+		</Action>
+		<Action sr="act9" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%SIG</Str>
+			<Str sr="arg1" ve="3">3</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task62">
+		<cdate>1368979108397</cdate>
+		<edate>1368979108397</edate>
+		<id>62</id>
+		<pri>7</pri>
+		<Action sr="act0" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">FIVE</Str>
+		</Action>
+	</Task>
+	<Task sr="task63">
+		<cdate>1369069474726</cdate>
+		<edate>1369069474726</edate>
+		<id>63</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">ONE</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>46</code>
+			<Str sr="arg0" ve="3">ONE</Str>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>66</code>
+			<Str sr="arg0" ve="3">ONE</Str>
+			<Str sr="arg1" ve="3">Image1</Str>
+			<Img sr="arg2" ve="2">
+				<var>%SDLOC1</var>
+			</Img>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">ONE</Str>
+			<Int sr="arg1" val="6"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task65">
+		<cdate>1369077232028</cdate>
+		<edate>1369077232028</edate>
+		<id>65</id>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">ONE</Str>
+		</Action>
+	</Task>
+	<Task sr="task67">
+		<cdate>1369154724228</cdate>
+		<edate>1369154724228</edate>
+		<id>67</id>
+		<pri>7</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">LISTC</Str>
+		</Action>
+	</Task>
+	<Task sr="task68">
+		<cdate>1369433221347</cdate>
+		<edate>1380124446357</edate>
+		<id>68</id>
+		<nme>Setup</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">Black</Str>
+			<Int sr="arg1" val="7"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">DISPLAY</Str>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">TRAFFIC CAM</Str>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>11391</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.devasque.rotationlocker.IS_PERSISTENT>false</com.devasque.rotationlocker.IS_PERSISTENT>
+					<com.devasque.rotationlocker.IS_PERSISTENT-type>java.lang.Boolean</com.devasque.rotationlocker.IS_PERSISTENT-type>
+					<com.devasque.rotationlocker.ROTATION_STATE>2</com.devasque.rotationlocker.ROTATION_STATE>
+					<com.devasque.rotationlocker.ROTATION_STATE-type>java.lang.Integer</com.devasque.rotationlocker.ROTATION_STATE-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Rotation state: Portrait
+Background service: Disable</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.devasque.rotationlocker</Str>
+			<Str sr="arg2" ve="3">Rotation Locker</Str>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">START</Str>
+			<Int sr="arg1" val="7"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">Black</Str>
+		</Action>
+	</Task>
+	<Task sr="task7">
+		<cdate>1368979027842</cdate>
+		<edate>1368979027842</edate>
+		<id>7</id>
+		<pri>7</pri>
+		<Action sr="act0" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">TWO</Str>
+		</Action>
+	</Task>
+	<Task sr="task70">
+		<cdate>1369470928412</cdate>
+		<edate>1380057311977</edate>
+		<id>70</id>
+		<nme>Exit</nme>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">TRAFFIC CAM</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">DISPLAY</Str>
+		</Action>
+		<Action sr="act10" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">Setup</Str>
+		</Action>
+		<Action sr="act11" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">INIT</Str>
+		</Action>
+		<Action sr="act12" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">White</Str>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">START</Str>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">LIST3</Str>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">Info</Str>
+		</Action>
+		<Action sr="act7" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">LISTC</Str>
+		</Action>
+		<Action sr="act8" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">TRAFFIC</Str>
+		</Action>
+		<Action sr="act9" ve="3">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">HTTPPICS</Str>
+		</Action>
+	</Task>
+	<Task sr="task76">
+		<cdate>1369471086869</cdate>
+		<edate>1369471086869</edate>
+		<id>76</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Exit</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task87">
+		<cdate>1368458248612</cdate>
+		<edate>1368458248612</edate>
+		<id>87</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">TRAFFIC CAM</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>130</code>
+			<Str sr="arg0" ve="3">HTTPPICS</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task88">
+		<cdate>1375995997245</cdate>
+		<edate>1380059233933</edate>
+		<id>88</id>
+		<nme>Add</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="3">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">Black</Str>
+			<Int sr="arg1" val="7"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+			<Int sr="arg1" val="8"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>35</code>
+			<lhs>%IND</lhs>
+			<op>9</op>
+			<rhs></rhs>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">Black</Str>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%indx</Str>
+			<Str sr="arg1" ve="3">%IND</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>126</code>
+			<Str sr="arg0" ve="3">%indx</Str>
+			<Int sr="arg1" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task90">
+		<cdate>1368470046904</cdate>
+		<edate>1380145494884</edate>
+		<id>90</id>
+		<nme>TRAFFIC</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="3">
+			<code>47</code>
+			<label>Initialize</label>
+			<Str sr="arg0" ve="3">Black</Str>
+			<Int sr="arg1" val="7"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="1"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%COND</Str>
+			<Str sr="arg1" ve="3">%CAM1*%CAM2*%CAM3*%CAM4*%CAM5</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act10" ve="3">
+			<code>130</code>
+			<Str sr="arg0" ve="3">HTTPPICS</Str>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>37</code>
+			<lhs>%COND</lhs>
+			<op>5</op>
+			<rhs>0</rhs>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CAM1</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act4" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CAM2</Str>
+			<Str sr="arg1" ve="3">2</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CAM3</Str>
+			<Str sr="arg1" ve="3">3</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act6" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CAM4</Str>
+			<Str sr="arg1" ve="3">4</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act7" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%CAM5</Str>
+			<Str sr="arg1" ve="3">5</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act8" ve="3">
+			<code>38</code>
+		</Action>
+		<Action sr="act9" ve="3">
+			<code>130</code>
+			<Str sr="arg0" ve="3">INIT</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="6"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<cls>appinventor.ai_johnspillett7.Traffic.Screen1</cls>
+			<pkg>appinventor.ai_johnspillett7.Traffic</pkg>
+		</Img>
+	</Task>
+	<Task sr="task91">
+		<cdate>1368476316271</cdate>
+		<edate>1368476316271</edate>
+		<id>91</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">TWO</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>46</code>
+			<Str sr="arg0" ve="3">TWO</Str>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>66</code>
+			<Str sr="arg0" ve="3">TWO</Str>
+			<Str sr="arg1" ve="3">Image1</Str>
+			<Img sr="arg2" ve="2">
+				<var>%SDLOC2</var>
+			</Img>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">TWO</Str>
+			<Int sr="arg1" val="6"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task92">
+		<cdate>1368476526792</cdate>
+		<edate>1368476526792</edate>
+		<id>92</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">FIVE</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>46</code>
+			<Str sr="arg0" ve="3">FIVE</Str>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>66</code>
+			<Str sr="arg0" ve="3">FIVE</Str>
+			<Str sr="arg1" ve="3">Image1</Str>
+			<Img sr="arg2" ve="2">
+				<var>%SDLOC5</var>
+			</Img>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">FIVE</Str>
+			<Int sr="arg1" val="6"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task93">
+		<cdate>1368476865642</cdate>
+		<edate>1368476865642</edate>
+		<id>93</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">THREE</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>46</code>
+			<Str sr="arg0" ve="3">THREE</Str>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>66</code>
+			<Str sr="arg0" ve="3">THREE</Str>
+			<Str sr="arg1" ve="3">Image1</Str>
+			<Img sr="arg2" ve="2">
+				<var>%SDLOC3</var>
+			</Img>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">THREE</Str>
+			<Int sr="arg1" val="6"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task94">
+		<cdate>1368482859121</cdate>
+		<edate>1368482859121</edate>
+		<id>94</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="3">
+			<code>49</code>
+			<Str sr="arg0" ve="3">FOUR</Str>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>46</code>
+			<Str sr="arg0" ve="3">FOUR</Str>
+		</Action>
+		<Action sr="act2" ve="3">
+			<code>66</code>
+			<Str sr="arg0" ve="3">FOUR</Str>
+			<Str sr="arg1" ve="3">Image1</Str>
+			<Img sr="arg2" ve="2">
+				<var>%SDLOC4</var>
+			</Img>
+		</Action>
+		<Action sr="act3" ve="3">
+			<code>47</code>
+			<Str sr="arg0" ve="3">FOUR</Str>
+			<Int sr="arg1" val="6"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="1"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task95">
+		<cdate>1368808555659</cdate>
+		<edate>1368952723434</edate>
+		<id>95</id>
+		<pri>6</pri>
+		<Action sr="act0" ve="3">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Setup</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task96">
+		<cdate>1379956343610</cdate>
+		<edate>1379956343610</edate>
+		<id>96</id>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES21</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST2</Str>
+		</Action>
+	</Task>
+	<Task sr="task97">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>97</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES5</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+	<Task sr="task98">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>98</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES6</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+	<Task sr="task99">
+		<cdate>1379348668746</cdate>
+		<edate>1379348668746</edate>
+		<id>99</id>
+		<pri>11</pri>
+		<Action sr="act0" ve="3">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%IND</Str>
+			<Str sr="arg1" ve="3">%DES7</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="3">
+			<code>48</code>
+			<Str sr="arg0" ve="3">LIST1</Str>
+		</Action>
+	</Task>
+</TaskerData>
