@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="172" rtRtpiFeedName="" rtdd="172"> <!-- @11 @16 -->
+
+		<time>4:06 PM</time>
+
+
+		<bus>
+			<id>1094</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>172</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>172</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>41.80253982543945</lat>
+			<lon>-87.58412170410156</lon>
+			<pid>14110</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1702</run>
+			<fs>60th/University</fs>
+			<op>37262</op>
+			<dip>96</dip>
+			<bid>1241</bid>				
+			<wid1>01</wid1>
+			<wid2>702</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1109</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>172</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>172</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.78632736206055</lat>
+			<lon>-87.59141540527344</lon>
+			<pid>14103</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1701</run>
+			<fs>Hyde Park/East End</fs>
+			<op>24223</op>
+			<dip>1885</dip>
+			<bid>1239</bid>				
+			<wid1>01</wid1>
+			<wid2>701</wid2>            	
+		</bus>
+
+
+
+	</buses>

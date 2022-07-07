@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>South Plainfield, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-plainfield/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.41469574,40.58388519,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cape May, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cape-may/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.92623901,38.96920776,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Manahawkin, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/manahawkin/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.26039124,39.70501709,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Irvington, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/irvington/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.23126984,40.72610092,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hillside, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hillside/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.22806549,40.69681168,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Summit, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/summit/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.36415863,40.71493912,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Palmyra, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/palmyra/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.02568817,40.00365448,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clark, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clark/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.31057739,40.62025452,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Morristown, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/morristown/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.48728943,40.79523468,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beach Haven, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beach-haven/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.18903351,39.63634872,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lodi, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lodi/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.08382416,40.87636185,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clifton, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clifton/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.14245605,40.87887573,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ridgefield Park, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ridgefield-park/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.02296448,40.85621643,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belleville, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belleville/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.16311646,40.79457855,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newark, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newark/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.17440033,40.73080063,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Lee, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-lee/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.97445679,40.85031128,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seaside Heights, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seaside-heights/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.07647705,39.94664001,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Absecon, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/absecon/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.50310516,39.46236801,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bayonne, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bayonne/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.11917114,40.66639709,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ridgewood, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ridgewood/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.11313629,40.98202133,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Barrington, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/barrington/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.05635834,39.86506271,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Egg Harbor Township, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/egg-harbor-township/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.58889008,39.41361237,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Township of Washington, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/township-of-washington/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.01889038,41.0027771,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Boonton, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/boonton/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.41403198,40.91152954,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hightstown, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hightstown/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.5249939,40.26688385,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Toms River, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/toms-river/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.1565094,39.9770813,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lincoln Park, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lincoln-park/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.29951477,40.92076874,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Brunswick, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-brunswick/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.48228455,40.45376587,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Adelphia, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/adelphia/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.25666809,40.21805573,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marlton, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marlton/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.90673828,39.88451767,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carlstadt, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carlstadt/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.09249878,40.8402977,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newton, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newton/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.78018951,41.05827332,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairfield, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairfield/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.29602814,40.88217926,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Metuchen, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/metuchen/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.35172272,40.5449295,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glen Ridge, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glen-ridge/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.20547485,40.80401611,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pennsauken, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pennsauken/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.06344604,39.96274185,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Montville, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/montville/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.36456299,40.90491486,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bloomfield, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bloomfield/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.18907166,40.80345535,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wharton, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wharton/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.58634186,40.91388321,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lincroft, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lincroft/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.12046814,40.33689117,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Millburn, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/millburn/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.3014679,40.72279739,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hackensack, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hackensack/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.0503006,40.88819122,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kearny, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kearny/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.14710999,40.76465988,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carteret, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carteret/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.23134613,40.58227921,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elizabeth, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elizabeth/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.20433807,40.67169189,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hamburg, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hamburg/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.58737946,41.14671326,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Highlands, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/highlands/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.99091339,40.40237808,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Paramus, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/paramus/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.06723785,40.94768143,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wayne, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wayne/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.24656677,40.94711304,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Merchantville, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/merchantville/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.04820251,39.951931,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Roseland, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/roseland/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.3046875,40.8203392,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Runnemede, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/runnemede/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.07422638,39.85082626,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Berlin, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/berlin/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.93080902,39.77883911,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rahway, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rahway/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.28188324,40.60866928,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Berkeley Heights, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/berkeley-heights/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.43460083,40.67522049,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jersey City, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jersey-city/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.06970215,40.76542282,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ocean Grove, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ocean-grove/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.00930786,40.21160507,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Annandale, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/annandale/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.88551331,40.62873077,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Asbury Park, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/asbury-park/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.02948761,40.23557281,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Keasbey, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/keasbey/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.30211639,40.51917267,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brick, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brick/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.12686157,40.04081726,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Totowa, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/totowa/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.21028137,40.90499878,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pluckemin, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pluckemin/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.63944244,40.6455574,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Paterson, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/paterson/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.16714478,40.91427231,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Parsippany, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/parsippany/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.41165924,40.86210632,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Leonia, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/leonia/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.98786926,40.8629303,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bellmawr, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bellmawr/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.09436798,39.86887741,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rochelle Park, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rochelle-park/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.09129333,40.9049263,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Freehold, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/freehold/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.27682495,40.24577713,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Orange, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-orange/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.25676727,40.78592682,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Somers Point, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/somers-point/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.60079956,39.32230759,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kingston, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kingston/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.61607361,40.38046646,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Franklin Park, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/franklin-park/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.53691101,40.44209671,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rutherford, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rutherford/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.11214447,40.82924652,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Perth Amboy, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/perth-amboy/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.27542877,40.51755142,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Rutherford, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-rutherford/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.10407257,40.83852768,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cliffwood, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cliffwood/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.23575592,40.43527985,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Orange, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-orange/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.20772552,40.76961517,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elmwood Park, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elmwood-park/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.12089539,40.90689468,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Weehawken, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/weehawken/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.02083588,40.76944351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Teterboro, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/teterboro/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.05420685,40.86175156,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Union, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/union/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.26765442,40.6951828,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Union City, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/union-city/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.03055573,40.76815414,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Linden, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/linden/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.25556946,40.63536453,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Englewood, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/englewood/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.97718048,40.89425278,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Palisades Park, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/palisades-park/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.99543762,40.84623718,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Malaga, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/malaga/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.05815125,39.57549667,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Avenel, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/avenel/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.27851868,40.58256912,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Howell, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/howell/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.21368408,40.14809418,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ridgefield, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ridgefield/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.00153351,40.83256912,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Atlantic City, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/atlantic-city/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.43172455,39.3664093,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Haddon Heights, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/haddon-heights/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.06639099,39.87883377,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Maple Shade, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/maple-shade/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.99464417,39.95108414,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edison, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edison/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.39728546,40.5170784,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Colonia, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/colonia/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.3163681,40.59374237,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sayreville, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sayreville/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.36138916,40.45916748,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Margate City, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/margate-city/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.50904083,39.32862091,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Woodbridge, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/woodbridge/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.28453827,40.55597305,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ocean City, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ocean-city/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.58751678,39.2708931,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Asbury, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/asbury/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.01584625,40.65017319,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Little Ferry, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/little-ferry/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.04050446,40.84931946,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Millville, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/millville/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.02931213,39.36731339,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hoboken, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hoboken/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.0328598,40.74449921,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lawnside, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lawnside/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.03167725,39.86759949,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Raritan, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/raritan/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.63768768,40.5710907,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Secaucus, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/secaucus/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.06341553,40.79101181,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Brunswick, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-brunswick/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.44819641,40.48907471,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gloucester City, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gloucester-city/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.11695862,39.89110565,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cherry Hill, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cherry-hill/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.01753998,39.93080902,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Trenton, NJ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/trenton/new-jersey/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.74378967,40.21733475,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Chapman, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chapman/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.01696014,38.97222519,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hoisington, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hoisington/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.79103851,38.52924728,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edgerton, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edgerton/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.00937653,38.78108215,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tonganoxie, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tonganoxie/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.10505676,39.10261536,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grainfield, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grainfield/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.46804047,39.1030159,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Goessel, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/goessel/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.33628082,38.23426056,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hutchinson, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hutchinson/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.93105316,38.05499649,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bonner Springs, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bonner-springs/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.88610077,39.06845474,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Garden City, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/garden-city/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.86209106,37.97692871,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greensburg, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greensburg/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.30105591,37.60836792,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Halstead, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/halstead/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.51179504,38.00638962,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Delphos, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/delphos/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.77169037,39.27312088,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Williamsburg, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/williamsburg/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.42261505,38.49016571,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bucklin, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bucklin/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.63254547,37.5529747,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kanorado, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kanorado/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.00148773,39.34375381,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Manhattan, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/manhattan/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.58577728,39.1937561,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Riley, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-riley/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.78733826,39.06194687,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mullinville, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mullinville/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.46388245,37.5716095,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Salina, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/salina/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.60878754,38.82380295,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Abilene, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/abilene/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.20632172,38.93714523,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eudora, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eudora/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.10220337,38.93304443,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wichita, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wichita/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.34149933,37.68980026,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cassoday, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cassoday/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.67456818,38.02980042,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mc Farland, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mc-farland/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.28888702,39.01666641,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Anthony, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/anthony/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.02849579,37.15120697,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>El Dorado, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/el-dorado/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.85429382,37.82264709,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pratt, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pratt/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.73002625,37.65021896,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wakeeney, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wakeeney/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.88182068,39.01141357,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Solomon, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/solomon/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.35180664,38.9193573,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Everest, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/everest/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.4138031,39.68797302,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ogden, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ogden/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.70007324,39.11922073,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shawnee, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shawnee/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.70830536,39.01980209,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Admire, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/admire/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.10165405,38.63929749,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Redfield, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/redfield/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.82898712,37.85604477,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lebo, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lebo/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.82217407,38.41608429,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mount Hope, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mount-hope/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.65909576,37.86841202,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Healy, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/healy/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.61594391,38.56635666,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grinnell, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grinnell/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.66204834,39.0851059,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Overland Park, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/overland-park/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.67476654,38.99248886,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ness City, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ness-city/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.90286255,38.43875504,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eureka, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eureka/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.29587555,37.82646942,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wilson, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wilson/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.44321442,38.81337357,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holcomb, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holcomb/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.98932648,37.99310684,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Emporia, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/emporia/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.18714142,38.41840363,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elkhart, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elkhart/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.90124512,37.01544952,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beverly, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beverly/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.98178864,38.98441696,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Russell, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/russell/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.85945129,38.88056183,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Derby, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/derby/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.25489044,37.5529747,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Meade, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/meade/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.33638,37.28213882,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Prairie Village, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/prairie-village/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.6315155,38.99681091,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Liberal, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/liberal/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.92857361,37.04378891,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lenexa, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lenexa/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.73994446,38.96302795,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ingalls, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ingall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.51425171,37.82933807,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ellis, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ellis/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.52851105,38.9471283,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lawrence, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lawrence/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.24179077,38.96440125,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newton, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newton/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.34346008,38.04506683,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mcpherson, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mcpherson/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.65499115,38.37373352,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edwardsville, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edwardsville/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.82550049,39.05870056,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wellsville, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wellsville/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.09157562,38.71367645,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gardner, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gardner/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.9156723,38.80754089,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Linwood, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/linwood/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.99138641,39.02062607,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Junction City, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/junction-city/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.83955383,39.02991486,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blue Rapids, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blue-rapids/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.63594818,39.67497253,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hays, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hays/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.32013702,38.87804413,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wellington, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wellington/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.39097595,37.27782822,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rose Hill, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rose-hill/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.11734772,37.57836914,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mayetta, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mayetta/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.69275665,39.3489151,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Olathe, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/olathe/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.81780243,38.88219833,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mc Donald, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mc-donald/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.3227005,39.79230499,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Severy, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/severy/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.22977448,37.64984894,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Topeka, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/topeka/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.67227173,39.05450058,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oakley, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oakley/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.85804749,39.11210251,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairview, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairview/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.71101379,39.84450531,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chanute, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chanute/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.45696259,37.67492676,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kingman, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kingman/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.10929871,37.63624573,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glade, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glade/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.29962921,39.67037201,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Basehor, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/basehor/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.95703125,39.12813568,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ransom, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ransom/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.926651,38.6400032,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ottawa, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ottawa/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.27452087,38.61424637,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Great Bend, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/great-bend/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.78310394,38.37093735,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Walker, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/walker/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.07555389,38.86722183,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Neosho Rapids, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/neosho-rapids/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.01682281,38.39476013,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Leawood, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/leawood/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.61964417,38.96056747,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Peabody, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/peabody/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.11838531,38.1737442,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Welda, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/welda/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.30960846,38.16861343,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Goodland, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/goodland/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.71639252,39.34909821,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Victoria, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/victoria/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.13905334,38.8589325,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belleville, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belleville/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.62901306,39.82405472,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jennings, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jennings/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.28343964,39.67624283,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Colby, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/colby/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.04416656,39.38303757,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Garnett, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/garnett/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.2593689,38.28590775,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Coolidge, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/coolidge/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.0083313,38.04166794,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Plains, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/plains/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.57317352,37.27010727,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edson, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edson/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.52099609,39.35787201,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Matfield Green, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/matfield-green/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.55410767,38.14476776,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Galva, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/galva/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.53591919,38.38237762,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chetopa, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chetopa/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.07957458,37.04181671,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kansas City, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kansas-city/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.62713623,39.1157341,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Andover, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/andover/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.11790466,37.6985321,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lebanon, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lebanon/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.55815125,39.81283951,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stockton, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stockton/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.28710938,39.43761063,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ford, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ford/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.76422119,37.63231277,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pittsburg, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pittsburg/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.70224762,37.4131546,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dodge City, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dodge-city/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.02407074,37.75688171,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Leavenworth, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-leavenworth/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.92654419,39.34850693,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Potwin, KS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/potwin/kansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.00061035,37.97187042,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="84" rtRtpiFeedName="" rtdd="84"> <!-- @11 @16 -->
+
+		<time>4:16 PM</time>
+
+
+		<bus>
+			<id>1042</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>84</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>84</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.99616622924805</lat>
+			<lon>-87.76457214355469</lon>
+			<pid>1681</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F951</run>
+			<fs>Bryn Mawr Red Line</fs>
+			<op>N/A</op>
+			<dip>0</dip>
+			<bid>3191</bid>				
+			<wid1>0F</wid1>
+			<wid2>951</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1015</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>84</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>84</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.98370361328125</lat>
+			<lon>-87.65847778320312</lon>
+			<pid>1682</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F947</run>
+			<fs>Caldwell/Central</fs>
+			<op>57717</op>
+			<dip>109</dip>
+			<bid>3182</bid>				
+			<wid1>0F</wid1>
+			<wid2>947</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>6843</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>84</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>84</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.99039088815883</lat>
+			<lon>-87.70498358685037</lon>
+			<pid>1681</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F505</run>
+			<fs>Bryn Mawr Red Line</fs>
+			<op>N/A</op>
+			<dip>16920</dip>
+			<bid>2975</bid>				
+			<wid1>0F</wid1>
+			<wid2>505</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8284</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>84</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>84</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.9903564453125</lat>
+			<lon>-87.71863555908203</lon>
+			<pid>1682</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F949</run>
+			<fs>Caldwell/Central</fs>
+			<op>61445</op>
+			<dip>17597</dip>
+			<bid>3169</bid>				
+			<wid1>0F</wid1>
+			<wid2>949</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1040</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>84</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>84</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>ESE</dn> 
+			<lat>41.99008681926321</lat>
+			<lon>-87.67086970552485</lon>
+			<pid>1681</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F950</run>
+			<fs>Bryn Mawr Red Line</fs>
+			<op>44401</op>
+			<dip>26341</dip>
+			<bid>3174</bid>				
+			<wid1>0F</wid1>
+			<wid2>950</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1392</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>84</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>84</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.996115</lat>
+			<lon>-87.76468833333334</lon>
+			<pid>1682</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F944</run>
+			<fs>Caldwell/Central</fs>
+			<op>57709</op>
+			<dip>30756</dip>
+			<bid>2970</bid>				
+			<wid1>0F</wid1>
+			<wid2>944</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8257</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>84</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>84</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>ESE</dn> 
+			<lat>41.983761666666666</lat>
+			<lon>-87.65387166666666</lon>
+			<pid>1681</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F948</run>
+			<fs>Bryn Mawr Red Line</fs>
+			<op>40810</op>
+			<dip>31995</dip>
+			<bid>3183</bid>				
+			<wid1>0F</wid1>
+			<wid2>948</wid2>            	
+		</bus>
+
+
+
+	</buses>

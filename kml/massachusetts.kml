@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Plymouth, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/plymouth/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.64200592,41.91040421,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Haverhill, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/haverhill/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.07205963,42.78560638,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edgartown, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edgartown/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.53388977,41.38885498,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nantucket, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nantucket/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.09321594,41.2725296,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Swampscott, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/swampscott/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.90977478,42.47460938,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Charlton, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/charlton/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.96638489,42.13790131,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Braintree, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/braintree/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.99630737,42.20928574,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westfield, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westfield/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.75431824,42.12948227,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milton, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milton/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.07704926,42.25366211,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cambridge, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cambridge/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.12561035,42.37704468,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bolton, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bolton/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.60758972,42.43652344,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Williamsburg, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/williamsburg/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.77799225,42.40852356,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chelsea, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chelsea/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.03252411,42.39625168,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Reading, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/reading/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.10902405,42.52798462,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Warren, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/warren/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.19166565,42.21250153,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Provincetown, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/provincetown/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.18650055,42.0533638,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Whately, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/whately/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.63527679,42.43972015,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marlborough, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marlborough/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.54335785,42.3508606,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wellesley, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wellesley/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.3015976,42.29859924,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Longmeadow, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/longmeadow/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.56759644,42.05065918,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bellingham, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bellingham/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.47682953,42.07457352,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Springfield, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/springfield/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.59734344,42.1062851,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Raynham, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/raynham/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.04685974,41.9323616,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Weston, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/weston/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.30361176,42.3666687,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gloucester, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gloucester/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.67214966,42.62083435,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Northampton, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/northampton/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.65424347,42.32466125,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Amherst, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/amherst/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.51564789,42.37701797,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fitchburg, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fitchburg/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.8031311,42.57956314,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mansfield, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mansfield/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.21777344,42.02123642,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Deerfield, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/deerfield/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.60723114,42.54063416,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Franklin, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/franklin/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.40578461,42.09347153,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Berlin, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/berlin/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.63563538,42.38443756,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Millbury, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/millbury/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.76443481,42.19677734,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Randolph, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/randolph/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.0513916,42.1735878,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Methuen, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/methuen/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.18103027,42.72801971,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Falmouth, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/falmouth/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.62166595,41.56475449,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lowell, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lowell/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.3050766,42.65603638,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marshfield, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marshfield/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.6993103,42.10617828,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nahant, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nahant/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.927742,42.42609787,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stow, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stow/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.51502228,42.43078613,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Burlington, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/burlington/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.20043945,42.50894165,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Watertown, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/watertown/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.15399933,42.37329865,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Boxborough, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/boxborough/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.51822662,42.48687744,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chicopee, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chicopee/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.60796356,42.16204453,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ludlow, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ludlow/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.4710083,42.17282486,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Needham, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/needham/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.23500061,42.27780151,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bernardston, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bernardston/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.56343842,42.68378448,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lexington, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lexington/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.21929932,42.4557991,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Barnstable, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/barnstable/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.30006409,41.69828796,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harwich, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harwich/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.05792999,41.70082092,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Salisbury, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/salisbury/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.85882568,42.85067749,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Stockbridge, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-stockbridge/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.38250732,42.33475113,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hatfield, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hatfield/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.61673737,42.38439178,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Framingham, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/framingham/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.4254837,42.30066681,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dedham, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dedham/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.16374207,42.24368668,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lee, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lee/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.23169708,42.29899216,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Quincy, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/quincy/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.99781799,42.24913406,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Orleans, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/orleans/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.98220062,41.77915955,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sturbridge, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sturbridge/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.08423615,42.11261749,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tewksbury, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tewksbury/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.22322083,42.60282898,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Canton, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/canton/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.13553619,42.16445541,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hopkinton, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hopkinton/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.53017426,42.21904755,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carver, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carver/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.7677536,41.8882637,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Bedford, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-bedford/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.93720245,41.63475037,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holyoke, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holyoke/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.62619019,42.20200729,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beverly, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beverly/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.87593842,42.56082535,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westford, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westford/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.43814087,42.58995819,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greenfield, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greenfield/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.60184479,42.60122299,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Boston, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/boston/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.06843567,42.35760117,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brewster, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brewster/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.06987,41.74917984,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Medfield, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/medfield/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.30480957,42.18452454,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Littleton, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/littleton/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.48766327,42.54013062,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Andover, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/andover/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.15647888,42.64955902,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Easthampton, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/easthampton/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.67992401,42.26432037,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Somerville, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/somerville/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.10281372,42.38294601,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blandford, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blandford/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.93611145,42.18294907,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milford, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milford/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.52740479,42.15114212,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Palmer, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/palmer/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.32878876,42.17623138,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Charlestown, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/charlestown/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.06271362,42.37781525,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Granby, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/granby/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.52000427,42.25570297,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chatham, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chatham/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.98075867,41.68763351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Natick, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/natick/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.35740662,42.28747559,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ipswich, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ipswich/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.84934998,42.68087769,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chelmsford, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chelmsford/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.35752106,42.59355927,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Revere, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/revere/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.0051651,42.41376877,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chilmark, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chilmark/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.7416153,41.35752487,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Savoy, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/savoy/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.02327728,42.57696533,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Danvers, MA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/danvers/massachusetts/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.94245911,42.56940079,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

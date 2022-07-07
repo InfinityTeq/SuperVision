@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Wamsutter, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wamsutter/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.15167236,41.65827942,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hiland, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hiland/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.38722229,42.83750153,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rawlins, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rawlins/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-107.23488617,41.79513168,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Albin, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/albin/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.15054321,41.43423843,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thayne, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thayne/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.01135254,42.93302536,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sundance, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sundance/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.38369751,44.40575409,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kirby, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kirby/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.18083191,43.80444336,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Manderson, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/manderson/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-107.95342255,44.31193161,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pine Bluffs, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pine-bluffs/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.06658936,41.17879868,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jeffrey City, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jeffrey-city/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-107.87242126,42.54019928,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cheyenne, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cheyenne/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.79623413,41.14371872,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dubois, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dubois/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.64917755,43.5451355,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rock River, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rock-river/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.97463226,41.74607468,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Buffalo, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/buffalo/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.70726013,44.34846878,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Emblem, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/emblem/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.39111328,44.50583267,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lander, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lander/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.73828888,42.85967636,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Four Corners, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/four-corners/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.12289429,44.10074615,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Frannie, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/frannie/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.6202774,44.96972275,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lovell, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lovell/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.41410828,44.83363724,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Green River, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/green-river/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.47144318,41.51958847,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lusk, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lusk/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.46507263,42.76595306,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Medicine Bow, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/medicine-bow/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.20122528,41.90300369,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shoshoni, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shoshoni/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.10066986,43.24570847,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Natrona, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/natrona/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.80860901,43.02972031,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greybull, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greybull/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.07950592,44.49188232,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sheridan, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sheridan/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.96479797,44.7848587,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Stephens, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-stephens/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.41583252,42.98389053,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glenrock, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glenrock/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.85791016,42.86749649,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Centennial, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/centennial/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.99450684,41.33914948,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tie Siding, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tie-siding/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.4462204,41.05278397,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kemmerer, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kemmerer/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.5283432,41.78866196,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Burns, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/burns/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.31552124,41.20029831,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Point of Rocks, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/point-of-rocks/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.78500366,41.68027878,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beulah, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beulah/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.15309143,44.57357407,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dayton, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dayton/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-107.30260468,44.87795639,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Opal, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/opal/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.32527924,41.76916885,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Van Tassell, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/van-tassell/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.31507111,42.83000565,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Farson, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/farson/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.43638611,42.05083466,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rock Springs, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rock-springs/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.23004913,41.60595703,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Granite Canon, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/granite-canon/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.2491684,41.00527954,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Laramie, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/laramie/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.58114624,41.31290817,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Douglas, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/douglas/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.38548279,42.76255798,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thermopolis, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thermopolis/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.23130035,43.66215134,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jackson, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jackson/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.7662735,43.46073532,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Smoot, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/smoot/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.92234802,42.61923981,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Powell, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/powell/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.77732086,44.75607681,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gillette, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gillette/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.49744415,44.28200912,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hanna, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hanna/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.52828217,41.8726387,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kinnear, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kinnear/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.61542511,43.13177872,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Meeteetse, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/meeteetse/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.95004272,44.19620132,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Worland, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/worland/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-107.95626068,44.01379776,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mountain View, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mountain-view/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.33916473,41.26889038,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sinclair, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sinclair/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-107.10908508,41.77973938,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Afton, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/afton/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.94197845,42.71282959,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chugwater, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chugwater/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.81791687,41.74866867,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Walcott, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/walcott/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.84444427,41.76111221,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Midwest, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/midwest/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.26681519,43.41082764,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alpine, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alpine/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.03388977,43.17527771,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Devils Tower, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/devils-tower/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.79364014,44.61706543,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Evanston, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/evanston/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.9630661,41.26094818,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ranchester, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ranchester/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-107.15983582,44.90478897,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Little America, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/little-america/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.85832977,41.54360962,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Big Horn, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/big-horn/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.9916687,44.68333435,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pinedale, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pinedale/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.85608673,42.85433197,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Crowheart, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/crowheart/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.2960434,43.37157059,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Casper, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/casper/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.3165741,42.84576416,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elk Mountain, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elk-mountain/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.41278076,41.6875,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Moose, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/moose/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.85749054,43.77120209,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Moran, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/moran/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.32942963,43.88163376,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Story, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/story/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-107.04923248,44.6071701,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wilson, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wilson/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.87419891,43.4992218,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cody, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cody/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.0756073,44.52313614,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bondurant, WY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bondurant/wyoming/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.335289,43.22379684,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

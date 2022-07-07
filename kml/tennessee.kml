@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Nashville, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nashville/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.77844238,36.16702652,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kingston Springs, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kingston-springs/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.11564636,36.09532547,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Knoxville, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/knoxville/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.91889954,35.96089935,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Crossville, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/crossville/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.01717377,35.94404221,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Savannah, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/savannah/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-88.20053864,35.20227051,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Memphis, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/memphis/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-89.93430328,35.03369904,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spring Hill, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spring-hill/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.90480804,35.71729279,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cookeville, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cookeville/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.49530792,36.17425919,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gatlinburg, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gatlinburg/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.48740387,35.7289772,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Franklin, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/franklin/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.87882996,35.93278122,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Johnson City, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/johnson-city/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.34077454,36.33387375,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oak Ridge, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oak-ridge/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.26229858,36.01588058,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pigeon Forge, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pigeon-forge/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.56381989,35.79222107,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mitchellville, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mitchellville/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.54083252,36.63194275,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Copperhill, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/copperhill/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.38396454,35.02498627,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greeneville, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greeneville/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.83313751,36.16080856,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kingsport, TN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kingsport/tennessee/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.55403137,36.55276489,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

@@ -1,0 +1,2852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Hamel, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hamel/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.57595825,45.07995224,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rochester, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rochester/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.48961639,44.04957199,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Owatonna, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/owatonna/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.2191391,44.08047867,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Minnetonka, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/minnetonka/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.48500061,44.91380692,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lancaster, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lancaster/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.81372833,48.88196945,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hinckley, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hinckley/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.89933014,46.01887512,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Vincent, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-vincent/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.17030334,48.94582367,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ellendale, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ellendale/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.31948853,43.88259125,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Louis Park, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-louis-park/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.37099457,44.9023056,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lastrup, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lastrup/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.06305695,46.03944397,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Excelsior, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/excelsior/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.57913208,44.90070343,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Madelia, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/madelia/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.41099548,44.04994965,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Baxter, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/baxter/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.28639221,46.3433342,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winthrop, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winthrop/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.36985016,44.54356766,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tenstrike, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tenstrike/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.68243408,47.66114426,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Prior Lake, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/prior-lake/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.41005707,44.71069336,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Forest Lake, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/forest-lake/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.97489166,45.26849747,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Cloud, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-cloud/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.18185425,45.54097366,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Margie, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/margie/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.93972015,48.09527969,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carlton, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carlton/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.47098541,46.64839935,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Soudan, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/soudan/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.23750305,47.81583405,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Savage, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/savage/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.34344482,44.76154709,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Prague, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-prague/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.58047485,44.54023743,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stillwater, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stillwater/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.83003235,45.05000687,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glenwood, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glenwood/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.3868103,45.64291,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dexter, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dexter/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.72676086,43.71596146,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Morton, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/morton/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.02681732,44.56618881,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hastings, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hastings/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.86256409,44.71893311,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Roosevelt, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/roosevelt/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.17938995,48.81480789,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Loretto, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/loretto/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.66916656,45.10609818,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oronoco, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oronoco/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.48496246,44.14886093,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Windom, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/windom/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.1515274,43.87902069,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alexandria, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alexandria/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.38199615,45.8817482,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lakeland, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lakeland/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.77159119,44.93938446,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>International Falls, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/international-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.40608978,48.58339691,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Climax, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/climax/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.80265045,47.65301132,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Goodridge, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/goodridge/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.72834778,48.06858444,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Union, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-union/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.08328247,45.79845047,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brookston, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brookston/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.64300537,46.83842468,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Royalton, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/royalton/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.22106171,45.85892868,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Paul Park, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-paul-park/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.98732758,44.83440399,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kelliher, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kelliher/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.53816223,47.92717361,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rushmore, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rushmore/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.77672577,43.62401199,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Andover, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/andover/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.28453064,45.25067902,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clearwater, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clearwater/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.04524231,45.38769531,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dovray, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dovray/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.52708435,44.05966949,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jeffers, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jeffers/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.15466309,44.07367706,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rush City, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rush-city/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.99787903,45.68449783,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Starbuck, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/starbuck/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.54212189,45.59258652,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bird Island, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bird-island/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.87163544,44.75072861,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bethel, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bethel/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.23308563,45.39411545,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Silver Creek, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/silver-creek/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.94962311,45.32647324,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cass Lake, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cass-lake/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.6118927,47.35155106,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tintah, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tintah/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.38704681,45.99019623,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Big Falls, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/big-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.72962952,48.15602875,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dakota, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dakota/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.39404297,43.91480637,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brooks, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brooks/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.01166534,47.8129425,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Francis, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-francis/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.35983276,45.39028549,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Aldrich, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/aldrich/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.99201965,46.4025383,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Birchdale, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/birchdale/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.16764832,48.62469482,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Faribault, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/faribault/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.28179169,44.29445648,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blue Earth, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blue-earth/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.09237671,43.63942719,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Burnsville, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/burnsville/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.27749634,44.76777649,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Market, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-market/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.35333252,44.57305527,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pine Island, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pine-island/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.66134644,44.21100998,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Park, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-park/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.06704712,46.81762314,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Albertville, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/albertville/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.64689636,45.2534256,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hokah, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hokah/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.34547424,43.75085449,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Herman, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/herman/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.09918976,45.8071022,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Warroad, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/warroad/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.35384369,48.91114426,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Inver Grove Heights, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/inver-grove-heights/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.03474426,44.84196472,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rogers, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rogers/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.58144379,45.1714859,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Welch, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/welch/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.72625732,44.60300446,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waite Park, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waite-park/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.22447968,45.54972076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cook, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cook/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.72103882,47.8441925,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Afton, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/afton/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.82335663,44.86965179,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cannon Falls, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cannon-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.86399841,44.49598312,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dilworth, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dilworth/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.7022171,46.8781662,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tower, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tower/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.28778076,47.80892563,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Evansville, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/evansville/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.69506836,46.01525116,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kabetogama, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kabetogama/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.0895462,48.42183304,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rothsay, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rothsay/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.28872681,46.50941086,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eyota, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eyota/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.24406433,44.00429535,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hugo, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hugo/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.00349426,45.16279984,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Minneapolis, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/minneapolis/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.26824951,44.98347473,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rice, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rice/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.1657486,45.73638153,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stewartville, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stewartville/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.45465088,43.8673439,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eden Prairie, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eden-prairie/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.43757629,44.85742569,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Twig, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/twig/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.36444092,46.89444351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Peterson, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/peterson/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.84433746,43.77690887,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ely, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ely/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.85704041,47.90343475,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gaylord, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gaylord/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.19554138,44.54629898,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Moorhead, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/moorhead/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.75719452,46.86774826,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hopkins, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hopkins/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.46250153,44.92499924,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gatzke, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gatzke/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.79030609,48.41041565,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fisher, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fisher/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.88031006,47.83814621,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>South International Falls, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-international-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.39888763,48.58666611,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand Marais, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-marais/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.33911133,47.77576828,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cokato, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cokato/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.1910553,45.07476044,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sauk Centre, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sauk-centre/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.96816254,45.72808075,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Elmo, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-elmo/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.90564728,44.99460983,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beaver Creek, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beaver-creek/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.36977386,43.62234116,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Odessa, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/odessa/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.31015778,45.29976654,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lindstrom, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lindstrom/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.84207916,45.38726425,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belgrade, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belgrade/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.96987915,45.48652267,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Norwood Young America, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/norwood-young-america/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.93006897,44.76678467,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Two Harbors, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/two-harbors/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.6782608,47.03936386,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Laporte, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/laporte/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.77716064,47.23675156,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Bloomington, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-bloomington/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.29183197,44.81903839,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Medford, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/medford/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.24372101,44.17414856,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chanhassen, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chanhassen/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.53590393,44.86792374,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Barry, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/barry/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.56052399,45.5474472,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elk River, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elk-river/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.58139801,45.31360245,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ottertail, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ottertail/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.54357147,46.41772079,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Canby, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/canby/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.27839661,44.72018814,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lucan, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lucan/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.4119339,44.41323853,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Champlin, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/champlin/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.38192749,45.17004013,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Williams, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/williams/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.95558929,48.80221939,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Webster, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/webster/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.33441925,44.50263214,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hendrum, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hendrum/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.79875183,47.26889038,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cedar, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cedar/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.26583099,45.33649445,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Vermillion, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vermillion/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.96694183,44.67361069,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Twin Lakes, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/twin-lakes/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.38866425,43.55395126,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hendricks, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hendricks/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.40775299,44.49951553,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lengby, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lengby/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.62747192,47.53699875,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marietta, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marietta/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.40944672,44.96358109,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Askov, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/askov/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.75281525,46.19640732,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Willernie, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/willernie/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.95639038,45.0541687,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lakefield, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lakefield/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.18483734,43.65445709,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Virginia, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/virginia/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.53639221,47.5233345,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Paul, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-paul/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.08316803,44.96996307,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monticello, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monticello/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.80225372,45.29555511,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waseca, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waseca/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.51082611,44.08340073,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mayer, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mayer/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.88592529,44.90222931,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rosemount, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rosemount/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.15884399,44.72891998,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mendota, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mendota/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.16122437,44.88579559,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brook Park, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brook-park/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.9834671,45.938694,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hope, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hope/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.3458252,43.97972488,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Emily, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/emily/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.94838715,46.74779129,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Maple Plain, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/maple-plain/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.65584564,45.00773239,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chaska, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chaska/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.60831451,44.80607224,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jordan, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jordan/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.61946106,44.67132187,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jacobson, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jacobson/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.30635834,46.97718811,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kasson, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kasson/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.74642181,44.02402878,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Esko, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/esko/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.35691833,46.71255112,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Germany, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-germany/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.97013092,44.89942932,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winton, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winton/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.8013916,47.92889023,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Randolph, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/randolph/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.0196228,44.52738571,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mc Grath, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mc-grath/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.2416153,46.24411774,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Humboldt, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/humboldt/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.09305573,48.92111206,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wyoming, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wyoming/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.06856537,45.32433701,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Benton, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-benton/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.29103851,44.27820969,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Atwater, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/atwater/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.79377747,45.11164474,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shakopee, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shakopee/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.51974487,44.77930069,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brainerd, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brainerd/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.20187378,46.3572197,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Delano, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/delano/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.80164337,45.03422165,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Duluth, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/duluth/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.84673309,47.09443283,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Walker, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/walker/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.58467865,47.08774948,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mankato, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mankato/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.99604034,44.15380859,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Avon, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/avon/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.43602753,45.61216736,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Farmington, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/farmington/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.15389252,44.66279984,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clara City, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clara-city/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.34989929,44.96391296,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Anoka, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/anoka/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.40782166,45.23853683,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dayton, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dayton/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.46679688,45.19816589,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chisago City, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chisago-city/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.89213562,45.36114502,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>South Saint Paul, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-saint-paul/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.04601288,44.88812637,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Big Lake, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/big-lake/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.73991394,45.35064697,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Squaw Lake, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/squaw-lake/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.14749908,47.6361618,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milaca, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milaca/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.64526367,45.77947998,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand Portage, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-portage/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-89.69886017,47.95906448,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Osage, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/osage/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.2352829,46.93289566,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Effie, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/effie/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.57990265,47.84718704,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blackduck, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blackduck/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.49607086,47.73813629,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Zumbrota, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/zumbrota/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.67185974,44.30318069,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Peter, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-peter/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.98106384,44.3351059,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Buffalo, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/buffalo/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.86347961,45.18136978,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lester Prairie, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lester-prairie/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.05509186,44.87389755,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Michael, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-michael/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.65925598,45.20640945,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hampton, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hampton/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.94667053,44.60284805,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Madison Lake, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/madison-lake/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.82889557,44.2220726,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dennison, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dennison/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.97477722,44.42388535,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beltrami, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beltrami/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.4548645,47.57211685,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bayport, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bayport/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.78437805,45.02140427,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hibbing, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hibbing/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.93558502,47.41559982,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Taunton, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/taunton/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.05259705,44.59507751,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nevis, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nevis/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.8460083,46.9318924,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wadena, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wadena/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.12828064,46.4401207,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Circle Pines, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/circle-pines/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.14398193,45.15283966,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Canton, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/canton/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.91295624,43.56668854,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Norcross, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/norcross/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.13417053,45.88583755,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clear Lake, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clear-lake/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.96839142,45.47947693,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thief River Falls, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thief-river-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.16702271,48.11038971,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Frazee, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/frazee/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.52115631,46.75646973,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Barnesville, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/barnesville/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.37268829,46.67729568,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waskish, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waskish/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.50370789,48.17697144,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Donaldson, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/donaldson/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.8578949,48.57979202,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lakeville, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lakeville/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.25780487,44.67486572,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Grand Forks, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-grand-forks/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.02126312,47.93180084,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jenkins, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jenkins/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.33248138,46.6509819,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Baudette, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/baudette/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.59947968,48.69272232,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Crane Lake, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/crane-lake/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.48959351,48.25938797,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hanley Falls, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hanley-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.68249512,44.67886353,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mahnomen, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mahnomen/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.88561249,47.33615494,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Underwood, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/underwood/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.84155273,46.32651901,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holloway, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holloway/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.91637421,45.27080536,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Badger, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/badger/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.09651947,48.7912941,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elko, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elko/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.38355255,44.58945084,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newport, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newport/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.99860382,44.87252045,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oak Park, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oak-park/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.92141724,45.67140198,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wilton, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wilton/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.98623657,47.53525543,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Osseo, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/osseo/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.4878006,45.09939957,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wayzata, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wayzata/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.52058411,44.9581871,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Victoria, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/victoria/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.65609741,44.85822296,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Trosky, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/trosky/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.25666809,43.88916779,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Melrude, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/melrude/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.42643738,47.2423172,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cottage Grove, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cottage-grove/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.93928528,44.83082581,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kellogg, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kellogg/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.00839233,44.30539703,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belle Plaine, MN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belle-plaine/minnesota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.76039124,44.61385345,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

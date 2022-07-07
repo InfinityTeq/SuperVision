@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Nashville, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nashville/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.95948792,35.98427963,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Knotts Island, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/knotts-island/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.97024536,36.52316666,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Castle Hayne, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/castle-hayne/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.91085052,34.32359695,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Bern, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-bern/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.03194427,35.10194016,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Southern Pines, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/southern-pines/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.39568329,35.1697464,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cumberland, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cumberland/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.96749878,35.0047226,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clyde, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clyde/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.92158508,35.55965424,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Polkville, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/polkville/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.64305878,35.41749954,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Boone, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/boone/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.66602325,36.21423721,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lilesville, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lilesville/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.97207642,34.96891403,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saluda, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saluda/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.33059692,35.23834229,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Powells Point, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/powells-point/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.82731628,36.12067413,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grandy, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grandy/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.87680817,36.23389053,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Raleigh, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/raleigh/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.63243866,35.77270126,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Asheville, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/asheville/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.55653381,35.59707642,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wrightsville Beach, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wrightsville-beach/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.79816437,34.21222687,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hatteras, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hatteras/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.69055939,35.2191658,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Corolla, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/corolla/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.81321716,36.32064438,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kenansville, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kenansville/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.96774292,35.03961945,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grover, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grover/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.45518494,35.18363953,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ocracoke, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ocracoke/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.98139191,35.11444473,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Barco, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/barco/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.97928619,36.35877991,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wanchese, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wanchese/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.6388855,35.84249878,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kitty Hawk, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kitty-hawk/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.72537231,36.10069275,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rodanthe, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rodanthe/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.46833038,35.5933342,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cornelius, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cornelius/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.86027527,35.48666763,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cullowhee, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cullowhee/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.14752197,35.24087524,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Wilkesboro, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-wilkesboro/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.13912201,36.18087769,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Emerald Isle, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/emerald-isle/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.02596283,34.66619492,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Banner Elk, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/banner-elk/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.84119415,36.17045975,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Andrews, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/andrews/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.82283783,35.19594955,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Southport, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/southport/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.04554749,34.01213837,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Point Harbor, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/point-harbor/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.79828644,36.07811356,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Knightdale, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/knightdale/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.48981476,35.77892685,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Windsor, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/windsor/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.93360901,36.01588058,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pembroke, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pembroke/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.1833725,34.69019699,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blowing Rock, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blowing-rock/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.75096893,36.09459305,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>High Point, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/high-point/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.01167297,35.95931244,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kill Devil Hills, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kill-devil-hills/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.67565155,36.00879288,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Manns Harbor, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/manns-harbor/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.9444046,35.88719177,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Frisco, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/frisco/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.62889099,35.23500061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cedar Island, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cedar-island/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.08049011,35.07488251,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sapphire, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sapphire/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.00192261,35.06657791,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Durham, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/durham/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.89661407,35.99672318,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monroe, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monroe/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.53723145,35.01777649,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kure Beach, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kure-beach/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.90987396,33.9927063,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Buxton, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/buxton/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.54277802,35.26750183,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Charlotte, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/charlotte/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.92056274,35.23669815,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chapel Hill, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chapel-hill/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.03718567,35.92032242,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Reidsville, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/reidsville/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.66421509,36.34320831,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wilson, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wilson/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.92272949,35.72702026,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wilmington, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wilmington/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.93785858,34.22530365,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Jefferson, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-jefferson/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.48722076,36.3776474,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Manteo, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/manteo/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.67141724,35.89477539,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Morehead City, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/morehead-city/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.75306702,34.72531891,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cherryville, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cherryville/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.35089111,35.3747406,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carolina Beach, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carolina-beach/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.89628601,34.03659821,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Henderson, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/henderson/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.39808655,36.33006668,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marion, NC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marion/north-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.01799011,35.68191528,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

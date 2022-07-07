@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="206" rtRtpiFeedName="" rtdd="206"> <!-- @11 @16 -->
+
+		<time>3:48 PM</time>
+
+
+		<bus>
+			<id>1597</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>206</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>206</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>42.06439208984375</lat>
+			<lon>-87.71307373046875</lon>
+			<pid>3190</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F909</run>
+			<fs>Howard</fs>
+			<op>49388</op>
+			<dip>3058</dip>
+			<bid>3040</bid>				
+			<wid1>0F</wid1>
+			<wid2>909</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1360</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>206</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>206</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>N</dn> 
+			<lat>42.026119232177734</lat>
+			<lon>-87.69009399414062</lon>
+			<pid>8114</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F453</run>
+			<fs>Central/Crawford</fs>
+			<op>37272</op>
+			<dip>7560</dip>
+			<bid>3037</bid>				
+			<wid1>0F</wid1>
+			<wid2>453</wid2>            	
+		</bus>
+
+
+
+	</buses>

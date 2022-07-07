@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Lebanon, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lebanon/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.25222015,43.64222336,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rochester, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rochester/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.97663879,43.2683754,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gilford, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gilford/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.40721893,43.54750061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Warner, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/warner/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.83535004,43.30351257,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gilmanton, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gilmanton/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.4120636,43.41747665,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bethlehem, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bethlehem/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.68292999,44.28084564,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jefferson, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jefferson/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.45183563,44.39990616,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Derry, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/derry/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.30197144,42.8874054,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lancaster, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lancaster/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.55911255,44.49207306,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ossipee, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ossipee/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.11286926,43.6945076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wolfeboro, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wolfeboro/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.19084167,43.59499741,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Portsmouth, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/portsmouth/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.78041077,43.06652451,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sunapee, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sunapee/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.095047,43.38681412,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Canterbury, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/canterbury/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.55700684,43.35704041,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hampton, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hampton/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.82433319,42.93588257,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ashland, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ashland/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.61208344,43.70342636,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Antrim, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/antrim/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.93869781,43.05954742,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Loudon, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/loudon/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.46778107,43.28555679,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rindge, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rindge/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.01903534,42.75439072,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newport, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newport/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.18379211,43.35322952,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bristol, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bristol/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.75066376,43.6119957,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milford, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milford/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.66056824,42.82849884,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Woodstock, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-woodstock/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.69768524,44.01983261,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tilton, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tilton/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.57741547,43.46033096,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Windham, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/windham/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.30673218,42.80510712,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Exeter, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/exeter/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.96430969,42.97716904,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sanbornton, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sanbornton/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.60034943,43.54955292,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Epping, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/epping/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.07637024,43.04105377,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Concord, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/concord/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.52773285,43.21852493,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Franconia, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/franconia/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.75182343,44.20527267,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dublin, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dublin/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.05053711,42.89719772,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Londonderry, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/londonderry/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.37718964,42.86555481,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Peterborough, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/peterborough/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.94696045,42.8855896,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bedford, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bedford/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.52127075,42.94030762,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Woodstock, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/woodstock/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.6855545,43.97750092,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Laconia, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/laconia/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.45290375,43.53871155,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Madbury, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/madbury/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.92444611,43.16916656,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Manchester, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/manchester/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.46325684,42.99285889,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greenland, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greenland/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.84747314,43.03529358,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Ipswich, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-ipswich/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.87031555,42.75114059,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Hampton, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-hampton/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.64351654,43.61839294,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Conway, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/conway/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.15028381,43.97415924,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dover, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dover/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.88488007,43.19000626,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milton, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milton/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.9888916,43.40972137,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nashua, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nashua/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.46668243,42.75639343,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bow, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bow/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.54481506,43.13878632,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newington, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newington/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.8208313,43.23611069,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lincoln, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lincoln/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.6727066,44.05815887,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holderness, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holderness/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.58889008,43.73194504,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Springfield, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/springfield/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.0578537,43.4916153,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spofford, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spofford/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.41027832,42.91197205,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Littleton, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/littleton/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.77681732,44.31118774,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sullivan, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sullivan/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.19178009,42.9940033,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Northwood, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/northwood/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.20042419,43.2069664,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seabrook, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seabrook/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.86463928,42.88536072,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Salem, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/salem/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.21761322,42.7846489,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Hampton, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-hampton/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.82673645,42.9776268,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hooksett, NH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hooksett/new-hampshire/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.44444275,43.06170654,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

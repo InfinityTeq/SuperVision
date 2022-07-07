@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="55" rtRtpiFeedName="" rtdd="55"> <!-- @11 @16 -->
+
+		<time>4:09 PM</time>
+
+
+		<bus>
+			<id>8046</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>55</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>55</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.79518127441406</lat>
+			<lon>-87.59420667375836</lon>
+			<pid>1293</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6514</run>
+			<fs>St Louis</fs>
+			<op>58386</op>
+			<dip>5106</dip>
+			<bid>2567</bid>				
+			<wid1>06</wid1>
+			<wid2>514</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1506</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>55</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>55</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.793766021728516</lat>
+			<lon>-87.68931579589844</lon>
+			<pid>1299</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6787</run>
+			<fs>Ashland</fs>
+			<op>56545</op>
+			<dip>6432</dip>
+			<bid>2613</bid>				
+			<wid1>06</wid1>
+			<wid2>787</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1439</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>55</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>55</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.79383158683777</lat>
+			<lon>-87.68468077977498</lon>
+			<pid>1300</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6524</run>
+			<fs>Museum of Science &amp; Industry</fs>
+			<op>64466</op>
+			<dip>7685</dip>
+			<bid>2561</bid>				
+			<wid1>06</wid1>
+			<wid2>524</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8007</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>55</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>55</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.79329277918889</lat>
+			<lon>-87.7176089653602</lon>
+			<pid>5424</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6541</run>
+			<fs>Museum of Science &amp; Industry</fs>
+			<op>50416</op>
+			<dip>11019</dip>
+			<bid>2614</bid>				
+			<wid1>06</wid1>
+			<wid2>541</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1489</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>55</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>55</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.794565200805664</lat>
+			<lon>-87.62929725646973</lon>
+			<pid>5425</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6518</run>
+			<fs>Midway Orange Line</fs>
+			<op>62058</op>
+			<dip>15563</dip>
+			<bid>2612</bid>				
+			<wid1>06</wid1>
+			<wid2>518</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1486</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>55</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>55</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.79425874303599</lat>
+			<lon>-87.65300738225218</lon>
+			<pid>5425</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6511</run>
+			<fs>Midway Orange Line</fs>
+			<op>37176</op>
+			<dip>22397</dip>
+			<bid>2548</bid>				
+			<wid1>06</wid1>
+			<wid2>511</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8058</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>55</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>55</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>ESE</dn> 
+			<lat>41.79366197893697</lat>
+			<lon>-87.61313493790165</lon>
+			<pid>1300</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6512</run>
+			<fs>Museum of Science &amp; Industry</fs>
+			<op>52797</op>
+			<dip>27429</dip>
+			<bid>2752</bid>				
+			<wid1>06</wid1>
+			<wid2>512</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1580</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>55</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>55</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.79373544161437</lat>
+			<lon>-87.69180097736296</lon>
+			<pid>1293</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6523</run>
+			<fs>St Louis</fs>
+			<op>36686</op>
+			<dip>33532</dip>
+			<bid>2733</bid>				
+			<wid1>06</wid1>
+			<wid2>523</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1541</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>55</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>55</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>S</dn> 
+			<lat>41.79208352532185</lat>
+			<lon>-87.58385467529297</lon>
+			<pid>1300</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6519</run>
+			<fs>Museum of Science &amp; Industry</fs>
+			<op>50192</op>
+			<dip>36935</dip>
+			<bid>2830</bid>				
+			<wid1>06</wid1>
+			<wid2>519</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1470</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>55</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>55</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.795081329345706</lat>
+			<lon>-87.59491271972657</lon>
+			<pid>5424</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6515</run>
+			<fs>Museum of Science &amp; Industry</fs>
+			<op>40581</op>
+			<dip>45078</dip>
+			<bid>2562</bid>				
+			<wid1>06</wid1>
+			<wid2>515</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8069</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>55</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>55</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>N</dn> 
+			<lat>41.78499461234884</lat>
+			<lon>-87.73887220342108</lon>
+			<pid>5425</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6521</run>
+			<fs>Midway Orange Line</fs>
+			<op>58251</op>
+			<dip>51639</dip>
+			<bid>2568</bid>				
+			<wid1>06</wid1>
+			<wid2>521</wid2>            	
+		</bus>
+
+
+
+	</buses>

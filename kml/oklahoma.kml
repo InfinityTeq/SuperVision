@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Norman, OK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/norman/oklahoma/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.44130707,35.18706512,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Altus, OK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/altus/oklahoma/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.32048035,34.64840698,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oklahoma City, OK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oklahoma-city/oklahoma/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.5177002,35.47299957,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tyrone, OK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tyrone/oklahoma/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.0594101,36.95576859,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wynnewood, OK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wynnewood/oklahoma/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.17694855,34.6384697,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sallisaw, OK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.77899933,35.48519135,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tulsa, OK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tulsa/oklahoma/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.9956131,36.15076828,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stillwater, OK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stillwater/oklahoma/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.06086731,36.10434723,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

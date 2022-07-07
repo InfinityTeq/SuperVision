@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Tupelo, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tupelo/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.25383377,-88.72085571,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Biloxi, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/biloxi/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.40347862,-88.8971405,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pascagoula, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pascagoula/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.53030014,-88.51647186,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Laurel, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/laurel/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.70544434,-89.13115692,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Starkville, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/starkville/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.45012665,-88.81763458,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rosedale, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rosedale/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.84316635,-90.99228668,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hattiesburg, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hattiesburg/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.31455231,-89.30647278,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brandon, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brandon/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.30380249,-89.9640274,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Richland, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/richland/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.21522522,-90.15623474,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Moss Point, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/moss-point/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.4113884,-88.53444672,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pearl, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pearl/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.2768364,-90.10271454,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bay Saint Louis, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bay-saint-louis/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.32427406,-89.39735413,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ocean Springs, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ocean-springs/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.4404335,-88.78009796,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Natchez, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/natchez/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.54924011,-91.36421204,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>McComb, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mccomb/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.22159386,-90.43244934,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Columbus, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/columbus/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.53770065,-88.42619324,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hernando, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hernando/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.80958939,-90.00948334,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sumrall, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sumrall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.359972,-89.57772064,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oxford, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oxford/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.35435486,-89.49691772,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jackson, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jackson/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.29350281,-90.18665314,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Flowood, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/flowood/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.31650162,-90.11049652,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seminary, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seminary/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.52848434,-89.48158264,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Madison, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/madison/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.4670639,-90.10874176,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gulfport, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gulfport/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.38255692,-89.0976181,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waveland, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waveland/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.29137993,-89.38368225,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Magee, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/magee/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.8495121,-89.75032806,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Picayune, MS</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/picayune/mississippi/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.54179573,-89.69102478,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

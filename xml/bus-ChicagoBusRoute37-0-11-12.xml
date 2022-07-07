@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="37" rtRtpiFeedName="" rtdd="37"> <!-- @11 @16 -->
+
+		<time>4:07 PM</time>
+
+
+		<bus>
+			<id>2027</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>37</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>37</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>E</dn> 
+			<lat>41.87800216674805</lat>
+			<lon>-87.63945770263672</lon>
+			<pid>7175</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5904</run>
+			<fs>Fullerton Red Line</fs>
+			<op>32462</op>
+			<dip>2065</dip>
+			<bid>1464</bid>				
+			<wid1>05</wid1>
+			<wid2>904</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8118</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>37</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>37</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.91522789001465</lat>
+			<lon>-87.63868713378906</lon>
+			<pid>7174</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5906</run>
+			<fs>Clinton Blue Line</fs>
+			<op>43230</op>
+			<dip>6108</dip>
+			<bid>1334</bid>				
+			<wid1>05</wid1>
+			<wid2>906</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1967</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>37</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>37</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.91765594482422</lat>
+			<lon>-87.6387710571289</lon>
+			<pid>7175</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5314</run>
+			<fs>Fullerton Red Line</fs>
+			<op>50263</op>
+			<dip>18070</dip>
+			<bid>1504</bid>				
+			<wid1>05</wid1>
+			<wid2>314</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>2013</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>37</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>37</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>41.87685127258301</lat>
+			<lon>-87.6358741760254</lon>
+			<pid>7174</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5905</run>
+			<fs>Clinton Blue Line</fs>
+			<op>52780</op>
+			<dip>21674</dip>
+			<bid>1329</bid>				
+			<wid1>05</wid1>
+			<wid2>905</wid2>            	
+		</bus>
+
+
+
+	</buses>

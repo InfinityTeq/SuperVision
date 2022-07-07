@@ -1,0 +1,2735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Lithia Springs, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lithia-springs/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.79388809,-84.66055298,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Acworth, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/acworth/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.07562637,-84.64774323,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clarkston, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clarkston/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.81010818,-84.23882294,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hagan, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hagan/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.1558342,-81.9338913,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Redan, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/redan/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.7452774,-84.13166809,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hephzibah, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hephzibah/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.34332657,-82.08869171,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Red Oak, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/red-oak/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.62472153,-84.49861145,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Conyers, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/conyers/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.69469833,-84.01519775,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Union City, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/union-city/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.58315659,-84.54985046,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dacula, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dacula/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.98860931,-83.89805603,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lumpkin, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lumpkin/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.04346466,-84.80222321,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Meldrim, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/meldrim/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.14305496,-81.37805939,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Watkinsville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/watkinsville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.85424805,-83.40804291,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Griffin, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/griffin/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.25490189,-84.27275848,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Atlanta, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/atlanta/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.75640106,-84.39179993,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Baxley, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/baxley/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.7836628,-82.34864044,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lawrenceville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lawrenceville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.94392014,-83.96492004,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Smyrna, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/smyrna/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.87960052,-84.50228119,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blairsville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blairsville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.87625122,-83.99202728,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marietta, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marietta/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.90430069,-84.46800232,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hahira, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hahira/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.94159317,-83.35736847,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Powder Springs, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/powder-springs/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.85944366,-84.6838913,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Palmetto, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/palmetto/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.52419662,-84.67900085,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Augusta, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/augusta/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.46008301,-81.97296143,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ringgold, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ringgold/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.92052078,-85.15490723,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Claxton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/claxton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.16500854,-81.90803528,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Talking Rock, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/talking-rock/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.53935623,-84.49115753,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Richmond Hill, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/richmond-hill/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.8961525,-81.29402924,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bowdon, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bowdon/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.53725815,-85.25328827,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grantville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grantville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.24725342,-84.8349762,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lula, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lula/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.39851379,-83.69445801,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Forest Park, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/forest-park/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.62111282,-84.36582947,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Conley, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/conley/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.64472198,-84.32583618,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chatsworth, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chatsworth/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.75893021,-84.79429626,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thomasville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thomasville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.86650085,-83.9233017,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bloomingdale, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bloomingdale/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.11765289,-81.30846405,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tunnel Hill, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tunnel-hill/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.85412979,-85.04681396,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thomson, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thomson/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.47736359,-82.49420166,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>White, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/white/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.27168274,-84.73832703,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tate, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tate/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.42387009,-84.36529541,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Oglethorpe, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-oglethorpe/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.96408081,-85.24281311,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bethlehem, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bethlehem/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.92611694,-83.72822571,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Folkston, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/folkston/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.85083771,-82.01161957,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Norcross, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/norcross/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.93968964,-84.20580292,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Commerce, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/commerce/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.21341324,-83.44801331,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winston, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winston/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.66341782,-84.86391449,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Snellville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/snellville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.80390167,-84.03970337,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Toccoa, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/toccoa/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.56647491,-83.31143951,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lilburn, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lilburn/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.87390137,-84.11730194,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Madison, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/madison/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.59468079,-83.46178436,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sparks, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sparks/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.17898369,-83.44758606,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Trenton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/trenton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.90167999,-85.51712036,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ball Ground, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ball</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.3392601,-84.37575531,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Valdosta, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/valdosta/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.81057739,-83.27716827,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cordele, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cordele/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.96333313,-83.78250122,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hoschton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hoschton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.08657837,-83.78025055,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cedartown, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cedartown/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.01119614,-85.24590302,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Athens, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/athens/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.97609711,-83.36317444,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rochelle, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rochelle/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.94911957,-83.44497681,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Odum, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/odum/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.69991684,-81.99430084,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Senoia, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/senoia/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.28445816,-84.59178162,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oakwood, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oakwood/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.23719788,-83.89401245,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kingsland, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kingsland/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.79768181,-81.70748138,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pelham, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pelham/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.12723351,-84.15636444,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Georgetown, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/georgetown/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.9794445,-81.23194122,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cleveland, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cleveland/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.58395004,-83.74998474,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Perry, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/perry/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.46051025,-83.72825623,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bowersville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bowersville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.39959335,-83.04836273,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Statham, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/statham/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.96023178,-83.58930206,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rockmart, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rockmart/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.99791336,-85.05937195,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Warner Robins, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/warner-robins/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.59336472,-83.64157867,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Riverdale, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/riverdale/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.55312729,-84.40034485,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dallas, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.91631317,-84.82778931,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Byron, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/byron/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.64738464,-83.76224518,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Loganville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/loganville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.83889008,-83.89805603,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Austell, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/austell/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.83369827,-84.62519836,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wildwood, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wildwood/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.9779129,-85.43045807,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nahunta, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nahunta/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.18265152,-81.97221375,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gainesville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gainesville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.30727005,-83.82559967,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Marys, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-marys/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.77346611,-81.56520844,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cave Spring, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cave-spring/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.11668396,-85.33790588,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Temple, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/temple/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.76768875,-85.01331329,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pine Lake, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pine-lake/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.79360962,-84.20610809,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Savannah, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/savannah/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.06763077,-81.1023941,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dawson, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dawson/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.7733326,-84.44667053,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lovejoy, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lovejoy/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.43611145,-84.3144455,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Valley, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.54956055,-83.88872528,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Crawfordville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/crawfordville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.57080078,-82.88723755,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monroe, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monroe/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.8081398,-83.70722198,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tallapoosa, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.7601738,-85.30004883,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winder, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winder/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.99854279,-83.71147156,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Adairsville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/adairsville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.35952759,-84.91763306,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bolingbroke, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bolingbroke/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.94916534,-83.80332947,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Collins, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/collins/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.18522644,-82.10948181,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kingston, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kingston/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.25005341,-84.99729919,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clayton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clayton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.88256836,-83.40654755,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Register, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/register/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.33823395,-81.87282562,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Leesburg, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/leesburg/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.68116188,-84.15926361,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Woodstock, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/woodstock/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.10600662,-84.5116806,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Vidalia, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vidalia/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.19340897,-82.40672302,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tybee Island, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tybee-island/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.00679779,-80.85093689,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lavonia, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lavonia/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.45275879,-83.11299133,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Albany, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/albany/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.56778336,-84.16192627,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Emerson, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/emerson/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.11996841,-84.75704193,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Scottdale, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/scottdale/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.793396,-84.25852203,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carrollton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carrollton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.58089828,-85.07920074,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holly Springs, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holly-springs/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.17388916,-84.50138855,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pembroke, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pembroke/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.15708923,-81.55334473,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Suwanee, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/suwanee/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.05138779,-84.07138824,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ty Ty, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ty-ty/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.45594978,-83.62198639,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carnesville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carnesville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.39472198,-83.27920532,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grayson, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grayson/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.89416885,-83.95583344,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blue Ridge, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blue-ridge/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.85552216,-84.32808685,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cumming, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cumming/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.24700165,-84.18119812,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Martin, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/martin/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.51548386,-83.16855621,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Leslie, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/leslie/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.95395279,-84.07833862,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Buckhead, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/buckhead/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.53684235,-83.34348297,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jasper, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jasper/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.46196365,-84.47588348,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mableton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mableton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.81861115,-84.58249664,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Demorest, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/demorest/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.57556534,-83.56962585,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Resaca, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/resaca/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.59199524,-84.91625214,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Duluth, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/duluth/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.97740173,-84.15080261,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rincon, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rincon/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.23563385,-81.28778076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elberton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elberton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.10820389,-82.84476471,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tucker, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tucker/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.856987,-84.21601868,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>McDonough, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mcdonough/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.45055771,-84.15833282,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.82500076,-84.76333618,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jonesboro, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jonesboro/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.52423477,-84.35897064,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Poulan, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/poulan/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.46720505,-83.7615509,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cartersville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cartersville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.18697357,-84.82040405,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sylvester, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sylvester/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.53926849,-83.86073303,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jesup, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jesup/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.60432625,-81.88706207,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Ellijay, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-ellijay/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.68263626,-84.47306061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hiram, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hiram/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.86728668,-84.76987457,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Canton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/canton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.2058754,-84.45775604,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stockbridge, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stockbridge/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.56334305,-84.2164917,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Decatur, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/decatur/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.7698822,-84.29504395,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Morrow, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/morrow/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.58493423,-84.32469177,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newnan, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newnan/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.3894043,-84.81695557,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bainbridge, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bainbridge/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.93549919,-84.5809021,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Summerville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/summerville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.48590088,-85.33622742,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Peachtree City, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/peachtree-city/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.39146805,-84.56347656,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rossville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rossville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.95347977,-85.29678345,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waco, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waco/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.68398666,-85.21967316,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waycross, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waycross/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.21968651,-82.36450958,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rocky Face, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rocky-face/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.77445602,-85.05614471,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Walthourville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/walthourville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.77388954,-81.63277435,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Roswell, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/roswell/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.04083252,-84.3859024,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tifton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tifton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.45027733,-83.50861359,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hampton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hampton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.41239929,-84.2947464,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Columbus, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/columbus/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.47303391,-84.97945404,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pooler, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pooler/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.1149292,-81.25196075,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Damascus, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/damascus/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.29888916,-84.71888733,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Covington, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/covington/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.58169937,-83.84670258,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Park, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-park/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>30.6906147,-83.17529297,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brunswick, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brunswick/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.16965294,-81.49304199,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Forsyth, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/forsyth/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.05076218,-83.93621063,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>White Oak, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/white-oak/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.03403664,-81.80823517,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kennesaw, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kennesaw/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.02865601,-84.60466003,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dalton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dalton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.77030945,-84.97026062,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lagrange, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lagrange/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.03402328,-85.03951263,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pearson, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pearson/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.31058311,-82.85909271,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fitzgerald, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fitzgerald/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.72476959,-83.24953461,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Avondale Estates, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/avondale-estates/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.77172852,-84.26068878,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alpharetta, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alpharetta/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.10480118,-84.29489899,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Camilla, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/camilla/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.21991539,-84.22968292,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Midway, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/midway/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.80180359,-81.39089966,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Siloam, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/siloam/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.53666687,-83.08110809,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hinesville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hinesville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.84880066,-81.5970993,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fayetteville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fayetteville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.44805527,-84.4635849,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thomaston, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thomaston/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.90153503,-84.33239746,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rock Spring, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rock-spring/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.80653381,-85.24147797,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stone Mountain, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stone-mountain/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.79423141,-84.20175171,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ray City, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ray-city/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.08246994,-83.2142868,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nelson, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nelson/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.38138962,-84.37110901,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bonaire, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bonaire/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.54603577,-83.60473633,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Calhoun, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/calhoun/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.49645615,-84.93454742,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Buford, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/buford/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.13130188,-84.02670288,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jenkinsburg, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jenkinsburg/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.31861877,-84.02612305,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Smarr, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/smarr/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.98527908,-83.88222504,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Douglas, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/douglas/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.49728775,-82.84646606,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Statesboro, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/statesboro/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.44084167,-81.7739563,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Adel, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/adel/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.12514305,-83.42134857,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Villa Rica, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/villa-rica/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.71728897,-84.92969513,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cuthbert, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cuthbert/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.77111053,-84.78944397,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ashburn, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ashburn/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.7058773,-83.66077423,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hartwell, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hartwell/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.35712433,-82.92957306,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rome, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rome/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.25072479,-85.14649963,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Locust Grove, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/locust-grove/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.34493637,-84.09825134,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mount Berry, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mount-berry/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.27500153,-85.18333435,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glennville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glennville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.94670868,-81.94831085,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ellijay, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ellijay/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.67250061,-84.50027466,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jefferson, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jefferson/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.10619736,-83.57081604,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pinehurst, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pinehurst/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.19669342,-83.72085571,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Moultrie, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/moultrie/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.17924309,-83.76409149,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Centerville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/centerville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.63437653,-83.67677307,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hapeville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hapeville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.65885925,-84.40895844,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clarkdale, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clarkdale/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.83083344,-84.64971924,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Donalsonville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/donalsonville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.04027748,-84.87916565,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Buena Vista, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/buena-vista/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.35419846,-84.52734375,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Macon, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/macon/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>32.84386063,-83.59868622,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Flowery Branch, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/flowery-branch/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.1818924,-83.90240479,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bremen, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bremen/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.73087311,-85.12863922,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Braselton, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/braselton/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.13894272,-83.78115845,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairburn, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairburn/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.56481934,-84.58085632,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Douglasville, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/douglasville/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.74940109,-84.74590302,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Union Point, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/union-point/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>33.63454437,-83.08791351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dahlonega, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dahlonega/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>34.52994919,-83.97983551,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bronwood, GA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bronwood/georgia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>31.83083344,-84.36444092,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

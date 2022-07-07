@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Owensboro, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/owensboro/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.75125504,-87.15539551,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Renfro Valley, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/renfro-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.38777924,-84.33166504,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harrods Creek, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harrods-creek/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.32749939,-85.6277771,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bardstown, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bardstown/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.80834961,-85.46134186,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Crestview Hills, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/crestview-hills/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>39.02125168,-84.5756073,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Georgetown, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/georgetown/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.21171188,-84.55617523,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eolia, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eolia/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.06176758,-82.77062225,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cadiz, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cadiz/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>36.84642029,-87.84123993,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Campton, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/campton/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.75024414,-83.51639557,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Calvert City, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/calvert-city/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.01473999,-88.38111877,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tompkinsville, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tompkinsville/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>36.71308517,-85.69683838,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Verona, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/verona/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.83901215,-84.6907196,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Paducah, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/paducah/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.06337738,-88.66320038,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Warsaw, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/warsaw/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.7807045,-84.84958649,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pine Ridge, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pine-ridge/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.77487183,-83.63205719,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bellevue, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bellevue/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>39.10243225,-84.47874451,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Florence, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/florence/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.99888992,-84.62666321,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ashland, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ashland/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.44303894,-82.70270538,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Erlanger, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/erlanger/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>39.00823975,-84.5977478,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Corbin, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/corbin/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>36.93442917,-84.1020813,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hebron, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hebron/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>39.07553101,-84.70074463,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Thomas, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-thomas/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>39.07863235,-84.45233917,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ft Mitchell, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ft-mitchell/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>39.03237915,-84.5696106,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Upton, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/upton/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.45680237,-85.90862274,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glenview, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glenview/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.30833435,-85.65027618,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Russellville, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/russellville/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>36.85307312,-86.88871002,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>London, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/london/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.10160446,-84.09749603,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Silver Grove, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/silver-grove/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>39.03426361,-84.39084625,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eastwood, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eastwood/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.23305511,-85.45583344,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Louisville, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/louisville/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.24349976,-85.76390076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lebanon Junction, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lebanon-junction/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.85105515,-85.72463989,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newport, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newport/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>39.0828476,-84.48651123,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jamestown, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jamestown/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>36.96795654,-85.09684753,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brownsville, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brownsville/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.18817139,-86.27400208,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bowling Green, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bowling-green/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.00787354,-86.45589447,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Farmers, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/farmers/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.14277649,-83.54611206,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Petersburg, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/petersburg/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>39.04156113,-84.8371048,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Covington, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/covington/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>39.07083893,-84.52120972,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Masonic Home, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/masonic-home/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.26388931,-85.65611267,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elizabethtown, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elizabethtown/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.70697403,-85.85897827,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pikeville, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pikeville/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.50683212,-82.52017212,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Walton, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/walton/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.88748932,-84.63276672,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand Rivers, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-rivers/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.05781174,-88.26138306,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Latonia, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/latonia/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>39.02168655,-84.49885559,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jenkins, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jenkins/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.18632889,-82.63004303,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairdale, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairdale/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>38.10866928,-85.75492096,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kuttawa, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kuttawa/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.06187057,-88.14981079,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mayfield, KY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mayfield/kentucky/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>36.73268509,-88.65063477,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

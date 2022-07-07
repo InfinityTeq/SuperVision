@@ -1,0 +1,2826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Saint Ignace, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-ignace/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.92152786,-84.70941162,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Muskegon, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/muskegon/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.23258972,-86.24919128,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waters, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waters/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.8797226,-84.6986084,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eastport, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eastport/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.10722351,-85.34999847,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nisula, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nisula/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.76951981,-88.83396912,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Traverse City, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/traverse-city/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.74364853,-85.61886597,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elmira, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elmira/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.03458023,-84.83032227,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cheboygan, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cheboygan/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.60803986,-84.48671722,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Benton Harbor, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/benton-harbor/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.10859299,-86.42341614,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Clair, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-clair/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.82545471,-82.51325226,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dryden, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dryden/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.93777084,-83.15006256,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cadillac, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cadillac/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.25044632,-85.43004608,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dafter, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dafter/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.34919739,-84.39968109,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gulliver, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gulliver/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.01148987,-86.02143097,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Canton, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/canton/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.33201218,-83.46952057,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bridgman, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bridgman/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>41.93619919,-86.55433655,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Petoskey, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/petoskey/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.36126709,-84.94026184,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gwinn, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gwinn/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.29193878,-87.43016052,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ferrysburg, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ferrysburg/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.08444214,-86.22027588,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bloomfield Hills, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bloomfield-hills/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.54504395,-83.27709961,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Livonia, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/livonia/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.3615036,-83.36493683,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Williamston, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/williamston/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.69665146,-84.29259491,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Maple City, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/maple-city/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.85903549,-85.88139343,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Calumet, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/calumet/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.24272156,-88.44271851,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gaylord, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gaylord/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.02750015,-84.67472076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Allen Park, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.2522316,-83.21199799,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mount Pleasant, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mount-pleasant/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.60250092,-84.77519989,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cedarville, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cedarville/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.00244904,-84.34882355,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Birch Run, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/birch-run/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.26486969,-83.7902832,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Au Train, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/au-train/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.42823029,-86.77932739,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dearborn Heights, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dearborn-heights/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.27682495,-83.26060486,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bath, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bath/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.82056427,-84.45454407,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wilson, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wilson/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.66485596,-87.3997345,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Clair Shores, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-clair-shores/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.46347427,-82.90067291,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Watervliet, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/watervliet/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.19380569,-86.26036835,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Detroit, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/detroit/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.34742737,-83.06039429,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mackinac Island, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mackinac-island/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.85783768,-84.62452698,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Trenary, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/trenary/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.19473648,-86.95018005,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oak Park, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oak-park/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.46615219,-83.18399048,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bradley, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bradley/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.63027954,-85.64305878,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Center Line, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/center-line/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.47879028,-83.02477264,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belleville, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belleville/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.19485855,-83.48542786,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ontonagon, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ontonagon/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.82748413,-89.3484726,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jackson, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jackson/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.25452042,-84.38747406,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Huntington Woods, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/huntington-woods/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.48253632,-83.17490387,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Northville, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/northville/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.42624664,-83.47935486,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tawas City, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tawas-city/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.26748657,-83.54490662,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Boston, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-boston/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.14489746,-83.3588562,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Toivola, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/toivola/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.98544693,-88.86065674,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Howell, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/howell/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.61593246,-83.92481232,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seney, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seney/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.38798904,-85.97084808,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Comstock Park, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/comstock-park/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.05781174,-85.68447113,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand Blanc, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-blanc/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.92816162,-83.62641144,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mackinaw City, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mackinaw-city/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.78388977,-84.72777557,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rudyard, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rudyard/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.20056915,-84.54933929,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Huron, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-huron/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.99584198,-82.45993805,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Channing, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/channing/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.1545639,-88.07722473,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Reed City, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/reed-city/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.88680649,-85.51303101,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lincoln Park, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lincoln-park/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.24221039,-83.18068695,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holland, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holland/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.78749847,-86.10888672,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Helen, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-helen/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.36648941,-84.42470551,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lansing, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lansing/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.7322998,-84.55599976,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fruitport, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fruitport/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.14428329,-86.13883209,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand Haven, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-haven/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.03783798,-86.19123077,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Whitmore Lake, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/whitmore-lake/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.42890549,-83.78282166,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Southfield, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/southfield/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.46302032,-83.28804779,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Galesburg, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/galesburg/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.29484177,-85.42366791,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wyoming, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wyoming/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.90086746,-85.7057724,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Branch, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-branch/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.27903366,-84.22862244,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wakefield, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wakefield/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.47518539,-89.94244385,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kalkaska, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kalkaska/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.73545837,-85.12065125,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lachine, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lachine/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.04294586,-83.74906921,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marshall, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marshall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.27204514,-84.95828247,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monroe, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monroe/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>41.92750931,-83.40484619,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Scottville, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/scottville/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.9766922,-86.31561279,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pleasant Ridge, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pleasant-ridge/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.47103882,-83.14376831,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Buffalo, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-buffalo/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>41.78559113,-86.74662781,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shingleton, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shingleton/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.3512001,-86.48226166,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dearborn, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dearborn/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.30529404,-83.16048431,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Orion, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-orion/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.72077942,-83.29170227,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Baltimore, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-baltimore/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.67534256,-82.78010559,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jenison, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jenison/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.91042328,-85.8276062,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rapid River, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rapid-river/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.9106636,-86.88449097,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grayling, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grayling/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.67095947,-84.69132233,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rockland, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rockland/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.73805618,-89.17944336,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>White Pigeon, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/white-pigeon/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>41.79289246,-85.67501068,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Vanderbilt, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vanderbilt/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.15324783,-84.65113068,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>South Haven, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-haven/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.4040947,-86.2542038,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>De Tour Village, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/de-tour-village/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.99385071,-83.9396286,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Royal Oak, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/royal-oak/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.4905777,-83.13658142,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Casco, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/casco/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.76805496,-82.67028046,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hastings, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hastings/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.64300537,-85.29368591,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rose City, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rose-city/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.41672134,-84.12556458,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Goodells, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/goodells/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.00005722,-82.62172699,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clare, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clare/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.82231903,-84.76346588,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dexter, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dexter/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.35831833,-83.90002441,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chelsea, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chelsea/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.32069016,-84.03339386,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holly, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holly/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.79049301,-83.61273956,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harrison Township, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harrison-township/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.60274124,-82.83639526,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Columbus, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/columbus/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.85194397,-82.68250275,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Long Lake, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/long-lake/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.44846344,-83.81705475,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Charlotte, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/charlotte/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.57016754,-84.83518219,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bay City, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bay-city/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.61216354,-83.91988373,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chassell, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chassell/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.00203705,-88.5545578,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Troy, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/troy/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.56090164,-83.14710236,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Frankenmuth, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/frankenmuth/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.34096527,-83.7474823,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Anchorville, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/anchorville/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.7118187,-82.70938873,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ypsilanti, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ypsilanti/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.23254395,-83.63362122,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Manton, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/manton/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.41522217,-85.42017365,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Walloon Lake, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.26610947,-84.93360901,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brighton, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brighton/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.52944565,-83.78028107,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Frankfort, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/frankfort/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.63112259,-86.22119904,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grandville, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grandville/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.89387131,-85.76187134,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Frederic, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/frederic/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.83821869,-84.68241119,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>South Rockwood, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-rockwood/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.06240463,-83.26630402,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Utica, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/utica/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.66369247,-82.99654388,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Williamsburg, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/williamsburg/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.80195236,-85.43473053,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Benzonia, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/benzonia/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.59550095,-86.09609222,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Warren, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/warren/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.51589966,-82.98239899,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ada, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ada/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.95661163,-85.48095703,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stevensville, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stevensville/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.02196884,-86.51186371,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Zeeland, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/zeeland/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.82558441,-86.01040649,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Capac, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/capac/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.01997757,-82.92518616,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Manistique, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/manistique/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.98297882,-86.2755127,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elk Rapids, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elk-rapids/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.89547348,-85.40822601,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Moran, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/moran/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.04410553,-85.00783539,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Filer City, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/filer-city/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.21527863,-86.28722382,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nunica, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nunica/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.08830643,-86.10276794,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wolverine, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wolverine/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.28614807,-84.60647583,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alto, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alto/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.8243103,-85.42555237,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Paw Paw, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/paw-paw/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.23493195,-85.90048981,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Melvindale, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/melvindale/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.28122711,-83.18257141,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eben Junction, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eben-junction/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.35172653,-87.03279877,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Farmington, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/farmington/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.51004028,-83.40543365,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clarkston, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clarkston/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.72163773,-83.40565491,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>White Pine, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/white-pine/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.75388718,-89.58388519,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edenville, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edenville/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.80275726,-84.39622498,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hazel Park, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hazel-park/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.46076965,-83.09818268,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Presque Isle, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/presque-isle/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.3041687,-83.47694397,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Haven, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-haven/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.73295975,-82.82025146,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marquette, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marquette/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.53123856,-87.38944244,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saugatuck, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saugatuck/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.64256287,-86.1940918,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belmont, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belmont/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.07793427,-85.5867691,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Curran, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/curran/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.73360443,-83.83198547,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gould City, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gould-city/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.13454437,-85.72589111,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hart, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hart/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.70676041,-86.31415558,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Emmett, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/emmett/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.98723984,-82.78540039,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Watton, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/watton/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.51369858,-88.59929657,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mattawan, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mattawan/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.2450676,-85.79428101,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Battle Creek, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/battle-creek/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.30530167,-85.13890076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Coldwater, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/coldwater/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>41.92546463,-85.0056839,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wells, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wells/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.78486633,-87.07344055,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mohawk, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mohawk/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.32006836,-88.33257294,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Houghton Lake Heights, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/houghton-lake-heights/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.32749939,-84.77444458,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Standish, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/standish/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.97328568,-83.94329834,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Roseville, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/roseville/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.50342178,-82.93868256,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Taylor, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/taylor/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.23173904,-83.26726532,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Interlochen, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/interlochen/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.65176773,-85.80215454,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carleton, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carleton/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.05294037,-83.37550354,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>University Center, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/university-center/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.56079865,-83.98989868,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Okemos, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/okemos/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.72222137,-84.42749786,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Algonac, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/algonac/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.63070297,-82.56015778,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harper Woods, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harper-woods/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.4376564,-82.92888641,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hartford, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hartford/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.2088089,-86.16870117,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Evart, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/evart/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.88877106,-85.26493835,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eastpointe, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eastpointe/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.46575546,-82.94589233,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ann Arbor, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ann-arbor/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.2793808,-83.78399658,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Watersmeet, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/watersmeet/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.25416183,-89.21083832,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Muir, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/muir/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.0438652,-84.93908691,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Paradise, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/paradise/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.59832001,-85.0562439,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Street, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-street/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.02685928,-82.53825378,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Joseph, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-joseph/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.06395721,-86.47834015,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carrollton, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carrollton/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.45861053,-83.93027496,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oshtemo, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oshtemo/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.25888824,-85.67749786,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Leland, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/leland/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.01021576,-86.09292603,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Lansing, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-lansing/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.73880386,-84.47640991,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hamburg, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hamburg/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.44861221,-83.80166626,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Romulus, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/romulus/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.22030258,-83.35829163,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harrietta, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harrietta/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.2971611,-85.73957062,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kalamazoo, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kalamazoo/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.27356339,-85.5456543,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saginaw, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saginaw/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.4046936,-83.91562653,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marysville, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marysville/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.91353226,-82.48134613,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Comstock, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/comstock/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.28666687,-85.51333618,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hamtramck, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hamtramck/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.40811539,-83.05826569,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand Rapids, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-rapids/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.97031784,-85.66308594,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Trenton, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/trenton/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.13430405,-83.21813965,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bergland, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bergland/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.58812332,-89.59729767,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Highland Park, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/highland-park/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.42115402,-83.10090637,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grass Lake, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grass-lake/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.27107239,-84.19403839,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sawyer, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sawyer/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>41.88286591,-86.58850861,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eckerman, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eckerman/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.34663773,-85.16260529,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Madison Heights, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/madison-heights/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.50160599,-83.10269928,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Climax, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/climax/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.23397827,-85.32382965,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Auburn Hills, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/auburn-hills/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.6875,-83.23416901,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ironwood, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ironwood/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.46379471,-90.15884399,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hagar Shores, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hagar-shores/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.18611145,-86.30833435,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Hudson, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-hudson/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.50764847,-83.63423157,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Novi, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/novi/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.47349548,-83.52242279,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hermansville, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hermansville/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.71490097,-87.62265778,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Redford, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/redford/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.37555313,-83.28894806,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Southgate, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/southgate/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.20443344,-83.19992065,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Boyne City, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/boyne-city/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.20520401,-85.01829529,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Plymouth, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/plymouth/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.36882019,-83.47994232,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Republic, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/republic/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.36804581,-87.99382019,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Munising, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/munising/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.41386414,-86.62684631,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rochester, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rochester/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.71068573,-83.16421509,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mount Clemens, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mount-clemens/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.57756042,-82.8940506,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Portage, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/portage/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.20748138,-85.59568787,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alpena, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alpena/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.07901764,-83.46019745,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grawn, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grawn/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.6427803,-85.71128845,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Trout Creek, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/trout-creek/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.48642731,-89.02696228,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cooks, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cooks/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.89966583,-86.53071594,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Flint, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/flint/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.02349091,-83.68598175,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bridgeport, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bridgeport/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.35530853,-83.85490417,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bay Shore, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bay-shore/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.3180542,-85.2583313,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Davisburg, MI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/davisburg/michigan/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.75413132,-83.52001953,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

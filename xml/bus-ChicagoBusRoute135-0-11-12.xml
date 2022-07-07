@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="135" rtRtpiFeedName="" rtdd="135"> <!-- @11 @16 -->
+
+		<time>4:17 PM</time>
+
+
+		<bus>
+			<id>1819</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>135</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>135</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.88007296546031</lat>
+			<lon>-87.6323114168846</lon>
+			<pid>4510</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P827</run>
+			<fs>Wilson/Clarendon</fs>
+			<op>39310</op>
+			<dip>1585</dip>
+			<bid>2406</bid>				
+			<wid1>0P</wid1>
+			<wid2>827</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4342</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>135</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>135</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>E</dn> 
+			<lat>41.8882106145223</lat>
+			<lon>-87.62364557054308</lon>
+			<pid>4510</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P462</run>
+			<fs>Wilson/Clarendon</fs>
+			<op>42858</op>
+			<dip>6707</dip>
+			<bid>2455</bid>				
+			<wid1>0P</wid1>
+			<wid2>462</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4358</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>135</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>135</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.9447864956326</lat>
+			<lon>-87.64127739800347</lon>
+			<pid>4510</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P317</run>
+			<fs>Wilson/Clarendon</fs>
+			<op>63272</op>
+			<dip>33001</dip>
+			<bid>2294</bid>				
+			<wid1>0P</wid1>
+			<wid2>317</wid2>            	
+		</bus>
+
+
+
+	</buses>

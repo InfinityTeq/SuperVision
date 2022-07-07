@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="96" rtRtpiFeedName="" rtdd="96"> <!-- @11 @16 -->
+
+		<time>4:17 PM</time>
+
+
+		<bus>
+			<id>1835</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>96</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>96</rtdd>  
+			
+			<d>North East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>ENE</dn> 
+			<lat>42.01136779785156</lat>
+			<lon>-87.7113871081122</lon>
+			<pid>2107</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P051</run>
+			<fs>Morse Red Line</fs>
+			<op>57175</op>
+			<dip>8594</dip>
+			<bid>2323</bid>				
+			<wid1>0P</wid1>
+			<wid2>051</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1932</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>96</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>96</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>42.01211313100961</lat>
+			<lon>-87.70038325969989</lon>
+			<pid>2104</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P056</run>
+			<fs>Devon/Kedzie</fs>
+			<op>59695</op>
+			<dip>13370</dip>
+			<bid>2327</bid>				
+			<wid1>0P</wid1>
+			<wid2>056</wid2>            	
+		</bus>
+
+
+
+	</buses>

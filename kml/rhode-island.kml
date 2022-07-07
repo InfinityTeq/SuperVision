@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Warwick, RI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/warwick/rhode-island/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.44759369,41.70260239,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newport, RI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newport/rhode-island/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.30348206,41.50450134,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Providence, RI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/providence/rhode-island/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.41139984,41.82550049,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Portsmouth, RI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/portsmouth/rhode-island/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.25202179,41.5943985,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pawtucket, RI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pawtucket/rhode-island/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.39071655,41.8728714,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Kingstown, RI</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-kingstown/rhode-island/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.4624939,41.58942413,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Logan, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/logan/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.82261658,41.74702454,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dutch John, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dutch-john/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.35425568,40.93224335,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Jordan, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-jordan/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.967659,40.62542725,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Millcreek, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/millcreek/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.87142944,40.68000031,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Willard, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/willard/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.03165436,41.39894485,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Manila, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/manila/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.72350311,40.96849442,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Layton, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/layton/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.92736816,41.08457565,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kanab, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kanab/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.34537506,37.07208633,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monticello, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monticello/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.31529236,37.92170715,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Vernal, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vernal/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.54688263,40.44061279,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lehi, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lehi/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.85060883,40.39584351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Harmony, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-harmony/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-113.3088913,37.4794426,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Magna, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/magna/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.08086395,40.70087814,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monroe, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monroe/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.13243103,38.64530563,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Provo, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/provo/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.67550659,40.23194885,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alpine, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alpine/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.76885986,40.46158981,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wellington, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wellington/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.73695374,39.53725815,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Washington, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/washington/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-113.50504303,37.13637924,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Helper, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/helper/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.85600281,39.67368317,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Echo, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/echo/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.44249725,40.97777939,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cannonville, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cannonville/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.05305481,37.56694412,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tooele, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tooele/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.30021667,40.54544449,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Garden City, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/garden-city/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.40703583,41.93764114,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kamas, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kamas/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.26187897,40.64143372,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hyde Park, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hyde-park/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.81833649,41.79888916,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blanding, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blanding/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.48660278,37.58634186,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grantsville, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grantsville/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.4617691,40.60054016,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Roy, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/roy/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.03817749,41.17236328,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairview, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairview/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.49528503,39.64531708,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Park Valley, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/park-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-113.34776306,41.85512543,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Springdale, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/springdale/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-113.04972076,37.29972076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Salt Lake City, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/salt-lake-city/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.89665985,40.75585175,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hooper, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hooper/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.09037018,41.18267059,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Santaquin, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/santaquin/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.79381561,39.98035431,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fruitland, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fruitland/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.83889008,40.21277618,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Salina, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/salina/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.881073,38.95602798,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spanish Fork, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spanish-fork/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.64624786,40.10990906,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wendover, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wendover/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-113.99357605,40.59739685,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chester, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chester/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.57167053,39.46527863,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Draper, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/draper/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.88095856,40.50460052,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fillmore, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fillmore/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.33132172,38.98053741,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hyrum, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hyrum/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.84899902,41.63109589,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>South Jordan, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-jordan/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.9383316,40.52194214,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mona, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mona/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.84799957,39.83816528,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Orem, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/orem/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.69528961,40.3134079,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Farmington, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/farmington/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.89378357,40.98891449,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Summit, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/summit/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.91340637,37.80339813,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sandy, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sandy/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.88162231,40.57938004,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Koosharem, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/koosharem/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.8805542,38.51027679,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Green River, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/green-river/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.15982056,39.00024414,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Park City, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/park-city/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.52802277,40.69572449,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Midway, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/midway/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.47757721,40.50933838,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Morgan, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/morgan/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.71633911,41.06783295,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pleasant Grove, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pleasant-grove/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.733284,40.37198639,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Carbon, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-carbon/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.41130829,39.54608917,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cedar City, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cedar-city/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-113.0745163,37.68954468,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Joseph, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/joseph/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.22512054,38.6220932,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Plymouth, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/plymouth/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.14333344,41.87555695,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Riverton, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/riverton/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.95465851,40.53789139,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Scipio, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/scipio/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.10333252,39.24499893,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eureka, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eureka/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.1174469,39.95409393,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Portage, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/portage/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.23860931,41.97583389,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lindon, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lindon/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.71435547,40.34119034,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beaver, UT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beaver/utah/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.62991333,38.28070831,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

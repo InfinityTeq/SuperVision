@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Crary, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/crary/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.62123871,48.05302811,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oriska, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oriska/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.78533173,46.94325256,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand Forks, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-forks/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.04463196,47.90103912,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairmount, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairmount/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.6308136,46.04265976,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tappen, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tappen/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.60189056,46.83361816,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kulm, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kulm/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.94272614,46.30727386,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beach, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beach/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.98429108,46.93238068,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thompson, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thompson/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.09619904,47.77658081,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Almont, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/almont/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.52212524,46.7046051,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dunseith, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dunseith/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.03110504,48.84801102,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bowman, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bowman/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.40196228,46.17331696,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Forman, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/forman/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.69864655,46.07207489,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Minot, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/minot/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.29847717,48.22914124,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jamestown, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jamestown/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.70612335,46.90589905,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mountain, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mountain/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.80757141,48.67734146,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fargo, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fargo/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.7935791,46.90087891,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dickinson, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dickinson/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.78759766,46.88728714,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Abercrombie, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/abercrombie/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.73000336,46.44777679,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cogswell, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cogswell/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.80953979,46.08910751,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ellendale, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ellendale/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.51383209,46.00731659,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Killdeer, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/killdeer/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.77624512,47.4108963,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Medora, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/medora/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.42101288,46.84577179,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Devils Lake, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/devils-lake/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.86158752,48.11316299,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wishek, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wishek/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.58600616,46.25161743,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marmarth, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marmarth/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.87999725,46.32539749,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bisbee, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bisbee/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.36359406,48.55519485,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Drayton, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/drayton/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.19921875,48.5785675,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grassy Butte, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grassy-butte/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.29443359,47.44307327,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>McClusky, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mcclusky/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.45196533,47.48963928,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westhope, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westhope/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.03380585,48.90507507,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pembina, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pembina/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.27561188,48.93612289,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Williston, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/williston/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.63169861,48.16792297,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belfield, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belfield/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.17951202,46.88772964,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Portal, ND</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/portal/north-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.54801941,48.97581863,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

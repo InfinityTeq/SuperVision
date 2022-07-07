@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="119" rtRtpiFeedName="" rtdd="119"> <!-- @11 @16 -->
+
+		<time>4:18 PM</time>
+
+
+		<bus>
+			<id>1099</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>119</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>119</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.7128665630634</lat>
+			<lon>-87.62027696462778</lon>
+			<pid>757</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1322</run>
+			<fs>Western</fs>
+			<op>34252</op>
+			<dip>4920</dip>
+			<bid>1278</bid>				
+			<wid1>01</wid1>
+			<wid2>322</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1078</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>119</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>119</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>E</dn> 
+			<lat>41.677646136674724</lat>
+			<lon>-87.65242579725923</lon>
+			<pid>754</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1341</run>
+			<fs>95th Red Line</fs>
+			<op>44347</op>
+			<dip>8038</dip>
+			<bid>1277</bid>				
+			<wid1>01</wid1>
+			<wid2>341</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1129</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>119</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>119</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.68543611006303</lat>
+			<lon>-87.62075139825994</lon>
+			<pid>754</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1325</run>
+			<fs>95th Red Line</fs>
+			<op>58540</op>
+			<dip>19490</dip>
+			<bid>1193</bid>				
+			<wid1>01</wid1>
+			<wid2>325</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8338</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>119</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>119</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>41.67802810668945</lat>
+			<lon>-87.63455644087358</lon>
+			<pid>757</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1318</run>
+			<fs>Western</fs>
+			<op>39036</op>
+			<dip>21675</dip>
+			<bid>1281</bid>				
+			<wid1>01</wid1>
+			<wid2>318</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8332</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>119</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>119</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.72222149756647</lat>
+			<lon>-87.62484741210938</lon>
+			<pid>754</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1327</run>
+			<fs>95th Red Line</fs>
+			<op>58516</op>
+			<dip>34210</dip>
+			<bid>1274</bid>				
+			<wid1>01</wid1>
+			<wid2>327</wid2>            	
+		</bus>
+
+
+
+	</buses>

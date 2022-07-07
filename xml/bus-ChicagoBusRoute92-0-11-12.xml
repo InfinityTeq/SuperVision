@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="92" rtRtpiFeedName="" rtdd="92"> <!-- @11 @16 -->
+
+		<time>4:11 PM</time>
+
+
+		<bus>
+			<id>8311</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>92</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>92</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Westbound</dd> 
+			<dn>E</dn> 
+			<lat>41.98366928100586</lat>
+			<lon>-87.65731048583984</lon>
+			<pid>16549</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F116</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>40821</op>
+			<dip>319</dip>
+			<bid>3139</bid>				
+			<wid1>0F</wid1>
+			<wid2>116</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1600</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>92</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>92</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>NW</dn> 
+			<lat>41.97147039933638</lat>
+			<lon>-87.76385428688742</lon>
+			<pid>16548</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F917</run>
+			<fs>Bryn Mawr Red Line</fs>
+			<op>60934</op>
+			<dip>735</dip>
+			<bid>2984</bid>				
+			<wid1>0F</wid1>
+			<wid2>917</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1602</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>92</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>92</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.97626876831055</lat>
+			<lon>-87.66709170134172</lon>
+			<pid>16549</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F911</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>58012</op>
+			<dip>7125</dip>
+			<bid>2985</bid>				
+			<wid1>0F</wid1>
+			<wid2>911</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1591</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>92</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>92</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.975521087646484</lat>
+			<lon>-87.72984520164695</lon>
+			<pid>16548</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F912</run>
+			<fs>Bryn Mawr Red Line</fs>
+			<op>61841</op>
+			<dip>12578</dip>
+			<bid>3154</bid>				
+			<wid1>0F</wid1>
+			<wid2>912</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1585</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>92</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>92</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.975794292631605</lat>
+			<lon>-87.71036263117715</lon>
+			<pid>16549</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F127</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>65143</op>
+			<dip>19056</dip>
+			<bid>2983</bid>				
+			<wid1>0F</wid1>
+			<wid2>127</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1362</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>92</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>92</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.975528717041016</lat>
+			<lon>-87.73516569275787</lon>
+			<pid>16549</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F922</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>40634</op>
+			<dip>25918</dip>
+			<bid>2988</bid>				
+			<wid1>0F</wid1>
+			<wid2>922</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1629</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>92</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>92</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.976099478231895</lat>
+			<lon>-87.67334747314453</lon>
+			<pid>16548</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F908</run>
+			<fs>Bryn Mawr Red Line</fs>
+			<op>49854</op>
+			<dip>28385</dip>
+			<bid>3144</bid>				
+			<wid1>0F</wid1>
+			<wid2>908</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1400</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>92</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>92</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Westbound</dd> 
+			<dn>SE</dn> 
+			<lat>41.97103271484375</lat>
+			<lon>-87.7635986328125</lon>
+			<pid>16549</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F910</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>49992</op>
+			<dip>36328</dip>
+			<bid>3142</bid>				
+			<wid1>0F</wid1>
+			<wid2>910</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8283</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>92</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>92</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>NW</dn> 
+			<lat>41.970308333333335</lat>
+			<lon>-87.76259166666667</lon>
+			<pid>16549</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F914</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>56683</op>
+			<dip>36739</dip>
+			<bid>3155</bid>				
+			<wid1>0F</wid1>
+			<wid2>914</wid2>            	
+		</bus>
+
+
+
+	</buses>

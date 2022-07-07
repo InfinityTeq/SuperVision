@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Brownville, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brownville/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.34122849,-69.04232788,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Etna, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/etna/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.79323196,-69.13222504,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Limerick, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-limerick/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.12611008,-67.84083557,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sherman, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sherman/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.87772751,-68.36959076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Island Falls, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/island-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.01686478,-68.26672363,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kennebunk, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kennebunk/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.38805389,-70.54780579,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carmel, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carmel/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.80531311,-68.99414825,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bremen, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bremen/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.00629044,-69.43066406,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oakfield, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oakfield/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.1087532,-68.12980652,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gorham, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gorham/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.68432999,-70.4679718,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bowdoinham, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bowdoinham/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.0368042,-69.91884613,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bangor, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bangor/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.82419968,-68.7918396,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stillwater, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stillwater/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.90833282,-68.68694305,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Limington, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/limington/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.72603226,-70.67517853,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Calais, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/calais/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.17147827,-67.26407623,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hallowell, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.2864151,-69.80574036,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Falmouth, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/falmouth/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.73403931,-70.26252747,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Guilford, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/guilford/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.17345428,-69.39749146,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blaine, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blaine/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.5047226,-67.86916351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Augusta, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/augusta/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.32322693,-69.76654816,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Aurora, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/aurora/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.88611221,-68.29592896,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milo, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milo/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.25069809,-68.97709656,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newport, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newport/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.83926392,-69.2674942,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Castine, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/castine/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.46749878,-68.71920013,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Southwest Harbor, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/southwest-harbor/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.28229904,-68.32646942,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>York, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/york/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.15444565,-70.65782928,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clinton, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clinton/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.64399338,-69.52840424,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stockholm, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stockholm/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.06430054,-68.20861053,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Newport, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-newport/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.8208313,-69.22305298,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brewer, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brewer/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.78743362,-68.75389862,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Medway, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/medway/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.60704041,-68.52271271,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kittery, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kittery/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.09212875,-70.74287415,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Durham, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/durham/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.92833328,-70.12361145,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wiscasset, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wiscasset/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.00744247,-69.68257904,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lincoln, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lincoln/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.35083389,-68.50769043,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nobleboro, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nobleboro/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.09429932,-69.48278809,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waterville, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waterville/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.547966,-69.63591766,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lewiston, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lewiston/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.09853745,-70.19161987,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Vassalboro, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vassalboro/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.44045639,-69.65190125,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sebec, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sebec/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.3069458,-69.03388977,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Franklin, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/franklin/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.60873413,-68.24165344,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Scarborough, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/scarborough/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.57805634,-70.32221985,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Boothbay, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/boothbay/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.89449692,-69.62731934,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Kennebunk, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-kennebunk/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.4086113,-70.58194733,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eagle Lake, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eagle-lake/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.04000092,-68.58999634,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairfield, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairfield/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.60963821,-69.63320923,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Houlton, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/houlton/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.11885071,-67.86301422,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pittsfield, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pittsfield/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.78710938,-69.40222931,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hampden, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hampden/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.74107361,-68.87304688,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edgecomb, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edgecomb/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.97917938,-69.61974335,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Biddeford, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/biddeford/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.48364639,-70.47193146,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>South Freeport, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-freeport/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.81972122,-70.11000061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gardiner, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gardiner/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.20702744,-69.78577423,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gray, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gray/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.89420319,-70.34294128,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Topsham, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/topsham/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.94128418,-69.96447754,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Orono, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/orono/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.88305664,-68.67250061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wells, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wells/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.31435013,-70.59688568,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blue Hill, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blue-hill/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.43426514,-68.58851624,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stacyville, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stacyville/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.88589096,-68.4618454,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Freeport, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/freeport/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.85109329,-70.11385345,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rockland, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rockland/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.11232758,-69.11393738,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Madawaska, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/madawaska/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.3294487,-68.33280945,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winter Harbor, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winter-harbor/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.39003754,-68.08431244,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Howland, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/howland/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.24781418,-68.66925049,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Perry, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/perry/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.98882294,-67.09288025,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Penobscot, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/penobscot/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.43437195,-68.75740814,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Portland, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/portland/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.66056442,-70.25886536,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kennebunkport, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kennebunkport/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.39228821,-70.47286987,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Benedicta, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/benedicta/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.81248474,-68.40885162,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Camden, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/camden/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.21371841,-69.07668304,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cumberland Foreside, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cumberland-foreside/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.77448654,-70.1883316,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saco, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saco/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.5209465,-70.45463562,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monson, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monson/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.29808807,-69.4879837,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Old Town, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/old-town/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.94304276,-68.67495728,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Yarmouth, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/yarmouth/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.80093384,-70.17495728,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Buxton, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/buxton/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.66158676,-70.60154724,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Francis, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-francis/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.14070892,-68.95030975,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Richmond, ME</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/richmond/maine/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.10421371,-69.82107544,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

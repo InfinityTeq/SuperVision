@@ -1,0 +1,2774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Palm Coast, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/palm-coast/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.20800018,29.58469963,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ellenton, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ellenton/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.50060272,27.5381794,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Helen, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-helen/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.23336792,28.98056793,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marco Island, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marco-island/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.7173996,25.93919945,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Campbellton, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/campbellton/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.37659454,30.95628929,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jacksonville Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jacksonville-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.39333344,30.29444313,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alachua, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alachua/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.48052979,29.79699516,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jasper, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jasper/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.93218231,30.50291443,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bonifay, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bonifay/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.68996429,30.84636879,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holmes Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holmes-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.70417023,27.46666718,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Apopka, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/apopka/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.48514557,28.66186523,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pembroke Pines, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pembroke-pines/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.29743958,26.02292633,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Coleman, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/coleman/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.07027435,28.7994442,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tampa, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tampa/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.45490265,27.94280052,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mims, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mims/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.8662796,28.69738388,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sebring, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sebring/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.43571472,27.49239159,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Middleburg, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/middleburg/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.86055756,30.06861115,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Avon Park, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/avon-park/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.50148773,27.6000843,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Port, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-port/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.17350006,27.0781002,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Captiva, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/captiva/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.26101685,26.75054169,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jupiter, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jupiter/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.1200943,26.93393707,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Groveland, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/groveland/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.87452698,28.5644455,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chipley, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chipley/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.54864502,30.71065712,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Venice, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/venice/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.44889832,27.09930038,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alford, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alford/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.34838104,30.71410561,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Haines City, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/haines-city/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.61471558,28.0950737,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edgewater, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edgewater/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.91034698,28.98180008,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gotha, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gotha/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.52333069,28.52750015,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Baker, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/baker/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.67701721,30.83156967,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>DeFuniak Springs, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/defuniak-springs/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.13800812,30.75178337,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sumterville, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sumterville/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.06361389,28.74472237,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jennings, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jennings/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.13497162,30.54824257,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Lauderdale, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-lauderdale/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.12877655,26.12156105,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Summerland Key, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/summerland-key/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.49356079,24.65532112,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake City, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-city/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.71170044,30.09490013,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gibsonton, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gibsonton/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.36982727,27.84105873,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ruskin, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ruskin/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.4355011,27.70150185,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sanibel, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sanibel/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.08682251,26.45140076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rockledge, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rockledge/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.73193359,28.31344032,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sanford, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sanford/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.28504181,28.80130768,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Pierce, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-pierce/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.4439621,27.43823242,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cottondale, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cottondale/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.38467407,30.80035973,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bushnell, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bushnell/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.15529633,28.66106224,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wesley Chapel, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wesley-chapel/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.28895569,28.2103653,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Leesburg, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/leesburg/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.88577271,28.80796432,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ocoee, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ocoee/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.53261566,28.58368492,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Hamilton, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-hamilton/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.62805939,28.04416656,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Melbourne, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/melbourne/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.62001801,28.06913185,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Homosassa Springs, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/homosassa-springs/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.57611084,28.80333328,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Naples, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/naples/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.79694366,26.13813972,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Titusville, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/titusville/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.81913757,28.56971169,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bagdad, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bagdad/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.03111267,30.59861183,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Balm, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/balm/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.26139069,27.75916672,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Plymouth, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/plymouth/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.54750061,28.69194412,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clarcona, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clarcona/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.49888611,28.61249924,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milton, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milton/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.04727936,30.66041374,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tallevast, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.54305267,27.40138817,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Key Largo, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/key-largo/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.40608215,25.14021492,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clarksville, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clarksville/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.18980408,30.35683441,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Micanopy, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/micanopy/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.27970123,29.52602959,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nocatee, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nocatee/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.88249969,27.15999985,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Yulee, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/yulee/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.60666656,30.63166618,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Laurel, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/laurel/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.45333099,27.12999916,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Auburndale, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/auburndale/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.81223297,28.07244301,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shady Grove, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shady-grove/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.63194275,30.28777885,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oneco, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oneco/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.54638672,27.44722176,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Salerno, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-salerno/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.20083618,27.14388847,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winter Garden, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winter-garden/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.60510254,28.48670006,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lakeland, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lakeland/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.93915558,28.03813362,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Panama City, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/panama-city/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.64940643,30.16062355,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gainesville, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gainesville/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.31004333,29.64502907,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Palmetto, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/palmetto/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.57250214,27.52111053,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Flagler Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/flagler-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.13028717,29.47497749,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Cloud, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-cloud/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.28762817,28.24799156,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Immokalee, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/immokalee/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.36779785,26.37509918,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milligan, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milligan/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.64083099,30.75222206,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairfield, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairfield/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.25138855,29.36666679,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Vero Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vero-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.40307617,27.63298416,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Coconut Creek, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/coconut-creek/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.20659637,26.24410057,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winter Park, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winter-park/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.35343933,28.5978241,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tavernier, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tavernier/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.52181244,25.01078796,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clermont, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clermont/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.75740814,28.55254173,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Longwood, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/longwood/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.35523987,28.71199417,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Monroe, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-monroe/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.32722473,28.82444382,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ona, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ona/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.92804718,27.41265678,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mount Dora, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mount-dora/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.64472198,28.8022213,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sorrento, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sorrento/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.53231812,28.8035183,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lutz, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lutz/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.47519684,28.14299965,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Miami, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/miami/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.19819641,25.77899933,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holt, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holt/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.70463562,30.72521973,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greenville, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greenville/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.6473999,30.45119858,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hudson, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hudson/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.67566681,28.36476326,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Key West, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/key-west/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.76217651,24.56531334,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Miami Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-miami-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.13513947,25.93608665,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monticello, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monticello/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.89245605,30.51968193,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Crestview, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/crestview/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.55368042,30.77061081,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hollywood, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hollywood/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.12193298,26.00701141,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Okeechobee, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/okeechobee/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.84785461,27.31153107,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Okahumpka, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/okahumpka/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.88394928,28.737257,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wellborn, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wellborn/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.85053253,30.17962456,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dundee, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dundee/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.62120819,28.01941109,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Homestead, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/homestead/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.4838562,25.47663879,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Panama City Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/panama-city-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.79198456,30.19462395,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Madison, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/madison/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.40667725,30.48020935,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Parrish, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/parrish/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.39601135,27.55716133,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Orange, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-orange/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.97666931,29.12138939,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>DeLand, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/deland/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.33485413,29.02659035,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Mary, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-mary/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.33807373,28.75235176,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sebastian, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sebastian/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.4784317,27.79008293,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Palm Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-palm-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.06587219,26.71395683,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Daytona Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/daytona-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.03707123,29.20116806,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Davenport, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/davenport/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.62049866,28.21999931,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Plant City, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/plant-city/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.12889862,28.01679993,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Deerfield Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/deerfield-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.0991745,26.30955505,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hialeah, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hialeah/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.30490112,25.90500069,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waverly, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waverly/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.61416626,27.97861099,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ocala, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ocala/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.09739685,29.19809914,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cape Canaveral, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cape-canaveral/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.60426331,28.39034081,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Englewood, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/englewood/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.35988617,26.96674347,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oak Hill, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oak-hill/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.85506439,28.86998558,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Deltona, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/deltona/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.24730682,28.89889717,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cape Coral, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cape-coral/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.95223999,26.57745934,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Reddick, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/reddick/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.24399567,29.37535286,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Islamorada, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/islamorada/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.62995148,24.92333031,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lowell, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lowell/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.19166565,29.3302784,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Orange Park, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/orange-park/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.71450043,30.10440063,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Panasoffkee, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-panasoffkee/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.13627625,28.79526138,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Indiantown, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/indiantown/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.48027802,27.06146049,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Myers Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-myers-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.92454529,26.45195198,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lloyd, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lloyd/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.02194214,30.47722244,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Boca Raton, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/boca-raton/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.08393097,26.35856056,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>San Antonio, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/san-antonio/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.28823853,28.33713913,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bradenton, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bradenton/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.5138855,27.5027771,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cocoa Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cocoa-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.61206818,28.33245087,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sarasota, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sarasota/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.53749847,27.33480072,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Palm Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/palm-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.03882599,26.72064972,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tallahassee, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.25933838,30.42856216,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hernando, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hernando/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.37472534,28.89972115,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Minneola, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/minneola/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.7463913,28.57416725,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Orlando, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/orlando/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.37266541,28.53988266,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Scottsmoor, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/scottsmoor/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.87833405,28.76666641,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Myers, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-myers/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.87249756,26.62040329,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oakland, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oakland/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.6333313,28.55472183,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greensboro, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greensboro/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.74333191,30.56916618,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Terra Ceia, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/terra-ceia/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.58055878,27.57916641,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Riverview, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/riverview/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.32666779,27.86583328,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eaton Park, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eaton-park/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.90777588,28.00833321,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>DeBary, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/debary/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.3065033,28.88457298,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Boynton Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/boynton-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.06659698,26.52499962,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kissimmee, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kissimmee/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.42420959,28.30505562,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mango, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mango/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.30666351,27.9794445,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Youngstown, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/youngstown/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.51688385,30.32691383,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cocoa, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cocoa/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.74645233,28.36718369,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Altamonte Springs, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/altamonte-springs/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.3719101,28.66272736,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gretna, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gretna/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.66000366,30.61694336,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chattahoochee, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chattahoochee/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.82804108,30.68339348,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Quincy, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/quincy/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.60945129,30.58667564,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brooksville, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brooksville/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.37367249,28.56580544,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fernandina Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fernandina-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.46882629,30.63538742,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lorida, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lorida/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.1965332,27.41495132,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ormond Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ormond-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.05654144,29.28553963,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sanderson, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sanderson/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.33773804,30.30253601,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mossy Head, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mossy-head/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.32277679,30.76166725,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marathon, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marathon/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.03858185,24.72791862,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Destin, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/destin/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.48339844,30.3920002,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Palm Beach Gardens, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/palm-beach-gardens/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.08730316,26.8443737,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wildwood, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wildwood/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.034729,28.84535217,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Palm Bay, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/palm-bay/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.59909058,28.01460457,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lee, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lee/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.28439331,30.39786339,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lecanto, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lecanto/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.4905014,28.93029976,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cortez, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cortez/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.70064545,27.47268677,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Worth, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-worth/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.14689636,26.6154995,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pompano Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pompano-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.12345886,26.23152924,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marianna, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marianna/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.22937012,30.75858688,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Midway, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/midway/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.45444489,30.4952774,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Maitland, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/maitland/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.354599,28.63128471,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sun City, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sun-city/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.47888947,27.67805672,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pensacola, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pensacola/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.22476196,30.42228127,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>The Villages, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/the-villages/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.00460052,28.93350029,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kathleen, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kathleen/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.04350281,28.20522308,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fountain, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fountain/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.42927551,30.47532654,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winter Springs, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winter-springs/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.28136444,28.68309784,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Miami Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/miami-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.14029694,25.76110077,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Caryville, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/caryville/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.79978943,30.79687881,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clearwater, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clearwater/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.7806015,27.97990036,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ponce de Leon, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ponce-de-leon/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.95463562,30.70414543,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Petersburg, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-petersburg/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.63861084,27.77231789,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Smyrna Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-smyrna-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.95843506,29.02467155,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Delray Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/delray-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.07932281,26.45644569,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hallandale, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.14861298,25.98083305,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oviedo, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oviedo/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.20833588,28.6697216,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fellsmere, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fellsmere/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.60194397,27.76427269,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Live Oak, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/live-oak/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.0249939,30.28662109,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cypress, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cypress/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.07389069,30.71305656,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westville, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westville/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.9129715,30.8746891,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nokomis, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nokomis/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.44444275,27.11888885,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Archer, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/archer/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.51084137,29.55973816,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cassadaga, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cassadaga/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.2361145,28.96611023,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Navarre, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/navarre/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.93710327,30.59026146,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jacksonville, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jacksonville/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.76865387,30.33764839,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Palm City, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/palm-city/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.29164886,27.1656456,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winter Haven, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winter-haven/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.75151062,27.99929619,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thonotosassa, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thonotosassa/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.30821228,28.0617466,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Killarney, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/killarney/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.65055847,28.54694366,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sun City Center, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sun-city-center/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.4332962,27.72050095,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Walton Beach, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-walton-beach/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.62748718,30.44729614,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Punta Gorda, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/punta-gorda/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.05316925,26.91516304,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bonita Springs, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bonita-springs/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.73316193,26.38715935,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Macclenny, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/macclenny/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.13247681,30.2736702,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Polk City, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/polk-city/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.80828094,28.19866943,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seminole, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seminole/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.79470062,27.84379959,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Argyle, FL</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/argyle/florida/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.04444122,30.71944427,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

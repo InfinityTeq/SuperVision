@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Pie Town, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pie-town/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.36818695,34.3242836,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Los Alamos, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/los-alamos/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.2676239,35.86632156,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Raton, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/raton/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.43488312,36.89518738,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Angel Fire, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/angel-fire/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.26305389,36.55472183,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Continental Divide, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/continental-divide/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.46925354,35.50429535,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cloudcroft, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cloudcroft/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.93902588,32.57406616,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hobbs, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hobbs/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.13724518,32.72217178,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ruidoso, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ruidoso/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.65099335,33.34740448,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lincoln, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lincoln/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.52842712,33.49291229,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bernalillo, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bernalillo/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.53087616,35.32850647,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clines Corners, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clines-corners/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.66860962,35.00944519,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Isleta, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/isleta/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.69499969,34.91333389,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Taos, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/taos/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.58473206,36.39528656,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tucumcari, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tucumcari/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.71793365,35.16800308,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Taos Ski Valley, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/taos-ski-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.45222473,36.58444214,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lordsburg, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lordsburg/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.75465393,32.31403351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pecos, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pecos/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.67010498,35.57101059,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glorieta, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glorieta/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.79031372,35.56664658,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Espanola, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/espanola/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.07169342,35.98715591,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Red River, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/red-river/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.40555573,36.7080574,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chama, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chama/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.58293152,36.89621353,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edgewood, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edgewood/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.18721008,35.07760239,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Albuquerque, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/albuquerque/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.64353943,35.08707047,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Organ, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/organ/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.59610748,32.42555618,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Santa Rosa, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/santa-rosa/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-104.68215179,34.93327713,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Moriarty, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/moriarty/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.06086731,34.98887634,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Las Cruces, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/las-cruces/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.74603271,32.32164001,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mesquite, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mesquite/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.66762543,32.14595795,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cerrillos, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cerrillos/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-106.13168335,35.422966,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Silver City, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/silver-city/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-108.2749176,32.78998566,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Santa Fe, NM</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/santa-fe/new-mexico/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-105.97481537,35.70247269,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

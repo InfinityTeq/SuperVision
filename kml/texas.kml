@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Pearland, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pearland/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.27207184,29.56165695,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Willis, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/willis/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.47972107,30.42472267,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Houston, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/houston/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.36582184,29.7654705,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mc Neil, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mc-neil/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.71666718,30.45499992,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pflugerville, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pflugerville/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.62989807,30.44213295,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fulshear, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fulshear/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.89768219,29.72169876,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sugar Land, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sugar-land/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.62185669,29.63415337,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dallas, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.80438995,32.79043961,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Meridian, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/meridian/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.64433289,31.92902184,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Del Valle, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/del-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.61344147,30.17449188,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>League City, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/league-city/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.09627533,29.51728058,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cedar Park, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cedar-park/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.81757355,30.47716522,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tomball, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tomball</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.62006378,30.07392311,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Worth, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-worth/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.32730865,32.74702072,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pharr, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pharr/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.18701935,26.17705345,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Del Rio, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/del-rio/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.89155579,29.37388039,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pineland, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pineland/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.97541809,31.24178123,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>South Padre Island, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-padre-island/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.16729736,26.11110497,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Panhandle, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/panhandle/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.43036652,35.3808403,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sadler, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sadler/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.84001923,33.73098755,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Davis, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-davis/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.93643188,30.61314392,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beaumont, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beaumont/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.10389709,30.06880569,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bellaire, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bellaire/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.46110535,29.70231247,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seabrook, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seabrook/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.02873993,29.57289505,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Martindale, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/martindale/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.7933197,29.79332733,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kyle, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kyle/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.8371048,30.00429916,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Channelview, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/channelview/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.13165283,29.79143715,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Texas City, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/texas-city/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.92029572,29.3969841,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Medina, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/medina/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.30643463,29.79068947,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>San Marcos, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/san-marcos/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.94041443,29.87535858,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Linden, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/linden/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.36051178,33.00482178,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Irving, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/irving/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.97190094,32.84199905,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Austin, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/austin/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.71440125,30.2303009,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Aransas Pass, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/aransas-pass/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.14971924,27.90916634,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hico, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hico/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.02493286,31.9597187,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Conroe, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/conroe/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.45266724,30.31253433,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cypress, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cypress/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.69694519,29.96888924,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Richmond, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/richmond/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.76055908,29.58194351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Amarillo, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/amarillo/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.84204865,35.20323944,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spring, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spring/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.37732697,30.05324173,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Point Comfort, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/point-comfort/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.55999756,28.67944336,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Manor, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/manor/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.53229523,30.3388176,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Galveston, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/galveston/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.79296875,29.29827118,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Naples, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/naples/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.68906403,33.191185,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Isabel, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-isabel/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.2543869,26.08764076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greenville, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greenville/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.10241699,33.11747742,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Midlothian, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/midlothian/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.99355316,32.47574234,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sherman, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sherman/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.60752106,33.64352417,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Round Rock, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/round-rock/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.66802979,30.51452065,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Aransas, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-aransas/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.06083679,27.83361053,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tyler, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tyler/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.29217529,32.32536697,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>San Antonio, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/san-antonio/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.52635193,29.46852493,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>San Angelo, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/san-angelo/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.48175049,31.47816467,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Justiceburg, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/justiceburg/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.20249939,33.04277802,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thornton, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thornton/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.50238037,31.4083252,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Freeport, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/freeport/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.3713913,28.96968079,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Arlington, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/arlington/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.14689636,32.63359833,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Barstow, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/barstow/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.3970871,31.46390724,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lubbock, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lubbock/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.86063385,33.58652878,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Corpus Christi, TX</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/corpus-christi/texas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.40299225,27.79408646,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

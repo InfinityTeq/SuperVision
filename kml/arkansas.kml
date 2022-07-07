@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Alma, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alma/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.20733643,35.50004196,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Conway, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/conway/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.42357635,35.084198,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fayetteville, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fayetteville/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.15339661,36.05204391,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stephens, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stephens/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.02139282,33.45504379,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake City, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-city/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.44232941,35.81715012,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mount Vernon, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mount-vernon/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.13733673,35.26061249,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gateway, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gateway/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.93501282,36.48575211,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Emmet, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/emmet/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.42324066,33.6928978,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>El Dorado, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/el-dorado/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.66285706,33.20735168,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Smith, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-smith/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.41103363,35.36527252,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Junction City, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/junction-city/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.68425751,33.04396439,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Berryville, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/berryville/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.55872345,36.35190964,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mount Pleasant, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mount-pleasant/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.78501129,35.97591019,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pea Ridge, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pea-ridge/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.11802673,36.45388412,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Arkadelphia, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/arkadelphia/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.06899261,34.11524963,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Avoca, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/avoca/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-94.07055664,36.40194321,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Goshen, AR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/goshen/arkansas/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.98725891,36.10752487,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

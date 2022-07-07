@@ -1,0 +1,1773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Boise, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/boise/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.61544037,-116.21642303,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rogerson, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rogerson/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.21956635,-114.60379028,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marsing, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marsing/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.5398674,-116.82396698,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Felt, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/felt/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.87240601,-111.1894989,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kootenai, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kootenai/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>48.31027985,-116.51249695,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sun Valley, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sun-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.69549942,-114.35569763,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pollock, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pollock/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.30675507,-116.35174561,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spirit Lake, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spirit-lake/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.96565247,-116.86804962,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Basalt, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/basalt/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.31555557,-112.16361237,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rexburg, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rexburg/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.80996704,-111.78902435,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ponderay, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ponderay/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>48.30555725,-116.53277588,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oldtown, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oldtown/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>48.18798828,-116.92738342,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Desmet, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/desmet/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.12595367,-116.89374542,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dingle, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dingle/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.21944427,-111.26721954,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Hall, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-hall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.98871613,-112.45985413,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Coeur D Alene, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/coeur-d-alene/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.69284058,-116.78497314,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Burley, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/burley/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.52444077,-113.79308319,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hayden, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hayden/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.7738533,-116.77681732,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Firth, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/firth/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.3020668,-112.15882111,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cascade, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cascade/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.49327469,-116.02767944,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Horseshoe Bend, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/horseshoe-bend/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.92288208,-116.18090057,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Geneva, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/geneva/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.31358337,-111.0721817,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Howe, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/howe/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.7836113,-113.00389099,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glenns Ferry, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glenns-ferry/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.96220016,-115.31597137,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kamiah, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kamiah/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.21855927,-116.03474426,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dover, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dover/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>48.25166702,-116.61000061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eden, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eden/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.58037567,-114.1627655,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kingston, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kingston/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.55088043,-116.28871918,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wallace, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.49084091,-115.96199799,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Porthill, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/porthill/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>48.99203873,-116.47751617,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ketchum, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ketchum/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.67546082,-114.37366486,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Driggs, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/driggs/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.72629166,-111.11989594,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Athol, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/athol/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.92673874,-116.73181915,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fruitland, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fruitland/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.00265884,-116.91426086,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cottonwood, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cottonwood/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.04478836,-116.37330627,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Meadows, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-meadows/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.99396896,-116.28743744,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fenn, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fenn/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.92666626,-116.1213913,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elk City, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elk-city/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.88889694,-115.35916138,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Emmett, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/emmett/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.87915039,-116.51145935,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grangeville, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grangeville/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.92723846,-116.1076355,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Aberdeen, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/aberdeen/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.9767189,-112.81812286,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tensed, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tensed/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.17073441,-116.90271759,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bellevue, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bellevue/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.43969345,-114.24980164,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pierce, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pierce/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.49242401,-115.80706787,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Swan Valley, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/swan-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.40582657,-111.27935791,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Genesee, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/genesee/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.57139587,-116.92899323,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bloomington, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bloomington/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.19194412,-111.40055847,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hill City, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hill-city/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.30055618,-115.05027771,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Council, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/council/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.76275253,-116.45183563,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nordman, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nordman/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>48.56694412,-116.92125702,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lava Hot Springs, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lava-hot-springs/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.61847305,-112.01764679,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Weiser, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/weiser/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.25222015,-116.96507263,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mullan, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mullan/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.4709053,-115.79260254,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Deary, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/deary/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.80606079,-116.52378082,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holbrook, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holbrook/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.2221489,-112.69340515,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Atomic City, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/atomic-city/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.44499969,-112.81194305,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hamer, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hamer/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.9307518,-112.18718719,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ola, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ola/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.23502731,-116.29091644,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>White Bird, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/white-bird/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.75209427,-116.28890228,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bancroft, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bancroft/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.7204628,-111.84294128,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Twin Falls, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/twin-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.55649567,-114.4692688,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jerome, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jerome/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.71783829,-114.50124359,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Conda, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/conda/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.71712494,-111.5402298,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gooding, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gooding/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.9373436,-114.71196747,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hazelton, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hazelton/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.5954628,-114.13498688,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Malta, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/malta/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.36465073,-113.44865417,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tetonia, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tetonia/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.84371185,-111.18699646,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lewiston, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lewiston/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.3894577,-116.98771667,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nampa, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nampa/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.5834198,-116.58481598,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Downey, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/downey/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.41812515,-112.10901642,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pocatello, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pocatello/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.88759232,-112.43814087,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Idaho Falls, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/idaho-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.51767731,-111.99062347,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sandpoint, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sandpoint/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>48.31198883,-116.5332489,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chester, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chester/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.99944305,-111.56916809,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>King Hill, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/king-hill/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.93610382,-115.26909637,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Swanlake, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/swanlake/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.3077774,-111.9980545,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rockland, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rockland/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.55558014,-112.85398102,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ucon, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ucon/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.59638977,-111.96305847,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Arimo, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/arimo/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.55995178,-112.1746521,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Franklin, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/franklin/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.03038788,-111.82286072,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bern, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bern/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.3191452,-111.39259338,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monteview, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monteview/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.98624039,-112.57832336,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mccall, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mccall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.89178467,-116.07887268,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Silverton, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/silverton/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.49305725,-115.95444489,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ferdinand, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ferdinand/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.13487625,-116.39817047,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carey, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carey/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.27444458,-113.8925705,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fish Haven, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fish-haven/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.04592514,-111.4633255,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Yellow Pine, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/yellow-pine/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.96981049,-115.49633789,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairfield, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairfield/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.36750412,-114.79084778,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Paris, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/paris/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.20706558,-111.40293884,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hammett, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hammett/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.9817543,-115.56584167,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hagerman, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hagerman/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.81420517,-114.88697052,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Challis, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.4969101,-114.19463348,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grace, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grace/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.54997635,-111.7399826,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mountain Home, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mountain-home/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.13922119,-115.69633484,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hailey, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hailey/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.52386093,-114.30639648,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Irwin, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/irwin/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.4086113,-111.2986145,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harvard, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harvard/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.93764877,-116.70252228,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stanley, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stanley/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.2290802,-114.72541046,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Heyburn, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/heyburn/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.55992126,-113.77088165,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ashton, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ashton/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.98807907,-111.61952972,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winchester, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winchester/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.23833466,-116.62038422,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hansen, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hansen/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.52489471,-114.29936218,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Plymouth, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-plymouth/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.95902252,-116.8048172,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Medimont, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/medimont/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.46248245,-116.56829071,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ririe, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ririe/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.63196182,-111.76068878,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Post Falls, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/post-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.72047424,-116.93534851,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clarkia, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clarkia/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.04447556,-116.27740479,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rathdrum, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rathdrum/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.82410812,-116.88729095,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Worley, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/worley/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.42921448,-116.90563202,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Roberts, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/roberts/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.71160126,-112.11959076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Victor, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/victor/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.6148262,-111.12593079,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Meridian, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/meridian/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.61496353,-116.39753723,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thatcher, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thatcher/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.33195877,-111.78898621,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Island Park, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/island-park/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.44660568,-111.36791229,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Springfield, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/springfield/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.08166885,-112.6811142,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mccammon, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mccammon/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.63362122,-112.17575836,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clayton, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clayton/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.27328873,-114.41018677,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Maries, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-maries/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.29772568,-116.5681076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Georgetown, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/georgetown/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.47333145,-111.39694214,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kooskia, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kooskia/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.12585831,-115.92395782,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Arco, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/arco/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.63552094,-113.31755829,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Midvale, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/midvale/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.44197845,-116.70383453,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cataldo, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cataldo/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>47.5521698,-116.44313812,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Riggins, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/riggins/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>45.39700699,-116.30055237,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Declo, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/declo/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.52400589,-113.64479065,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spencer, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spencer/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.28144455,-112.09882355,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Moscow, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/moscow/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.7309227,-116.98968506,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Leadore, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/leadore/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.73891068,-113.49258423,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shoshone, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shoshone/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.94735336,-114.38217926,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Anthony, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-anthony/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>44.27449799,-111.52315521,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Caldwell, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/caldwell/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>43.66271973,-116.7000351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Juliaetta, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/juliaetta/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.5753746,-116.71884918,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Albion, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/albion/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>42.41277695,-113.57722473,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Weippe, ID</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/weippe/idaho/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>46.38069153,-115.938591,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

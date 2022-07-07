@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="120" rtRtpiFeedName="" rtdd="120"> <!-- @11 @16 -->
+
+		<time>4:16 PM</time>
+
+
+		<bus>
+			<id>8107</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>120</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>120</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SSW</dn> 
+			<lat>41.88597717285156</lat>
+			<lon>-87.63688163757324</lon>
+			<pid>6364</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K014</run>
+			<fs>Ogilvie Station</fs>
+			<op>57076</op>
+			<dip>7233</dip>
+			<bid>1722</bid>				
+			<wid1>0K</wid1>
+			<wid2>014</wid2>            	
+		</bus>
+
+
+
+	</buses>

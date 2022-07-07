@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Deeth, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/deeth/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-115.37172699,41.43103409,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Minden, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/minden/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.73136139,39.02176666,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Baker, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/baker/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.24616241,39.06599426,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mesquite, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mesquite/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.06629944,36.80550003,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carlin, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carlin/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-116.1082077,40.71721649,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Verdi, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/verdi/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.98777771,39.51833344,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Silver Springs, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/silver-springs/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.27050018,39.38004684,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Laughlin, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/laughlin/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.57221985,35.16777802,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jean, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jean/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-115.46915436,35.85483932,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Las Vegas, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/las-vegas/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-115.12236786,36.17208099,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Boulder City, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/boulder-city/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.83441162,35.97270966,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Reno, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/reno/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.81127167,39.52681351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Battle Mountain, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/battle-mountain/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-116.95543671,40.62198639,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elko, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elko/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-115.72467804,40.82624817,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Incline Village, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/incline-village/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.96179962,39.24599838,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Wendover, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-wendover/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.07527924,40.73500061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Washoe Valley, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/washoe-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.82862091,39.08975601,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winnemucca, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winnemucca/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.74669647,40.96641922,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jackpot, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jackpot/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-115.11288452,41.83959198,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ely, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ely/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.87801361,39.30935669,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fernley, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fernley/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.23504639,39.60188675,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eureka, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eureka/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-115.99430847,39.58966064,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spring Creek, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spring-creek/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-115.34416962,40.50777817,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ruth, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ruth/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.98833466,39.27833176,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Zephyr Cove, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/zephyr-cove/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.95500183,39.00222015,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pahrump, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pahrump/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-116.0146637,36.20404053,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Golconda, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/golconda/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.33493042,40.96832657,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carson City, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carson-city/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.74590302,39.15074539,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Las Vegas, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-las-vegas/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.85138702,36.44749832,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lovelock, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lovelock/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.46891785,40.18190002,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sparks, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sparks/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.75558472,39.54725266,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wells, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wells/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.53275299,41.12979889,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glenbrook, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glenbrook/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.92777252,38.99375153,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Henderson, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/henderson/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.95168304,35.9926796,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>The Lakes, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/the-lakes/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-115.13659668,36.1751709,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Halleck, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-115.45194244,40.95083237,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wadsworth, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wadsworth/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.29177856,39.64806747,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Schurz, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/schurz/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.77558136,38.95752716,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Yerington, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/yerington/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.15956116,38.98656845,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gardnerville, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gardnerville/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.72689819,38.89826965,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Crystal Bay, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/crystal-bay/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.00305939,39.22611237,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hawthorne, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hawthorne/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.6411438,38.53465652,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Austin, NV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/austin/nevada/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.08106232,39.50798416,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

@@ -1,0 +1,2878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Mcchord Afb, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mcchord-afb/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.52305603,47.12861252,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cosmopolis, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cosmopolis/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.77394104,46.95378876,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Naches, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/naches/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.8266983,46.7353363,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milton, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milton/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.31551361,47.24826813,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thorp, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thorp/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.67855835,47.01778412,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Moses Lake, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/moses-lake/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.28914642,47.13736343,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bingen, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bingen/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.17578125,45.63410187,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tumwater, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tumwater/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.02500153,46.95420074,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Stevens, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-stevens/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.06715393,48.01710129,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Metaline Falls, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/metaline-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.3633194,48.85974884,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wenatchee, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wenatchee/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.3273468,47.42527008,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wauna, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wauna/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.64138794,47.37916565,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mansfield, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mansfield/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.40531158,47.90213776,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Preston, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/preston/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.92583466,47.52388763,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>George, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/george/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.85472107,47.07916641,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Othello, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/othello/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.31640625,46.79251862,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Otis Orchards, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/otis-orchards/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.11209106,47.70272827,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kennewick, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kennewick/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.16795349,46.21091461,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Orchard, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-orchard/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.61527252,47.50483704,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Angeles, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-angeles/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.43843842,48.10648727,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oak Harbor, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oak-harbor/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.63743591,48.31509781,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Touchet, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/touchet/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.65541077,46.04851151,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Langley, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/langley/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.4529953,48.01867294,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Camas, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/camas/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.41423035,45.60577011,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Renton, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/renton/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.20748138,47.46475983,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blaine, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blaine/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.73233032,48.96357346,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Prosser, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/prosser/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.77101135,46.22318268,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>McKenna, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mckenna/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.55444336,46.93611145,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Medina, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/medina/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.22638702,47.62111282,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Woodinville, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/woodinville/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.12709045,47.76838303,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kelso, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kelso/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.88699341,46.14849091,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Roslyn, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/roslyn/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.99194336,47.22360992,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>College Place, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/college-place/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.38533783,46.04572296,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lakewood, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lakewood/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.52932739,47.12290573,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Olympia, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/olympia/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.87631226,47.01290512,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Laurier, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/laurier/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.22305298,48.99888992,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lynden, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lynden/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.45915222,48.93722534,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Galvin, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/galvin/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.02583313,46.74250031,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Granite Falls, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/granite-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.94274902,48.07897568,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bellingham, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bellingham/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.48867798,48.74895859,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waterville, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waterville/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.98874664,47.62950897,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Custer, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/custer/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.62257385,48.93741226,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grays River, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grays-river/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.5888443,46.35348129,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greenacres, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greenacres/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.15679932,47.65835571,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monitor, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monitor/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.41694641,47.48694229,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beverly, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beverly/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.91207123,46.84843063,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>South Cle Elum, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-cle-elum/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.94777679,47.18583298,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spanaway, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spanaway/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.39433289,47.0732193,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Washougal, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/washougal/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.31039429,45.59592056,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Humptulips, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/humptulips/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.97169495,47.13563156,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tacoma, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tacoma/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.75830078,47.27640152,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mattawa, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mattawa/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.91611481,46.67944336,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairchild Air Force Base, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairchild-air-force-base/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.64374542,47.61306763,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Uniontown, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/uniontown/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.09075928,46.52581787,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seattle, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seattle/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.33045959,47.61143494,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clallam Bay, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.2015152,48.22548676,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kittitas, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kittitas/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.41583252,46.98333359,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pacific, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pacific/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.2434845,47.26660538,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Soap Lake, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/soap-lake/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.48596191,47.38303375,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Gamble, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-gamble/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.58249664,47.8544426,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Littlerock, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/littlerock/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.01667023,46.90194321,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Lakewood, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-lakewood/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.20749664,48.15194321,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mount Vernon, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mount-vernon/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.32654572,48.41642761,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mill Creek, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mill-creek/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.20305634,47.86027908,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Benton City, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/benton-city/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.49134827,46.28062439,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lopez Island, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lopez-island/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.96743774,48.52080536,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marysville, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marysville/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.15616608,48.0656395,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cougar, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cougar/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.29418945,46.06901169,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint John, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-john/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.57300568,47.07553864,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monroe, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monroe/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.94737244,47.85852814,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eastsound, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eastsound/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.93704224,48.66555405,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Zillah, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/zillah/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.26615906,46.4157753,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Roosevelt, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/roosevelt/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.35661316,45.82962036,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Hadlock, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-hadlock/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.76815033,48.03453064,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>La Center, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/la-center/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.62397003,45.88058853,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Yakima, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/yakima/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.47733307,46.60699081,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ilwaco, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ilwaco/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.02822113,46.3142128,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elbe, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elbe/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.15034485,46.76660538,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Wenatchee, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-wenatchee/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.27313232,47.41859436,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Easton, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/easton/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.17778015,47.23722076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sammamish, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sammamish/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.04229736,47.62440109,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edwall, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edwall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.90709686,47.5378952,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Poulsbo, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/poulsbo/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.62772369,47.74227905,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Centralia, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/centralia/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.96707153,46.72463608,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand Coulee, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-coulee/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.99783325,47.93851089,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Starbuck, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/starbuck/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.1277771,46.51972198,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Richland, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/richland/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.28919983,46.28326416,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Richland, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-richland/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.36027527,46.30444336,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ephrata, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ephrata/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.53358459,47.27705002,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wilbur, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wilbur/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.70626831,47.74101257,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brush Prairie, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brush-prairie/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.48434448,45.7304306,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Quincy, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/quincy/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.84592438,47.19757462,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mountlake Terrace, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mountlake-terrace/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.304039,47.7930603,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Klickitat, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/klickitat/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.22923279,45.75153351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wauconda, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wauconda/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.94694519,48.82244873,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Leavenworth, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/leavenworth/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.67478943,47.64379883,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sultan, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sultan/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.73686981,47.85894012,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stevenson, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stevenson/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.90934753,45.68817139,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Orcas, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/orcas/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.94333649,48.59805679,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dupont, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dupont/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.62999725,47.0969429,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ridgefield, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ridgefield/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.69335175,45.78463364,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stanwood, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stanwood/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.37797546,48.20106888,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>University Place, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/university-place/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.53356171,47.20539474,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spokane, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spokane/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.43652344,47.66648483,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Four Lakes, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/four-lakes/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.59305573,47.56138992,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Goldendale, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/goldendale/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.81298065,45.83201981,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Long Beach, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/long-beach/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.04704285,46.37736893,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edmonds, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edmonds/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.36695099,47.80069351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Concrete, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/concrete/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.66429138,48.5309639,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pomeroy, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pomeroy/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.59928131,46.46983719,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kenmore, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kenmore/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.24277496,47.75749969,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spangle, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spangle/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.38269806,47.43379974,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Ludlow, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-ludlow/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.68961334,47.92219162,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Anacortes, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/anacortes/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.63087463,48.50043869,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Joyce, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/joyce/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.73278046,48.13666534,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Coupeville, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/coupeville/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.68234253,48.21891022,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belfair, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belfair/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.82238007,47.45495605,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bainbridge Island, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bainbridge-island/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.53129578,47.64504623,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sumas, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sumas/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.20742798,48.97076416,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Taholah, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/taholah/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.28269958,47.34070969,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Malaga, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/malaga/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.20856476,47.35530472,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kent, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kent/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.19490051,47.36949921,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chelan, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chelan/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.0273056,47.84826279,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marshall, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marshall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.49833679,47.56499863,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lacey, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lacey/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.78266144,47.02396774,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Coulee City, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/coulee-city/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.27581787,47.59657288,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westport, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westport/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.10605621,46.8836174,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Silvana, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/silvana/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.25250244,48.20249939,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>La Push, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/la-push/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.63527679,47.90888977,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bremerton, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bremerton/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.62991333,47.60191727,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Puyallup, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/puyall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.31509399,47.19912338,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Snohomish, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/snohomish/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.07156372,47.89538193,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Point Roberts, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/point-roberts/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.05547333,48.98787689,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carrolls, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carrolls/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.8611145,46.07166672,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Arlington, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/arlington/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.11212921,48.18292999,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Peshastin, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/peshastin/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.61392975,47.58129501,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chinook, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chinook/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.94416809,46.27305603,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Toutle, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/toutle/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.64769745,46.29560471,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clarkston, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clarkston/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.06446075,46.3946228,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Deer Park, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/deer-park/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.44355774,47.94861603,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Warden, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/warden/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.05393219,46.97697067,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sunnyside, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sunnyside/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.01263428,46.3212738,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ferndale, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ferndale/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.59529114,48.86252975,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carlsborg, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carlsborg/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.17082977,48.09083176,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kingston, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kingston/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.52550507,47.81084442,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Omak, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/omak/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.52715302,48.4143486,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Maple Valley, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/maple-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.05741119,47.3845253,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>White Salmon, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/white-salmon/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.47946167,45.75514221,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clayton, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clayton/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.57402039,47.95520782,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oroville, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oroville/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.40323639,48.93968201,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chehalis, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chehalis/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.96576691,46.63819122,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kirkland, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kirkland/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.1894455,47.6785965,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>La Conner, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/la-conner/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.53134155,48.40930557,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Longview, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/longview/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.96342468,46.15135574,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Bend, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-bend/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.75714111,47.47554779,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Packwood, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/packwood/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.65525055,46.65003967,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Yelm, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/yelm/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.58805084,46.92058945,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sequim, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sequim/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.11981201,48.08813477,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Washtucna, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/washtucna/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.28620148,46.82091141,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nine Mile Falls, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nine-mile-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.58935547,47.80194473,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Liberty Lake, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/liberty-lake/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.0838089,47.65167236,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rochester, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rochester/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.04063416,46.81929398,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dryden, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dryden/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.5597229,47.54138947,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Granger, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/granger/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.18184662,46.34804535,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Auburn, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/auburn/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.27005768,47.31633759,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dallesport, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.17832947,45.61750031,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beaver, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beaver/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.30542755,48.06726456,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gold Bar, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gold-bar/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.6958313,47.85694504,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ritzville, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ritzville/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.39581299,47.13152695,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wilson Creek, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wilson-creek/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.11972046,47.42333221,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Everett, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/everett/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.20056915,47.98843002,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Vantage, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vantage/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.54666901,46.99666595,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Orondo, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/orondo/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.17214203,47.69692612,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lynnwood, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lynnwood/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.28778839,47.8118248,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Quilcene, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/quilcene/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.85830688,47.83242798,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lacrosse, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lacrosse/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.77027893,46.77168274,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Startup, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/startup/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.73916626,47.86805725,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Southworth, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/southworth/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.50055695,47.51222229,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ravensdale, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ravensdale/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.98789978,47.41547775,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Walla Walla, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.33154297,46.06137466,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Woodland, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/woodland/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.71256256,45.92185974,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Riverside, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/riverside/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.58031464,48.4875679,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bellevue, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bellevue/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.20737457,47.61989975,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Burbank, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/burbank/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.01194763,46.20000076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Connell, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/connell/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.85453796,46.66426086,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Colville, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/colville/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.86446381,48.57799149,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Issaquah, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/issaquah/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.03351593,47.55091095,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Republic, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/republic/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.69994354,48.67036438,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gig Harbor, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gig-harbor/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.69999695,47.37857819,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shelton, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shelton/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.07286072,47.20862961,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bothell, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bothell/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.21589661,47.74969101,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mercer Island, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mercer-island/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.2265625,47.5631485,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Longmire, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/longmire/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.81138611,46.75,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Napavine, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/napavine/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.90694427,46.57472229,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Snoqualmie Pass, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/snoqualmie-pass/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.40583038,47.40972137,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Redondo, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/redondo/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.32221985,47.34860992,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mukilteo, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mukilteo/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.30190277,47.91989517,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clinton, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clinton/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.3915863,47.95084381,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Neah Bay, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/neah-bay/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.62361145,48.36833191,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Malott, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/malott/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.70555878,48.28277969,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Vancouver, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vancouver/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.68013763,45.64183044,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Plymouth, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/plymouth/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.50299835,46.03818512,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carnation, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carnation/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.91109467,47.63800812,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Camano Island, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/camano-island/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.5138855,48.19166565,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pullman, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pullman/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.17293549,46.73524857,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cle Elum, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cle-elum/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.96850586,47.2063179,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Battle Ground, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/battle-ground/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.53184509,45.79066849,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pasco, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pasco/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.10438538,46.24918365,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winthrop, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winthrop/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.1804657,48.47560883,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Davenport, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/davenport/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.16665649,47.6808548,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Federal Way, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/federal-way/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.31172943,47.32030106,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Morton, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/morton/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.24957275,46.55805588,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Townsend, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-townsend/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.79445648,48.10401154,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newman Lake, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newman-lake/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.06404114,47.72737122,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Skykomish, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/skykomish/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.37129974,47.69215775,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Colfax, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/colfax/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.36697388,46.87999725,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Burlington, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/burlington/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.33448792,48.47857666,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Redmond, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/redmond/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.12324524,47.67179489,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Toledo, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/toledo/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.82656097,46.43955231,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shaw Island, WA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shaw-island/washington/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.92778015,48.58444214,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

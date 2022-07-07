@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Wilmington, DE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wilmington/delaware/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.54965973,39.73775101,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rehoboth Beach, DE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rehoboth-beach/delaware/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.10734558,38.71471405,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milford, DE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milford/delaware/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.42987823,38.92180252,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dover, DE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dover/delaware/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.53598022,39.1566391,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

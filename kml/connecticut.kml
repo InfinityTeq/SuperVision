@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Wethersfield, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wethersfield/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.67630768,41.70133209,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New London, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-london/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.10624695,41.35071945,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Old Saybrook, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/old-saybrook/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.38502502,41.29129791,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Old Lyme, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/old-lyme/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.30856323,41.3347435,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Farmington, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/farmington/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.79170227,41.7322998,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Britain, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-britain/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.77999878,41.66110992,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairfield, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairfield/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.26570129,41.16479874,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hartford, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hartford/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.66246033,41.79027176,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greenwich, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greenwich/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.63005066,41.03023911,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milford, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milford/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.0549469,41.21746445,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Hartford, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-hartford/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.61801147,41.78029251,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Haven, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-haven/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.92881012,41.30807877,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Norwalk, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/norwalk/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.43582916,41.12221909,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hamden, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hamden/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.93612671,41.36198807,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newington, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newington/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.72974396,41.68640137,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tolland, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tolland/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.37178802,41.86964798,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Manchester, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/manchester/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.52443695,41.77773285,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cromwell, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cromwell/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.6663208,41.61048889,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Haven, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-haven/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.9638443,41.27008057,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Portland, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/portland/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.6128006,41.58522415,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stamford, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stamford/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.53903961,41.05308151,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Darien, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/darien/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.48525238,41.07675934,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Southington, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/southington/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.87268066,41.60522079,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Naugatuck, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/naugatuck/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.04933929,41.49203873,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Middletown, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/middletown/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.66522217,41.55689621,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glastonbury, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glastonbury/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.57270813,41.7073288,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cheshire, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cheshire/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.90440369,41.51039886,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Madison, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/madison/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.61525726,41.30901718,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Groton, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/groton/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.05794525,41.3571701,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Southbury, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/southbury/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.22407532,41.47669601,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Haven, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-haven/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.87414551,41.28052139,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Branford, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/branford/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.81064606,41.27999115,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westbrook, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westbrook/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.45631409,41.29266357,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greens Farms, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greens-farms/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.31972504,41.12388992,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Meriden, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/meriden/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.79973602,41.53339767,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waterford, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waterford/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.14581299,41.34685135,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Plainville, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/plainville/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.86437225,41.6726532,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waterbury, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waterbury/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.0419693,41.55374146,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Montville, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/montville/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.12647247,41.44533157,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cornwall, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cornwall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.32971954,41.84361267,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Hartford, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-hartford/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.7532196,41.7555542,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Norwich, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/norwich/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.08493805,41.53705597,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Guilford, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/guilford/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.6967926,41.31536865,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mystic, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mystic/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.97736359,41.36162567,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newtown, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newtown/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.31674194,41.39309311,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clinton, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clinton/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.52796936,41.29116821,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Windsor, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/windsor/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.64416504,41.85250092,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westport, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westport/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.34957886,41.14343262,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Danbury, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/danbury/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.45316315,41.3916626,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pawcatuck, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pawcatuck/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-71.84776306,41.37347412,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Lyme, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-lyme/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.23298645,41.36680603,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ellington, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ellington/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.46260071,41.9114151,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stratford, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stratford/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.13559723,41.20439911,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bridgeport, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bridgeport/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.20574188,41.1674881,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rocky Hill, CT</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rocky-hill/connecticut/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.66320038,41.65829468,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

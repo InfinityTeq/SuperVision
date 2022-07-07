@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="67" rtRtpiFeedName="" rtdd="67"> <!-- @11 @16 -->
+
+		<time>4:10 PM</time>
+
+
+		<bus>
+			<id>1482</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>67</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>67</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.77340481886223</lat>
+			<lon>-87.58055991557107</lon>
+			<pid>4605</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6728</run>
+			<fs>Ford City</fs>
+			<op>56530</op>
+			<dip>3753</dip>
+			<bid>2835</bid>				
+			<wid1>06</wid1>
+			<wid2>728</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1566</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>67</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>67</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Westbound</dd> 
+			<dn>S</dn> 
+			<lat>41.7717357143279</lat>
+			<lon>-87.6117935180664</lon>
+			<pid>11674</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6727</run>
+			<fs>69th/Western</fs>
+			<op>58546</op>
+			<dip>12805</dip>
+			<bid>2668</bid>				
+			<wid1>06</wid1>
+			<wid2>727</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1405</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>67</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>67</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.76932907104492</lat>
+			<lon>-87.61537131285056</lon>
+			<pid>4605</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6729</run>
+			<fs>Ford City</fs>
+			<op>62788</op>
+			<dip>14431</dip>
+			<bid>2585</bid>				
+			<wid1>06</wid1>
+			<wid2>729</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1570</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>67</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>67</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.769073486328125</lat>
+			<lon>-87.63474782307942</lon>
+			<pid>1454</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6730</run>
+			<fs>69th/Western</fs>
+			<op>63516</op>
+			<dip>20250</dip>
+			<bid>2588</bid>				
+			<wid1>06</wid1>
+			<wid2>730</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8052</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>67</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>67</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.7686767578125</lat>
+			<lon>-87.66183471679688</lon>
+			<pid>4605</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6731</run>
+			<fs>Ford City</fs>
+			<op>66288</op>
+			<dip>27644</dip>
+			<bid>2660</bid>				
+			<wid1>06</wid1>
+			<wid2>731</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1500</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>67</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>67</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.76442513099084</lat>
+			<lon>-87.705442575308</lon>
+			<pid>4605</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6724</run>
+			<fs>Ford City</fs>
+			<op>60421</op>
+			<dip>40942</dip>
+			<bid>2608</bid>				
+			<wid1>06</wid1>
+			<wid2>724</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1569</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>67</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>67</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.76416015625</lat>
+			<lon>-87.72151919773647</lon>
+			<pid>4605</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6726</run>
+			<fs>Ford City</fs>
+			<op>53240</op>
+			<dip>45352</dip>
+			<bid>2577</bid>				
+			<wid1>06</wid1>
+			<wid2>726</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8041</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>67</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>67</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>N</dn> 
+			<lat>41.75590229034424</lat>
+			<lon>-87.73303985595703</lon>
+			<pid>4605</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6721</run>
+			<fs>Ford City</fs>
+			<op>51232</op>
+			<dip>52457</dip>
+			<bid>2607</bid>				
+			<wid1>06</wid1>
+			<wid2>721</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1434</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>67</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>67</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.773521423339844</lat>
+			<lon>-87.56998901367187</lon>
+			<pid>4610</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6717</run>
+			<fs>67th/South Shore</fs>
+			<op>N/A</op>
+			<dip>52835</dip>
+			<bid>2560</bid>				
+			<wid1>06</wid1>
+			<wid2>717</wid2>            	
+		</bus>
+
+
+
+	</buses>

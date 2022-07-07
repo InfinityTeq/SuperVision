@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>State Park, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/state-park/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.96639252,34.0905571,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Isle of Palms, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/isle-of-palms/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.77294922,32.79425049,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ridgeland, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ridgeland/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.94943237,32.49193954,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Charleston, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/charleston/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.93707275,32.77950668,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Central, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/central/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.79472351,34.74007034,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mauldin, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mauldin/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.30350494,34.78067398,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Charleston, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-charleston/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.97644043,32.85120773,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Florence, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/florence/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.772789,34.18375015,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lynchburg, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lynchburg/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.09882355,34.05260468,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ballentine, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ball</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.23750305,34.1241684,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greenville, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greenville/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.40605164,34.84716415,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Johns Island, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/johns-island/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.09429169,32.70969772,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bowman, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bowman/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.67086792,33.34746552,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cayce, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cayce/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.06708527,33.96256638,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blythewood, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blythewood/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.97575378,34.19111252,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gable, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gable/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.08137512,33.84098816,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seneca, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seneca/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.94819641,34.73469925,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Aiken, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/aiken/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.71942902,33.55302429,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gaffney, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gaffney/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.64906311,35.06150818,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chester, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chester/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.21855927,34.71489716,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Columbia, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-columbia/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.08883667,33.99502563,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairforest, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairforest/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.01027679,34.95639038,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clemson, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clemson/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.82500458,34.68305969,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Duncan, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/duncan/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.12582397,34.9176445,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Little River, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/little-river/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.6508255,33.87680435,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bluffton, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bluffton/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.87207794,32.25127411,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Loris, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/loris/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.91609955,34.05575562,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Summerton, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/summerton/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.36056519,33.59457779,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fountain Inn, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fountain-inn/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.26459503,34.65333557,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fair Play, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fair-play/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.9998703,34.57754898,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Murrells Inlet, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/murrells-inlet/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.05274963,33.5507164,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Walterboro, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/walterboro/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.67922211,32.89736557,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mount Pleasant, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mount-pleasant/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.85202789,32.8162117,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hamer, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hamer/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.37786865,34.48455429,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pinewood, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pinewood/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.49776459,33.76421738,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Matthews, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-matthews/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.8562851,33.69421387,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Simpsonville, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/simpsonville/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.25444031,34.73694229,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Conway, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/conway/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.05570984,33.87306595,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Myrtle Beach, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-myrtle-beach/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.67791748,33.82279968,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cameron, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cameron/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.64660645,33.55778885,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alcolu, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alcolu/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.1787796,33.7684021,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lexington, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lexington/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.23638916,33.98138809,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Myrtle Beach, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/myrtle-beach/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.80445099,33.75870132,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rock Hill, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rock-hill/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.01290131,34.91506958,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Manning, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/manning/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.22207642,33.66771698,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Irmo, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/irmo/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.19655609,34.11025238,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Columbia, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/columbia/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.03341675,34.00040054,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spartanburg, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spartanburg/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.96537781,34.93521118,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jonesville, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jonesville/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.68421936,34.83736801,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint George, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-george/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.57324219,33.18453217,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sardinia, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sardinia/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.08305359,33.83416748,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Davis Station, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/davis-station/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.26472473,33.60250092,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Reevesville, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/reevesville/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.66725159,33.1872139,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Aynor, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/aynor/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.17772675,33.98226929,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Turbeville, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/turbeville/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.98517609,33.87857056,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blacksburg, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blacksburg/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.50800323,35.11504745,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cowpens, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cowpens/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.82202148,35.03897858,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harleyville, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harleyville/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.45009613,33.22051239,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hilton Head Island, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hilton-head-island/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.75361633,32.1633606,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Startex, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/startex/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.09916687,34.92833328,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Goose Creek, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/goose-creek/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.01995087,32.98870087,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greer, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greer/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.2674408,34.89680099,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gaston, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gaston/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.11739349,33.83371353,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Little Mountain, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/little-mountain/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.41837311,34.16756821,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Mill, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-mill/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.02805328,35.02416611,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Yemassee, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/yemassee/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.81293488,32.64298248,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Swansea, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/swansea/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.0933075,33.73391724,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Santee, SC</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/santee/south-carolina/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.48049927,33.48353195,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

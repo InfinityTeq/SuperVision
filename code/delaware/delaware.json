@@ -1,0 +1,75 @@
+[{						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-75.54965973, 39.73775101]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/wilmington/delaware/all'>Wilmington, DE</a></h4>New Castle County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-75.10734558, 38.71471405]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/rehoboth-beach/delaware/all'>Rehoboth Beach, DE</a></h4>Sussex County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-75.42987823, 38.92180252]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/milford/delaware/all'>Milford, DE</a></h4>Sussex County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-75.53598022, 39.15663910]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/dover/delaware/all'>Dover, DE</a></h4>Kent County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+						 
+
+
+
+ 
+ 
+]

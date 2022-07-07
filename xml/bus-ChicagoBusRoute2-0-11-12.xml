@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="2" rtRtpiFeedName="" rtdd="2"> <!-- @11 @16 -->
+
+		<time>4:18 PM</time>
+
+
+		<bus>
+			<id>7915</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>2</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>2</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.89297008514404</lat>
+			<lon>-87.62432098388672</lon>
+			<pid>5528</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7017</run>
+			<fs>Cottage Grove/60th</fs>
+			<op>57129</op>
+			<dip>5260</dip>
+			<bid>2007</bid>				
+			<wid1>07</wid1>
+			<wid2>017</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1288</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>2</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>2</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.87197380735163</lat>
+			<lon>-87.62053680419922</lon>
+			<pid>5531</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7131</run>
+			<fs>Navy Pier</fs>
+			<op>44702</op>
+			<dip>41722</dip>
+			<bid>1964</bid>				
+			<wid1>07</wid1>
+			<wid2>131</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1254</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>2</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>2</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>41.80249598576472</lat>
+			<lon>-87.59164593036358</lon>
+			<pid>5528</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7317</run>
+			<fs>Cottage Grove/60th</fs>
+			<op>N/A</op>
+			<dip>44782</dip>
+			<bid>2018</bid>				
+			<wid1>07</wid1>
+			<wid2>317</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>7965</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>2</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>2</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.88191604614258</lat>
+			<lon>-87.62770080566406</lon>
+			<pid>5531</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7525</run>
+			<fs>Navy Pier</fs>
+			<op>62840</op>
+			<dip>47185</dip>
+			<bid>2014</bid>				
+			<wid1>07</wid1>
+			<wid2>525</wid2>            	
+		</bus>
+
+
+
+	</buses>

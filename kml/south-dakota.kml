@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Ridgeview, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ridgeview/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.65166473,45.14333344,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wall, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.22454834,43.98123169,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tolstoy, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tolstoy/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.61755371,45.17020035,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clark, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clark/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.72653961,44.87799835,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harrold, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harrold/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.73816681,44.52147675,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Keystone, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/keystone/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.3352356,43.96960449,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bowdle, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bowdle/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.6359787,45.4328804,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mission, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mission/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.59536743,43.28501511,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Deadwood, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/deadwood/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.69993591,44.35662842,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Custer, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/custer/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.61846161,43.74088669,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alexandria, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alexandria/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.78208923,43.62384796,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Frederick, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/frederick/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.51756287,45.8493309,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Underwood, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-underwood/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.81363678,44.08735275,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>White Lake, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/white-lake/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.70761108,43.75643921,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Peever, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/peever/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.00120544,45.52064514,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dupree, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dupree/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.63368225,45.00785065,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kimball, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kimball</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.93430328,43.71287918,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oglala, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oglala/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.73916626,43.18861008,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Plankinton, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/plankinton/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.4693985,43.73728561,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Vivian, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vivian/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.28598785,43.95352173,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waubay, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waubay/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.29499054,45.37836838,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tripp, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tripp/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.97128296,43.24037552,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brandt, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brandt/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.64354706,44.67382812,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gann Valley, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gann-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.05433655,44.06930161,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blunt, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blunt/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.94628143,44.50257111,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Parker, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/parker/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.13330078,43.40203857,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sisseton, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sisseton/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.02321625,45.66441345,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairburn, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairburn/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.21333313,43.66228104,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wallace, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.44574738,45.08154297,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Summit, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/summit/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.04265594,45.35212708,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mitchell, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mitchell/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.02702332,43.71092224,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wanblee, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wanblee/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.72185516,43.55892944,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Redig, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/redig/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.54777527,45.27111053,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Batesland, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/batesland/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.17377472,43.07896042,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tyndall, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tyndall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.86328125,42.99004364,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake City, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-city/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.34812927,45.68991089,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belvidere, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belvidere/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.23869324,43.8860321,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sioux Falls, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sioux-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.70522308,43.60208893,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Union Center, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/union-center/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.79795837,44.6380043,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mud Butte, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mud-butte/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.8031311,45.03104782,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wasta, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wasta/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.34707642,44.09370804,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Sioux City, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-sioux-city/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.50760651,42.53270721,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brandon, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brandon/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.57820129,43.59641266,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edgemont, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edgemont/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.8110199,43.28736115,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ludlow, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ludlow/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.3111496,45.87465668,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beresford, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beresford/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.78125763,43.08740997,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sturgis, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sturgis/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.47715759,44.41307831,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Porcupine, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/porcupine/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.22344971,43.29397964,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mellette, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mellette/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.48236847,45.16312027,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spearfish, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spearfish/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.86495972,44.49462509,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ralph, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ralph/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.03555298,45.85536575,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brookings, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brookings/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.79140472,44.30561829,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cavour, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cavour/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.02079773,44.36495209,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Reliance, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/reliance/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.48566437,43.83024216,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hayes, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hayes/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.73593903,44.42189789,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Platte, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/platte/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.88965607,43.40242004,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Piedmont, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/piedmont/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.36882019,44.22874451,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Murdo, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/murdo/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.7121048,43.89611435,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pringle, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pringle/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.59166718,43.60833359,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dell Rapids, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dell-rapids/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.72231293,43.82275772,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Watertown, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/watertown/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.12397766,44.90429688,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Arlington, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/arlington/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.06873322,44.36676788,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lemmon, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lemmon/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.19277191,45.91589355,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Midland, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/midland/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.29244232,44.23744202,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Andover, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/andover/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.91749573,45.42217255,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Witten, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/witten/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.07829285,43.44982147,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Davis, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/davis/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.97920227,43.28636551,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gayville, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gayville/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.18295288,42.8835144,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wolsey, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wolsey/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.47425079,44.39907074,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Freeman, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/freeman/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.46007538,43.36050034,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eureka, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eureka/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.61592865,45.76976776,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Montrose, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/montrose/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.18849182,43.70626068,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Scenic, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/scenic/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.53530884,43.79936981,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rapid City, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rapid-city/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.20025635,44.07704163,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belle Fourche, SD</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belle-fourche/south-dakota/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.83959961,44.67227936,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

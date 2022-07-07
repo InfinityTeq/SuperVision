@@ -1,0 +1,2592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Marietta, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marietta/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.46443939,39.42814255,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mantua, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mantua/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.22825623,41.29413986,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marysville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marysville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.36221313,40.24772263,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wapakoneta, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wapakoneta/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.17737579,40.56897736,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sidney, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sidney/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.16222382,40.28735733,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Youngstown, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/youngstown/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.6473999,41.09859848,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elyria, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elyria/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.10508728,41.3723526,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lemoyne, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lemoyne/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.47416687,41.49583435,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mineral Ridge, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mineral-ridge/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.7552948,41.13184357,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Broadview Heights, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/broadview-heights/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.68087769,41.32907104,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Trimble, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/trimble/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.07917023,39.48472214,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mason, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mason/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.31493378,39.33573914,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lima, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lima/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.09729767,40.76406479,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Miamitown, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/miamitown/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.70417023,39.21583176,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Etna, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/etna/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.6819458,39.95722198,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Circleville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/circleville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.92996979,39.59883499,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chillicothe, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chillicothe/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.98948669,39.33799744,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Morristown, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/morristown/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.07444763,40.06305695,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marengo, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marengo/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.81213379,40.38951111,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Franklin, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/franklin/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.30587769,39.54784012,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Northwood, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/northwood/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.4805603,41.60798645,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cadiz, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cadiz/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.99624634,40.26453781,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kenton, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kenton/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.61108398,40.64043427,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bedford, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bedford/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.52314758,41.39206696,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Crown City, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/crown-city/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.26571655,38.61354828,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Napoleon, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/napoleon/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.1432724,41.39096832,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pickerington, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pickerington/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.75626373,39.90606308,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lucasville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lucasville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.99401093,38.89383316,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Groveport, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/groveport/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.88722229,39.85813522,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Solon, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/solon/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.44208527,41.38659668,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greentown, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greentown/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.40277863,40.92750168,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Enon, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/enon/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.9384613,39.86628342,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westerville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westerville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.9105072,40.11457062,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sandusky, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sandusky/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.70632935,41.4348793,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hamilton, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hamilton/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.52211761,39.40590668,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairborn, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairborn/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.01979065,39.8053093,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cleveland, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cleveland/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.67533875,41.49183273,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Independence, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/independence/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.66420746,41.38090515,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Steubenville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/steubenville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.66114807,40.3706398,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lebanon, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lebanon/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.21875763,39.44204712,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Miamiville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/miamiville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.29944611,39.21250153,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Logan, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/logan/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.41259766,39.53717422,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Richfield, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/richfield/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.64666748,41.23712158,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Canton, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-canton/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.41346741,40.88991928,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winesburg, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winesburg/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.69527435,40.61639023,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand River, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-river/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.28138733,41.73611069,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Perrysburg, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/perrysburg/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.59272766,41.54292679,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tallmadge, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.42596436,41.09749222,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Millersport, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/millersport/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.52835083,39.89930725,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waterville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waterville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.73313904,41.50224686,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Albany, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-albany/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.79878998,40.08468628,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Paris, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-paris/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.77933502,39.86171722,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blaine, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blaine/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.81749725,40.06777954,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Medina, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/medina/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.85835266,41.14041519,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Toledo, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/toledo/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.54479218,41.64167404,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Perry, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/perry/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.14331055,41.76791763,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Girard, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/girard/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.69330597,41.16113663,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holland, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holland/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.72571564,41.62262726,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oregon, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oregon/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.47136688,41.64184189,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Prospect, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/prospect/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.17629242,40.47266006,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Ridgeville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-ridgeville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.00332642,41.39643097,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ohio City, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ohio-city/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.67306519,40.78542709,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kings Mills, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kings-mills/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.24861145,39.35555649,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Macedonia, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/macedonia/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.49958038,41.32223511,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ironton, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ironton/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.66535187,38.52943039,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Avon, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/avon/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.02035522,41.44671249,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Concord, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-concord/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.73872375,40.00879669,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alexandria, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alexandria/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.60768127,40.10596466,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brunswick, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brunswick/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.82796478,41.24705124,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Philadelphia, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-philadelphia/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.43582916,40.48453903,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westfield Center, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westfield-center/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.93333435,41.02639008,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Baltimore, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-baltimore/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.68058014,41.18670273,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Maineville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/maineville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.25256348,39.31387711,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bridgeport, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bridgeport/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.77468109,40.07518387,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jefferson, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jefferson/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.75616455,41.73351288,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jasper, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jasper/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.05666351,39.04999924,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>South Vienna, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-vienna/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.6157074,39.94731903,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Springboro, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/springboro/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.22877502,39.56297684,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lorain, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lorain/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.17103577,41.45779419,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dover, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dover/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.47631836,40.5343399,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Middleburg, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/middleburg/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.58249664,40.29249954,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harveysburg, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harveysburg/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.01055908,39.50361252,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Powell, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/powell/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.07492065,40.15265274,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Euclid, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/euclid/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.52568817,41.56961441,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairlawn, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairlawn/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.5667038,41.13650131,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Xenia, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/xenia/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.93687439,39.6842041,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beachwood, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beachwood/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.52317047,41.47010803,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kilbourne, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kilbourne/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.95749664,40.33000183,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belpre, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belpre/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.59679413,39.28677368,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Chester, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-chester/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.3997879,39.34024429,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brice, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brice/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.83222198,39.91805649,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stow, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stow/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.4380188,41.1748085,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dublin, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dublin/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.11416626,40.09916687,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monroe, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monroe/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.36519623,39.44128418,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cuyahoga Falls, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cuyahoga-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.47895813,41.14008331,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Middletown, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/middletown/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.38960266,39.53211975,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Canton, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/canton/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.37680054,40.7961998,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Englewood, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/englewood/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.30951691,39.87397766,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Huron, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/huron/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.55548859,41.39066315,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Clairsville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-clairsville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.90228271,40.08343887,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westlake, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westlake/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.92176819,41.45346069,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Canal Winchester, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/canal-winchester/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.80436707,39.83486176,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Van Buren, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/van-buren/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.64730072,41.13269043,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hilliard, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hilliard/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.13833618,40.03218842,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>The Plains, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/the-plains/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.13414764,39.36617661,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Byesville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/byesville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.5484848,39.96233749,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Maumee, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/maumee/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.66282654,41.5816803,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Northfield, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/northfield/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.54294586,41.32081985,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jacksontown, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jacksontown/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.41305542,39.95944214,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rossford, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rossford/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.56378937,41.60490799,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sunbury, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sunbury/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.85105133,40.26549911,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>South Lebanon, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-lebanon/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.21078491,39.37145233,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sylvania, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sylvania/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.70682526,41.70798492,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kelleys Island, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kelleys-island/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.70681,41.60075378,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Botkins, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/botkins/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.17799377,40.46589661,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milledgeville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milledgeville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.58750153,39.59277725,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bowling Green, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bowling-green/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.65074921,41.38151169,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Liberty, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-liberty/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.58621979,40.30768204,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Zanesville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/zanesville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.00889587,39.94426346,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fremont, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fremont/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.1180954,41.34979248,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dalton, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dalton/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.70078278,40.77932739,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Aberdeen, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/aberdeen/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.76372528,38.67086411,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Granville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/granville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.51940155,40.07879257,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Benton Ridge, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/benton-ridge/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.79416656,41.0047226,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cygnet, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cygnet/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.614151,41.24702454,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Columbus, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/columbus/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.0100708,40.10515594,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Berlin Heights, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/berlin-heights/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.47771454,41.32051849,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oakwood, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oakwood/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.39691925,41.09078979,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Barberton, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/barberton/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.61531067,41.01858902,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hudson, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hudson/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.43666077,41.24583435,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brecksville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brecksville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.62608337,41.31655502,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Maple Heights, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/maple-heights/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.56034088,41.41051483,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oregonia, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oregonia/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.0511322,39.4144783,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harrison, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harrison/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.78368378,39.25920868,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Vermilion, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vermilion/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.35541534,41.4099884,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dayton, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dayton/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.17809296,39.75778198,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Painesville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/painesville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.2436676,41.71401215,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Galloway, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.18384552,39.93660355,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Green, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/green/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.48332977,40.9458313,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cambridge, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cambridge/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.59127808,40.03050232,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ashville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ashville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.94456482,39.73157501,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Willoughby, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/willoughby/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.40761566,41.63022995,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Springfield, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/springfield/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.8088913,39.92416763,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lakewood, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lakewood/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.79714203,41.48265457,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ashtabula, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ashtabula/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.79467773,41.86787796,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cincinnati, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cincinnati/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.53585815,39.10678101,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Miamisburg, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/miamisburg/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.26747894,39.63209534,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Vandalia, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vandalia/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.20226288,39.88827133,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Piqua, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/piqua/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.25305176,40.14862061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Findlay, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/findlay/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.65000153,41.04416656,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Peninsula, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/peninsula/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.54001617,41.22557831,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belmont, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belmont/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.00656128,40.03202057,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marion, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marion/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.12864685,40.58901978,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hebron, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hebron/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.49186707,39.95346451,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brook Park, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brook-park/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.81181335,41.3979454,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hayesville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hayesville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.26249695,40.77305603,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rocky River, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rocky-river/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.85124969,41.46940231,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Medway, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/medway/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.02680969,39.87977219,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clyde, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clyde/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.99185181,41.30239868,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Strongsville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/strongsville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.82846069,41.31321716,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Walbridge, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/walbridge/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.49301147,41.5860672,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Athens, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/athens/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.10201263,39.31782532,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Troy, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/troy/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.20314789,40.03739548,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Unionville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/unionville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.98916626,41.7808342,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Reynoldsburg, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/reynoldsburg/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.80345154,39.95514679,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Jefferson, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-jefferson/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.28530884,39.94240952,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Galena, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/galena/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.89593506,40.19154739,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Caldwell, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/caldwell/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.51528168,39.7466507,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Akron, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/akron/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.52005005,41.04485321,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mansfield, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mansfield/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.5137558,40.76331329,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Amlin, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/amlin/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.17915344,40.07202911,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beaverdam, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beaverdam/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.97666931,40.83333206,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Portage, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/portage/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.61429596,41.31270218,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Milford, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/milford/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.24381256,39.17998886,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Madison, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/madison/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.05882263,41.80536652,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Washington Court House, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/washington-court-house/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.43881989,39.53434753,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Jackson, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-jackson/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.86225128,41.08804321,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bluffton, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bluffton/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.89139557,40.87897873,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Williamsburg, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/williamsburg/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.04316711,39.07534409,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Buckeye Lake, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/buckeye-lake/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.47250366,39.93361282,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clayton, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clayton/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.33988953,39.85512543,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lewis Center, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lewis-center/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.01027679,40.19833374,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Georgetown, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/georgetown/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.9091568,38.87170792,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kent, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kent/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.34976196,41.14492035,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wickliffe, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wickliffe/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.46917725,41.60456467,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hopewell, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hopewell/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.17562103,39.96007919,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Farmer, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/farmer/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.6305542,41.38305664,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alpha, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alpha/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.02333069,39.71166611,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Streetsboro, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/streetsboro/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.33829498,41.24909973,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dunbridge, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dunbridge/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.61027527,41.4580574,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Millbury, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/millbury/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.43807983,41.56106186,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grove City, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grove-city/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-83.08394623,39.88138199,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tipp City, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tipp-city/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.17150116,39.94357681,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brookville, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brookville/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.41646576,39.84139252,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gypsum, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gypsum/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.8758316,41.49333191,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ashland, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ashland/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.31893158,40.85589218,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bellaire, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bellaire/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.7638092,40.02039719,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bay Village, OH</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bay-village/ohio/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-81.92887115,41.48413849,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

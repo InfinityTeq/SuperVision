@@ -2,6 +2,22 @@
 # SuperVision
 # created by : C0SM0
 
+'''
+TODO:
+- make transit data more dynamic
+    - [x] specify '/bus', '/train', etc. in '/xml'
+    - [x] specific names can be used to make unique transit data
+    - add each to their own feature group
+    - custom icons
+- possible transits to map
+    - trains
+    - buses
+    - planes?
+    - taxi/uber services
+    - ems/police
+    - shodan api
+'''
+
 # imports
 import os
 import folium # pip req
@@ -10,9 +26,10 @@ from flask import Flask, render_template, send_from_directory # pip req
 from flask_navigation import Navigation
 
 # packages
-from packages import get_bus_data
 from packages import get_real_time
 from packages import get_kml_data
+from packages import get_xml_data
+# from packages import xml_dictionaryX
 
 # main code, makes map
 def main():
@@ -73,22 +90,36 @@ def main():
 
 # flask processes
 app = Flask(__name__)
-
+url_list = get_real_time.xml_dictionary 
 # render home page
 # NOTE: "get_bus_data" is referenced twice
 @app.route("/")
 def index():
     main()
+
+    # add real time data to html
     get_real_time.get()
-    get_bus_data.get()
-
     return render_template('index.html')
-    # return main()
 
-# TODO: loop this and iterate through all xml
-@app.route("/xml/bus.xml")
-def bus_xml():
-    return get_bus_data.get()
+@app.route("/xml/<file>")
+def bus_xml(file):
+
+    url = url_list.get(file)
+    
+    print(url)
+
+    if url:
+        return get_xml_data.get(url, file)
+
+    else:
+        return '404: page not found...fucking bozo'
+
+@app.route("/assets/<image>")
+def assets(image):
+
+    read_image = open(f'assets/{image}', 'rb').read()
+
+    return read_image
 
 if __name__ == "__main__":
     app.run(debug=True)

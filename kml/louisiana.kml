@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>West Monroe, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-monroe/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.17597198,32.53172684,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Scott, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/scott/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.09807587,30.25040054,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harvey, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harvey/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.06726074,29.87253571,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>La Place, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/la-place/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.48954773,30.07771873,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rayne, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rayne/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.24858856,30.20450783,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monroe, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monroe/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.10610199,32.52854919,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shreveport, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shreveport/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.74869537,32.50374222,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ponchatoula, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ponchatoula/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.44224548,30.44064331,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Covington, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/covington/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.09593201,30.48760605,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Orleans, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-orleans/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.07530212,29.96048355,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brittany, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brittany/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.8813858,30.21194458,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cecilia, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cecilia/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.85305786,30.33694458,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rosedale, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rosedale/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.4561615,30.44077682,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alexandria, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alexandria/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.46334839,31.28851891,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Geismar, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/geismar/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.97582245,30.23626518,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pride, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pride/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.99429321,30.6133213,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pineville, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pineville/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.42459869,31.32379913,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Iowa, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/iowa/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.02586365,30.22193718,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hammond, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hammond/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.487854,30.51907921,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mandeville, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mandeville/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.07684326,30.38609505,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Breaux Bridge, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/breaux-bridge/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.90589905,30.27495575,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Minden, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/minden/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.28858948,32.63228226,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Baton Rouge, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/baton-rouge/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.18695068,30.45073128,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Erwinville, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/erwinville/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.39944458,30.55125237,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Branch, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/branch/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.33461761,30.32868385,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Duplessis, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/duplessis/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.9383316,30.26944351,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Sarpy, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-sarpy/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.38777924,29.97777748,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bossier City, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bossier-city/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.7038269,32.54492569,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Houma, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/houma/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.75480652,29.59432983,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ama, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ama/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.29251099,29.9434948,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Charles, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-charles/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.18796539,30.22845268,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sorrento, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sorrento/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.86313629,30.18538857,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kenner, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kenner/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.24790192,29.99120331,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Golden Meadow, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/golden-meadow/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.26393127,29.38205338,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westlake, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westlake/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.26883698,30.26127434,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Livonia, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/livonia/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.53321838,30.55235291,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Prairieville, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/prairieville/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.92990112,30.315588,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Broussard, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/broussard/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.95017242,30.12188911,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Metairie, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/metairie/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.16950989,29.98713875,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marrero, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marrero/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.11045837,29.85975647,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand Coteau, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-coteau/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.04666901,30.4197216,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saint Rose, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saint-rose/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.31243134,29.95807457,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gretna, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gretna/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.05311584,29.91080666,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Robert, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/robert/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.33517456,30.50632668,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grosse Tete, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grosse-tete/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.43829346,30.38793564,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Opelousas, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/opelousas/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.08966827,30.51441956,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Allen, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.25408936,30.47198296,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lafayette, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lafayette/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.00826263,30.2361412,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gonzales, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gonzales/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.91999817,30.23833275,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Burnside, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/burnside/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.92388916,30.13861084,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Maringouin, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/maringouin/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.51681519,30.48229218,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pearl River, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pearl-river/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-89.77314758,30.39444733,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pioneer, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pioneer/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.46482086,32.71543503,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oak Grove, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oak-grove/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.41290283,32.87225723,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Duson, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/duson/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.15245819,30.19121552,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Denham Springs, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/denham-springs/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.93409729,30.58209991,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Slidell, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/slidell/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-89.77119446,30.27841187,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gray, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gray/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.78070831,29.69034004,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Henderson, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/henderson/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-91.79873657,30.3125,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Convent, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/convent/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.86499023,30.05525017,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Norco, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/norco/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.4197998,30.00570679,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Barksdale Afb, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/barksdale-afb/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.63816833,32.51431274,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sunset, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sunset/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-92.07568359,30.39374161,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sulphur, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sulphur/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-93.36391449,30.21900177,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Akers, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/akers/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.40166473,30.29000092,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Walker, LA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/walker/louisiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.85570526,30.52474785,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

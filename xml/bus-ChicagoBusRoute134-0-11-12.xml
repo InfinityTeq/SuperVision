@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="134" rtRtpiFeedName="" rtdd="134"> <!-- @11 @16 -->
+
+		<time>4:17 PM</time>
+
+
+		<bus>
+			<id>1666</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>134</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>134</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.93824616918024</lat>
+			<lon>-87.63943063987875</lon>
+			<pid>4508</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K455</run>
+			<fs>Belmont</fs>
+			<op>34219</op>
+			<dip>31578</dip>
+			<bid>1641</bid>				
+			<wid1>0K</wid1>
+			<wid2>455</wid2>            	
+		</bus>
+
+
+
+	</buses>

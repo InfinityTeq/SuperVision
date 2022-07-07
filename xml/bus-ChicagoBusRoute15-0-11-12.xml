@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="15" rtRtpiFeedName="" rtdd="15"> <!-- @11 @16 -->
+
+		<time>4:18 PM</time>
+
+
+		<bus>
+			<id>1173</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>15</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>15</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.80193328857422</lat>
+			<lon>-87.6213150024414</lon>
+			<pid>4287</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1444</run>
+			<fs>Stony Island/103rd</fs>
+			<op>63657</op>
+			<dip>5859</dip>
+			<bid>1140</bid>				
+			<wid1>01</wid1>
+			<wid2>444</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1118</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>15</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>15</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.71170082092285</lat>
+			<lon>-87.56451416015625</lon>
+			<pid>4288</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1643</run>
+			<fs>47th Red Line</fs>
+			<op>62121</op>
+			<dip>6117</dip>
+			<bid>1096</bid>				
+			<wid1>01</wid1>
+			<wid2>643</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8337</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>15</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>15</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.77883791923523</lat>
+			<lon>-87.58651638031006</lon>
+			<pid>4287</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1474</run>
+			<fs>Stony Island/103rd</fs>
+			<op>50252</op>
+			<dip>24220</dip>
+			<bid>1323</bid>				
+			<wid1>01</wid1>
+			<wid2>474</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1191</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>15</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>15</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>W</dn> 
+			<lat>41.77336033907804</lat>
+			<lon>-87.58391605723988</lon>
+			<pid>4288</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1445</run>
+			<fs>47th Red Line</fs>
+			<op>58033</op>
+			<dip>33370</dip>
+			<bid>1095</bid>				
+			<wid1>01</wid1>
+			<wid2>445</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8328</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>15</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>15</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.73848740713937</lat>
+			<lon>-87.5756818498884</lon>
+			<pid>4287</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1441</run>
+			<fs>Stony Island/103rd</fs>
+			<op>62780</op>
+			<dip>41905</dip>
+			<bid>1091</bid>				
+			<wid1>01</wid1>
+			<wid2>441</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1102</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>15</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>15</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.721945340516136</lat>
+			<lon>-87.5753173828125</lon>
+			<pid>4287</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1310</run>
+			<fs>Stony Island/103rd</fs>
+			<op>28718</op>
+			<dip>47938</dip>
+			<bid>1098</bid>				
+			<wid1>01</wid1>
+			<wid2>310</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1064</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>15</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>15</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>WSW</dn> 
+			<lat>41.809173583984375</lat>
+			<lon>-87.63185119628906</lon>
+			<pid>4288</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1417</run>
+			<fs>47th Red Line</fs>
+			<op>52595</op>
+			<dip>60259</dip>
+			<bid>1100</bid>				
+			<wid1>01</wid1>
+			<wid2>417</wid2>            	
+		</bus>
+
+
+
+	</buses>

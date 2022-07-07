@@ -1,0 +1,705 @@
+[{						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.35092926, 41.49570084]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/merrillville/indiana/all'>Merrillville, IN</a></h4>Lake County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-85.12890625, 41.13063431]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/fort-wayne/indiana/all'>Fort Wayne, IN</a></h4>Allen County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.55593109, 37.97531128]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/evansville/indiana/all'>Evansville, IN</a></h4>Vanderburgh County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-86.12454224, 39.97123337]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/carmel/indiana/all'>Carmel, IN</a></h4>Hamilton County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.17568970, 41.56719971]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/portage/indiana/all'>Portage, IN</a></h4>Porter County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.34638977, 41.59333420]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/gary/indiana/all'>Gary, IN</a></h4>Lake County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-85.85077667, 41.24377060]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/warsaw/indiana/all'>Warsaw, IN</a></h4>Kosciusko County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.35190582, 38.33605194]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/oakland-city/indiana/all'>Oakland City, IN</a></h4>Gibson County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-86.07874298, 38.60713959]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/salem/indiana/all'>Salem, IN</a></h4>Washington County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-85.97071075, 39.36260223]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/edinburgh/indiana/all'>Edinburgh, IN</a></h4>Johnson County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-85.04684448, 41.35900116]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/auburn/indiana/all'>Auburn, IN</a></h4>De Kalb County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.25250244, 41.52627945]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/hobart/indiana/all'>Hobart, IN</a></h4>Lake County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-84.93427277, 40.66151810]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/berne/indiana/all'>Berne, IN</a></h4>Adams County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-86.01629639, 40.05629349]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/noblesville/indiana/all'>Noblesville, IN</a></h4>Hamilton County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-86.10934448, 39.77500534]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/indianapolis/indiana/all'>Indianapolis, IN</a></h4>Marion County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-86.04328918, 40.28172684]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/tipton/indiana/all'>Tipton, IN</a></h4>Tipton County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.26220703, 41.56863022]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/lake-station/indiana/all'>Lake Station, IN</a></h4>Lake County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.40528107, 37.94444275]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/newburgh/indiana/all'>Newburgh, IN</a></h4>Warrick County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-86.65222168, 39.29861069]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/stinesville/indiana/all'>Stinesville, IN</a></h4>Monroe County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.35558319, 41.42357254]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/crown-point/indiana/all'>Crown Point, IN</a></h4>Lake County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-86.32408905, 41.33389664]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/plymouth/indiana/all'>Plymouth, IN</a></h4>Marshall County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-85.47353363, 39.33122253]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/greensburg/indiana/all'>Greensburg, IN</a></h4>Decatur County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.44451141, 41.37733841]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/cedar-lake/indiana/all'>Cedar Lake, IN</a></h4>Lake County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-86.16230011, 41.65065765]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/mishawaka/indiana/all'>Mishawaka, IN</a></h4>St Joseph County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-85.49904633, 40.45484161]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/upland/indiana/all'>Upland, IN</a></h4>Grant County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-84.86582184, 39.14012146]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/lawrenceburg/indiana/all'>Lawrenceburg, IN</a></h4>Dearborn County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-86.14110565, 41.74270248]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/granger/indiana/all'>Granger, IN</a></h4>St Joseph County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.51080322, 41.49197769]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/dyer/indiana/all'>Dyer, IN</a></h4>Lake County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.50791168, 41.60992813]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/hammond/indiana/all'>Hammond, IN</a></h4>Lake County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-85.83798981, 41.58448410]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/goshen/indiana/all'>Goshen, IN</a></h4>Elkhart County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-84.94290924, 39.90570068]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/webster/indiana/all'>Webster, IN</a></h4>Wayne County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-85.73588562, 38.30776596]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/jeffersonville/indiana/all'>Jeffersonville, IN</a></h4>Clark County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-85.76351929, 38.39033127]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/sellersburg/indiana/all'>Sellersburg, IN</a></h4>Clark County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.27194214, 41.36000061]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/leroy/indiana/all'>Leroy, IN</a></h4>Lake County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.50980377, 38.67343903]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/vincennes/indiana/all'>Vincennes, IN</a></h4>Knox County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-85.94570923, 39.95725250]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/fishers/indiana/all'>Fishers, IN</a></h4>Hamilton County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-85.82208252, 38.30891800]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/new-albany/indiana/all'>New Albany, IN</a></h4>Floyd County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.34777832, 41.19527817]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/shelby/indiana/all'>Shelby, IN</a></h4>Lake County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+												
+		
+		
+						 ,{
+						 "type": "Feature",
+						 "geometry": {
+						 "type": "Point",
+						 "coordinates": [-87.05019379, 41.60395050]
+						 },
+						 "properties": {
+						 "title": "<div><h4><a href='https://www.traffic-cams.com/chesterton/indiana/all'>Chesterton, IN</a></h4>Porter County Traffic Cams</div>",
+						 "icon": {"iconUrl": "","iconSize": [27, 45],"iconAnchor": [13, 45],"popupAnchor": [0, 0],"className": "dot"
+						 }
+						 }
+						 }
+
+
+						
+						 
+
+
+
+ 
+ 
+]

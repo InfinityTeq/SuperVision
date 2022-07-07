@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="65" rtRtpiFeedName="" rtdd="65"> <!-- @11 @16 -->
+
+		<time>4:09 PM</time>
+
+
+		<bus>
+			<id>1952</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.89177229910186</lat>
+			<lon>-87.62252853855942</lon>
+			<pid>6657</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5516</run>
+			<fs>Nordica</fs>
+			<op>63860</op>
+			<dip>3706</dip>
+			<bid>1603</bid>				
+			<wid1>05</wid1>
+			<wid2>516</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1985</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.92311643517536</lat>
+			<lon>-87.78730972953464</lon>
+			<pid>6656</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5511</run>
+			<fs>Navy Pier</fs>
+			<op>54180</op>
+			<dip>4066</dip>
+			<bid>1438</bid>				
+			<wid1>05</wid1>
+			<wid2>511</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1955</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.89083480834961</lat>
+			<lon>-87.67508188883464</lon>
+			<pid>3213</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5317</run>
+			<fs>Navy Pier</fs>
+			<op>53980</op>
+			<dip>7130</dip>
+			<bid>1526</bid>				
+			<wid1>05</wid1>
+			<wid2>317</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1899</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.89152498065301</lat>
+			<lon>-87.63946561993293</lon>
+			<pid>6657</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5508</run>
+			<fs>Nordica</fs>
+			<op>N/A</op>
+			<dip>8660</dip>
+			<bid>1426</bid>				
+			<wid1>05</wid1>
+			<wid2>508</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1842</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.891021837506976</lat>
+			<lon>-87.66677791050502</lon>
+			<pid>6657</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5519</run>
+			<fs>Nordica</fs>
+			<op>57726</op>
+			<dip>16496</dip>
+			<bid>1614</bid>				
+			<wid1>05</wid1>
+			<wid2>519</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1975</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.902573903401695</lat>
+			<lon>-87.71737092914003</lon>
+			<pid>6657</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5512</run>
+			<fs>Nordica</fs>
+			<op>49727</op>
+			<dip>32309</dip>
+			<bid>1560</bid>				
+			<wid1>05</wid1>
+			<wid2>512</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>2001</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.89074493036038</lat>
+			<lon>-87.67928481683498</lon>
+			<pid>6656</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5229</run>
+			<fs>Navy Pier</fs>
+			<op>63449</op>
+			<dip>36260</dip>
+			<bid>1615</bid>				
+			<wid1>05</wid1>
+			<wid2>229</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>2002</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.90908865201271</lat>
+			<lon>-87.73378779524464</lon>
+			<pid>6657</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5513</run>
+			<fs>Nordica</fs>
+			<op>52834</op>
+			<dip>37630</dip>
+			<bid>1584</bid>				
+			<wid1>05</wid1>
+			<wid2>513</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8174</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.91665698635963</lat>
+			<lon>-87.75298949210874</lon>
+			<pid>6657</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5514</run>
+			<fs>Nordica</fs>
+			<op>53194</op>
+			<dip>43839</dip>
+			<bid>1358</bid>				
+			<wid1>05</wid1>
+			<wid2>514</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1846</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.89101791381836</lat>
+			<lon>-87.61763381958008</lon>
+			<pid>6656</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5521</run>
+			<fs>Navy Pier</fs>
+			<op>64250</op>
+			<dip>53278</dip>
+			<bid>1461</bid>				
+			<wid1>05</wid1>
+			<wid2>521</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1986</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Westbound</dd> 
+			<dn>ENE</dn> 
+			<lat>41.923589797247026</lat>
+			<lon>-87.80098433721633</lon>
+			<pid>6657</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5518</run>
+			<fs>Nordica</fs>
+			<op>58214</op>
+			<dip>58062</dip>
+			<bid>1616</bid>				
+			<wid1>05</wid1>
+			<wid2>518</wid2>            	
+		</bus>
+
+
+
+	</buses>

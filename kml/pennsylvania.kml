@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Altoona, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/altoona/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.4088974,40.5209465,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ramey, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ramey/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.39981842,40.80150986,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jeannette, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jeannette/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.6144104,40.32947159,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sharpsville, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sharpsville/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.46564484,41.26764679,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Bloomfield, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-bloomfield/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.1938324,40.41932678,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Herndon, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/herndon/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.80075836,40.69178772,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Old Forge, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/old-forge/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.73907471,41.37007523,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wayne, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wayne/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.38800049,40.04349899,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>State College, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/state-college/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.85227966,40.79252243,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carlisle, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carlisle/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.19952393,40.2038765,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Philadelphia, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/philadelphia/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.01409912,40.11619949,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glasgow, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glasgow/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.44611359,40.70750046,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Allentown, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.4709549,40.6027298,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Scranton, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/scranton/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.68466949,41.37334824,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Youngstown, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/youngstown/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.36582947,40.27972031,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Moosic, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/moosic/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.71709442,41.36149216,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harrisburg, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harrisburg/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.88307953,40.26176834,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Erie, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/erie/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.08601379,42.1259613,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pittsburgh, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pittsburgh/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.95252228,40.4745369,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Breezewood, PA</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/breezewood/pennsylvania/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.24526978,39.99052048,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

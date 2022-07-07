@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Merrillville, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/merrillville/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.35092926,41.49570084,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Wayne, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-wayne/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.12890625,41.13063431,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Evansville, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/evansville/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.55593109,37.97531128,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carmel, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carmel/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.12454224,39.97123337,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Portage, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/portage/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.1756897,41.56719971,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gary, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gary/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.34638977,41.5933342,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Warsaw, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/warsaw/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.85077667,41.2437706,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oakland City, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oakland-city/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.35190582,38.33605194,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Salem, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/salem/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.07874298,38.60713959,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Edinburgh, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/edinburgh/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.97071075,39.36260223,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Auburn, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/auburn/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.04684448,41.35900116,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hobart, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hobart/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.25250244,41.52627945,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Berne, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/berne/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.93427277,40.6615181,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Noblesville, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/noblesville/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.01629639,40.05629349,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Indianapolis, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/indianapolis/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.10934448,39.77500534,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tipton, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tipton/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.04328918,40.28172684,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Station, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-station/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.26220703,41.56863022,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newburgh, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newburgh/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.40528107,37.94444275,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stinesville, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stinesville/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.65222168,39.29861069,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Crown Point, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/crown-point/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.35558319,41.42357254,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Plymouth, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/plymouth/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.32408905,41.33389664,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greensburg, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greensburg/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.47353363,39.33122253,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cedar Lake, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cedar-lake/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.44451141,41.37733841,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mishawaka, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mishawaka/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.16230011,41.65065765,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Upland, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/upland/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.49904633,40.45484161,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lawrenceburg, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lawrenceburg/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.86582184,39.14012146,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Granger, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/granger/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-86.14110565,41.74270248,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dyer, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dyer/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.51080322,41.49197769,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hammond, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hammond/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.50791168,41.60992813,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Goshen, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/goshen/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.83798981,41.5844841,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Webster, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/webster/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-84.94290924,39.90570068,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jeffersonville, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jeffersonville/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.73588562,38.30776596,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sellersburg, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sellersburg/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.76351929,38.39033127,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Leroy, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/leroy/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.27194214,41.36000061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Vincennes, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vincennes/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.50980377,38.67343903,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fishers, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fishers/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.94570923,39.9572525,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Albany, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-albany/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-85.82208252,38.308918,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shelby, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shelby/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.34777832,41.19527817,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chesterton, IN</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chesterton/indiana/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-87.05019379,41.6039505,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

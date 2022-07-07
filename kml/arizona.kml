@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Buckeye, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/buckeye/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.60772705,33.38896179,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Forest Lakes, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/forest-lakes/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.59333038,34.43138885,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dragoon, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dragoon/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.03805542,32.0280571,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kingman, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kingman/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.0568924,35.25838089,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lupton, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lupton/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.06999969,35.40859985,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rimrock, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rimrock/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.78422546,34.63798904,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Leupp, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/leupp/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.99265289,35.33652878,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Littlefield, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/littlefield/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-113.91369629,36.86652374,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Surprise, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/surprise/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.33142853,33.63002777,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Flagstaff, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/flagstaff/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.66197968,35.18590927,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glendale, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glendale/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.17670441,33.5311203,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Prescott Valley, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/prescott-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.31500244,34.61000061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sacaton, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sacaton/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.77516174,33.09769821,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Apache Junction, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/apache-junction/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.32589722,33.32770157,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Window Rock, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/window-rock/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.05194092,35.68055725,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Joseph City, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/joseph-city/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.33333588,34.95583344,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marana, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marana/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.27362061,32.40475082,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holbrook, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holbrook/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.14340973,34.90845108,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Phoenix, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/phoenix/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.06877136,33.45143127,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Maricopa, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/maricopa/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.07522583,32.98737717,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Petrified Forest Natl Pk, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/petrified-forest-natl-pk/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.88777924,34.77388763,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Higley, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/higley/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.6969223,33.30238342,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Colorado City, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/colorado-city/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.95243073,36.97626495,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>San Simon, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/san-simon/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.36714935,32.20816803,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cottonwood, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cottonwood/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.00910187,34.70554733,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Keams Canyon, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/keams-canyon/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.28446198,35.80820465,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sanders, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sanders/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.33305359,35.2163887,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gilbert, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gilbert/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.80919647,33.34999847,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Globe, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/globe/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.78924561,33.40242767,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Parker, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/parker/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.26634216,34.02539825,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Yuma, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/yuma/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.6423645,32.70150757,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ganado, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ganado/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.28316498,35.65184402,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Goodyear, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/goodyear/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.3833847,33.43680954,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seligman, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seligman/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.95480347,35.3212471,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Scottsdale, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/scottsdale/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.90492249,33.52176666,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Avondale, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/avondale/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.34375763,33.43211365,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bapchule, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bapchule/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.87249756,33.13639069,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eloy, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eloy/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.58327484,32.75093079,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Claypool, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/claypool/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.84194183,33.41110992,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Payson, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/payson/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.28777313,34.21977997,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sun City, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sun-city/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.27970123,33.6061058,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tempe, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tempe/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.93070221,33.4272995,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Havasu City, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-havasu-city/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.30808258,34.49287796,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ash Fork, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ash-fork/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.50267792,35.21499634,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sun City West, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sun-city-west/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.25543213,33.66257477,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Laveen, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/laveen/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.1716156,33.34357071,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Casa Grande, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/casa-grande/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.75609589,32.89266586,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New River, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-river/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.1344986,33.90589905,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bullhead City, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bullhead-city/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.54299927,35.1678009,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waddell, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waddell/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.43869019,33.56728363,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Litchfield Park, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/litchfield-park/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.38050079,33.49412537,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bowie, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bowie/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.48638916,32.32638931,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Paradise Valley, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/paradise-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.95654297,33.54943848,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dewey, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dewey/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.25666809,34.53675461,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sedona, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sedona/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.75062561,34.8266449,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Willcox, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/willcox/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.8631134,32.37297821,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Quartzsite, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/quartzsite/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.27310181,33.56750107,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Williams, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/williams/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.19062042,35.2498436,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tucson, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tucson/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.96944427,32.21387482,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wikieup, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wikieup/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-113.61055756,34.70333481,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chambers, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chambers/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.37389374,35.14304352,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Page, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/page/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.43846893,36.89662552,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chandler, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chandler/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.86315918,33.33008957,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Morristown, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/morristown/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.54833221,33.77299118,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nazlini, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nazlini/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.54138947,35.71138763,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Youngtown, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/youngtown/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.30130768,33.59075165,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Show Low, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/show-low/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.05463409,34.06011581,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Picacho, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/picacho/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.49472046,32.71611023,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Overgaard, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/overgaard/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.55249786,34.39083481,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Golden Valley, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/golden-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-114.27639771,35.21020126,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cashion, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cashion/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.29721832,33.43527985,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tolleson, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tolleson/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.27744293,33.43468475,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Peoria, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/peoria/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.23442078,33.57613373,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Huachuca City, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/huachuca-city/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.33341217,31.66389656,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hackberry, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hackberry/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-113.72638702,35.36916733,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Douglas, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/douglas/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.54470062,31.35111046,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bellemont, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bellemont/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.83277893,35.23805618,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wittmann, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wittmann/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.44657898,33.72642517,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Black Canyon City, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/black-canyon-city/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.13095856,34.07319641,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Whiteriver, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/whiteriver/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.96360779,33.83694458,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tortilla Flat, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tortilla-flat/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.38916779,33.52639008,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pima, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pima/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-109.85601044,32.90966034,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Heber, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/heber/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.56864929,34.41630173,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cameron, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cameron/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.40879822,35.71630096,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sahuarita, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sahuarita/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.00015259,31.94516945,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Prescott, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/prescott/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-113.02246094,34.62990952,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gila Bend, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gila-bend/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.7468338,32.93059158,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mesa, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mesa/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.84693146,33.43173981,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Happy Jack, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/happy-jack/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-111.40666962,34.74333191,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winslow, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winslow/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-110.51138306,35.16078186,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mayer, AZ</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mayer/arizona/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-112.12955475,34.36553574,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

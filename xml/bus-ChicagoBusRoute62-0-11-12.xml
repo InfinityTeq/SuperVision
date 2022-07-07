@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="62" rtRtpiFeedName="" rtdd="62"> <!-- @11 @16 -->
+
+		<time>4:09 PM</time>
+
+
+		<bus>
+			<id>1448</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.88133525848389</lat>
+			<lon>-87.62784385681152</lon>
+			<pid>7120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6210</run>
+			<fs>Harlem</fs>
+			<op>55922</op>
+			<dip>2684</dip>
+			<bid>2679</bid>				
+			<wid1>06</wid1>
+			<wid2>210</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1575</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.870598793029785</lat>
+			<lon>-87.62743973731995</lon>
+			<pid>7120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6216</run>
+			<fs>Harlem</fs>
+			<op>34277</op>
+			<dip>6659</dip>
+			<bid>2854</bid>				
+			<wid1>06</wid1>
+			<wid2>216</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1481</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.87006880107679</lat>
+			<lon>-87.6274642944336</lon>
+			<pid>7120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6219</run>
+			<fs>Harlem</fs>
+			<op>66357</op>
+			<dip>6840</dip>
+			<bid>2827</bid>				
+			<wid1>06</wid1>
+			<wid2>219</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8042</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>ENE</dn> 
+			<lat>41.794847679138186</lat>
+			<lon>-87.76759185791016</lon>
+			<pid>7111</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6217</run>
+			<fs>Kinzie/State</fs>
+			<op>63584</op>
+			<dip>9096</dip>
+			<bid>2826</bid>				
+			<wid1>06</wid1>
+			<wid2>217</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1399</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>North East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NE</dn> 
+			<lat>41.80382724836761</lat>
+			<lon>-87.72088877360027</lon>
+			<pid>7111</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6209</run>
+			<fs>Kinzie/State</fs>
+			<op>40781</op>
+			<dip>24101</dip>
+			<bid>2579</bid>				
+			<wid1>06</wid1>
+			<wid2>209</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1530</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SW</dn> 
+			<lat>41.80457386217619</lat>
+			<lon>-87.71985987613076</lon>
+			<pid>7120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6255</run>
+			<fs>Harlem</fs>
+			<op>25358</op>
+			<dip>45312</dip>
+			<bid>2538</bid>				
+			<wid1>06</wid1>
+			<wid2>255</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8049</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SW</dn> 
+			<lat>41.802917689493256</lat>
+			<lon>-87.72259845472362</lon>
+			<pid>7120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6215</run>
+			<fs>Harlem</fs>
+			<op>43025</op>
+			<dip>46271</dip>
+			<bid>2584</bid>				
+			<wid1>06</wid1>
+			<wid2>215</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8061</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.87166519165039</lat>
+			<lon>-87.62746124267578</lon>
+			<pid>7111</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6221</run>
+			<fs>Kinzie/State</fs>
+			<op>53170</op>
+			<dip>62877</dip>
+			<bid>2559</bid>				
+			<wid1>06</wid1>
+			<wid2>221</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1410</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.87764387130737</lat>
+			<lon>-87.62921905517578</lon>
+			<pid>7111</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6211</run>
+			<fs>Kinzie/State</fs>
+			<op>50220</op>
+			<dip>65480</dip>
+			<bid>2537</bid>				
+			<wid1>06</wid1>
+			<wid2>211</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1443</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.792381666666664</lat>
+			<lon>-87.799945</lon>
+			<pid>7120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6214</run>
+			<fs>Harlem</fs>
+			<op>53188</op>
+			<dip>69870</dip>
+			<bid>2853</bid>				
+			<wid1>06</wid1>
+			<wid2>214</wid2>            	
+		</bus>
+
+
+
+	</buses>

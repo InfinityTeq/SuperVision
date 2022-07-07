@@ -1,0 +1,451 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="70" rtRtpiFeedName="" rtdd="70"> <!-- @11 @16 -->
+
+		<time>4:10 PM</time>
+
+
+		<bus>
+			<id>1843</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>W</dn> 
+			<lat>41.901716666666665</lat>
+			<lon>-87.77517333333333</lon>
+			<pid>2289</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5716</run>
+			<fs>Walton &amp; Dearborn</fs>
+			<op>N/A</op>
+			<dip>0</dip>
+			<bid>1592</bid>				
+			<wid1>05</wid1>
+			<wid2>716</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8155</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>N</dn> 
+			<lat>41.90116500854492</lat>
+			<lon>-87.6313247680664</lon>
+			<pid>2291</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5723</run>
+			<fs>Austin</fs>
+			<op>61390</op>
+			<dip>745</dip>
+			<bid>1580</bid>				
+			<wid1>05</wid1>
+			<wid2>723</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1948</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Westbound</dd> 
+			<dn>E</dn> 
+			<lat>41.90386199951172</lat>
+			<lon>-87.6362533569336</lon>
+			<pid>2291</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5711</run>
+			<fs>Austin</fs>
+			<op>53984</op>
+			<dip>3051</dip>
+			<bid>1595</bid>				
+			<wid1>05</wid1>
+			<wid2>711</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>2000</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.90361137390137</lat>
+			<lon>-87.6514663696289</lon>
+			<pid>2291</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5707</run>
+			<fs>Austin</fs>
+			<op>44150</op>
+			<dip>7182</dip>
+			<bid>1345</bid>				
+			<wid1>05</wid1>
+			<wid2>707</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8167</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.90269088745117</lat>
+			<lon>-87.7185553917518</lon>
+			<pid>7126</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5724</run>
+			<fs>Walton &amp; Dearborn</fs>
+			<op>54244</op>
+			<dip>7403</dip>
+			<bid>1514</bid>				
+			<wid1>05</wid1>
+			<wid2>724</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1942</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.902454963097206</lat>
+			<lon>-87.73679674588718</lon>
+			<pid>2289</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5709</run>
+			<fs>Walton &amp; Dearborn</fs>
+			<op>31278</op>
+			<dip>10494</dip>
+			<bid>1364</bid>				
+			<wid1>05</wid1>
+			<wid2>709</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1845</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.9033016204834</lat>
+			<lon>-87.67248229980468</lon>
+			<pid>2291</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5713</run>
+			<fs>Austin</fs>
+			<op>54206</op>
+			<dip>12983</dip>
+			<bid>1594</bid>				
+			<wid1>05</wid1>
+			<wid2>713</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8191</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.90300750732422</lat>
+			<lon>-87.69436645507812</lon>
+			<pid>2291</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5722</run>
+			<fs>Austin</fs>
+			<op>64151</op>
+			<dip>18984</dip>
+			<bid>1359</bid>				
+			<wid1>05</wid1>
+			<wid2>722</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1995</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.903087373763796</lat>
+			<lon>-87.68158394949776</lon>
+			<pid>2289</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5719</run>
+			<fs>Walton &amp; Dearborn</fs>
+			<op>60490</op>
+			<dip>25548</dip>
+			<bid>1362</bid>				
+			<wid1>05</wid1>
+			<wid2>719</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1904</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.90275573730469</lat>
+			<lon>-87.72548277481742</lon>
+			<pid>2290</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>MAN</run>
+			<fs>Pulaski</fs>
+			<op>51895</op>
+			<dip>27568</dip>
+			<bid>MAN</bid>				
+			<wid1>05</wid1>
+			<wid2>410</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8143</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.90374631881714</lat>
+			<lon>-87.63894786834717</lon>
+			<pid>7126</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5715</run>
+			<fs>Walton &amp; Dearborn</fs>
+			<op>52187</op>
+			<dip>29087</dip>
+			<bid>1495</bid>				
+			<wid1>05</wid1>
+			<wid2>715</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1992</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.903292358898725</lat>
+			<lon>-87.66842363701493</lon>
+			<pid>2289</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5720</run>
+			<fs>Walton &amp; Dearborn</fs>
+			<op>52758</op>
+			<dip>29145</dip>
+			<bid>1585</bid>				
+			<wid1>05</wid1>
+			<wid2>720</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>2014</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.90254061930889</lat>
+			<lon>-87.73984929677603</lon>
+			<pid>2291</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5712</run>
+			<fs>Austin</fs>
+			<op>39023</op>
+			<dip>31485</dip>
+			<bid>1343</bid>				
+			<wid1>05</wid1>
+			<wid2>712</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1947</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>70</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>70</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.90235349867079</lat>
+			<lon>-87.75630498815465</lon>
+			<pid>2291</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5721</run>
+			<fs>Austin</fs>
+			<op>57093</op>
+			<dip>35988</dip>
+			<bid>1591</bid>				
+			<wid1>05</wid1>
+			<wid2>721</wid2>            	
+		</bus>
+
+
+
+	</buses>

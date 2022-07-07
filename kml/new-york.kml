@@ -1,0 +1,2839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Coxsackie, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/coxsackie/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.81987762,42.35014343,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Canajoharie, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/canajoharie/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.58351898,42.88238907,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Islandia, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/islandia/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.20222473,40.79055786,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Grove, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-grove/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.11675262,40.85668182,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bolton Landing, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bolton-landing/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.67139435,43.57664108,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rochester, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rochester/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.6026001,43.16830063,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westerlo, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westerlo/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.03938293,42.51562119,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Franklinville, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/franklinville/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.44004059,42.33882141,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wells, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wells/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.28858185,43.40121841,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Jefferson, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-jefferson/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.06109619,40.94568634,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Whitney Point, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/whitney-point/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.95223236,42.33844757,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Holbrook, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/holbrook/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.0717926,40.79642487,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Syracuse, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-syracuse/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.0557785,43.07336044,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Malverne, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/malverne/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.67307281,40.67498016,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Marathon, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/marathon/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.03952789,42.45272446,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Corfu, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/corfu/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.39290619,42.97773361,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Essex, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/essex/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.37314606,44.28069687,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ocean Beach, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ocean-beach/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.15750122,40.64666748,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Long Beach, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/long-beach/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.6594696,40.58769608,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Batavia, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/batavia/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.19287109,43.00031662,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Black River, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/black-river/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.79577637,44.00415421,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Woodbury, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/woodbury/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.47161102,40.81544113,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greenville, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greenville/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.02222443,42.41134262,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rensselaer, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rensselaer/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.72189331,42.63585663,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wantagh, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wantagh/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.5103302,40.68499756,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Victor, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/victor/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.41798401,42.98659515,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Castle Creek, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/castle-creek/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.90874481,42.25680542,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wurtsboro, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wurtsboro/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.50389099,41.58766556,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Selkirk, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/selkirk/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.81286621,42.54861069,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westbury, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westbury/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.572258,40.75574875,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Parish, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/parish/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.10002136,43.41529465,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stormville, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stormville/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.72554779,41.55119324,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Geneva, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/geneva/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.99134827,42.86371994,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stuyvesant, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stuyvesant/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.76132965,42.35957336,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Amityville, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/amityville/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.41710663,40.68419647,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hawthorne, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hawthorne/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.80168152,41.09531784,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Guilderland, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/guilderland/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.89745331,42.69727325,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hancock, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hancock/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.26530457,41.95966721,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Olean, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/olean/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.42326355,42.07870102,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stafford, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stafford/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.08978271,42.9828949,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Liverpool, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/liverpool/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.18699646,43.10992432,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Rochelle, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-rochelle/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.78772736,40.91662979,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hampton, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hampton/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.27307129,43.46213531,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eastchester, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eastchester/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.80857849,40.9549675,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jamestown, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jamestown/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.24398804,42.09284592,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ithaca, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ithaca/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.49291229,42.44849777,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mineola, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mineola/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.63976288,40.74692535,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greenwich, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greenwich/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.50666046,43.09618378,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cicero, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cicero/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.09618378,43.17069244,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Richland, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/richland/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.00291443,43.5775795,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Penfield, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/penfield/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.45603943,43.13963699,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hume, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hume/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.13666534,42.47277832,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Jervis, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-jervis/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.6690979,41.3785553,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wilmington, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wilmington/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.81655121,44.3879776,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Staten Island, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/staten-island/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.09266663,40.63160324,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Albany, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/albany/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.75719452,42.65295029,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monroe, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monroe/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.18722534,41.33055496,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cortland, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cortland/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.18567657,42.5951767,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Utica, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/utica/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.23146057,43.08711243,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Peekskill, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/peekskill/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.902565,41.29372025,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Syracuse, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/syracuse/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.15280151,43.04589844,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newark, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newark/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.09460449,43.0519104,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Buffalo, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/buffalo/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.88457489,42.89665985,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Schenectady, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/schenectady/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.9394989,42.81549835,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bayville, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bayville/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.56014252,40.90738297,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Horseheads, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/horseheads/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.83454132,42.1804924,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thendara, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thendara/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.00222015,43.70000076,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Webster, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/webster/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.461586,43.21956253,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tarrytown, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tarrytown/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.85933685,41.07810974,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harrison, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harrison/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.71807098,40.97187424,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wayland, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wayland/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.59061432,42.55927277,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Inwood, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/inwood/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.7472229,40.62194443,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lisle, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lisle/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.03023529,42.34092331,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bethpage, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bethpage/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.4857254,40.74001312,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Huntington, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/huntington/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.41092682,40.86694336,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Panama, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/panama/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.48153687,42.05696487,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Avoca, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/avoca/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.43425751,42.41513062,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nyack, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nyack/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.9252243,41.09135056,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sag Harbor, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sag-harbor/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.30673981,40.98199463,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Northport, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/northport/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.33088684,40.90506363,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Central Square, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/central-square/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.1848526,43.30898666,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Commack, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/commack/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.27992249,40.84303284,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tully, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tully/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.13935852,42.80697632,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Franklin, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/franklin/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.14847565,42.34211731,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ilion, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ilion/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.04836273,43.00638962,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kingston, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kingston/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.02357483,41.93012619,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Whitesboro, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/whitesboro/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.30947876,43.11580658,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elmira, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elmira/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.81197357,42.10076904,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Chester, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-chester/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.67204285,41.00775528,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Corning, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/corning/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.04754639,42.13833237,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Phelps, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/phelps/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.0472641,42.95817947,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Schroon Lake, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/schroon-lake/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.76737976,43.84115982,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hastings, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hastings/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.14770508,43.35268021,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Little Neck, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/little-neck/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.73262024,40.75913239,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fort Drum, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fort-drum/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.75397491,44.03543472,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Herkimer, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/herkimer/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.98757172,43.03069687,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Suffern, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/suffern/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.12409973,41.11765289,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Adams, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/adams/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.0542984,43.81613922,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Union Hill, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/union-hill/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.37194061,43.22277832,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>South Glens Falls, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-glens-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.63794708,43.28391266,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seaford, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seaford/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.49101257,40.67951202,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hillburn, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hillburn/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.17019653,41.12398148,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Maybrook, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/maybrook/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.21630859,41.48865128,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Valley Stream, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.70573425,40.67418289,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Delevan, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/delevan/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.47932434,42.49259949,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mexico, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mexico/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.24459076,43.46053314,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fonda, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fonda/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.40213013,42.95707703,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fishkill, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fishkill/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.89791107,41.54035187,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mamaroneck, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mamaroneck/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.73503876,40.95248032,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Esperance, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/esperance/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.28824615,42.77167511,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Scottsville, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/scottsville/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.77425385,43.02462006,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ravena, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ravena/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.82199097,42.47537231,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New York Mills, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-york-mills/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.29369354,43.10003662,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shrub Oak, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shrub-oak/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.82731628,41.32860947,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Valhalla, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/valhall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.77759552,41.08555984,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bronxville, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bronxville/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.83533478,40.93913269,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sandy Creek, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sandy-creek/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.12644196,43.65167999,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nedrow, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nedrow/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.15293121,42.95585632,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pulaski, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pulaski/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.12522888,43.55617142,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newburgh, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newburgh/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.03598022,41.51783371,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Miller Place, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/miller-place/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.99134827,40.943573,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Worcester, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/worcester/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.72991943,42.60488892,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lynbrook, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lynbrook/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.67414093,40.65710831,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Highland, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/highland/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.99282837,41.71669006,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cohocton, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cohocton/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.49976349,42.50031662,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sylvan Beach, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sylvan-beach/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.73083496,43.19638824,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Washingtonville, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/washingtonville/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.16010284,41.42370224,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Amsterdam, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/amsterdam/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.18392944,42.94882202,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Portville, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/portville/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.33135223,42.0272522,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Roslyn, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/roslyn/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.65335846,40.79066849,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Killawog, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/killawog/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.02111053,42.40055466,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fredonia, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fredonia/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.33391571,42.43334579,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bellerose, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bellerose/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.72301483,40.73473358,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pelham, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pelham/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.80730438,40.90445328,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brookhaven, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brookhaven/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.89212799,40.78427887,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lewiston, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lewiston/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.02154541,43.17216492,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Otego, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/otego/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.20788574,42.41333008,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oakfield, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oakfield/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.27017975,43.07172775,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clifton Park, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clifton-park/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.78509521,42.84986496,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Niagara Falls, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/niagara-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.04144287,43.09546661,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mount Vernon, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mount-vernon/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.83795929,40.90786362,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Chatham, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-chatham/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.49025726,42.43302917,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake George, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-george/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.69754791,43.41672516,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brewerton, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brewerton/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.13513184,43.22519302,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bronx, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bronx/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.92173767,40.82220078,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Hyde Park, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-hyde-park/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.68041992,40.743927,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Troy, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/troy/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.6682663,42.72874832,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hempstead, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hempstead/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.60028076,40.71389008,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand Island, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-island/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.95906067,43.01826477,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brooklyn, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brooklyn/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.99034119,40.69401932,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rye, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rye/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.6907196,40.97340393,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Watervliet, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/watervliet/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.71234131,42.72984314,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Etna, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/etna/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.38388824,42.48500061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harriman, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harriman/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.1558075,41.29968262,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Painted Post, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/painted-post/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.11937714,42.1709671,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chester, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chester/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.26511383,41.35538101,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Merrick, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/merrick/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.55500031,40.66831207,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alexandria Bay, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alexandria-bay/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.93061829,44.32698059,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Massapequa Park, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/massapequa-park/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.44445038,40.68067169,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairport, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairport/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.43595886,43.08919907,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Penn Yan, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/penn-yan/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.05686951,42.66454697,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Canastota, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/canastota/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.7602005,43.08776474,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Woodhaven, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/woodhaven/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.85851288,40.69134521,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Plymouth, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/plymouth/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.61716461,42.6335907,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saratoga Springs, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saratoga-springs/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.78064728,43.08009338,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bellport, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bellport/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.94689178,40.77326965,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lockport, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lockport/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.69234467,43.1599884,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dolgeville, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dolgeville/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.76430511,43.10416031,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cedarhurst, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cedarhurst/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.72640228,40.62361908,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Queensbury, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/queensbury/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.68184662,43.32898331,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jamaica, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jamaica/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.79425049,40.70462418,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Scarsdale, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/scarsdale/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.79756927,40.98836517,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tuxedo Park, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tuxedo-park/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.21591187,41.19248581,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eaton, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eaton/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.63135529,42.84841537,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Roscoe, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/roscoe/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.92370605,41.94577408,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westmoreland, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westmoreland/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.45326233,43.10168457,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Arcade, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/arcade/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.41342163,42.56299591,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Medford, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/medford/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.98521423,40.81741714,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Canandaigua, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/canandaigua/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.28456116,42.86886597,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Yorkville, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/yorkville/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.2755661,43.11158371,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Round Lake, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/round-lake/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.77012634,42.92599487,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oakdale, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oakdale/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.12969208,40.73822403,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New Hartford, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-hartford/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.29055023,43.06541061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>New York, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/new-york/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.9967041,40.74837875,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tonawanda, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tonawanda/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.85472107,43.00283813,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Babylon, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/babylon/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.32458496,40.63418198,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ardsley, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ardsley/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.84130859,41.01133347,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jericho, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jericho/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.5330658,40.78811646,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mayfield, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mayfield/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.24440002,43.14113235,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Goshen, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/goshen/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.33016205,41.39458466,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oyster Bay, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oyster-bay/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.52721405,40.86601257,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rockville Centre, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rockville-centre/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.63800049,40.66374588,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Yonkers, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/yonkers/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.88831329,40.94071579,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Monticello, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/monticello/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.70074463,41.65158081,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Delanson, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/delanson/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.18681335,42.74802017,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belmont, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belmont/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.0110321,42.23340988,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fayette, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fayette/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.80944061,42.81416702,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fulton, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fulton/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.40341949,43.32110977,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Astoria, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/astoria/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.92646027,40.77062988,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Freeport, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/freeport/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.58661652,40.65359116,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fultonville, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fultonville/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-74.3597641,42.9036026,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>White Plains, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/white-plains/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.76522827,41.03295517,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Rochester, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-rochester/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.49059296,43.11280823,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Crane, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-crane/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.79097748,42.19573593,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Johnson City, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/johnson-city/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.9684906,42.12668228,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Williston Park, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/williston-park/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.64488983,40.75919724,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thornwood, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thornwood/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.77333069,41.11816406,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>East Hampton, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/east-hampton/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.17895508,40.9929657,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ripley, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ripley/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.7121048,42.24817657,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hampton Bays, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hampton-bays/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-72.52021027,40.87259674,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brightwaters, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brightwaters/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.26464081,40.72795868,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dunkirk, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dunkirk/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.32936859,42.47590637,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Glen Cove, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/glen-cove/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.62772369,40.86495972,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Westfield, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/westfield/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.57264709,42.32197571,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Henrietta, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/henrietta/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-77.61222076,43.04826355,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Saugerties, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/saugerties/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-73.97968292,42.07376099,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Weedsport, NY</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/weedsport/new-york/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-76.54250336,43.04888153,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

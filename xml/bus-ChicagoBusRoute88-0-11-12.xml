@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="88" rtRtpiFeedName="" rtdd="88"> <!-- @11 @16 -->
+
+		<time>4:11 PM</time>
+
+
+		<bus>
+			<id>8290</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>88</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>88</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.97063064575195</lat>
+			<lon>-87.76322174072266</lon>
+			<pid>1728</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F409</run>
+			<fs>Devon/Canfield</fs>
+			<op>62147</op>
+			<dip>639</dip>
+			<bid>3159</bid>				
+			<wid1>0F</wid1>
+			<wid2>409</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8272</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>88</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>88</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.990431785583496</lat>
+			<lon>-87.81628437042237</lon>
+			<pid>1728</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F407</run>
+			<fs>Devon/Canfield</fs>
+			<op>36456</op>
+			<dip>18759</dip>
+			<bid>2861</bid>				
+			<wid1>0F</wid1>
+			<wid2>407</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8240</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>88</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>88</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.96931042878524</lat>
+			<lon>-87.76199075450067</lon>
+			<pid>4672</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F408</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>55071</op>
+			<dip>22763</dip>
+			<bid>2896</bid>				
+			<wid1>0F</wid1>
+			<wid2>408</wid2>            	
+		</bus>
+
+
+
+	</buses>

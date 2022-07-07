@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Soldotna, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/soldotna/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-151.13581848,60.48177719,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Houston, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/houston/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-149.84111023,61.63360977,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Delta Junction, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/delta-junction/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-145.61361694,64.0054245,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Anderson, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/anderson/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-149.17179871,64.3006897,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Homer, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/homer/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-151.46264648,59.66549683,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wasilla, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wasilla/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-149.43940735,61.58140182,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Valdez, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/valdez/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-146.19563293,60.89504242,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kenai, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kenai/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-151.25456238,60.61446762,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairbanks, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairbanks/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-147.71043396,64.84024048,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Anchorage, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/anchorage/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-149.87608337,61.21157074,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Whittier, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/whittier/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-148.68333435,60.77500153,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Palmer, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/palmer/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-149.06532288,61.61381531,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bethel, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bethel/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-161.8240509,60.83238983,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seward, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seward/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-149.39848328,60.13287354,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seldovia, AK</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seldovia/alaska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-151.70832825,59.4366684,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

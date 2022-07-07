@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="57" rtRtpiFeedName="" rtdd="57"> <!-- @11 @16 -->
+
+		<time>4:09 PM</time>
+
+
+		<bus>
+			<id>1960</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>57</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>57</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.89668350219726</lat>
+			<lon>-87.75566864013672</lon>
+			<pid>1326</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5166</run>
+			<fs>Forest Park Blue Line Station</fs>
+			<op>45273</op>
+			<dip>7936</dip>
+			<bid>1508</bid>				
+			<wid1>05</wid1>
+			<wid2>166</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1988</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>57</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>57</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.88262643814087</lat>
+			<lon>-87.75516471862792</lon>
+			<pid>1326</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5165</run>
+			<fs>Forest Park Blue Line Station</fs>
+			<op>44555</op>
+			<dip>13090</dip>
+			<bid>1511</bid>				
+			<wid1>05</wid1>
+			<wid2>165</wid2>            	
+		</bus>
+
+
+
+	</buses>

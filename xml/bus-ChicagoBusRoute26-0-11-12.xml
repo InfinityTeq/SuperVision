@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="26" rtRtpiFeedName="" rtdd="26"> <!-- @11 @16 -->
+
+		<time>3:54 PM</time>
+
+
+		<bus>
+			<id>4194</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>26</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>26</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.886810302734375</lat>
+			<lon>-87.62461853027344</lon>
+			<pid>8119</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1673</run>
+			<fs>103rd/Stony Island</fs>
+			<op>64904</op>
+			<dip>4540</dip>
+			<bid>1244</bid>				
+			<wid1>01</wid1>
+			<wid2>673</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4193</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>26</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>26</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.878962083296344</lat>
+			<lon>-87.62442895137903</lon>
+			<pid>8119</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1435</run>
+			<fs>103rd/Stony Island</fs>
+			<op>63392</op>
+			<dip>7512</dip>
+			<bid>1283</bid>				
+			<wid1>01</wid1>
+			<wid2>435</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4174</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>26</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>26</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SSE</dn> 
+			<lat>41.86066436767578</lat>
+			<lon>-87.61795043945312</lon>
+			<pid>8119</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1634</run>
+			<fs>103rd/Stony Island</fs>
+			<op>58188</op>
+			<dip>15405</dip>
+			<bid>1194</bid>				
+			<wid1>01</wid1>
+			<wid2>634</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4187</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>26</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>26</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SSE</dn> 
+			<lat>41.75203492906358</lat>
+			<lon>-87.5482894655258</lon>
+			<pid>8119</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1631</run>
+			<fs>103rd/Stony Island</fs>
+			<op>55634</op>
+			<dip>63502</dip>
+			<bid>1163</bid>				
+			<wid1>01</wid1>
+			<wid2>631</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1072</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>26</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>26</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.71637383060179</lat>
+			<lon>-87.53532409667969</lon>
+			<pid>8119</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1662</run>
+			<fs>103rd/Stony Island</fs>
+			<op>42968</op>
+			<dip>81029</dip>
+			<bid>1287</bid>				
+			<wid1>01</wid1>
+			<wid2>662</wid2>            	
+		</bus>
+
+
+
+	</buses>

@@ -1,15 +1,136 @@
+xml_dictionary = {
+    'bus-ChicagoBusRoute1-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=1',
+	'bus-ChicagoBusRoute2-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=2',
+	'bus-ChicagoBusRoute3-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=3',
+	'bus-ChicagoBusRoute4-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=4',
+	'bus-ChicagoBusRoute5-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=5',
+	'bus-ChicagoBusRoute6-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=6',
+	'bus-ChicagoBusRoute7-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=7',
+	'bus-ChicagoBusRoute8-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=8',
+	'bus-ChicagoBusRoute9-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=9',
+	'bus-ChicagoBusRoutex9-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=x9',
+	'bus-ChicagoBusRoute10-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=10',
+	'bus-ChicagoBusRoute11-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=11',
+	'bus-ChicagoBusRoute12-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=12',
+	'bus-ChicagoBusRoute14-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=14',
+	'bus-ChicagoBusRoute15-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=15',
+	'bus-ChicagoBusRoute18-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=18',
+	'bus-ChicagoBusRoute19-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=19',
+	'bus-ChicagoBusRoute20-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=20',
+	'bus-ChicagoBusRoute21-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=21',
+	'bus-ChicagoBusRoute22-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=22',
+	'bus-ChicagoBusRoute24-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=24',
+	'bus-ChicagoBusRoute26-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=26',
+	'bus-ChicagoBusRoute28-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=28',
+	'bus-ChicagoBusRoute29-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=29',
+	'bus-ChicagoBusRoute30-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=30',
+	'bus-ChicagoBusRoute31-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=31',
+	'bus-ChicagoBusRoute34-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=34',
+	'bus-ChicagoBusRoute35-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=35',
+	'bus-ChicagoBusRoute36-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=36',
+	'bus-ChicagoBusRoute37-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=37',
+	'bus-ChicagoBusRoute39-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=39',
+	'bus-ChicagoBusRoute43-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=43',
+	'bus-ChicagoBusRoute44-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=44',
+	'bus-ChicagoBusRoute47-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=47',
+	'bus-ChicagoBusRoute48-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=48',
+	'bus-ChicagoBusRoute49-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=49',
+	'bus-ChicagoBusRoutex49-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=x49',
+	'bus-ChicagoBusRoute50-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=50',
+	'bus-ChicagoBusRoute51-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=51',
+	'bus-ChicagoBusRoute52-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=52',
+	'bus-ChicagoBusRoute53-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=53',
+	'bus-ChicagoBusRoute54-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=54',
+	'bus-ChicagoBusRoute55-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=55',
+	'bus-ChicagoBusRoute56-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=56',
+	'bus-ChicagoBusRoute57-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=57',
+	'bus-ChicagoBusRoute59-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=59',
+	'bus-ChicagoBusRoute60-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=60',
+	'bus-ChicagoBusRoute62-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=62',
+	'bus-ChicagoBusRoute63-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=63',
+	'bus-ChicagoBusRoute65-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=65',
+	'bus-ChicagoBusRoute66-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=66',
+	'bus-ChicagoBusRoute67-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=67',
+	'bus-ChicagoBusRoute68-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=68',
+	'bus-ChicagoBusRoute70-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=70',
+	'bus-ChicagoBusRoute71-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=71',
+	'bus-ChicagoBusRoute72-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=72',
+	'bus-ChicagoBusRoute73-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=73',
+	'bus-ChicagoBusRoute74-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=74',
+	'bus-ChicagoBusRoute75-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=75',
+	'bus-ChicagoBusRoute76-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=76',
+	'bus-ChicagoBusRoute77-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=77',
+	'bus-ChicagoBusRoute78-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=78',
+	'bus-ChicagoBusRoute79-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=79',
+	'bus-ChicagoBusRoute80-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=80',
+	'bus-ChicagoBusRoute81-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=81',
+	'bus-ChicagoBusRoute82-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=82',
+	'bus-ChicagoBusRoute84-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=84',
+	'bus-ChicagoBusRoute85-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=85',
+	'bus-ChicagoBusRoute86-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=86',
+	'bus-ChicagoBusRoute87-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=87',
+	'bus-ChicagoBusRoute88-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=88',
+	'bus-ChicagoBusRoute90-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=90',
+	'bus-ChicagoBusRoute91-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=91',
+	'bus-ChicagoBusRoute92-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=92',
+	'bus-ChicagoBusRoute93-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=93',
+	'bus-ChicagoBusRoute94-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=94',
+	'bus-ChicagoBusRoute95-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=95',
+	'bus-ChicagoBusRoute96-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=96',
+	'bus-ChicagoBusRoute97-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=97',
+	'bus-ChicagoBusRoutex98-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=x98',
+	'bus-ChicagoBusRoute100-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=100',
+	'bus-ChicagoBusRoute103-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=103',
+	'bus-ChicagoBusRoute106-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=106',
+	'bus-ChicagoBusRoute108-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=108',
+	'bus-ChicagoBusRoute111-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=111',
+	'bus-ChicagoBusRoute112-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=112',
+	'bus-ChicagoBusRoute115-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=115',
+	'bus-ChicagoBusRoute119-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=119',
+	'bus-ChicagoBusRoute120-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=120',
+	'bus-ChicagoBusRoute121-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=121',
+	'bus-ChicagoBusRoute124-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=124',
+	'bus-ChicagoBusRoute125-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=125',
+	'bus-ChicagoBusRoute126-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=126',
+	'bus-ChicagoBusRoute130-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=130',
+	'bus-ChicagoBusRoute134-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=134',
+	'bus-ChicagoBusRoute135-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=135',
+	'bus-ChicagoBusRoute136-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=136',
+	'bus-ChicagoBusRoute143-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=143',
+	'bus-ChicagoBusRoute146-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=146',
+	'bus-ChicagoBusRoute147-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=147',
+	'bus-ChicagoBusRoute148-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=148',
+	'bus-ChicagoBusRoute151-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=151',
+	'bus-ChicagoBusRoute152-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=152',
+	'bus-ChicagoBusRoute155-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=155',
+	'bus-ChicagoBusRoute156-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=156',
+	'bus-ChicagoBusRoute157-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=157',
+	'bus-ChicagoBusRoute165-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=165',
+	'bus-ChicagoBusRoute169-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=169',
+	'bus-ChicagoBusRoute171-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=171',
+	'bus-ChicagoBusRoute172-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=172',
+	'bus-ChicagoBusRoute192-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=192',
+	'bus-ChicagoBusRoute201-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=201',
+	'bus-ChicagoBusRoute206-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=206',
+}
+
 def get():
     # add realtime visualization to html
 
-    realtime = open('templates/realtime.js', 'r').read()
-    read_index = open('templates/index.html', 'r').readlines()
     map_name = ''
+    realtime_data = open('templates/supervision.js', 'r').read()
+    # find map name
+    read_index = open('templates/index.html', 'r').readlines()
+
+    file_names = [key for key, value in xml_dictionary.items()]
+
     with open('templates/index.html', 'w') as index:
         for line in range(len(read_index) - 1):
             if read_index[line].strip().endswith('L.map('):
                 map_name = read_index[line].strip(' ').replace('\t', '').replace('var ','').replace(' = L.map(','').replace('\n','')
-                print(map_name)
-                print()
+
+                realtime_data = realtime_data.replace('MAP', map_name).replace('ARRAY',str(file_names))
 
             index.write(read_index[line])
-        index.write(realtime.replace('MAP',map_name))
+        index.write(realtime_data.replace('MAP', map_name))
+        index.write('\n</script>')

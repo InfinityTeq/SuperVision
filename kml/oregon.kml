@@ -1,0 +1,1942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Vernonia, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/vernonia/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.1966629,45.8572998,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Burns, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/burns/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.05039978,43.51451111,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Willamina, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/willamina/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.50470734,45.08260345,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lincoln City, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lincoln-city/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.99555969,44.96813965,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Meacham, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/meacham/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.42028046,45.50666809,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eagle Point, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eagle-point/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.80879974,42.49346542,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Canyonville, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/canyonville/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.27801514,42.93068314,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Frenchglen, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/frenchglen/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.91444397,42.82694244,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Damascus, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/damascus/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.43687439,45.42539215,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chiloquin, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chiloquin/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.74495697,42.54629135,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Albany, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/albany/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.09440613,44.62772369,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Antelope, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/antelope/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.79138184,44.88919449,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shaniko, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shaniko/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.80695343,45.04722977,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chemult, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chemult/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.84470367,43.12466812,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bonanza, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bonanza/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.33355713,42.24626923,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sisters, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sisters/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.52413177,44.30732727,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Myrtle Point, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/myrtle-point/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.12133026,43.06669235,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Aurora, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/aurora/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.80387878,45.2284317,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seaside, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seaside/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.87883759,45.96950531,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cascade Locks, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cascade-locks/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.88240814,45.67144775,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Union, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/union/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.85355377,45.20193863,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Corvallis, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/corvall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.27217102,44.59041214,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Talent, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/talent/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.78604889,42.23625183,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Mitchell, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mitchell/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.14557648,44.56573486,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bend, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bend/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.29363251,44.0927887,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gresham, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gresham/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.42025757,45.51539612,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kent, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kent/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.6648941,45.08378983,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Yachats, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/yachats/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.08626556,44.32556152,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Portland, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/portland/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.69025421,45.49881744,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sandy, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sandy/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.22304535,45.37895584,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newport, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newport/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.05090332,44.64865112,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Halfway, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/halfway/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.11315155,44.8952713,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Haines, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/haines/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.97556305,44.8776207,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Florence, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/florence/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.0993042,43.98809814,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wallowa, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.53572845,45.57172012,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lakeview, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lakeview/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.37753296,42.18544388,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Roseburg, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/roseburg/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.36643982,43.22272491,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sweet Home, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sweet-home/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.7285614,44.39810944,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fossil, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fossil/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.20669556,44.98529053,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dufur, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dufur/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.14679718,45.42910004,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rogue River, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rogue-river/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.15872955,42.48888779,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Paisley, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/paisley/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.5532074,42.70309067,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Myrtle Creek, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/myrtle-creek/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.28505707,43.01616287,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cave Junction, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cave-junction/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.62719727,42.13478851,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dallas, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.31999207,44.92253494,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pilot Rock, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pilot-rock/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.84832764,45.42272568,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wasco, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wasco/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.73035431,45.59744644,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Scottsburg, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/scottsburg/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.80406189,43.67647934,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>La Pine, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/la-pine/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.51944733,43.70912552,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Salem, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/salem/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.97969055,44.92604065,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beaver, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beaver/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.82341766,45.27674484,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Camas Valley, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/camas-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.66546631,43.05566025,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Prineville, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/prineville/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.83361816,44.30445099,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dayville, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dayville/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.53118134,44.46630859,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bandon, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bandon/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.40367126,43.09680557,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Medford, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/medford/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.88700867,42.31929398,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Independence, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/independence/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.18791199,44.84809875,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wilsonville, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wilsonville/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.7698822,45.29864502,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thurston, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thurston/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.02083588,44.04639053,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Jordan Valley, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/jordan-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.28098297,42.8801384,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Weston, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/weston/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.37327576,45.80736542,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cottage Grove, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cottage-grove/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.05290985,43.78393555,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oregon City, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oregon-city/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.56999207,45.33771896,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rainier, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rainier/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.9670639,46.06455231,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brightwood, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brightwood/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.00362396,45.36521912,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ashland, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ashland/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.69303131,42.18851089,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Central Point, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/central-point/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.92223358,42.38991547,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>The Dalles, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/the-dall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.19049072,45.59950256,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ukiah, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ukiah/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.93138885,45.13416672,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Government Camp, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/government-camp/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.78542328,45.318367,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newberg, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newberg/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.96850586,45.30990219,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairview, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairview/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.4327774,45.53861237,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Phoenix, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/phoenix/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.82269287,42.27655411,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clatskanie, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clatskanie/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.21240234,46.09978104,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Redmond, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/redmond/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.18960571,44.27669144,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pendleton, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pendleton/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.78310394,45.66053391,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Keizer, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/keizer/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.02500153,44.99027634,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Astoria, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/astoria/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.79798126,46.15580368,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hood River, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hood-river/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.53910065,45.67105865,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Riley, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/riley/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-116.90061951,44.93053055,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gladstone, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gladstone/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.5901947,45.38988113,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tangent, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tangent/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.11081696,44.54972839,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Plains, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-plains/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.99222565,45.59722137,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Crescent, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/crescent/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.66481018,43.49722672,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dundee, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dundee/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.01522827,45.27761078,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Halsey, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/halsey/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.12510681,44.38615036,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sumpter, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sumpter/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.19060516,44.73163986,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Woodburn, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/woodburn/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.85834503,45.14461517,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elkton, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elkton/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.5900116,43.63776016,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bly, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bly/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.04055786,42.39777756,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cannon Beach, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cannon-beach/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.96305847,45.88194275,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Klamath Falls, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/klamath-fall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.78697205,42.22960281,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sutherlin, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sutherlin/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.29742432,43.39040375,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rufus, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rufus/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.72677612,45.68515015,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lyons, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lyons/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.82008362,44.77679062,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Estacada, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/estacada/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.32585907,45.28717804,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Arlington, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/arlington/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.19715118,45.66641617,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Reedsport, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/reedsport/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.10547638,43.6957016,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lake Oswego, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lake-oswego/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.6847229,45.40926361,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Unity, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/unity/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.16272736,44.44906235,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bay City, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bay-city/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.87607574,45.51965714,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Drain, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/drain/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.29292297,43.68766022,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cornelius, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cornelius/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.04153442,45.52903366,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>McMinnville, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mcminnville/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.2043457,45.20967865,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Timber, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/timber/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.3118515,45.72703171,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Coquille, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/coquille/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.2013855,43.18841171,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brookings, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brookings/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.26781464,42.06400299,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hillsboro, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hillsboro/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.95700073,45.49840164,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Long Creek, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/long-creek/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.09702301,44.75541687,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gold Beach, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gold-beach/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.39607239,42.43481827,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Echo, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/echo/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.19490051,45.74108887,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Powder, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-powder/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.93366241,45.0316658,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Port Orford, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/port-orford/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.4912796,42.75719452,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cheshire, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cheshire/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.37151337,44.1782074,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Forest Grove, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/forest-grove/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.11515045,45.5328331,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Veneta, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/veneta/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.35159302,44.03823471,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Baker City, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/baker-city/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.82862854,44.78010178,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Umatilla, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/umatilla/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.31371307,45.91572571,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Happy Valley, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/happy-vall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.53413391,45.44499588,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gales Creek, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gales-creek/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.23397064,45.5957489,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Boardman, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/boardman/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.72057343,45.8271637,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seneca, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seneca/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.05780029,44.12770462,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand Ronde, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-ronde/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.6335144,45.07497406,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Adams, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/adams/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.61758423,45.74967957,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Welches, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/welches/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.95982361,45.33986282,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gardiner, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gardiner/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-124.14369202,43.78573608,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>White City, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/white-city/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.82962036,42.4319191,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Linn, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-linn/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.64794922,45.36687469,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oakridge, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oakridge/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.45771027,43.7497673,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Stanfield, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/stanfield/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.21160126,45.78598785,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Condon, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/condon/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-120.18983459,45.23058701,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Molalla, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/molall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.57557678,45.12225723,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elgin, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elgin/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.91118622,45.59410095,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Huntington, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/huntington/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.30969238,44.38111115,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>La Grande, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/la-grande/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.08522797,45.33043671,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eugene, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eugene/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.07875824,44.07367706,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Clackamas, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/clackamas/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.52005005,45.41499329,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Drewsey, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/drewsey/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-118.47065735,43.86427689,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Warm Springs, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/warm-springs/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-121.29093933,44.74682617,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grants Pass, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grants-pass/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.34572601,42.46375656,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sherwood, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sherwood/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.8567276,45.35141754,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Joseph, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/joseph/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-117.2128067,45.3494339,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bridal Veil, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bridal-veil/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.17658997,45.55790329,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beaverton, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beaverton/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.80539703,45.47503662,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pacific City, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pacific-city/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-123.96166992,45.20249939,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gates, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gates/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.39949799,44.75271606,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Paulina, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/paulina/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-119.78276825,44.21024323,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tualatin, OR</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tualatin/oregon/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-122.76313019,45.37268829,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

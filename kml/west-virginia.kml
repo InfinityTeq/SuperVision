@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Huntington, WV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/huntington/west-virginia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.44234467,38.40972519,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Snowshoe, WV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/snowshoe/west-virginia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.14167023,38.39722061,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brandywine, WV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brandywine/west-virginia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.20962524,38.63570023,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seneca Rocks, WV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seneca-rocks/west-virginia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-79.38657379,38.82961655,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Henderson, WV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/henderson/west-virginia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.13638306,38.82651138,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>White Sulphur Springs, WV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/white-sulphur-springs/west-virginia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-80.27464294,37.81461716,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ceredo, WV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ceredo/west-virginia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-82.5588913,38.39638901,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wardensville, WV</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wardensville/west-virginia/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-78.61745453,39.05623627,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

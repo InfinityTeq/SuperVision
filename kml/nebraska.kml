@@ -1,0 +1,1747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+
+<Style id="traffic_camera">
+<IconStyle>
+    <Icon>
+    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+    </Icon>
+</IconStyle>
+<BalloonStyle>
+    <text>$[video]</text>
+</BalloonStyle>
+</Style>
+
+            <Placemark>
+                <name>Doniphan, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/doniphan/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.37901306,40.77003098,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bennet, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bennet/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.51339722,40.63822174,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Shelton, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/shelton/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.74345398,40.77170181,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Miller, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/miller/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.37398529,40.94223785,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dix, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dix/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.47960663,41.22699356,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Emmet, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/emmet/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.82377625,42.47470856,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Giltner, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/giltner/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.14344025,40.76540375,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newport, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newport/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.33588409,42.60009003,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Verdigre, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/verdigre/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.07927704,42.61011124,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chadron, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chadron/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.99533081,42.81926727,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waverly, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waverly/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.52598572,40.92224121,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Beaver Crossing, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/beaver-crossing/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.29135895,40.78865814,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nenzel, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nenzel/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.10250092,42.92777634,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Whiteclay, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/whiteclay/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.5541687,42.99694443,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Avoca, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/avoca/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.09573364,40.81594086,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Eustis, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/eustis/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.05469513,40.62674332,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alliance, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.88804626,42.11494446,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Thedford, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/thedford/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.57383728,41.97357559,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Odessa, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/odessa/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.25408173,40.70972443,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Battle Creek, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/battle-creek/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.59815216,41.99428177,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Davey, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/davey/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.64138031,41.0025444,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grant, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grant/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.71958923,40.8510704,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hyannis, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hyannis/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.74829865,42.00696564,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Blair, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/blair/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.16166687,41.54537582,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ponca, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ponca/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.71279144,42.56930923,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Plattsmouth, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/plattsmouth/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.9139328,40.9991951,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Western, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/western/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.19764709,40.41515732,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>West Point, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/west-point/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.73176575,41.84503174,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chester, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chester/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.61968994,40.02895355,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Waco, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/waco/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.45335388,40.91982651,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Venango, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/venango/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.98389435,40.80732346,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Greenwood, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/greenwood/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.42584229,40.97063828,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dalton, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dalton/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.97261047,41.40677643,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ceresco, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ceresco/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.63977051,41.06806946,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Potter, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/potter/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.3061142,41.23468781,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>McLean, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/mclean/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.47511292,42.39208221,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>La Vista, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/la-vista/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.04025269,41.17198181,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gordon, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gordon/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.20492554,42.8068428,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Culbertson, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/culbertson/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.85004425,40.22370529,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tekamah, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tekamah/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.22814178,41.7818985,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sargent, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sargent/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.38162231,41.65084457,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Arnold, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/arnold/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.15673065,41.44558334,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hebron, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hebron/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.60522461,40.17280579,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Overton, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/overton/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.5278244,40.75187683,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alda, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alda/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.45513153,40.85692215,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pilger, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pilger/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.26847076,42.0404129,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Papillion, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/papillion/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.03704834,41.15225601,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Big Springs, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/big-springs/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.09326935,41.06962204,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brady, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brady/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.3736496,41.05152512,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dunning, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dunning/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.08727264,41.81310654,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sidney, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sidney/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.97750092,41.14277649,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bushnell, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bushnell/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.90749359,41.21387482,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wilsonville, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wilsonville/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.12110138,40.10889435,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>North Platte, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/north-platte/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.77462769,41.13259506,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hershey, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hershey/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.00115967,41.15530396,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Enders, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/enders/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.52215576,40.46549225,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brunswick, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brunswick/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.94400787,42.35102463,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cedar Rapids, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cedar-rapids/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.15538025,41.55640793,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lincoln, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lincoln/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.71029663,40.81689835,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gretna, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gretna/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.24583435,41.13445663,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Brewster, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/brewster/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.82919312,41.94670486,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rosalie, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rosalie/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.49286652,42.05743408,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Valentine, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/valentine/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.62154388,42.8061676,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Aurora, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/aurora/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.02010345,40.85283661,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elgin, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elgin/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.07508087,41.9732399,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ogallala, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ogall</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.71073914,41.12750626,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Grand Island, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/grand-island/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.34106445,40.92185974,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rogers, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rogers/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.94973755,41.46953583,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Howells, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/howells/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.98580933,41.69644165,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>York, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/york/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.58248138,40.86667633,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hemingford, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hemingford/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.06441498,42.33116913,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wood River, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wood-river/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.60650635,40.81063461,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Paxton, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/paxton/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.3585434,41.12676239,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Spencer, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/spencer/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.70585632,42.88493729,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Springview, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/springview/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.80614471,42.8487854,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harrison, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harrison/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.83180237,42.39459229,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Julian, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/julian/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.85045624,40.48605728,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Taylor, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/taylor/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.41540527,41.82286072,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Maxwell, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/maxwell/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.5269928,41.05883026,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Tryon, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/tryon/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.01750946,41.57317352,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Cortland, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/cortland/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.71662903,40.49760056,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Campbell, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/campbell/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.73701477,40.29668427,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Fairfield, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/fairfield/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.10626984,40.42851257,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Chambers, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/chambers/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.73784637,42.19160461,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Emerson, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/emerson/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.71587372,42.2852478,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bellevue, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bellevue/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.909935,41.14966202,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Rushville, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/rushville/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.46573639,42.73793411,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bayard, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bayard/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.30188751,41.75792313,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Broadwater, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/broadwater/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.8225174,41.58254623,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Franklin, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/franklin/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.94686127,40.1051712,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Alma, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/alma/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.36006927,40.11885452,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Carroll, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/carroll/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.19261169,42.27700806,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Minden, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/minden/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.93829346,40.50914383,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hastings, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hastings/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.3911438,40.58765411,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Bradshaw, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/bradshaw/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.76069641,40.92071915,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Belvidere, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/belvidere/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.55541229,40.25101089,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Long Pine, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/long-pine/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.72304535,42.5333786,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Barneston, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/barneston/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.57666779,40.04833221,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Pleasant Dale, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/pleasant-dale/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.95127869,40.81332779,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Harrisburg, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/harrisburg/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.71114349,41.55305862,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Elm Creek, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/elm-creek/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.37278748,40.73007965,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lexington, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lexington/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.75151825,40.78500366,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oshkosh, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oshkosh/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.3456955,41.44505692,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Newman Grove, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/newman-grove/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.77396393,41.74977112,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lewellen, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lewellen/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.13962555,41.34346008,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Omaha, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/omaha/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.93759918,41.26100159,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Palmyra, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/palmyra/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.39990234,40.70496368,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Butte, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/butte/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-98.84590149,42.9123764,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>South Bend, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/south-bend/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.24500275,41.00166702,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Whitney, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/whitney/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.23955536,42.75588226,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wood Lake, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wood-lake/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.28717804,42.62639236,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wellfleet, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wellfleet/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.71191406,40.79877472,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Winnebago, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/winnebago/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.46850586,42.23385239,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Syracuse, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/syracuse/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.18240356,40.66138458,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Dawson, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/dawson/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.83409882,40.13769531,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Sutherland, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/sutherland/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.1360321,41.15575027,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kearney, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kearney/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.12030029,40.70859909,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Magnet, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/magnet/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.4407196,42.47529221,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Ashland, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/ashland/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.39041138,41.05411148,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Goehner, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/goehner/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.20545959,40.83020782,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Haigler, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/haigler/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-101.93710327,40.06417847,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hampton, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hampton/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.88414764,40.92361069,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Kimball, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/kimball</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-103.66023254,41.23207855,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Nebraska City, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/nebraska-city/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.86190033,40.67474747,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Seward, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/seward/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.09661865,40.90660858,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Henderson, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/henderson/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-97.79786682,40.78137589,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Hay Springs, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/hay-springs/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.67564392,42.64012146,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Wahoo, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/wahoo/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-96.62194824,41.21172333,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Oxford, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/oxford/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.63019562,40.25605011,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Gothenburg, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/gothenburg/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-100.15470886,40.94003677,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Union, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/union/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-95.90373993,40.82445145,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Arcadia, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/arcadia/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-99.12046814,41.42930603,0</coordinates>
+                </Point>
+            </Placemark>
+        
+            <Placemark>
+                <name>Lodgepole, NE</name>
+                <styleUrl>#traffic_camera</styleUrl>
+                <ExtendedData>
+                    <Data name="video">
+                    <value>https://www.traffic-cams.com/lodgepole/nebraska/all</value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-102.65703583,41.1697464,0</coordinates>
+                </Point>
+            </Placemark>
+        
+        </Document>
+</kml>

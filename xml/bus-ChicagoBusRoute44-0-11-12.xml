@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="44" rtRtpiFeedName="" rtdd="44"> <!-- @11 @16 -->
+
+		<time>4:08 PM</time>
+
+
+		<bus>
+			<id>8224</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>44</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>44</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>W</dn> 
+			<lat>41.736568450927734</lat>
+			<lon>-87.653076171875</lon>
+			<pid>7014</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6784</run>
+			<fs>Halsted Orange Line</fs>
+			<op>29727</op>
+			<dip>57</dip>
+			<bid>2552</bid>				
+			<wid1>06</wid1>
+			<wid2>784</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1437</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>44</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>44</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.769134203592934</lat>
+			<lon>-87.65417840745714</lon>
+			<pid>7014</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6525</run>
+			<fs>Halsted Orange Line</fs>
+			<op>63276</op>
+			<dip>11985</dip>
+			<bid>2791</bid>				
+			<wid1>06</wid1>
+			<wid2>525</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1536</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>44</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>44</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.82365657437232</lat>
+			<lon>-87.64105987548828</lon>
+			<pid>7015</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6780</run>
+			<fs>Racine/87th</fs>
+			<op>51814</op>
+			<dip>14163</dip>
+			<bid>2840</bid>				
+			<wid1>06</wid1>
+			<wid2>780</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1414</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>44</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>44</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>41.80876611982073</lat>
+			<lon>-87.6531729561942</lon>
+			<pid>7015</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6778</run>
+			<fs>Racine/87th</fs>
+			<op>28056</op>
+			<dip>23239</dip>
+			<bid>2793</bid>				
+			<wid1>06</wid1>
+			<wid2>778</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1435</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>44</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>44</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.770459722300046</lat>
+			<lon>-87.65429587442367</lon>
+			<pid>7015</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6786</run>
+			<fs>Racine/87th</fs>
+			<op>42966</op>
+			<dip>37918</dip>
+			<bid>2790</bid>				
+			<wid1>06</wid1>
+			<wid2>786</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1429</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>44</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>44</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.84536544136379</lat>
+			<lon>-87.64145008031873</lon>
+			<pid>7014</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6788</run>
+			<fs>Halsted Orange Line</fs>
+			<op>45061</op>
+			<dip>44054</dip>
+			<bid>2564</bid>				
+			<wid1>06</wid1>
+			<wid2>788</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1417</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>44</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>44</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.74314498901367</lat>
+			<lon>-87.65354919433594</lon>
+			<pid>7015</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6785</run>
+			<fs>Racine/87th</fs>
+			<op>51883</op>
+			<dip>47888</dip>
+			<bid>2794</bid>				
+			<wid1>06</wid1>
+			<wid2>785</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1442</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>44</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>44</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Northbound</dd> 
+			<dn>S</dn> 
+			<lat>41.847194035847984</lat>
+			<lon>-87.64650587602095</lon>
+			<pid>7014</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6782</run>
+			<fs>Halsted Orange Line</fs>
+			<op>52877</op>
+			<dip>49820</dip>
+			<bid>2670</bid>				
+			<wid1>06</wid1>
+			<wid2>782</wid2>            	
+		</bus>
+
+
+
+	</buses>
