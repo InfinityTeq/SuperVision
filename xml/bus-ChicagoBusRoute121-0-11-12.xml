@@ -39,11 +39,11 @@
 
 	<buses rt="121" rtRtpiFeedName="" rtdd="121"> <!-- @11 @16 -->
 
-		<time>4:17 PM</time>
+		<time>5:30 PM</time>
 
 
 		<bus>
-			<id>7904</id>    
+			<id>1703</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,47 +55,18 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.89088638305664</lat>
-			<lon>-87.62408508300781</lon>
-			<pid>8091</pid>
+			<lat>41.88999938964844</lat>
+			<lon>-87.62415313720703</lon>
+			<pid>8090</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K018</run>
+			<run>K031</run>
 			<fs>Union Station</fs>
-			<op>52046</op>
-			<dip>2591</dip>
-			<bid>1654</bid>				
+			<op>52278</op>
+			<dip>2959</dip>
+			<bid>1667</bid>				
 			<wid1>0K</wid1>
-			<wid2>018</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1609</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>121</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>121</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>E</dn> 
-			<lat>41.87799244835263</lat>
-			<lon>-87.64082372756232</lon>
-			<pid>8091</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K433</run>
-			<fs>Union Station</fs>
-			<op>60830</op>
-			<dip>11340</dip>
-			<bid>1823</bid>				
-			<wid1>0K</wid1>
-			<wid2>433</wid2>            	
+			<wid2>031</wid2>            	
 		</bus>
 
 

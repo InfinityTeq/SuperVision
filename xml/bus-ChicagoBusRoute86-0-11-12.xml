@@ -39,11 +39,11 @@
 
 	<buses rt="86" rtRtpiFeedName="" rtdd="86"> <!-- @11 @16 -->
 
-		<time>4:18 PM</time>
+		<time>5:30 PM</time>
 
 
 		<bus>
-			<id>1036</id>    
+			<id>8210</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,50 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>86</rtdd>  
 			
-			<d>East Bound</d>
+			<d>North Bound</d>
 			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>41.88821792602539</lat>
-			<lon>-87.7825698852539</lon>
+			<dn>N</dn> 
+			<lat>41.91554524348332</lat>
+			<lon>-87.78514099121094</lon>
 			<pid>3527</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F353</run>
+			<run>F355</run>
 			<fs>Devon/Nagle</fs>
-			<op>31471</op>
-			<dip>0</dip>
-			<bid>3171</bid>				
+			<op>34447</op>
+			<dip>13512</dip>
+			<bid>3177</bid>				
 			<wid1>0F</wid1>
-			<wid2>353</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8319</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>86</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>86</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.973031543550036</lat>
-			<lon>-87.78801727294922</lon>
-			<pid>10905</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F354</run>
-			<fs>Ridgeland Green Line</fs>
-			<op>N/A</op>
-			<dip>9765</dip>
-			<bid>2875</bid>				
-			<wid1>0F</wid1>
-			<wid2>354</wid2>            	
+			<wid2>355</wid2>            	
 		</bus>
 
 
@@ -110,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>86</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.910430908203125</lat>
-			<lon>-87.78504180908203</lon>
-			<pid>3527</pid>
-			<pd>Northbound</pd> 
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.94013477193898</lat>
+			<lon>-87.78615412218818</lon>
+			<pid>10905</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F356</run>
-			<fs>Devon/Nagle</fs>
+			<fs>Ridgeland Green Line</fs>
 			<op>38814</op>
-			<dip>11642</dip>
+			<dip>21863</dip>
 			<bid>3180</bid>				
 			<wid1>0F</wid1>
 			<wid2>356</wid2>            	
@@ -130,7 +101,7 @@
 
 
 		<bus>
-			<id>1046</id>    
+			<id>8319</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -139,21 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>86</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.93180495042067</lat>
-			<lon>-87.78568267822266</lon>
-			<pid>10905</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.94967024666922</lat>
+			<lon>-87.786315373012</lon>
+			<pid>3527</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F357</run>
-			<fs>Ridgeland Green Line</fs>
-			<op>45765</op>
-			<dip>24958</dip>
-			<bid>2874</bid>				
+			<run>F354</run>
+			<fs>Devon/Nagle</fs>
+			<op>N/A</op>
+			<dip>25980</dip>
+			<bid>2875</bid>				
 			<wid1>0F</wid1>
-			<wid2>357</wid2>            	
+			<wid2>354</wid2>            	
 		</bus>
 
 
@@ -169,17 +140,17 @@
 			<rtdd>86</rtdd>  
 			
 			<d>South West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>WSW</dn> 
-			<lat>41.957828521728516</lat>
-			<lon>-87.78868865966797</lon>
-			<pid>3527</pid>
-			<pd>Northbound</pd> 
+			<dd>Southbound</dd> 
+			<dn>SW</dn> 
+			<lat>41.901912689208984</lat>
+			<lon>-87.78434753417969</lon>
+			<pid>10905</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F372</run>
-			<fs>Devon/Nagle</fs>
+			<fs>Ridgeland Green Line</fs>
 			<op>54232</op>
-			<dip>30210</dip>
+			<dip>36456</dip>
 			<bid>3178</bid>				
 			<wid1>0F</wid1>
 			<wid2>372</wid2>            	
@@ -188,7 +159,7 @@
 
 
 		<bus>
-			<id>8210</id>    
+			<id>1046</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -200,18 +171,18 @@
 			<d>South West Bound</d>
 			<dd>Northbound</dd> 
 			<dn>SW</dn> 
-			<lat>41.99921798706055</lat>
-			<lon>-87.78924560546875</lon>
+			<lat>41.999225</lat>
+			<lon>-87.78921166666666</lon>
 			<pid>3527</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F355</run>
+			<run>F357</run>
 			<fs>Devon/Nagle</fs>
-			<op>34447</op>
+			<op>45765</op>
 			<dip>46555</dip>
-			<bid>3177</bid>				
+			<bid>2874</bid>				
 			<wid1>0F</wid1>
-			<wid2>355</wid2>            	
+			<wid2>357</wid2>            	
 		</bus>
 
 

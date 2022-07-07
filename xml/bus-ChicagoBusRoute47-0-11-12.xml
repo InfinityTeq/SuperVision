@@ -39,11 +39,11 @@
 
 	<buses rt="47" rtRtpiFeedName="" rtdd="47"> <!-- @11 @16 -->
 
-		<time>4:09 PM</time>
+		<time>5:30 PM</time>
 
 
 		<bus>
-			<id>1445</id>    
+			<id>1471</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,108 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>47</rtdd>  
 			
-			<d>West Bound</d>
+			<d>South West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.80952835083008</lat>
-			<lon>-87.60527610778809</lon>
+			<dn>SW</dn> 
+			<lat>41.80950164794922</lat>
+			<lon>-87.59159088134766</lon>
 			<pid>6128</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6840</run>
+			<run>6838</run>
 			<fs>Midway Orange Line</fs>
-			<op>63412</op>
-			<dip>4348</dip>
-			<bid>2738</bid>				
-			<wid1>06</wid1>
-			<wid2>840</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1454</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>47</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>47</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.809533169395046</lat>
-			<lon>-87.60513546592311</lon>
-			<pid>6128</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6833</run>
-			<fs>Midway Orange Line</fs>
-			<op>58066</op>
-			<dip>4349</dip>
-			<bid>2756</bid>				
-			<wid1>06</wid1>
-			<wid2>833</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1516</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>47</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>47</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.80760192871094</lat>
-			<lon>-87.73981488337282</lon>
-			<pid>6126</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6837</run>
-			<fs>Lake Park</fs>
-			<op>53228</op>
-			<dip>10567</dip>
+			<op>58058</op>
+			<dip>138</dip>
 			<bid>2747</bid>				
 			<wid1>06</wid1>
-			<wid2>837</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1387</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>47</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>47</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.8092664521316</lat>
-			<lon>-87.6284205995757</lon>
-			<pid>2404</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6208</run>
-			<fs>Kedzie Orange Line</fs>
-			<op>42603</op>
-			<dip>11214</dip>
-			<bid>2744</bid>				
-			<wid1>06</wid1>
-			<wid2>208</wid2>            	
+			<wid2>838</wid2>            	
 		</bus>
 
 
@@ -168,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>47</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.807926177978516</lat>
-			<lon>-87.71694777993595</lon>
-			<pid>6126</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.80928073712249</lat>
+			<lon>-87.62281275507229</lon>
+			<pid>2404</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6882</run>
-			<fs>Lake Park</fs>
+			<fs>Kedzie Orange Line</fs>
 			<op>63424</op>
-			<dip>16883</dip>
+			<dip>9550</dip>
 			<bid>2741</bid>				
 			<wid1>06</wid1>
 			<wid2>882</wid2>            	
@@ -197,18 +110,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>47</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.80826187133789</lat>
-			<lon>-87.69574737548828</lon>
-			<pid>6126</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.80873107910156</lat>
+			<lon>-87.65546798706055</lon>
+			<pid>6128</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6841</run>
-			<fs>Lake Park</fs>
+			<fs>Midway Orange Line</fs>
 			<op>31425</op>
-			<dip>25717</dip>
+			<dip>18783</dip>
 			<bid>2743</bid>				
 			<wid1>06</wid1>
 			<wid2>841</wid2>            	
@@ -217,7 +130,7 @@
 
 
 		<bus>
-			<id>8099</id>    
+			<id>1387</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -226,21 +139,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>47</rtdd>  
 			
-			<d>South Bound</d>
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.80896895272391</lat>
+			<lon>-87.63812051500592</lon>
+			<pid>2402</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6839</run>
+			<fs>Lake Park</fs>
+			<op>53290</op>
+			<dip>19699</dip>
+			<bid>2744</bid>				
+			<wid1>06</wid1>
+			<wid2>839</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1420</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>47</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>47</rtdd>  
+			
+			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>S</dn> 
-			<lat>41.80811450355932</lat>
-			<lon>-87.70388271934108</lon>
+			<dn>W</dn> 
+			<lat>41.8086230236551</lat>
+			<lon>-87.66274908314581</lon>
 			<pid>2404</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6832</run>
+			<run>6881</run>
 			<fs>Kedzie Orange Line</fs>
-			<op>56541</op>
-			<dip>32887</dip>
-			<bid>2750</bid>				
+			<op>45451</op>
+			<dip>20957</dip>
+			<bid>2755</bid>				
 			<wid1>06</wid1>
-			<wid2>832</wid2>            	
+			<wid2>881</wid2>            	
 		</bus>
 
 
@@ -255,21 +197,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>47</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.80798742506239</lat>
-			<lon>-87.71433300442166</lon>
-			<pid>6128</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.80854269174429</lat>
+			<lon>-87.67547196608324</lon>
+			<pid>6126</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6862</run>
-			<fs>Midway Orange Line</fs>
+			<fs>Lake Park</fs>
 			<op>44278</op>
-			<dip>38823</dip>
+			<dip>31398</dip>
 			<bid>2739</bid>				
 			<wid1>06</wid1>
 			<wid2>862</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8099</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>47</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>47</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>SE</dn> 
+			<lat>41.80949666666667</lat>
+			<lon>-87.59164</lon>
+			<pid>2402</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6832</run>
+			<fs>Lake Park</fs>
+			<op>56541</op>
+			<dip>32474</dip>
+			<bid>2750</bid>				
+			<wid1>06</wid1>
+			<wid2>832</wid2>            	
 		</bus>
 
 
@@ -285,17 +256,17 @@
 			<rtdd>47</rtdd>  
 			
 			<d>East Bound</d>
-			<dd>Eastbound</dd> 
+			<dd>Westbound</dd> 
 			<dn>E</dn> 
-			<lat>41.80933380126953</lat>
-			<lon>-87.61645641024151</lon>
-			<pid>6126</pid>
-			<pd>Eastbound</pd> 
+			<lat>41.80456415812174</lat>
+			<lon>-87.70462544759114</lon>
+			<pid>2404</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6835</run>
-			<fs>Lake Park</fs>
+			<fs>Kedzie Orange Line</fs>
 			<op>60615</op>
-			<dip>47556</dip>
+			<dip>34434</dip>
 			<bid>2753</bid>				
 			<wid1>06</wid1>
 			<wid2>835</wid2>            	
@@ -313,18 +284,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>47</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.809635162353516</lat>
-			<lon>-87.59503064836774</lon>
-			<pid>6126</pid>
-			<pd>Eastbound</pd> 
+			<d>North East Bound</d>
+			<dd>Westbound</dd> 
+			<dn>NE</dn> 
+			<lat>41.7852311929067</lat>
+			<lon>-87.73873154322307</lon>
+			<pid>6128</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6836</run>
-			<fs>Lake Park</fs>
+			<fs>Midway Orange Line</fs>
 			<op>52879</op>
-			<dip>53469</dip>
+			<dip>57048</dip>
 			<bid>2734</bid>				
 			<wid1>06</wid1>
 			<wid2>836</wid2>            	

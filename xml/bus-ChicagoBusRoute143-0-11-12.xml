@@ -39,7 +39,36 @@
 
 	<buses rt="143" rtRtpiFeedName="" rtdd="143"> <!-- @11 @16 -->
 
-		<time>4:17 PM</time>
+		<time>5:30 PM</time>
+
+
+		<bus>
+			<id>4092</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>143</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>143</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNE</dn> 
+			<lat>41.87543869018555</lat>
+			<lon>-87.62330627441406</lon>
+			<pid>4511</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K432</run>
+			<fs>Belmont</fs>
+			<op>29316</op>
+			<dip>346</dip>
+			<bid>1706</bid>				
+			<wid1>0K</wid1>
+			<wid2>432</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,15 +84,15 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.88023821512858</lat>
-			<lon>-87.624267578125</lon>
+			<lat>41.879091324344756</lat>
+			<lon>-87.62425207322643</lon>
 			<pid>4511</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K310</run>
 			<fs>Belmont</fs>
 			<op>57777</op>
-			<dip>2385</dip>
+			<dip>1996</dip>
 			<bid>1648</bid>				
 			<wid1>0K</wid1>
 			<wid2>310</wid2>            	

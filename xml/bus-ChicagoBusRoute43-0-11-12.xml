@@ -39,7 +39,36 @@
 
 	<buses rt="43" rtRtpiFeedName="" rtdd="43"> <!-- @11 @16 -->
 
-		<time>4:09 PM</time>
+		<time>5:30 PM</time>
+
+
+		<bus>
+			<id>7921</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>43</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>43</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.81657409667969</lat>
+			<lon>-87.6177353995187</lon>
+			<pid>8179</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7761</run>
+			<fs>Lake Park</fs>
+			<op>32492</op>
+			<dip>14692</dip>
+			<bid>1937</bid>				
+			<wid1>07</wid1>
+			<wid2>761</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,47 +84,18 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.81690979003906</lat>
-			<lon>-87.60433261952501</lon>
+			<lat>41.81760025024414</lat>
+			<lon>-87.64556884765625</lon>
 			<pid>8180</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7765</run>
 			<fs>42nd/Halsted</fs>
 			<op>33985</op>
-			<dip>2358</dip>
+			<dip>21468</dip>
 			<bid>1940</bid>				
 			<wid1>07</wid1>
 			<wid2>765</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>7921</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>43</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>43</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Westbound</dd> 
-			<dn>E</dn> 
-			<lat>41.80905532836914</lat>
-			<lon>-87.6316146850586</lon>
-			<pid>8180</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7761</run>
-			<fs>42nd/Halsted</fs>
-			<op>32492</op>
-			<dip>12576</dip>
-			<bid>1937</bid>				
-			<wid1>07</wid1>
-			<wid2>761</wid2>            	
 		</bus>
 
 

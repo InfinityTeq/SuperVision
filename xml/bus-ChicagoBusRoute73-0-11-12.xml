@@ -39,7 +39,65 @@
 
 	<buses rt="73" rtRtpiFeedName="" rtdd="73"> <!-- @11 @16 -->
 
-		<time>4:09 PM</time>
+		<time>5:30 PM</time>
+
+
+		<bus>
+			<id>2010</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>73</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>73</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WSW</dn> 
+			<lat>41.91846996804942</lat>
+			<lon>-87.63612421008123</lon>
+			<pid>2169</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5645</run>
+			<fs>Laramie</fs>
+			<op>50162</op>
+			<dip>2458</dip>
+			<bid>1446</bid>				
+			<wid1>05</wid1>
+			<wid2>645</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1971</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>73</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>73</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.918108749389646</lat>
+			<lon>-87.65336608886719</lon>
+			<pid>2169</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5109</run>
+			<fs>Laramie</fs>
+			<op>40875</op>
+			<dip>7154</dip>
+			<bid>1407</bid>				
+			<wid1>05</wid1>
+			<wid2>109</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -52,27 +110,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>73</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.91815446062786</lat>
-			<lon>-87.6494676543445</lon>
-			<pid>2169</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.91707288301908</lat>
+			<lon>-87.72902341989371</lon>
+			<pid>3493</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5115</run>
-			<fs>Laramie</fs>
+			<run>MAN</run>
+			<fs>Pulaski</fs>
 			<op>52608</op>
-			<dip>6067</dip>
-			<bid>1408</bid>				
+			<dip>7933</dip>
+			<bid>MAN</bid>				
 			<wid1>05</wid1>
-			<wid2>115</wid2>            	
+			<wid2>420</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1851</id>    
+			<id>8185</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -83,19 +141,19 @@
 			
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>WSW</dn> 
-			<lat>41.916160583496094</lat>
-			<lon>-87.66759490966797</lon>
+			<dn>W</dn> 
+			<lat>41.917808532714844</lat>
+			<lon>-87.67781066894531</lon>
 			<pid>2169</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5114</run>
+			<run>5107</run>
 			<fs>Laramie</fs>
-			<op>40499</op>
-			<dip>11304</dip>
-			<bid>1412</bid>				
+			<op>38738</op>
+			<dip>14722</dip>
+			<bid>1439</bid>				
 			<wid1>05</wid1>
-			<wid2>114</wid2>            	
+			<wid2>107</wid2>            	
 		</bus>
 
 
@@ -110,18 +168,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>73</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.91727142333984</lat>
-			<lon>-87.71181793212891</lon>
-			<pid>2170</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.910283126831054</lat>
+			<lon>-87.69495330810547</lon>
+			<pid>2169</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5113</run>
-			<fs>Clark/North</fs>
+			<fs>Laramie</fs>
 			<op>50391</op>
-			<dip>12616</dip>
+			<dip>22300</dip>
 			<bid>1415</bid>				
 			<wid1>05</wid1>
 			<wid2>113</wid2>            	
@@ -139,18 +197,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>73</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.91755599975586</lat>
-			<lon>-87.68908386230468</lon>
-			<pid>2170</pid>
-			<pd>Eastbound</pd> 
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>N</dn> 
+			<lat>41.917115166073756</lat>
+			<lon>-87.70689392089844</lon>
+			<pid>2169</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5828</run>
-			<fs>Clark/North</fs>
+			<fs>Laramie</fs>
 			<op>64780</op>
-			<dip>18776</dip>
+			<dip>28282</dip>
 			<bid>1486</bid>				
 			<wid1>05</wid1>
 			<wid2>828</wid2>            	
@@ -168,50 +226,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>73</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.9102897644043</lat>
-			<lon>-87.69444383893695</lon>
-			<pid>2169</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5108</run>
-			<fs>Laramie</fs>
-			<op>37268</op>
-			<dip>22104</dip>
-			<bid>1442</bid>				
-			<wid1>05</wid1>
-			<wid2>108</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1946</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>73</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>73</rtdd>  
-			
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.918162169279874</lat>
-			<lon>-87.64916073834455</lon>
+			<lat>41.91812689262524</lat>
+			<lon>-87.650893897341</lon>
 			<pid>2170</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5164</run>
+			<run>5108</run>
 			<fs>Clark/North</fs>
-			<op>52163</op>
-			<dip>30703</dip>
-			<bid>1507</bid>				
+			<op>37268</op>
+			<dip>30244</dip>
+			<bid>1442</bid>				
 			<wid1>05</wid1>
-			<wid2>164</wid2>            	
+			<wid2>108</wid2>            	
 		</bus>
 
 
@@ -226,18 +255,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>73</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.917362213134766</lat>
-			<lon>-87.71587853682668</lon>
-			<pid>2169</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.91828155517578</lat>
+			<lon>-87.63877596173968</lon>
+			<pid>2170</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5110</run>
-			<fs>Laramie</fs>
+			<fs>Clark/North</fs>
 			<op>52237</op>
-			<dip>30956</dip>
+			<dip>33548</dip>
 			<bid>1443</bid>				
 			<wid1>05</wid1>
 			<wid2>110</wid2>            	
@@ -246,7 +275,7 @@
 
 
 		<bus>
-			<id>2010</id>    
+			<id>1946</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -255,21 +284,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>73</rtdd>  
 			
-			<d>West Bound</d>
+			<d>South Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.91721725463867</lat>
-			<lon>-87.72255143962923</lon>
+			<dn>S</dn> 
+			<lat>41.91740417480469</lat>
+			<lon>-87.75769805908203</lon>
 			<pid>2169</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5112</run>
+			<run>5164</run>
 			<fs>Laramie</fs>
-			<op>40903</op>
-			<dip>32784</dip>
-			<bid>1446</bid>				
+			<op>52163</op>
+			<dip>42425</dip>
+			<bid>1507</bid>				
 			<wid1>05</wid1>
-			<wid2>112</wid2>            	
+			<wid2>164</wid2>            	
 		</bus>
 
 
@@ -285,78 +314,20 @@
 			<rtdd>73</rtdd>  
 			
 			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.912209070645844</lat>
-			<lon>-87.6321465418889</lon>
-			<pid>2170</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5105</run>
-			<fs>Clark/North</fs>
-			<op>37149</op>
-			<dip>37940</dip>
-			<bid>1409</bid>				
-			<wid1>05</wid1>
-			<wid2>105</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1971</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>73</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>73</rtdd>  
-			
-			<d>North Bound</d>
 			<dd>Westbound</dd> 
 			<dn>NNE</dn> 
-			<lat>41.917391159955194</lat>
+			<lat>41.91743297202915</lat>
 			<lon>-87.75785064697266</lon>
 			<pid>2169</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5109</run>
+			<run>5112</run>
 			<fs>Laramie</fs>
-			<op>40875</op>
-			<dip>42458</dip>
-			<bid>1407</bid>				
+			<op>40903</op>
+			<dip>42473</dip>
+			<bid>1409</bid>				
 			<wid1>05</wid1>
-			<wid2>109</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8185</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>73</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>73</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Westbound</dd> 
-			<dn>N</dn> 
-			<lat>41.91759651585629</lat>
-			<lon>-87.75778037623355</lon>
-			<pid>2169</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5107</run>
-			<fs>Laramie</fs>
-			<op>38738</op>
-			<dip>42529</dip>
-			<bid>1439</bid>				
-			<wid1>05</wid1>
-			<wid2>107</wid2>            	
+			<wid2>112</wid2>            	
 		</bus>
 
 

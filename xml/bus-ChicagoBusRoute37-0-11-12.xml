@@ -39,11 +39,11 @@
 
 	<buses rt="37" rtRtpiFeedName="" rtdd="37"> <!-- @11 @16 -->
 
-		<time>4:07 PM</time>
+		<time>5:30 PM</time>
 
 
 		<bus>
-			<id>2027</id>    
+			<id>2013</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -53,49 +53,20 @@
 			<rtdd>37</rtdd>  
 			
 			<d>East Bound</d>
-			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>41.87800216674805</lat>
-			<lon>-87.63945770263672</lon>
-			<pid>7175</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5904</run>
-			<fs>Fullerton Red Line</fs>
-			<op>32462</op>
-			<dip>2065</dip>
-			<bid>1464</bid>				
-			<wid1>05</wid1>
-			<wid2>904</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8118</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>37</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>37</rtdd>  
-			
-			<d>South Bound</d>
 			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.91522789001465</lat>
-			<lon>-87.63868713378906</lon>
+			<dn>E</dn> 
+			<lat>41.92536163330078</lat>
+			<lon>-87.65261840820312</lon>
 			<pid>7174</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5906</run>
+			<run>5905</run>
 			<fs>Clinton Blue Line</fs>
-			<op>43230</op>
-			<dip>6108</dip>
-			<bid>1334</bid>				
+			<op>52780</op>
+			<dip>174</dip>
+			<bid>1329</bid>				
 			<wid1>05</wid1>
-			<wid2>906</wid2>            	
+			<wid2>905</wid2>            	
 		</bus>
 
 
@@ -113,24 +84,24 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.91765594482422</lat>
-			<lon>-87.6387710571289</lon>
+			<lat>41.89189548492432</lat>
+			<lon>-87.63699340820312</lon>
 			<pid>7175</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5314</run>
+			<run>5425</run>
 			<fs>Fullerton Red Line</fs>
 			<op>50263</op>
-			<dip>18070</dip>
+			<dip>8432</dip>
 			<bid>1504</bid>				
 			<wid1>05</wid1>
-			<wid2>314</wid2>            	
+			<wid2>425</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>2013</id>    
+			<id>1849</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -139,21 +110,79 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>37</rtdd>  
 			
-			<d>West Bound</d>
+			<d>South Bound</d>
 			<dd>Southbound</dd> 
-			<dn>W</dn> 
-			<lat>41.87685127258301</lat>
-			<lon>-87.6358741760254</lon>
+			<dn>S</dn> 
+			<lat>41.89279187311892</lat>
+			<lon>-87.63415940081487</lon>
 			<pid>7174</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5905</run>
+			<run>5648</run>
 			<fs>Clinton Blue Line</fs>
-			<op>52780</op>
-			<dip>21674</dip>
-			<bid>1329</bid>				
+			<op>52751</op>
+			<dip>15257</dip>
+			<bid>1598</bid>				
 			<wid1>05</wid1>
-			<wid2>905</wid2>            	
+			<wid2>648</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>2027</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>37</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>37</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.87579345703125</lat>
+			<lon>-87.64102935791016</lon>
+			<pid>7174</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5904</run>
+			<fs>Clinton Blue Line</fs>
+			<op>32462</op>
+			<dip>23426</dip>
+			<bid>1464</bid>				
+			<wid1>05</wid1>
+			<wid2>904</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8118</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>37</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>37</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>E</dn> 
+			<lat>41.92531833333334</lat>
+			<lon>-87.65284</lon>
+			<pid>7175</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5906</run>
+			<fs>Fullerton Red Line</fs>
+			<op>43230</op>
+			<dip>24470</dip>
+			<bid>1334</bid>				
+			<wid1>05</wid1>
+			<wid2>906</wid2>            	
 		</bus>
 
 

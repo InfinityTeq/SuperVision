@@ -39,36 +39,7 @@
 
 	<buses rt="87" rtRtpiFeedName="" rtdd="87"> <!-- @11 @16 -->
 
-		<time>4:11 PM</time>
-
-
-		<bus>
-			<id>7949</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>87</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>87</rtdd>  
-			
-			<d>North East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>NE</dn> 
-			<lat>41.7354736328125</lat>
-			<lon>-87.68101501464844</lon>
-			<pid>5567</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7030</run>
-			<fs>91st/Commercial</fs>
-			<op>65901</op>
-			<dip>7</dip>
-			<bid>1945</bid>				
-			<wid1>07</wid1>
-			<wid2>030</wid2>            	
-		</bus>
-
+		<time>5:30 PM</time>
 
 
 		<bus>
@@ -81,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>87</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.737205505371094</lat>
-			<lon>-87.56498064313617</lon>
-			<pid>5570</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.73486886508223</lat>
+			<lon>-87.72394329568614</lon>
+			<pid>5571</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7019</run>
-			<fs>Cicero</fs>
+			<fs>91st/Commercial</fs>
 			<op>52878</op>
-			<dip>6469</dip>
+			<dip>6259</dip>
 			<bid>1926</bid>				
 			<wid1>07</wid1>
 			<wid2>019</wid2>            	
@@ -101,7 +72,7 @@
 
 
 		<bus>
-			<id>1263</id>    
+			<id>7949</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -110,21 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>87</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.736061096191406</lat>
-			<lon>-87.64411510120739</lon>
-			<pid>5567</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.73711013793945</lat>
+			<lon>-87.57556915283203</lon>
+			<pid>5570</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7014</run>
-			<fs>91st/Commercial</fs>
-			<op>49291</op>
-			<dip>10354</dip>
-			<bid>1990</bid>				
+			<run>7030</run>
+			<fs>Cicero</fs>
+			<op>65901</op>
+			<dip>9292</dip>
+			<bid>1945</bid>				
 			<wid1>07</wid1>
-			<wid2>014</wid2>            	
+			<wid2>030</wid2>            	
 		</bus>
 
 
@@ -139,18 +110,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>87</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.73680877685547</lat>
-			<lon>-87.59663661076472</lon>
-			<pid>5570</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.735716350043</lat>
+			<lon>-87.66324569929891</lon>
+			<pid>5571</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7020</run>
-			<fs>Cicero</fs>
+			<fs>91st/Commercial</fs>
 			<op>55028</op>
-			<dip>15124</dip>
+			<dip>23108</dip>
 			<bid>1966</bid>				
 			<wid1>07</wid1>
 			<wid2>020</wid2>            	
@@ -159,7 +130,7 @@
 
 
 		<bus>
-			<id>1275</id>    
+			<id>1366</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -168,21 +139,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>87</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.73662035805838</lat>
-			<lon>-87.60980374472481</lon>
-			<pid>5569</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.73691177368164</lat>
+			<lon>-87.58612458602242</lon>
+			<pid>5567</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7015</run>
-			<fs>Western</fs>
-			<op>40884</op>
-			<dip>18714</dip>
-			<bid>1938</bid>				
+			<run>7024</run>
+			<fs>91st/Commercial</fs>
+			<op>56533</op>
+			<dip>26422</dip>
+			<bid>2003</bid>				
 			<wid1>07</wid1>
-			<wid2>015</wid2>            	
+			<wid2>024</wid2>            	
 		</bus>
 
 
@@ -197,18 +168,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>87</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.7368419586666</lat>
-			<lon>-87.59008825392951</lon>
-			<pid>5567</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.73606872558594</lat>
+			<lon>-87.64838259560722</lon>
+			<pid>5569</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7031</run>
-			<fs>91st/Commercial</fs>
+			<fs>Western</fs>
 			<op>61690</op>
-			<dip>25383</dip>
+			<dip>29283</dip>
 			<bid>1944</bid>				
 			<wid1>07</wid1>
 			<wid2>031</wid2>            	
@@ -217,7 +188,7 @@
 
 
 		<bus>
-			<id>1274</id>    
+			<id>1275</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -226,27 +197,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>87</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.7362174987793</lat>
-			<lon>-87.63868713378906</lon>
-			<pid>5570</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.73736102764423</lat>
+			<lon>-87.55184467022235</lon>
+			<pid>5567</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7028</run>
-			<fs>Cicero</fs>
-			<op>63188</op>
-			<dip>26639</dip>
-			<bid>1927</bid>				
+			<run>7015</run>
+			<fs>91st/Commercial</fs>
+			<op>40884</op>
+			<dip>35939</dip>
+			<bid>1938</bid>				
 			<wid1>07</wid1>
-			<wid2>028</wid2>            	
+			<wid2>015</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>4014</id>    
+			<id>7912</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -255,21 +226,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>87</rtdd>  
 			
-			<d>West Bound</d>
+			<d>East Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>W</dn> 
-			<lat>41.73012166666667</lat>
-			<lon>-87.55096666666667</lon>
-			<pid>5613</pid>
+			<dn>E</dn> 
+			<lat>41.73647004466946</lat>
+			<lon>-87.61610645358846</lon>
+			<pid>5571</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7033</run>
+			<run>7026</run>
 			<fs>91st/Commercial</fs>
-			<op>65274</op>
-			<dip>32602</dip>
-			<bid>2108</bid>				
+			<op>52763</op>
+			<dip>36293</dip>
+			<bid>1927</bid>				
 			<wid1>07</wid1>
-			<wid2>033</wid2>            	
+			<wid2>026</wid2>            	
 		</bus>
 
 
@@ -285,17 +256,17 @@
 			<rtdd>87</rtdd>  
 			
 			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.73733139038086</lat>
-			<lon>-87.55406494140625</lon>
-			<pid>5567</pid>
-			<pd>Eastbound</pd> 
+			<dd>Westbound</dd> 
+			<dn>ENE</dn> 
+			<lat>41.7354736328125</lat>
+			<lon>-87.68101501464844</lon>
+			<pid>5569</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7018</run>
-			<fs>91st/Commercial</fs>
+			<fs>Western</fs>
 			<op>44162</op>
-			<dip>35329</dip>
+			<dip>38304</dip>
 			<bid>2110</bid>				
 			<wid1>07</wid1>
 			<wid2>018</wid2>            	
@@ -304,65 +275,7 @@
 
 
 		<bus>
-			<id>7912</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>87</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>87</rtdd>  
-			
-			<d>South East Bound</d>
-			<dd>Westbound</dd> 
-			<dn>SE</dn> 
-			<lat>41.73536637250115</lat>
-			<lon>-87.68174649406882</lon>
-			<pid>5569</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7026</run>
-			<fs>Western</fs>
-			<op>52763</op>
-			<dip>38518</dip>
-			<bid>1941</bid>				
-			<wid1>07</wid1>
-			<wid2>026</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1223</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>87</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>87</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.7349967956543</lat>
-			<lon>-87.72023010253906</lon>
-			<pid>5570</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7013</run>
-			<fs>Cicero</fs>
-			<op>40412</op>
-			<dip>49023</dip>
-			<bid>2151</bid>				
-			<wid1>07</wid1>
-			<wid2>013</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1248</id>    
+			<id>1262</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -374,18 +287,47 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.73719024658203</lat>
-			<lon>-87.56658172607422</lon>
+			<lat>41.737060546875</lat>
+			<lon>-87.57519989013672</lon>
 			<pid>5571</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7022</run>
+			<run>7023</run>
 			<fs>91st/Commercial</fs>
-			<op>52251</op>
-			<dip>49999</dip>
-			<bid>1988</bid>				
+			<op>50520</op>
+			<dip>47617</dip>
+			<bid>2151</bid>				
 			<wid1>07</wid1>
-			<wid2>022</wid2>            	
+			<wid2>023</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4014</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>87</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>87</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.73455666666667</lat>
+			<lon>-87.74075666666667</lon>
+			<pid>5570</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7033</run>
+			<fs>Cicero</fs>
+			<op>65274</op>
+			<dip>55261</dip>
+			<bid>2108</bid>				
+			<wid1>07</wid1>
+			<wid2>033</wid2>            	
 		</bus>
 
 
@@ -400,18 +342,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>87</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Westbound</dd> 
-			<dn>S</dn> 
-			<lat>41.73284912109375</lat>
-			<lon>-87.74168395996094</lon>
-			<pid>5570</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.73738972345988</lat>
+			<lon>-87.54581181208293</lon>
+			<pid>5571</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7029</run>
-			<fs>Cicero</fs>
+			<fs>91st/Commercial</fs>
 			<op>57050</op>
-			<dip>55353</dip>
+			<dip>55754</dip>
 			<bid>2147</bid>				
 			<wid1>07</wid1>
 			<wid2>029</wid2>            	

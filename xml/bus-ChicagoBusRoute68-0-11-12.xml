@@ -39,7 +39,36 @@
 
 	<buses rt="68" rtRtpiFeedName="" rtdd="68"> <!-- @11 @16 -->
 
-		<time>4:09 PM</time>
+		<time>5:30 PM</time>
+
+
+		<bus>
+			<id>1383</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>68</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>68</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>SE</dn> 
+			<lat>41.99850167168511</lat>
+			<lon>-87.80947875976562</lon>
+			<pid>3215</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F916</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>52165</op>
+			<dip>8095</dip>
+			<bid>3045</bid>				
+			<wid1>0F</wid1>
+			<wid2>916</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -52,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>68</rtdd>  
 			
-			<d>South East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>SE</dn> 
-			<lat>42.000507422855925</lat>
-			<lon>-87.81280871800014</lon>
-			<pid>3215</pid>
-			<pd>Eastbound</pd> 
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>NW</dn> 
+			<lat>41.99860715866089</lat>
+			<lon>-87.80966854095459</lon>
+			<pid>3214</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F431</run>
-			<fs>Jefferson Park Blue Line</fs>
+			<fs>Park Ridge Metra Station</fs>
 			<op>57195</op>
-			<dip>6928</dip>
+			<dip>17079</dip>
 			<bid>2935</bid>				
 			<wid1>0F</wid1>
 			<wid2>431</wid2>            	
@@ -72,7 +101,7 @@
 
 
 		<bus>
-			<id>8280</id>    
+			<id>8272</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -82,20 +111,20 @@
 			<rtdd>68</rtdd>  
 			
 			<d>North West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>NW</dn> 
-			<lat>41.98806660515921</lat>
-			<lon>-87.79134518759591</lon>
-			<pid>3214</pid>
-			<pd>Westbound</pd> 
+			<dd>Eastbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.96936478153352</lat>
+			<lon>-87.7616700203188</lon>
+			<pid>3215</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F126</run>
-			<fs>Park Ridge Metra Station</fs>
-			<op>28677</op>
-			<dip>10707</dip>
-			<bid>3065</bid>				
+			<run>F407</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>36456</op>
+			<dip>25108</dip>
+			<bid>2861</bid>				
 			<wid1>0F</wid1>
-			<wid2>126</wid2>            	
+			<wid2>407</wid2>            	
 		</bus>
 
 

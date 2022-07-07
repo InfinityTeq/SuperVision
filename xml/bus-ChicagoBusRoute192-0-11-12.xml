@@ -39,11 +39,11 @@
 
 	<buses rt="192" rtRtpiFeedName="" rtdd="192"> <!-- @11 @16 -->
 
-		<time>4:06 PM</time>
+		<time>5:30 PM</time>
 
 
 		<bus>
-			<id>4111</id>    
+			<id>4172</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -60,19 +60,19 @@
 			<pid>2671</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>MAN</run>
+			<run>1426</run>
 			<fs>Ogilvie Station</fs>
-			<op>40874</op>
+			<op>42451</op>
 			<dip>40</dip>
-			<bid>MAN</bid>				
+			<bid>1269</bid>				
 			<wid1>01</wid1>
-			<wid2>206</wid2>            	
+			<wid2>426</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>4314</id>    
+			<id>4326</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -81,21 +81,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>192</rtdd>  
 			
-			<d>North Bound</d>
+			<d>North West Bound</d>
 			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.8516845703125</lat>
-			<lon>-87.62371826171875</lon>
+			<dn>WNW</dn> 
+			<lat>41.838619232177734</lat>
+			<lon>-87.6229248046875</lon>
 			<pid>2671</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1206</run>
+			<run>1425</run>
 			<fs>Ogilvie Station</fs>
-			<op>45710</op>
-			<dip>28686</dip>
-			<bid>1207</bid>				
+			<op>40394</op>
+			<dip>23913</dip>
+			<bid>1299</bid>				
 			<wid1>01</wid1>
-			<wid2>206</wid2>            	
+			<wid2>425</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4182</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>192</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>192</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>W</dn> 
+			<lat>41.88179016113281</lat>
+			<lon>-87.64103698730469</lon>
+			<pid>2671</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1423</run>
+			<fs>Ogilvie Station</fs>
+			<op>55053</op>
+			<dip>44208</dip>
+			<bid>1300</bid>				
+			<wid1>01</wid1>
+			<wid2>423</wid2>            	
 		</bus>
 
 

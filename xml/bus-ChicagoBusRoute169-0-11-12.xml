@@ -39,65 +39,9 @@
 
 	<buses rt="169" rtRtpiFeedName="" rtdd="169"> <!-- @11 @16 -->
 
-		<time>4:06 PM</time>
+		<time>5:30 PM</time>
 
-
-		<bus>
-			<id>4192</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>169</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>169</rtdd>  
-			
-			<d>South West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>WSW</dn> 
-			<lat>41.74446487426758</lat>
-			<lon>-87.849365234375</lon>
-			<pid>7005</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1081</run>
-			<fs>UPS</fs>
-			<op>50775</op>
-			<dip>68661</dip>
-			<bid>1282</bid>				
-			<wid1>01</wid1>
-			<wid2>081</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4109</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>169</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>169</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.751453645767704</lat>
-			<lon>-87.64405822753906</lon>
-			<pid>7006</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1672</run>
-			<fs>69th Red Line</fs>
-			<op>58117</op>
-			<dip>77391</dip>
-			<bid>1088</bid>				
-			<wid1>01</wid1>
-			<wid2>672</wid2>            	
-		</bus>
-
+		<hasService>true</hasService>
 
 
 	</buses>

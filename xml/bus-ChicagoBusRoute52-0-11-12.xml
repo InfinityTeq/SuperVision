@@ -39,11 +39,11 @@
 
 	<buses rt="52" rtRtpiFeedName="" rtdd="52"> <!-- @11 @16 -->
 
-		<time>4:09 PM</time>
+		<time>5:30 PM</time>
 
 
 		<bus>
-			<id>1613</id>    
+			<id>1651</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,50 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>52</rtdd>  
 			
-			<d>South West Bound</d>
+			<d>South Bound</d>
 			<dd>Southbound</dd> 
-			<dn>SSW</dn> 
-			<lat>41.89827346801758</lat>
-			<lon>-87.70671081542969</lon>
+			<dn>S</dn> 
+			<lat>41.88356636310446</lat>
+			<lon>-87.70623779296875</lon>
 			<pid>14120</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K171</run>
+			<run>K545</run>
 			<fs>63rd Place</fs>
-			<op>60951</op>
-			<dip>2688</dip>
-			<bid>1634</bid>				
+			<op>65131</op>
+			<dip>8079</dip>
+			<bid>1798</bid>				
 			<wid1>0K</wid1>
-			<wid2>171</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1693</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>52</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>52</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.7902397287303</lat>
-			<lon>-87.7034279395794</lon>
-			<pid>14117</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K541</run>
-			<fs>Chicago/Kedzie</fs>
-			<op>63792</op>
-			<dip>4666</dip>
-			<bid>1794</bid>				
-			<wid1>0K</wid1>
-			<wid2>541</wid2>            	
+			<wid2>545</wid2>            	
 		</bus>
 
 
@@ -110,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>52</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.877193244727884</lat>
-			<lon>-87.70608829807591</lon>
-			<pid>14120</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.80282221084986</lat>
+			<lon>-87.70379638671875</lon>
+			<pid>14117</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K537</run>
-			<fs>63rd Place</fs>
+			<fs>Chicago/Kedzie</fs>
 			<op>55788</op>
-			<dip>10386</dip>
+			<dip>9240</dip>
 			<bid>1635</bid>				
 			<wid1>0K</wid1>
 			<wid2>537</wid2>            	
@@ -139,21 +110,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>52</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SSE</dn> 
-			<lat>41.86092276322214</lat>
-			<lon>-87.70554070723684</lon>
-			<pid>14120</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.81737869664242</lat>
+			<lon>-87.70430835924651</lon>
+			<pid>4718</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K530</run>
-			<fs>63rd Place</fs>
+			<fs>Jackson</fs>
 			<op>40929</op>
-			<dip>16341</dip>
+			<dip>15343</dip>
 			<bid>1792</bid>				
 			<wid1>0K</wid1>
 			<wid2>530</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1693</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>52</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>52</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.86201763153076</lat>
+			<lon>-87.70558071136475</lon>
+			<pid>14120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K541</run>
+			<fs>63rd Place</fs>
+			<op>63792</op>
+			<dip>15949</dip>
+			<bid>1794</bid>				
+			<wid1>0K</wid1>
+			<wid2>541</wid2>            	
 		</bus>
 
 
@@ -168,50 +168,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>52</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.84986167483859</lat>
-			<lon>-87.70523389180501</lon>
-			<pid>14120</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K536</run>
-			<fs>63rd Place</fs>
-			<op>60507</op>
-			<dip>20383</dip>
-			<bid>1799</bid>				
-			<wid1>0K</wid1>
-			<wid2>536</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1836</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>52</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>52</rtdd>  
-			
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.84783833062471</lat>
-			<lon>-87.70509338378906</lon>
+			<lat>41.83715034598735</lat>
+			<lon>-87.70476076496182</lon>
 			<pid>14117</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K363</run>
+			<run>K536</run>
 			<fs>Chicago/Kedzie</fs>
-			<op>52457</op>
-			<dip>26514</dip>
-			<bid>1796</bid>				
+			<op>60507</op>
+			<dip>22587</dip>
+			<bid>1799</bid>				
 			<wid1>0K</wid1>
-			<wid2>363</wid2>            	
+			<wid2>536</wid2>            	
 		</bus>
 
 
@@ -226,21 +197,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>52</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.81718361377716</lat>
-			<lon>-87.7043685913086</lon>
-			<pid>14120</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.86616516113281</lat>
+			<lon>-87.70557403564453</lon>
+			<pid>14117</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K534</run>
-			<fs>63rd Place</fs>
+			<fs>Chicago/Kedzie</fs>
 			<op>40665</op>
-			<dip>32585</dip>
+			<dip>33238</dip>
 			<bid>1633</bid>				
 			<wid1>0K</wid1>
 			<wid2>534</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1836</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>52</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>52</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.81255890893154</lat>
+			<lon>-87.7042058725826</lon>
+			<pid>14120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K538</run>
+			<fs>63rd Place</fs>
+			<op>60362</op>
+			<dip>34291</dip>
+			<bid>1796</bid>				
+			<wid1>0K</wid1>
+			<wid2>538</wid2>            	
 		</bus>
 
 
@@ -255,21 +255,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>52</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.865994946709996</lat>
-			<lon>-87.70557403564453</lon>
-			<pid>14117</pid>
-			<pd>Northbound</pd> 
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.799503326416016</lat>
+			<lon>-87.70379638671875</lon>
+			<pid>14120</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K532</run>
-			<fs>Chicago/Kedzie</fs>
+			<fs>63rd Place</fs>
 			<op>36452</op>
-			<dip>33176</dip>
+			<dip>39716</dip>
 			<bid>1795</bid>				
 			<wid1>0K</wid1>
 			<wid2>532</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1641</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>52</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>52</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>E</dn> 
+			<lat>41.89553166666666</lat>
+			<lon>-87.70569166666667</lon>
+			<pid>14117</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K540</run>
+			<fs>Chicago/Kedzie</fs>
+			<op>31837</op>
+			<dip>46936</dip>
+			<bid>1668</bid>				
+			<wid1>0K</wid1>
+			<wid2>540</wid2>            	
 		</bus>
 
 
@@ -284,50 +313,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>52</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>41.89547666666667</lat>
-			<lon>-87.70559166666666</lon>
-			<pid>14117</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K581</run>
-			<fs>Chicago/Kedzie</fs>
-			<op>58213</op>
-			<dip>46936</dip>
-			<bid>1632</bid>				
-			<wid1>0K</wid1>
-			<wid2>581</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1651</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>52</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>52</rtdd>  
-			
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
-			<dn>SSW</dn> 
-			<lat>41.77817</lat>
-			<lon>-87.70342666666667</lon>
+			<dn>S</dn> 
+			<lat>41.77822666666667</lat>
+			<lon>-87.70342</lon>
 			<pid>14120</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K545</run>
+			<run>K581</run>
 			<fs>63rd Place</fs>
-			<op>65131</op>
+			<op>58213</op>
 			<dip>47468</dip>
-			<bid>1798</bid>				
+			<bid>1632</bid>				
 			<wid1>0K</wid1>
-			<wid2>545</wid2>            	
+			<wid2>581</wid2>            	
 		</bus>
 
 

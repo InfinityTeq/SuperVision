@@ -39,11 +39,11 @@
 
 	<buses rt="148" rtRtpiFeedName="" rtdd="148"> <!-- @11 @16 -->
 
-		<time>4:17 PM</time>
+		<time>5:30 PM</time>
 
 
 		<bus>
-			<id>4171</id>    
+			<id>1762</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,18 +55,18 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.8748893737793</lat>
-			<lon>-87.62752532958984</lon>
+			<lat>41.89146913800921</lat>
+			<lon>-87.62403106689453</lon>
 			<pid>6403</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P815</run>
+			<run>P219</run>
 			<fs>Foster/Marine Drive</fs>
-			<op>33956</op>
-			<dip>0</dip>
-			<bid>2351</bid>				
+			<op>61474</op>
+			<dip>7150</dip>
+			<bid>2263</bid>				
 			<wid1>0P</wid1>
-			<wid2>815</wid2>            	
+			<wid2>219</wid2>            	
 		</bus>
 
 
@@ -84,15 +84,15 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.8973555131392</lat>
-			<lon>-87.62409556995739</lon>
+			<lat>41.89393848843045</lat>
+			<lon>-87.6241455078125</lon>
 			<pid>6403</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P104</run>
 			<fs>Foster/Marine Drive</fs>
 			<op>30840</op>
-			<dip>9345</dip>
+			<dip>8052</dip>
 			<bid>2363</bid>				
 			<wid1>0P</wid1>
 			<wid2>104</wid2>            	
@@ -112,16 +112,16 @@
 			
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.97017345022648</lat>
-			<lon>-87.64992912779464</lon>
+			<dn>N</dn> 
+			<lat>41.95159912109375</lat>
+			<lon>-87.64456939697266</lon>
 			<pid>6403</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P713</run>
 			<fs>Foster/Marine Drive</fs>
 			<op>45479</op>
-			<dip>39227</dip>
+			<dip>30477</dip>
 			<bid>2445</bid>				
 			<wid1>0P</wid1>
 			<wid2>713</wid2>            	

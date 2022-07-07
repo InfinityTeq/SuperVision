@@ -1,0 +1,4 @@
+folium
+flask
+bs4
+gunicorn

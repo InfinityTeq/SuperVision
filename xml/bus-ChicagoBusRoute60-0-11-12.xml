@@ -39,11 +39,11 @@
 
 	<buses rt="60" rtRtpiFeedName="" rtdd="60"> <!-- @11 @16 -->
 
-		<time>4:09 PM</time>
+		<time>5:30 PM</time>
 
 
 		<bus>
-			<id>1621</id>    
+			<id>1721</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Westbound</dd> 
-			<dn>N</dn> 
-			<lat>41.88494110107422</lat>
-			<lon>-87.61569213867188</lon>
-			<pid>1350</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>ENE</dn> 
+			<lat>41.84626388549805</lat>
+			<lon>-87.74417877197266</lon>
+			<pid>1345</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K225</run>
-			<fs>Cicero/24th Pl</fs>
-			<op>57074</op>
-			<dip>0</dip>
-			<bid>1909</bid>				
+			<run>K617</run>
+			<fs>Randolph/Harbor Dr</fs>
+			<op>36753</op>
+			<dip>333</dip>
+			<bid>1742</bid>				
 			<wid1>0K</wid1>
-			<wid2>225</wid2>            	
+			<wid2>617</wid2>            	
 		</bus>
 
 
@@ -81,79 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.844110074250594</lat>
-			<lon>-87.73249286154042</lon>
-			<pid>1345</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K623</run>
-			<fs>Randolph/Harbor Dr</fs>
-			<op>58042</op>
-			<dip>5397</dip>
-			<bid>1787</bid>				
-			<wid1>0K</wid1>
-			<wid2>623</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1721</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>60</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>60</rtdd>  
-			
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.88189276059469</lat>
-			<lon>-87.63855648040771</lon>
+			<lat>41.8845329284668</lat>
+			<lon>-87.62159271240235</lon>
 			<pid>1350</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K617</run>
+			<run>K621</run>
 			<fs>Cicero/24th Pl</fs>
-			<op>36753</op>
-			<dip>7957</dip>
-			<bid>1742</bid>				
+			<op>44590</op>
+			<dip>2405</dip>
+			<bid>1787</bid>				
 			<wid1>0K</wid1>
-			<wid2>617</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8102</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>60</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>60</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Westbound</dd> 
-			<dn>S</dn> 
-			<lat>41.87523382218158</lat>
-			<lon>-87.64095293889281</lon>
-			<pid>1350</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K355</run>
-			<fs>Cicero/24th Pl</fs>
-			<op>51838</op>
-			<dip>11167</dip>
-			<bid>1829</bid>				
-			<wid1>0K</wid1>
-			<wid2>355</wid2>            	
+			<wid2>621</wid2>            	
 		</bus>
 
 
@@ -168,21 +110,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.844547271728516</lat>
-			<lon>-87.70530008386683</lon>
-			<pid>1345</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.88195037841797</lat>
+			<lon>-87.63315440990307</lon>
+			<pid>1350</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K652</run>
-			<fs>Randolph/Harbor Dr</fs>
+			<fs>Cicero/24th Pl</fs>
 			<op>42801</op>
-			<dip>12799</dip>
+			<dip>6450</dip>
 			<bid>1826</bid>				
 			<wid1>0K</wid1>
 			<wid2>652</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8102</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>60</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>60</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.844310879707336</lat>
+			<lon>-87.7195805311203</lon>
+			<pid>1345</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K625</run>
+			<fs>Randolph/Harbor Dr</fs>
+			<op>34160</op>
+			<dip>8918</dip>
+			<bid>1829</bid>				
+			<wid1>0K</wid1>
+			<wid2>625</wid2>            	
 		</bus>
 
 
@@ -197,18 +168,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.84463882446289</lat>
-			<lon>-87.70075416564941</lon>
-			<pid>1345</pid>
-			<pd>Eastbound</pd> 
+			<d>South Bound</d>
+			<dd>Westbound</dd> 
+			<dn>S</dn> 
+			<lat>41.875217687888224</lat>
+			<lon>-87.64095218846056</lon>
+			<pid>1350</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K614</run>
-			<fs>Randolph/Harbor Dr</fs>
+			<fs>Cicero/24th Pl</fs>
 			<op>52485</op>
-			<dip>14049</dip>
+			<dip>11173</dip>
 			<bid>1903</bid>				
 			<wid1>0K</wid1>
 			<wid2>614</wid2>            	
@@ -226,50 +197,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>North East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>ENE</dn> 
-			<lat>41.85130310058594</lat>
-			<lon>-87.66844177246094</lon>
-			<pid>1345</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K620</run>
-			<fs>Randolph/Harbor Dr</fs>
-			<op>58261</op>
-			<dip>23463</dip>
-			<bid>1810</bid>				
-			<wid1>0K</wid1>
-			<wid2>620</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>7903</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>60</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>60</rtdd>  
-			
-			<d>South Bound</d>
+			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>S</dn> 
-			<lat>41.8530760734312</lat>
-			<lon>-87.66123322517642</lon>
+			<dn>W</dn> 
+			<lat>41.87440853118896</lat>
+			<lon>-87.65187072753906</lon>
 			<pid>1350</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K616</run>
+			<run>K620</run>
 			<fs>Cicero/24th Pl</fs>
-			<op>38634</op>
-			<dip>24060</dip>
-			<bid>1740</bid>				
+			<op>58261</op>
+			<dip>14504</dip>
+			<bid>1810</bid>				
 			<wid1>0K</wid1>
-			<wid2>616</wid2>            	
+			<wid2>620</wid2>            	
 		</bus>
 
 
@@ -284,18 +226,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.85708855682949</lat>
-			<lon>-87.6612563223209</lon>
-			<pid>1345</pid>
-			<pd>Eastbound</pd> 
+			<d>South Bound</d>
+			<dd>Westbound</dd> 
+			<dn>S</dn> 
+			<lat>41.865272521972656</lat>
+			<lon>-87.65668487548828</lon>
+			<pid>1350</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K119</run>
-			<fs>Randolph/Harbor Dr</fs>
+			<fs>Cicero/24th Pl</fs>
 			<op>42726</op>
-			<dip>27259</dip>
+			<dip>19213</dip>
 			<bid>1827</bid>				
 			<wid1>0K</wid1>
 			<wid2>119</wid2>            	
@@ -313,18 +255,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>North East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>NNE</dn> 
-			<lat>41.86164855957031</lat>
-			<lon>-87.65784301757813</lon>
-			<pid>1345</pid>
-			<pd>Eastbound</pd> 
+			<d>South Bound</d>
+			<dd>Westbound</dd> 
+			<dn>SSW</dn> 
+			<lat>41.857744216918945</lat>
+			<lon>-87.6612617969513</lon>
+			<pid>1350</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K619</run>
-			<fs>Randolph/Harbor Dr</fs>
+			<fs>Cicero/24th Pl</fs>
 			<op>57083</op>
-			<dip>29180</dip>
+			<dip>22321</dip>
 			<bid>1737</bid>				
 			<wid1>0K</wid1>
 			<wid2>619</wid2>            	
@@ -333,7 +275,7 @@
 
 
 		<bus>
-			<id>1604</id>    
+			<id>7903</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -342,21 +284,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>South West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>WSW</dn> 
-			<lat>41.84507508711381</lat>
-			<lon>-87.6847880970348</lon>
-			<pid>1350</pid>
-			<pd>Westbound</pd> 
+			<d>North East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>ENE</dn> 
+			<lat>41.852144652721925</lat>
+			<lon>-87.66625183703853</lon>
+			<pid>1345</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K641</run>
-			<fs>Cicero/24th Pl</fs>
-			<op>35148</op>
-			<dip>31360</dip>
-			<bid>1636</bid>				
+			<run>K616</run>
+			<fs>Randolph/Harbor Dr</fs>
+			<op>38634</op>
+			<dip>24132</dip>
+			<bid>1740</bid>				
 			<wid1>0K</wid1>
-			<wid2>641</wid2>            	
+			<wid2>616</wid2>            	
 		</bus>
 
 
@@ -371,21 +313,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.84475517272949</lat>
-			<lon>-87.69402694702148</lon>
-			<pid>1350</pid>
-			<pd>Westbound</pd> 
+			<d>North East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>NNE</dn> 
+			<lat>41.85970995976375</lat>
+			<lon>-87.65949440002441</lon>
+			<pid>1345</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K911</run>
-			<fs>Cicero/24th Pl</fs>
-			<op>63069</op>
-			<dip>33889</dip>
+			<run>K623</run>
+			<fs>Randolph/Harbor Dr</fs>
+			<op>58042</op>
+			<dip>28352</dip>
 			<bid>1811</bid>				
 			<wid1>0K</wid1>
-			<wid2>911</wid2>            	
+			<wid2>623</wid2>            	
 		</bus>
 
 
@@ -400,18 +342,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.8797607421875</lat>
-			<lon>-87.63951110839844</lon>
-			<pid>1345</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.844486236572266</lat>
+			<lon>-87.70763914925712</lon>
+			<pid>1350</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K613</run>
-			<fs>Randolph/Harbor Dr</fs>
+			<fs>Cicero/24th Pl</fs>
 			<op>49078</op>
-			<dip>40549</dip>
+			<dip>37574</dip>
 			<bid>1784</bid>				
 			<wid1>0K</wid1>
 			<wid2>613</wid2>            	
@@ -429,18 +371,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.88153476715088</lat>
-			<lon>-87.63958320617675</lon>
-			<pid>1345</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.844390869140625</lat>
+			<lon>-87.71410834270975</lon>
+			<pid>1350</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K651</run>
-			<fs>Randolph/Harbor Dr</fs>
+			<fs>Cicero/24th Pl</fs>
 			<op>57768</op>
-			<dip>41196</dip>
+			<dip>39400</dip>
 			<bid>1842</bid>				
 			<wid1>0K</wid1>
 			<wid2>651</wid2>            	
@@ -449,7 +391,7 @@
 
 
 		<bus>
-			<id>1634</id>    
+			<id>1735</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -458,27 +400,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.88321666717529</lat>
-			<lon>-87.62582130432129</lon>
-			<pid>1345</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.84415134630705</lat>
+			<lon>-87.72941468891345</lon>
+			<pid>1350</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K921</run>
-			<fs>Randolph/Harbor Dr</fs>
-			<op>65719</op>
-			<dip>45531</dip>
-			<bid>1744</bid>				
+			<run>K618</run>
+			<fs>Cicero/24th Pl</fs>
+			<op>30978</op>
+			<dip>43616</dip>
+			<bid>1665</bid>				
 			<wid1>0K</wid1>
-			<wid2>921</wid2>            	
+			<wid2>618</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1662</id>    
+			<id>1739</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -487,21 +429,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.884632848924205</lat>
-			<lon>-87.61569410754788</lon>
-			<pid>1345</pid>
-			<pd>Eastbound</pd> 
+			<d>South West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>SSW</dn> 
+			<lat>41.84398651123047</lat>
+			<lon>-87.740966796875</lon>
+			<pid>1350</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K307</run>
-			<fs>Randolph/Harbor Dr</fs>
-			<op>44335</op>
-			<dip>48741</dip>
+			<run>K835</run>
+			<fs>Cicero/24th Pl</fs>
+			<op>55325</op>
+			<dip>44989</dip>
 			<bid>1843</bid>				
 			<wid1>0K</wid1>
-			<wid2>307</wid2>            	
+			<wid2>835</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1621</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>60</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>60</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.84404935836792</lat>
+			<lon>-87.7389455795288</lon>
+			<pid>1350</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K225</run>
+			<fs>Cicero/24th Pl</fs>
+			<op>57074</op>
+			<dip>46187</dip>
+			<bid>1909</bid>				
+			<wid1>0K</wid1>
+			<wid2>225</wid2>            	
 		</bus>
 
 
@@ -516,21 +487,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>WNW</dn> 
-			<lat>41.84614799762594</lat>
-			<lon>-87.74457418507544</lon>
-			<pid>1350</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.884265661239624</lat>
+			<lon>-87.62061882019043</lon>
+			<pid>1345</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K612</run>
-			<fs>Cicero/24th Pl</fs>
-			<op>49278</op>
-			<dip>49963</dip>
+			<run>K622</run>
+			<fs>Randolph/Harbor Dr</fs>
+			<op>57796</op>
+			<dip>47358</dip>
 			<bid>1739</bid>				
 			<wid1>0K</wid1>
-			<wid2>612</wid2>            	
+			<wid2>622</wid2>            	
 		</bus>
 
 
@@ -546,17 +517,17 @@
 			<rtdd>60</rtdd>  
 			
 			<d>North Bound</d>
-			<dd>Westbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.846421666666664</lat>
-			<lon>-87.744585</lon>
-			<pid>1350</pid>
-			<pd>Westbound</pd> 
+			<dd>Eastbound</dd> 
+			<dn>N</dn> 
+			<lat>41.88494110107422</lat>
+			<lon>-87.61569213867188</lon>
+			<pid>1345</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K624</run>
-			<fs>Cicero/24th Pl</fs>
+			<fs>Randolph/Harbor Dr</fs>
 			<op>50036</op>
-			<dip>49999</dip>
+			<dip>48745</dip>
 			<bid>1789</bid>				
 			<wid1>0K</wid1>
 			<wid2>624</wid2>            	

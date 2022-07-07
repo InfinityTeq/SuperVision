@@ -39,7 +39,36 @@
 
 	<buses rt="57" rtRtpiFeedName="" rtdd="57"> <!-- @11 @16 -->
 
-		<time>4:09 PM</time>
+		<time>5:30 PM</time>
+
+
+		<bus>
+			<id>1913</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>57</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>57</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.87697625160217</lat>
+			<lon>-87.75493311882019</lon>
+			<pid>1328</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5181</run>
+			<fs>Grand/Latrobe</fs>
+			<op>39568</op>
+			<dip>4023</dip>
+			<bid>1508</bid>				
+			<wid1>05</wid1>
+			<wid2>181</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,18 +84,18 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.89668350219726</lat>
-			<lon>-87.75566864013672</lon>
+			<lat>41.881033810702235</lat>
+			<lon>-87.75509643554688</lon>
 			<pid>1326</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5166</run>
+			<run>5191</run>
 			<fs>Forest Park Blue Line Station</fs>
-			<op>45273</op>
-			<dip>7936</dip>
-			<bid>1508</bid>				
+			<op>39775</op>
+			<dip>13678</dip>
+			<bid>1512</bid>				
 			<wid1>05</wid1>
-			<wid2>166</wid2>            	
+			<wid2>191</wid2>            	
 		</bus>
 
 
@@ -81,18 +110,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>57</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.88262643814087</lat>
-			<lon>-87.75516471862792</lon>
-			<pid>1326</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.90419714791434</lat>
+			<lon>-87.75582885742188</lon>
+			<pid>1328</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5165</run>
-			<fs>Forest Park Blue Line Station</fs>
+			<fs>Grand/Latrobe</fs>
 			<op>44555</op>
-			<dip>13090</dip>
+			<dip>13978</dip>
 			<bid>1511</bid>				
 			<wid1>05</wid1>
 			<wid2>165</wid2>            	

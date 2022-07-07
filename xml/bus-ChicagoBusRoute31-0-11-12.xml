@@ -39,7 +39,7 @@
 
 	<buses rt="31" rtRtpiFeedName="" rtdd="31"> <!-- @11 @16 -->
 
-		<time>3:48 PM</time>
+		<time>5:30 PM</time>
 
 
 		<bus>
@@ -52,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>31</rtdd>  
 			
-			<d>North Bound</d>
+			<d>West Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.83472924862268</lat>
-			<lon>-87.62652587890625</lon>
+			<dn>WSW</dn> 
+			<lat>41.839168548583984</lat>
+			<lon>-87.66534423828125</lon>
 			<pid>8128</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7763</run>
 			<fs>33rd Place/King Drive</fs>
 			<op>40559</op>
-			<dip>15925</dip>
+			<dip>21</dip>
 			<bid>1946</bid>				
 			<wid1>07</wid1>
 			<wid2>763</wid2>            	
@@ -81,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>31</rtdd>  
 			
-			<d>North Bound</d>
+			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.83872001115666</lat>
-			<lon>-87.66471809564635</lon>
+			<dn>W</dn> 
+			<lat>41.83366394042969</lat>
+			<lon>-87.61532592773438</lon>
 			<pid>8125</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7762</run>
 			<fs>Ashland Orange Line</fs>
 			<op>40855</op>
-			<dip>22052</dip>
+			<dip>40</dip>
 			<bid>1947</bid>				
 			<wid1>07</wid1>
 			<wid2>762</wid2>            	
