@@ -39,36 +39,7 @@
 
 	<buses rt="97" rtRtpiFeedName="" rtdd="97"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
-
-
-		<bus>
-			<id>1869</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>97</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>97</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>42.01951599121094</lat>
-			<lon>-87.68398485027376</lon>
-			<pid>4372</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P901</run>
-			<fs>Old Orchard</fs>
-			<op>34077</op>
-			<dip>3366</dip>
-			<bid>2514</bid>				
-			<wid1>0P</wid1>
-			<wid2>901</wid2>            	
-		</bus>
-
+		<time>1:14 PM</time>
 
 
 		<bus>
@@ -81,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>97</rtdd>  
 			
-			<d>South West Bound</d>
+			<d>South Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>SSW</dn> 
-			<lat>42.02850341796875</lat>
-			<lon>-87.7540512084961</lon>
+			<dn>S</dn> 
+			<lat>42.042171478271484</lat>
+			<lon>-87.74712371826172</lon>
 			<pid>4369</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P910</run>
+			<run>P913</run>
 			<fs>Howard Station</fs>
-			<op>61694</op>
-			<dip>17268</dip>
+			<op>50346</op>
+			<dip>8875</dip>
 			<bid>2500</bid>				
 			<wid1>0P</wid1>
-			<wid2>910</wid2>            	
+			<wid2>913</wid2>            	
 		</bus>
 
 
@@ -110,21 +81,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>97</rtdd>  
 			
-			<d>North East Bound</d>
+			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>NNE</dn> 
-			<lat>42.03184826091184</lat>
-			<lon>-87.75210829912606</lon>
+			<dn>W</dn> 
+			<lat>42.02636956386879</lat>
+			<lon>-87.71849035044185</lon>
 			<pid>4372</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P932</run>
+			<run>P907</run>
 			<fs>Old Orchard</fs>
-			<op>38687</op>
-			<dip>27359</dip>
+			<op>62150</op>
+			<dip>15416</dip>
 			<bid>2504</bid>				
 			<wid1>0P</wid1>
-			<wid2>932</wid2>            	
+			<wid2>907</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1882</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>97</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>97</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>42.0264618396759</lat>
+			<lon>-87.70416164398193</lon>
+			<pid>4369</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P903</run>
+			<fs>Howard Station</fs>
+			<op>30877</op>
+			<dip>31825</dip>
+			<bid>2507</bid>				
+			<wid1>0P</wid1>
+			<wid2>903</wid2>            	
 		</bus>
 
 
@@ -141,25 +141,25 @@
 			
 			<d>North Bound</d>
 			<dd>Westbound</dd> 
-			<dn>NNE</dn> 
-			<lat>42.05916666666667</lat>
-			<lon>-87.750465</lon>
+			<dn>N</dn> 
+			<lat>42.051682472229004</lat>
+			<lon>-87.74677276611328</lon>
 			<pid>4372</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P909</run>
+			<run>P911</run>
 			<fs>Old Orchard</fs>
-			<op>48733</op>
-			<dip>41824</dip>
+			<op>43346</op>
+			<dip>37586</dip>
 			<bid>2229</bid>				
 			<wid1>0P</wid1>
-			<wid2>909</wid2>            	
+			<wid2>911</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1882</id>    
+			<id>1869</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -168,21 +168,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>97</rtdd>  
 			
-			<d>South Bound</d>
+			<d>East Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>SSE</dn> 
-			<lat>42.017122605267694</lat>
-			<lon>-87.67541638542625</lon>
+			<dn>E</dn> 
+			<lat>42.0193977355957</lat>
+			<lon>-87.67747344970704</lon>
 			<pid>4369</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P903</run>
+			<run>P901</run>
 			<fs>Howard Station</fs>
-			<op>30877</op>
-			<dip>42965</dip>
-			<bid>2507</bid>				
+			<op>34077</op>
+			<dip>41774</dip>
+			<bid>2514</bid>				
 			<wid1>0P</wid1>
-			<wid2>903</wid2>            	
+			<wid2>901</wid2>            	
 		</bus>
 
 

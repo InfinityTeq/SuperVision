@@ -39,11 +39,11 @@
 
 	<buses rt="88" rtRtpiFeedName="" rtdd="88"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
+		<time>1:14 PM</time>
 
 
 		<bus>
-			<id>8256</id>    
+			<id>8306</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,27 +52,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>88</rtdd>  
 			
-			<d>South East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>SE</dn> 
-			<lat>41.99681091308594</lat>
-			<lon>-87.80982208251953</lon>
-			<pid>4672</pid>
-			<pd>Eastbound</pd> 
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.97060775756836</lat>
+			<lon>-87.76318359375</lon>
+			<pid>1728</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F404</run>
-			<fs>Jefferson Park Blue Line</fs>
-			<op>36044</op>
-			<dip>3122</dip>
-			<bid>3065</bid>				
+			<run>F511</run>
+			<fs>Devon/Canfield</fs>
+			<op>62912</op>
+			<dip>626</dip>
+			<bid>2904</bid>				
 			<wid1>0F</wid1>
-			<wid2>404</wid2>            	
+			<wid2>511</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>8288</id>    
+			<id>8238</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -81,21 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>88</rtdd>  
 			
-			<d>South West Bound</d>
+			<d>South Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>SSW</dn> 
-			<lat>41.96964645385742</lat>
-			<lon>-87.7615966796875</lon>
+			<dn>S</dn> 
+			<lat>41.981805299457754</lat>
+			<lon>-87.80697511371814</lon>
 			<pid>4672</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F109</run>
+			<run>F405</run>
 			<fs>Jefferson Park Blue Line</fs>
-			<op>40506</op>
-			<dip>23290</dip>
-			<bid>3043</bid>				
+			<op>20814</op>
+			<dip>9126</dip>
+			<bid>2935</bid>				
 			<wid1>0F</wid1>
-			<wid2>109</wid2>            	
+			<wid2>405</wid2>            	
 		</bus>
 
 

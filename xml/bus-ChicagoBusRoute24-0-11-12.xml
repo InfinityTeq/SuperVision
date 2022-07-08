@@ -39,7 +39,65 @@
 
 	<buses rt="24" rtRtpiFeedName="" rtdd="24"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
+		<time>1:14 PM</time>
+
+
+		<bus>
+			<id>1373</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>24</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>24</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.885318756103516</lat>
+			<lon>-87.63114166259766</lon>
+			<pid>6778</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7212</run>
+			<fs>87th</fs>
+			<op>50750</op>
+			<dip>50</dip>
+			<bid>2104</bid>				
+			<wid1>07</wid1>
+			<wid2>212</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1345</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>24</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>24</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNE</dn> 
+			<lat>41.75565719604492</lat>
+			<lon>-87.63249206542969</lon>
+			<pid>6775</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7202</run>
+			<fs>Wacker/Clark</fs>
+			<op>29967</op>
+			<dip>3902</dip>
+			<bid>1984</bid>				
+			<wid1>07</wid1>
+			<wid2>202</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -52,18 +110,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>24</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.87430953979492</lat>
-			<lon>-87.63072204589844</lon>
-			<pid>6779</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.83160333072438</lat>
+			<lon>-87.62982177734375</lon>
+			<pid>6775</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7213</run>
-			<fs>79th Red Line</fs>
+			<fs>Wacker/Clark</fs>
 			<op>44479</op>
-			<dip>4061</dip>
+			<dip>31891</dip>
 			<bid>2106</bid>				
 			<wid1>07</wid1>
 			<wid2>213</wid2>            	
@@ -81,18 +139,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>24</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.772727608680725</lat>
-			<lon>-87.62989258766174</lon>
-			<pid>6775</pid>
-			<pd>Northbound</pd> 
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.79459987542568</lat>
+			<lon>-87.62986285869891</lon>
+			<pid>6778</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7203</run>
-			<fs>Wacker/Clark</fs>
+			<fs>87th</fs>
 			<op>45060</op>
-			<dip>10272</dip>
+			<dip>36407</dip>
 			<bid>1986</bid>				
 			<wid1>07</wid1>
 			<wid2>203</wid2>            	
@@ -110,108 +168,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>24</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.81412016827127</lat>
-			<lon>-87.63118743896484</lon>
-			<pid>6779</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7201</run>
-			<fs>79th Red Line</fs>
-			<op>45097</op>
-			<dip>26692</dip>
-			<bid>1985</bid>				
-			<wid1>07</wid1>
-			<wid2>201</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1373</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>24</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>24</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.767238485402075</lat>
-			<lon>-87.62990149136247</lon>
-			<pid>6779</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7208</run>
-			<fs>79th Red Line</fs>
-			<op>37332</op>
-			<dip>47158</dip>
-			<bid>2104</bid>				
-			<wid1>07</wid1>
-			<wid2>208</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1345</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>24</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>24</rtdd>  
-			
-			<d>South Bound</d>
+			<d>North Bound</d>
 			<dd>Northbound</dd> 
-			<dn>S</dn> 
-			<lat>41.88566207885742</lat>
-			<lon>-87.63104248046875</lon>
+			<dn>N</dn> 
+			<lat>41.86706215994699</lat>
+			<lon>-87.63037872314453</lon>
 			<pid>6775</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7202</run>
+			<run>7201</run>
 			<fs>Wacker/Clark</fs>
-			<op>29967</op>
-			<dip>53957</dip>
-			<bid>1984</bid>				
+			<op>45097</op>
+			<dip>45521</dip>
+			<bid>1985</bid>				
 			<wid1>07</wid1>
-			<wid2>202</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1230</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>24</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>24</rtdd>  
-			
-			<d>South East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SSE</dn> 
-			<lat>41.75109833333333</lat>
-			<lon>-87.62746833333334</lon>
-			<pid>6779</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7206</run>
-			<fs>79th Red Line</fs>
-			<op>55028</op>
-			<dip>55527</dip>
-			<bid>1950</bid>				
-			<wid1>07</wid1>
-			<wid2>206</wid2>            	
+			<wid2>201</wid2>            	
 		</bus>
 
 

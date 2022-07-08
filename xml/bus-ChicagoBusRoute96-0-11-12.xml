@@ -39,7 +39,7 @@
 
 	<buses rt="96" rtRtpiFeedName="" rtdd="96"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
+		<time>1:14 PM</time>
 
 
 		<bus>
@@ -52,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>96</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Westbound</dd> 
-			<dn>N</dn> 
-			<lat>42.01193943730107</lat>
-			<lon>-87.69976184986255</lon>
-			<pid>2104</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>42.008472031813405</lat>
+			<lon>-87.69734555757962</lon>
+			<pid>2107</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P044</run>
-			<fs>Devon/Kedzie</fs>
+			<fs>Morse Red Line</fs>
 			<op>54343</op>
-			<dip>13146</dip>
+			<dip>13863</dip>
 			<bid>2323</bid>				
 			<wid1>0P</wid1>
 			<wid2>044</wid2>            	
@@ -81,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>96</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>42.00853201059195</lat>
-			<lon>-87.69249417231633</lon>
-			<pid>2107</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>42.01193700517927</lat>
+			<lon>-87.70682144165039</lon>
+			<pid>2104</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P047</run>
-			<fs>Morse Red Line</fs>
+			<fs>Devon/Kedzie</fs>
 			<op>36512</op>
-			<dip>15178</dip>
+			<dip>15118</dip>
 			<bid>2327</bid>				
 			<wid1>0P</wid1>
 			<wid2>047</wid2>            	

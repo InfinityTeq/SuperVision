@@ -23,13 +23,11 @@ import os
 import folium # pip req
 from folium.plugins import *
 from flask import Flask, render_template, send_from_directory # pip req
-from flask_navigation import Navigation
 
 # packages
 from packages import get_real_time
 from packages import get_kml_data
 from packages import get_xml_data
-# from packages import xml_dictionaryX
 
 # main code, makes map
 def main():

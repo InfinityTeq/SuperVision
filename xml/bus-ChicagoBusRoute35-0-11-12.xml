@@ -39,7 +39,65 @@
 
 	<buses rt="35" rtRtpiFeedName="" rtdd="35"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
+		<time>1:14 PM</time>
+
+
+		<bus>
+			<id>7908</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>35</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>35</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Westbound</dd> 
+			<dn>SSE</dn> 
+			<lat>41.84022521972656</lat>
+			<lon>-87.60845947265625</lon>
+			<pid>7205</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K315</run>
+			<fs>24th Pl/Cicero</fs>
+			<op>50794</op>
+			<dip>915</dip>
+			<bid>1750</bid>				
+			<wid1>0K</wid1>
+			<wid2>315</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1007</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>35</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>35</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>S</dn> 
+			<lat>41.83354872364109</lat>
+			<lon>-87.70469484490863</lon>
+			<pid>14102</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K316</run>
+			<fs>31st Street Beach</fs>
+			<op>53982</op>
+			<dip>16486</dip>
+			<bid>1753</bid>				
+			<wid1>0K</wid1>
+			<wid2>316</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -52,18 +110,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>35</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>S</dn> 
-			<lat>41.84178161621094</lat>
-			<lon>-87.7439193725586</lon>
-			<pid>14102</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.830657958984375</lat>
+			<lon>-87.65496870400248</lon>
+			<pid>7205</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K304</run>
-			<fs>31st Street Beach</fs>
+			<fs>24th Pl/Cicero</fs>
 			<op>20852</op>
-			<dip>1990</dip>
+			<dip>18840</dip>
 			<bid>1755</bid>				
 			<wid1>0K</wid1>
 			<wid2>304</wid2>            	
@@ -81,18 +139,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>35</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.83116273146409</lat>
-			<lon>-87.62008009690504</lon>
-			<pid>7205</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.830618896484374</lat>
+			<lon>-87.65595825195312</lon>
+			<pid>14102</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K305</run>
-			<fs>24th Pl/Cicero</fs>
+			<fs>31st Street Beach</fs>
 			<op>30876</op>
-			<dip>9233</dip>
+			<dip>34100</dip>
 			<bid>1756</bid>				
 			<wid1>0K</wid1>
 			<wid2>305</wid2>            	
@@ -110,18 +168,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>35</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.82815933227539</lat>
-			<lon>-87.70027551418397</lon>
-			<pid>14102</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.82814407348633</lat>
+			<lon>-87.70375706599309</lon>
+			<pid>7205</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K314</run>
-			<fs>31st Street Beach</fs>
+			<fs>24th Pl/Cicero</fs>
 			<op>55788</op>
-			<dip>19773</dip>
+			<dip>35070</dip>
 			<bid>1754</bid>				
 			<wid1>0K</wid1>
 			<wid2>314</wid2>            	
@@ -139,21 +197,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>35</rtdd>  
 			
-			<d>North East Bound</d>
-			<dd>Westbound</dd> 
-			<dn>NE</dn> 
-			<lat>41.828847603719744</lat>
-			<lon>-87.68024031842342</lon>
-			<pid>7205</pid>
-			<pd>Westbound</pd> 
+			<d>West Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>W</dn> 
+			<lat>41.83468031449751</lat>
+			<lon>-87.6141229802912</lon>
+			<pid>14102</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K310</run>
-			<fs>24th Pl/Cicero</fs>
-			<op>57777</op>
-			<dip>26817</dip>
+			<run>K313</run>
+			<fs>31st Street Beach</fs>
+			<op>61907</op>
+			<dip>47210</dip>
 			<bid>1760</bid>				
 			<wid1>0K</wid1>
-			<wid2>310</wid2>            	
+			<wid2>313</wid2>            	
 		</bus>
 
 
@@ -168,79 +226,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>35</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.83100891113281</lat>
-			<lon>-87.62652179173061</lon>
-			<pid>14102</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K303</run>
-			<fs>31st Street Beach</fs>
-			<op>30881</op>
-			<dip>42116</dip>
-			<bid>1751</bid>				
-			<wid1>0K</wid1>
-			<wid2>303</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>7908</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>35</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>35</rtdd>  
-			
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.83674621582031</lat>
-			<lon>-87.74326094370039</lon>
+			<lat>41.84623</lat>
+			<lon>-87.74455333333333</lon>
 			<pid>7205</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K301</run>
+			<run>K317</run>
 			<fs>24th Pl/Cicero</fs>
-			<op>40534</op>
-			<dip>49149</dip>
-			<bid>1750</bid>				
+			<op>52813</op>
+			<dip>52706</dip>
+			<bid>1751</bid>				
 			<wid1>0K</wid1>
-			<wid2>301</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1007</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>35</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>35</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.83903333333333</lat>
-			<lon>-87.60781</lon>
-			<pid>14102</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K302</run>
-			<fs>31st Street Beach</fs>
-			<op>44955</op>
-			<dip>50365</dip>
-			<bid>1753</bid>				
-			<wid1>0K</wid1>
-			<wid2>302</wid2>            	
+			<wid2>317</wid2>            	
 		</bus>
 
 

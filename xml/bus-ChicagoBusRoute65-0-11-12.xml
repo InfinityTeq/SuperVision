@@ -39,123 +39,7 @@
 
 	<buses rt="65" rtRtpiFeedName="" rtdd="65"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
-
-
-		<bus>
-			<id>1975</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>65</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>65</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>ESE</dn> 
-			<lat>41.918753347089215</lat>
-			<lon>-87.76586126512096</lon>
-			<pid>6656</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5502</run>
-			<fs>Navy Pier</fs>
-			<op>39775</op>
-			<dip>10117</dip>
-			<bid>1584</bid>				
-			<wid1>05</wid1>
-			<wid2>502</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1900</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>65</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>65</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.891090393066406</lat>
-			<lon>-87.65734441656815</lon>
-			<pid>6657</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5513</run>
-			<fs>Nordica</fs>
-			<op>52834</op>
-			<dip>13921</dip>
-			<bid>1435</bid>				
-			<wid1>05</wid1>
-			<wid2>513</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1898</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>65</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>65</rtdd>  
-			
-			<d>South East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>ESE</dn> 
-			<lat>41.893244473439346</lat>
-			<lon>-87.69409813071196</lon>
-			<pid>6656</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5131</run>
-			<fs>Navy Pier</fs>
-			<op>37268</op>
-			<dip>31999</dip>
-			<bid>1616</bid>				
-			<wid1>05</wid1>
-			<wid2>131</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>2011</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>65</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>65</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.89152453238504</lat>
-			<lon>-87.63561409398129</lon>
-			<pid>6656</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5503</run>
-			<fs>Navy Pier</fs>
-			<op>33669</op>
-			<dip>48134</dip>
-			<bid>1438</bid>				
-			<wid1>05</wid1>
-			<wid2>503</wid2>            	
-		</bus>
-
+		<time>1:14 PM</time>
 
 
 		<bus>
@@ -171,18 +55,163 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.9210150345512</lat>
-			<lon>-87.77808512812075</lon>
+			<lat>41.891773810753456</lat>
+			<lon>-87.62226222111629</lon>
 			<pid>6657</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5515</run>
+			<run>5508</run>
 			<fs>Nordica</fs>
-			<op>53213</op>
-			<dip>51364</dip>
+			<op>42427</op>
+			<dip>3633</dip>
 			<bid>1426</bid>				
 			<wid1>05</wid1>
-			<wid2>515</wid2>            	
+			<wid2>508</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>2002</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>ESE</dn> 
+			<lat>41.91691589355469</lat>
+			<lon>-87.75607299804688</lon>
+			<pid>6656</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5505</run>
+			<fs>Navy Pier</fs>
+			<op>42418</op>
+			<dip>12810</dip>
+			<bid>1615</bid>				
+			<wid1>05</wid1>
+			<wid2>505</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1975</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.893211364746094</lat>
+			<lon>-87.69379771839489</lon>
+			<pid>6657</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5502</run>
+			<fs>Nordica</fs>
+			<op>39775</op>
+			<dip>24504</dip>
+			<bid>1584</bid>				
+			<wid1>05</wid1>
+			<wid2>502</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1898</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.90908444938013</lat>
+			<lon>-87.73377615718518</lon>
+			<pid>6657</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5131</run>
+			<fs>Nordica</fs>
+			<op>37268</op>
+			<dip>37627</dip>
+			<bid>1616</bid>				
+			<wid1>05</wid1>
+			<wid2>131</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1900</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.89097449893043</lat>
+			<lon>-87.66226050967262</lon>
+			<pid>6656</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5516</run>
+			<fs>Navy Pier</fs>
+			<op>63779</op>
+			<dip>40885</dip>
+			<bid>1435</bid>				
+			<wid1>05</wid1>
+			<wid2>516</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>2011</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>North East Bound</d>
+			<dd>Westbound</dd> 
+			<dn>NE</dn> 
+			<lat>41.92406089489277</lat>
+			<lon>-87.80202146676871</lon>
+			<pid>6657</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5503</run>
+			<fs>Nordica</fs>
+			<op>33669</op>
+			<dip>58507</dip>
+			<bid>1438</bid>				
+			<wid1>05</wid1>
+			<wid2>503</wid2>            	
 		</bus>
 
 

@@ -39,7 +39,7 @@
 
 	<buses rt="10" rtRtpiFeedName="" rtdd="10"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
+		<time>1:14 PM</time>
 
 
 		<bus>
@@ -52,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>10</rtdd>  
 			
-			<d>South Bound</d>
+			<d>South West Bound</d>
 			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.87535725469174</lat>
-			<lon>-87.62769251284392</lon>
+			<dn>SW</dn> 
+			<lat>41.888285319010414</lat>
+			<lon>-87.62532636854384</lon>
 			<pid>8222</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K002</run>
 			<fs>Museum of Science &amp; Industry</fs>
 			<op>39448</op>
-			<dip>9884</dip>
+			<dip>4605</dip>
 			<bid>1649</bid>				
 			<wid1>0K</wid1>
 			<wid2>002</wid2>            	
@@ -81,21 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>10</rtdd>  
 			
-			<d>North Bound</d>
+			<d>North West Bound</d>
 			<dd>Northbound</dd> 
 			<dn>NNW</dn> 
-			<lat>41.859561920166016</lat>
-			<lon>-87.61729431152344</lon>
+			<lat>41.82188415527344</lat>
+			<lon>-87.59858703613281</lon>
 			<pid>8223</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K010</run>
+			<run>K537</run>
 			<fs>Water Tower</fs>
-			<op>40468</op>
-			<dip>28540</dip>
+			<op>62068</op>
+			<dip>13733</dip>
 			<bid>1812</bid>				
 			<wid1>0K</wid1>
-			<wid2>010</wid2>            	
+			<wid2>537</wid2>            	
 		</bus>
 
 
@@ -113,8 +113,8 @@
 			<d>West Bound</d>
 			<dd>Northbound</dd> 
 			<dn>W</dn> 
-			<lat>41.89841842651367</lat>
-			<lon>-87.62239074707031</lon>
+			<lat>41.89841079711914</lat>
+			<lon>-87.62246704101562</lon>
 			<pid>8223</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>

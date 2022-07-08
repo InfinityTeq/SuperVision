@@ -39,7 +39,36 @@
 
 	<buses rt="152" rtRtpiFeedName="" rtdd="152"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
+		<time>1:14 PM</time>
+
+
+		<bus>
+			<id>1161</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>152</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>152</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.945194244384766</lat>
+			<lon>-87.80746227761973</lon>
+			<pid>899</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F203</run>
+			<fs>Lake Shore</fs>
+			<op>31226</op>
+			<dip>7728</dip>
+			<bid>2877</bid>				
+			<wid1>0F</wid1>
+			<wid2>203</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -52,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>152</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.94510674109826</lat>
-			<lon>-87.81508002647986</lon>
-			<pid>899</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.946646939791165</lat>
+			<lon>-87.71204141470102</lon>
+			<pid>3041</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F206</run>
-			<fs>Lake Shore</fs>
+			<fs>Cumberland</fs>
 			<op>40778</op>
-			<dip>5631</dip>
+			<dip>22121</dip>
 			<bid>3022</bid>				
 			<wid1>0F</wid1>
 			<wid2>206</wid2>            	
@@ -81,21 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>152</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.94716481693455</lat>
-			<lon>-87.65795823394275</lon>
-			<pid>3041</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.94640627774325</lat>
+			<lon>-87.72562131014737</lon>
+			<pid>899</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F201</run>
-			<fs>Cumberland</fs>
-			<op>37323</op>
-			<dip>7346</dip>
+			<run>F217</run>
+			<fs>Lake Shore</fs>
+			<op>43535</op>
+			<dip>30004</dip>
 			<bid>3021</bid>				
 			<wid1>0F</wid1>
-			<wid2>201</wid2>            	
+			<wid2>217</wid2>            	
 		</bus>
 
 
@@ -110,21 +139,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>152</rtdd>  
 			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.946628511868994</lat>
+			<lon>-87.70870290902944</lon>
+			<pid>899</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F210</run>
+			<fs>Lake Shore</fs>
+			<op>54564</op>
+			<dip>34610</dip>
+			<bid>3020</bid>				
+			<wid1>0F</wid1>
+			<wid2>210</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1793</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>152</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>152</rtdd>  
+			
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.946755341121126</lat>
-			<lon>-87.69490609850202</lon>
+			<lat>41.94594357060451</lat>
+			<lon>-87.76666140088848</lon>
 			<pid>3041</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F202</run>
+			<run>MAN</run>
 			<fs>Cumberland</fs>
-			<op>40650</op>
-			<dip>17442</dip>
-			<bid>3020</bid>				
+			<op>43063</op>
+			<dip>37019</dip>
+			<bid>MAN</bid>				
 			<wid1>0F</wid1>
-			<wid2>202</wid2>            	
+			<wid2>241</wid2>            	
 		</bus>
 
 
@@ -139,50 +197,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>152</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.946143223689155</lat>
-			<lon>-87.74391291691707</lon>
-			<pid>899</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.945806687878026</lat>
+			<lon>-87.77895047587734</lon>
+			<pid>3041</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F205</run>
-			<fs>Lake Shore</fs>
+			<fs>Cumberland</fs>
 			<op>29760</op>
-			<dip>25023</dip>
+			<dip>40367</dip>
 			<bid>3072</bid>				
 			<wid1>0F</wid1>
 			<wid2>205</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1359</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>152</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>152</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.94654934222881</lat>
-			<lon>-87.71211594801683</lon>
-			<pid>899</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F204</run>
-			<fs>Lake Shore</fs>
-			<op>43058</op>
-			<dip>33692</dip>
-			<bid>3019</bid>				
-			<wid1>0F</wid1>
-			<wid2>204</wid2>            	
 		</bus>
 
 
@@ -197,18 +226,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>152</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.94608348124736</lat>
-			<lon>-87.75616537558066</lon>
-			<pid>3041</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.94716884471752</lat>
+			<lon>-87.65854362205222</lon>
+			<pid>899</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F243</run>
-			<fs>Cumberland</fs>
+			<fs>Lake Shore</fs>
 			<op>49155</op>
-			<dip>34165</dip>
+			<dip>48253</dip>
 			<bid>3023</bid>				
 			<wid1>0F</wid1>
 			<wid2>243</wid2>            	
@@ -217,7 +246,7 @@
 
 
 		<bus>
-			<id>1161</id>    
+			<id>1359</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -226,21 +255,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>152</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.94719409942627</lat>
-			<lon>-87.65652751922607</lon>
-			<pid>899</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.945287264310394</lat>
+			<lon>-87.81962831937349</lon>
+			<pid>3041</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F203</run>
-			<fs>Lake Shore</fs>
-			<op>31226</op>
-			<dip>48803</dip>
-			<bid>2877</bid>				
+			<run>F204</run>
+			<fs>Cumberland</fs>
+			<op>43058</op>
+			<dip>51454</dip>
+			<bid>3019</bid>				
 			<wid1>0F</wid1>
-			<wid2>203</wid2>            	
+			<wid2>204</wid2>            	
 		</bus>
 
 

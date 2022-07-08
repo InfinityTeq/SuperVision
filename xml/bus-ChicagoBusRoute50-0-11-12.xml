@@ -39,11 +39,11 @@
 
 	<buses rt="50" rtRtpiFeedName="" rtdd="50"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
+		<time>1:14 PM</time>
 
 
 		<bus>
-			<id>1779</id>    
+			<id>1877</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>50</rtdd>  
 			
-			<d>South Bound</d>
+			<d>East Bound</d>
 			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.97518803523137</lat>
-			<lon>-87.67934769850511</lon>
+			<dn>ENE</dn> 
+			<lat>41.986019134521484</lat>
+			<lon>-87.6694564819336</lon>
 			<pid>1151</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P404</run>
+			<run>P444</run>
 			<fs>35th/Archer Orange Line</fs>
-			<op>58727</op>
-			<dip>6862</dip>
-			<bid>2489</bid>				
+			<op>60923</op>
+			<dip>936</dip>
+			<bid>2532</bid>				
 			<wid1>0P</wid1>
-			<wid2>404</wid2>            	
+			<wid2>444</wid2>            	
 		</bus>
 
 
@@ -81,27 +81,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>50</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.84640144234273</lat>
-			<lon>-87.67562866210938</lon>
-			<pid>1192</pid>
-			<pd>Northbound</pd> 
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.96622102910822</lat>
+			<lon>-87.67915344238281</lon>
+			<pid>1151</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P501</run>
-			<fs>Ashland/Clark</fs>
-			<op>37399</op>
-			<dip>7604</dip>
+			<run>P442</run>
+			<fs>35th/Archer Orange Line</fs>
+			<op>43407</op>
+			<dip>10149</dip>
 			<bid>2531</bid>				
 			<wid1>0P</wid1>
-			<wid2>501</wid2>            	
+			<wid2>442</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1890</id>    
+			<id>1779</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -110,21 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>50</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.94181878226144</lat>
-			<lon>-87.67837524414062</lon>
-			<pid>1151</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.8587097591824</lat>
+			<lon>-87.67596922980414</lon>
+			<pid>1192</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P403</run>
-			<fs>35th/Archer Orange Line</fs>
-			<op>37047</op>
-			<dip>19058</dip>
-			<bid>2488</bid>				
+			<run>P404</run>
+			<fs>Ashland/Clark</fs>
+			<op>58727</op>
+			<dip>12090</dip>
+			<bid>2489</bid>				
 			<wid1>0P</wid1>
-			<wid2>403</wid2>            	
+			<wid2>404</wid2>            	
 		</bus>
 
 
@@ -139,21 +139,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>50</rtdd>  
 			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.92509422302246</lat>
+			<lon>-87.6779556274414</lon>
+			<pid>1151</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P446</run>
+			<fs>35th/Archer Orange Line</fs>
+			<op>45437</op>
+			<dip>25157</dip>
+			<bid>2530</bid>				
+			<wid1>0P</wid1>
+			<wid2>446</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1890</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>50</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>50</rtdd>  
+			
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.88105330175283</lat>
-			<lon>-87.67654714778978</lon>
+			<dn>NNE</dn> 
+			<lat>41.896237340466726</lat>
+			<lon>-87.67700484703327</lon>
 			<pid>1192</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P801</run>
+			<run>P403</run>
 			<fs>Ashland/Clark</fs>
-			<op>39709</op>
-			<dip>20270</dip>
-			<bid>2530</bid>				
+			<op>37047</op>
+			<dip>25842</dip>
+			<bid>2488</bid>				
 			<wid1>0P</wid1>
-			<wid2>801</wid2>            	
+			<wid2>403</wid2>            	
 		</bus>
 
 
@@ -168,21 +197,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>50</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.91197626214279</lat>
-			<lon>-87.67748260498047</lon>
-			<pid>1192</pid>
-			<pd>Northbound</pd> 
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.91818193529473</lat>
+			<lon>-87.67768096923828</lon>
+			<pid>1151</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P409</run>
-			<fs>Ashland/Clark</fs>
-			<op>51017</op>
-			<dip>31639</dip>
+			<run>P411</run>
+			<fs>35th/Archer Orange Line</fs>
+			<op>40397</op>
+			<dip>27698</dip>
 			<bid>2516</bid>				
 			<wid1>0P</wid1>
-			<wid2>409</wid2>            	
+			<wid2>411</wid2>            	
 		</bus>
 
 
@@ -197,18 +226,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>50</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.9027529571016</lat>
-			<lon>-87.67728049068127</lon>
-			<pid>1151</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.919490758923516</lat>
+			<lon>-87.6776725658472</lon>
+			<pid>1192</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P402</run>
-			<fs>35th/Archer Orange Line</fs>
+			<fs>Ashland/Clark</fs>
 			<op>45481</op>
-			<dip>33441</dip>
+			<dip>34406</dip>
 			<bid>2521</bid>				
 			<wid1>0P</wid1>
 			<wid2>402</wid2>            	
@@ -226,21 +255,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>50</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.96134948730469</lat>
-			<lon>-87.678972672443</lon>
-			<pid>1192</pid>
-			<pd>Northbound</pd> 
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.85277283191681</lat>
+			<lon>-87.6758804321289</lon>
+			<pid>1151</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P442</run>
-			<fs>Ashland/Clark</fs>
-			<op>43407</op>
-			<dip>49775</dip>
+			<run>P410</run>
+			<fs>35th/Archer Orange Line</fs>
+			<op>61151</op>
+			<dip>51791</dip>
 			<bid>2527</bid>				
 			<wid1>0P</wid1>
-			<wid2>442</wid2>            	
+			<wid2>410</wid2>            	
 		</bus>
 
 
@@ -255,50 +284,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>50</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.837493896484375</lat>
-			<lon>-87.6755599975586</lon>
-			<pid>1151</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P602</run>
-			<fs>35th/Archer Orange Line</fs>
-			<op>45035</op>
-			<dip>57368</dip>
-			<bid>2512</bid>				
-			<wid1>0P</wid1>
-			<wid2>602</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1764</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>50</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>50</rtdd>  
-			
 			<d>East Bound</d>
 			<dd>Northbound</dd> 
 			<dn>E</dn> 
-			<lat>41.97623014450073</lat>
-			<lon>-87.6697268486023</lon>
+			<lat>41.9761962890625</lat>
+			<lon>-87.67076110839844</lon>
 			<pid>1192</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P441</run>
+			<run>P445</run>
 			<fs>Ashland/Clark</fs>
-			<op>43520</op>
-			<dip>57710</dip>
-			<bid>2524</bid>				
+			<op>44974</op>
+			<dip>57438</dip>
+			<bid>2512</bid>				
 			<wid1>0P</wid1>
-			<wid2>441</wid2>            	
+			<wid2>445</wid2>            	
 		</bus>
 
 
@@ -313,21 +313,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>50</rtdd>  
 			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.985365</lat>
+			<lon>-87.66975166666667</lon>
+			<pid>1192</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P405</run>
+			<fs>Ashland/Clark</fs>
+			<op>29888</op>
+			<dip>61098</dip>
+			<bid>2518</bid>				
+			<wid1>0P</wid1>
+			<wid2>405</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1764</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>50</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>50</rtdd>  
+			
 			<d>South West Bound</d>
 			<dd>Southbound</dd> 
 			<dn>SW</dn> 
-			<lat>41.82890295982361</lat>
-			<lon>-87.68104600906372</lon>
+			<lat>41.828927993774414</lat>
+			<lon>-87.68099594116211</lon>
 			<pid>1151</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P401</run>
+			<run>P441</run>
 			<fs>35th/Archer Orange Line</fs>
-			<op>44756</op>
-			<dip>61545</dip>
-			<bid>2518</bid>				
+			<op>43520</op>
+			<dip>61528</dip>
+			<bid>2524</bid>				
 			<wid1>0P</wid1>
-			<wid2>401</wid2>            	
+			<wid2>441</wid2>            	
 		</bus>
 
 

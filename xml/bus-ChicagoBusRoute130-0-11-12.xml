@@ -39,7 +39,7 @@
 
 	<buses rt="130" rtRtpiFeedName="" rtdd="130"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
+		<time>1:14 PM</time>
 
 
 		<bus>
@@ -52,50 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>130</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>S</dn> 
-			<lat>41.87519073486328</lat>
-			<lon>-87.627685546875</lon>
-			<pid>10884</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K220</run>
-			<fs>Museum Campus</fs>
-			<op>54111</op>
-			<dip>6627</dip>
-			<bid>1821</bid>				
-			<wid1>0K</wid1>
-			<wid2>220</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1643</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>130</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>130</rtdd>  
-			
-			<d>North Bound</d>
+			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>N</dn> 
-			<lat>41.86927289962769</lat>
-			<lon>-87.62735748291016</lon>
+			<dn>W</dn> 
+			<lat>41.867591857910156</lat>
+			<lon>-87.62093353271484</lon>
 			<pid>8094</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K522</run>
+			<run>K220</run>
 			<fs>Ogilvie &amp; Union Stations</fs>
-			<op>44969</op>
-			<dip>7470</dip>
-			<bid>1723</bid>				
+			<op>54111</op>
+			<dip>5082</dip>
+			<bid>1821</bid>				
 			<wid1>0K</wid1>
-			<wid2>522</wid2>            	
+			<wid2>220</wid2>            	
 		</bus>
 
 
@@ -110,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>130</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.86616516113281</lat>
-			<lon>-87.60863494873047</lon>
-			<pid>10884</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.87944583892822</lat>
+			<lon>-87.63447914123535</lon>
+			<pid>8094</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K001</run>
-			<fs>Museum Campus</fs>
+			<fs>Ogilvie &amp; Union Stations</fs>
 			<op>52473</op>
-			<dip>15720</dip>
+			<dip>13089</dip>
 			<bid>1822</bid>				
 			<wid1>0K</wid1>
 			<wid2>001</wid2>            	

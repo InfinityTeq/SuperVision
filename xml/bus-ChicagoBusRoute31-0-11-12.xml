@@ -39,7 +39,7 @@
 
 	<buses rt="31" rtRtpiFeedName="" rtdd="31"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
+		<time>1:14 PM</time>
 
 
 		<bus>
@@ -52,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>31</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.83366394042969</lat>
-			<lon>-87.61532592773438</lon>
-			<pid>8125</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.837947845458984</lat>
+			<lon>-87.65340423583984</lon>
+			<pid>8128</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7755</run>
-			<fs>Ashland Orange Line</fs>
+			<fs>33rd Place/King Drive</fs>
 			<op>36365</op>
-			<dip>40</dip>
+			<dip>4622</dip>
 			<bid>1947</bid>				
 			<wid1>07</wid1>
 			<wid2>755</wid2>            	
@@ -81,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>31</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Westbound</dd> 
-			<dn>NNE</dn> 
-			<lat>41.831853473887726</lat>
-			<lon>-87.6298288457534</lon>
-			<pid>8125</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.83097870623479</lat>
+			<lon>-87.62888811455399</lon>
+			<pid>8128</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7756</run>
-			<fs>Ashland Orange Line</fs>
+			<fs>33rd Place/King Drive</fs>
 			<op>29893</op>
-			<dip>8660</dip>
+			<dip>13913</dip>
 			<bid>1946</bid>				
 			<wid1>07</wid1>
 			<wid2>756</wid2>            	

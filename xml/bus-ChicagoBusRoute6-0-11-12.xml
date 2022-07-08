@@ -39,11 +39,40 @@
 
 	<buses rt="6" rtRtpiFeedName="" rtdd="6"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
+		<time>1:14 PM</time>
 
 
 		<bus>
-			<id>4173</id>    
+			<id>1119</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>6</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>6</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Southbound</dd> 
+			<dn>N</dn> 
+			<lat>41.8877125615659</lat>
+			<lon>-87.62229919433594</lon>
+			<pid>7107</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1614</run>
+			<fs>79th/South Shore</fs>
+			<op>30074</op>
+			<dip>2573</dip>
+			<bid>1251</bid>				
+			<wid1>01</wid1>
+			<wid2>614</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4051</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,18 +84,47 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.88715744018555</lat>
-			<lon>-87.62085723876953</lon>
+			<lat>41.87752599301545</lat>
+			<lon>-87.62773430865744</lon>
 			<pid>7107</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1603</run>
+			<run>1624</run>
 			<fs>79th/South Shore</fs>
-			<op>39911</op>
-			<dip>19</dip>
-			<bid>1247</bid>				
+			<op>56534</op>
+			<dip>7985</dip>
+			<bid>1254</bid>				
 			<wid1>01</wid1>
-			<wid2>603</wid2>            	
+			<wid2>624</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1055</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>6</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>6</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.87690933890965</lat>
+			<lon>-87.62772369384766</lon>
+			<pid>7107</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1627</run>
+			<fs>79th/South Shore</fs>
+			<op>45747</op>
+			<dip>8211</dip>
+			<bid>1249</bid>				
+			<wid1>01</wid1>
+			<wid2>627</wid2>            	
 		</bus>
 
 
@@ -81,18 +139,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>6</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.87986373901367</lat>
-			<lon>-87.62779808044434</lon>
-			<pid>7107</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.79215091207753</lat>
+			<lon>-87.5852810403575</lon>
+			<pid>14134</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1661</run>
-			<fs>79th/South Shore</fs>
+			<fs>Wacker/Columbus</fs>
 			<op>42968</op>
-			<dip>7103</dip>
+			<dip>26022</dip>
 			<bid>1317</bid>				
 			<wid1>01</wid1>
 			<wid2>661</wid2>            	
@@ -110,50 +168,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>6</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>E</dn> 
-			<lat>41.87321164714756</lat>
-			<lon>-87.62143172079058</lon>
-			<pid>7107</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1620</run>
-			<fs>79th/South Shore</fs>
-			<op>45711</op>
-			<dip>11294</dip>
-			<bid>1320</bid>				
-			<wid1>01</wid1>
-			<wid2>620</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4174</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>6</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>6</rtdd>  
-			
-			<d>West Bound</d>
+			<d>North Bound</d>
 			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.77354350842928</lat>
-			<lon>-87.56813772101151</lon>
+			<dn>NNW</dn> 
+			<lat>41.80339976719448</lat>
+			<lon>-87.58636038643974</lon>
 			<pid>14134</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1612</run>
+			<run>1629</run>
 			<fs>Wacker/Columbus</fs>
-			<op>40320</op>
-			<dip>13117</dip>
-			<bid>1250</bid>				
+			<op>53271</op>
+			<dip>31192</dip>
+			<bid>1320</bid>				
 			<wid1>01</wid1>
-			<wid2>612</wid2>            	
+			<wid2>629</wid2>            	
 		</bus>
 
 
@@ -168,137 +197,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>6</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.79965051615013</lat>
-			<lon>-87.58406340401127</lon>
-			<pid>14134</pid>
-			<pd>Northbound</pd> 
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.76952211974097</lat>
+			<lon>-87.5665798499936</lon>
+			<pid>7107</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1609</run>
-			<fs>Wacker/Columbus</fs>
+			<fs>79th/South Shore</fs>
 			<op>33605</op>
-			<dip>29279</dip>
+			<dip>59017</dip>
 			<bid>1253</bid>				
 			<wid1>01</wid1>
 			<wid2>609</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1129</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>6</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>6</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.77991085365171</lat>
-			<lon>-87.58654022216797</lon>
-			<pid>7107</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1604</run>
-			<fs>79th/South Shore</fs>
-			<op>63037</op>
-			<dip>49456</dip>
-			<bid>1232</bid>				
-			<wid1>01</wid1>
-			<wid2>604</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4183</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>6</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>6</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.77656341552734</lat>
-			<lon>-87.58636474609375</lon>
-			<pid>7107</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1664</run>
-			<fs>79th/South Shore</fs>
-			<op>55007</op>
-			<dip>50703</dip>
-			<bid>1319</bid>				
-			<wid1>01</wid1>
-			<wid2>664</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1119</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>6</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>6</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.76660818423865</lat>
-			<lon>-87.56649780273438</lon>
-			<pid>7107</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1614</run>
-			<fs>79th/South Shore</fs>
-			<op>30074</op>
-			<dip>60070</dip>
-			<bid>1251</bid>				
-			<wid1>01</wid1>
-			<wid2>614</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4318</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>6</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>6</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.8732795715332</lat>
-			<lon>-87.62263488769531</lon>
-			<pid>14134</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1606</run>
-			<fs>Wacker/Columbus</fs>
-			<op>24205</op>
-			<dip>66200</dip>
-			<bid>1248</bid>				
-			<wid1>01</wid1>
-			<wid2>606</wid2>            	
 		</bus>
 
 
@@ -313,50 +226,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>6</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.875115511710185</lat>
-			<lon>-87.62418352093613</lon>
-			<pid>14134</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1608</run>
-			<fs>Wacker/Columbus</fs>
-			<op>34478</op>
-			<dip>67329</dip>
-			<bid>1252</bid>				
-			<wid1>01</wid1>
-			<wid2>608</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4051</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>6</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>6</rtdd>  
-			
 			<d>West Bound</d>
 			<dd>Southbound</dd> 
 			<dn>W</dn> 
-			<lat>41.752008584829476</lat>
-			<lon>-87.54493232140175</lon>
+			<lat>41.752017974853516</lat>
+			<lon>-87.54516096676097</lon>
 			<pid>7107</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1624</run>
+			<run>1608</run>
 			<fs>79th/South Shore</fs>
-			<op>56534</op>
-			<dip>69278</dip>
-			<bid>1254</bid>				
+			<op>34478</op>
+			<dip>69338</dip>
+			<bid>1252</bid>				
 			<wid1>01</wid1>
-			<wid2>624</wid2>            	
+			<wid2>608</wid2>            	
 		</bus>
 
 

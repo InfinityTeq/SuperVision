@@ -39,11 +39,11 @@
 
 	<buses rt="115" rtRtpiFeedName="" rtdd="115"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
+		<time>1:14 PM</time>
 
 
 		<bus>
-			<id>1115</id>    
+			<id>1143</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,24 +55,24 @@
 			<d>East Bound</d>
 			<dd>Southbound</dd> 
 			<dn>E</dn> 
-			<lat>41.722025871276855</lat>
-			<lon>-87.60469245910645</lon>
+			<lat>41.72173309326172</lat>
+			<lon>-87.62091827392578</lon>
 			<pid>6357</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1101</run>
+			<run>1142</run>
 			<fs>117th/Marshfield</fs>
-			<op>30149</op>
-			<dip>6044</dip>
-			<bid>1211</bid>				
+			<op>37329</op>
+			<dip>1551</dip>
+			<bid>1229</bid>				
 			<wid1>01</wid1>
-			<wid2>101</wid2>            	
+			<wid2>142</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>8325</id>    
+			<id>1078</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,24 +84,24 @@
 			<d>East Bound</d>
 			<dd>Northbound</dd> 
 			<dn>E</dn> 
-			<lat>41.692800634047565</lat>
-			<lon>-87.61002439611099</lon>
+			<lat>41.68539630344936</lat>
+			<lon>-87.61439089093889</lon>
 			<pid>6358</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1103</run>
+			<run>1141</run>
 			<fs>95th Red Line</fs>
-			<op>40361</op>
-			<dip>20782</dip>
-			<bid>1230</bid>				
+			<op>39648</op>
+			<dip>16916</dip>
+			<bid>1214</bid>				
 			<wid1>01</wid1>
-			<wid2>103</wid2>            	
+			<wid2>141</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>8328</id>    
+			<id>1163</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -110,21 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>115</rtdd>  
 			
-			<d>West Bound</d>
+			<d>North Bound</d>
 			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.721956458458536</lat>
-			<lon>-87.61580681434044</lon>
+			<dn>N</dn> 
+			<lat>41.72128273459042</lat>
+			<lon>-87.60325981588925</lon>
 			<pid>6358</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1105</run>
+			<run>1063</run>
 			<fs>95th Red Line</fs>
-			<op>29877</op>
-			<dip>35323</dip>
-			<bid>1226</bid>				
+			<op>28889</op>
+			<dip>31452</dip>
+			<bid>1212</bid>				
 			<wid1>01</wid1>
-			<wid2>105</wid2>            	
+			<wid2>063</wid2>            	
 		</bus>
 
 

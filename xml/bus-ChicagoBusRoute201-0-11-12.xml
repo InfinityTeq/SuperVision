@@ -39,7 +39,36 @@
 
 	<buses rt="201" rtRtpiFeedName="" rtdd="201"> <!-- @11 @16 -->
 
-		<time>11:42 AM</time>
+		<time>1:14 PM</time>
+
+
+		<bus>
+			<id>1800</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>201</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>201</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>N</dn> 
+			<lat>42.0621602675494</lat>
+			<lon>-87.75134681252872</lon>
+			<pid>4318</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P904</run>
+			<fs>Howard Station</fs>
+			<op>28092</op>
+			<dip>1368</dip>
+			<bid>2494</bid>				
+			<wid1>0P</wid1>
+			<wid2>904</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,15 +84,15 @@
 			<d>East Bound</d>
 			<dd>Westbound</dd> 
 			<dn>E</dn> 
-			<lat>42.04842758178711</lat>
-			<lon>-87.68380287045338</lon>
+			<lat>42.048432042048525</lat>
+			<lon>-87.68654714731069</lon>
 			<pid>4319</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P931</run>
 			<fs>Old Orchard</fs>
 			<op>45330</op>
-			<dip>15515</dip>
+			<dip>14759</dip>
 			<bid>2505</bid>				
 			<wid1>0P</wid1>
 			<wid2>931</wid2>            	
@@ -83,48 +112,19 @@
 			
 			<d>South Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>S</dn> 
-			<lat>42.02455825805664</lat>
-			<lon>-87.68530306134905</lon>
+			<dn>SSE</dn> 
+			<lat>42.03386357625325</lat>
+			<lon>-87.68672714233398</lon>
 			<pid>4318</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P902</run>
 			<fs>Howard Station</fs>
 			<op>34032</op>
-			<dip>39510</dip>
+			<dip>36097</dip>
 			<bid>2513</bid>				
 			<wid1>0P</wid1>
 			<wid2>902</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1800</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>201</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>201</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Westbound</dd> 
-			<dn>NNE</dn> 
-			<lat>42.05891354878744</lat>
-			<lon>-87.75064849853516</lon>
-			<pid>4319</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P904</run>
-			<fs>Old Orchard</fs>
-			<op>28092</op>
-			<dip>45486</dip>
-			<bid>2494</bid>				
-			<wid1>0P</wid1>
-			<wid2>904</wid2>            	
 		</bus>
 
 
