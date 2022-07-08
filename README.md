@@ -58,7 +58,7 @@ SuperVision's open source magic allows us to do so much more than what propriata
 SuperVision is capable of plotting live data. Above we can see the current positions of buses in chicago. Every 10 seconds SuperVision will update any data that it has plotted live for a more consistent flow of where certain live data is on the map.
 
 ## Local Hosting
-**SuperVision does have a website [here][supervision]** but if you wish to run it locally you can clone the repository and run the `main.py` file.
+**SuperVision does have a website [here][supervision]** but if you wish to run it locally you can clone the repository and run the `main.py` file. You then can navigate to [localhost:5000](127.0.0.1:5000) to view the map.
 
 ## Credits
 The original concept comes from an old friend of mine, Shepherd. He had the idea to map specific camera locations to kml files and map them on Google Earth. I joined the project and discovered methods of automatically mapping data instead of doing such a thing manually. But after a falling out I took the project to the next step by creating a dynamic mapping environment outside of Google Earth. This has allowed me to map not only all the cameras simultaneously, but also to map live data in real time.
