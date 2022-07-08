@@ -13,29 +13,32 @@
 
 <!-- ascii art logo -->
 ```                                                     
-              .::::::.  ...    :::::::::::::. .,:::::: :::::::..    
-             ;;;`    `  ;;     ;;; `;;;```.;;;;;;;'''' ;;;;``;;;;   
-             '[==/[[[[,[['     [[[  `]]nnn]]'  [[cccc   [[[,/[[['   
-               '''    $$$      $$$   $$$""     $$""""   $$$$$$c     
-              88b    dP88    .d888   888o      888oo,__ 888b "88bo, 
-               "YMmMY"  "YmmMMMM""   YMMMb     """"YUMMMMMMM   "W"  
-                                              :~?J555J?~:
-        :::      .::.::: .::::::. :::     .~YG&@B5J?J5B@&GY~.   :::.    :::.
-        ';;,   ,;;;' ;;;;;;`    ` ;;;   :JB@@@B~.~?J7~.~B@@@BJ: `;;;;,  `;;;
-         \[[  .[[/   [[['[==/[[[[,[[[ .5&@@@@&: P@@G^PP :&@@@@&5  [[[[[. '[[
-          Y$c.$$"    $$$  '''    $$$$ .5&@@@@&: P@@@&@P :&@@@@&5. $$$ "Y$c$$
-           Y88P      888 88b    dP888   :JB@@@B~.~?YJ~.~B@@@BJ:   888    Y88
-            MP       MMM  "YMmMY" MMM     .~YB&@B5J?J5B@&BY~.     MMM     YM
-                                              :~?J555J?~:                   
+                    .::::::.  ...    :::::::::::::. .,:::::: :::::::..    
+                   ;;;`    `  ;;     ;;; `;;;```.;;;;;;;'''' ;;;;``;;;;   
+                   '[==/[[[[,[['     [[[  `]]nnn]]'  [[cccc   [[[,/[[['   
+                     '''    $$$      $$$   $$$""     $$""""   $$$$$$c     
+                    88b    dP88    .d888   888o      888oo,__ 888b "88bo, 
+                     "YMmMY"  "YmmMMMM""   YMMMb     """"YUMMMMMMM   "W"  
+                                                    :~?J555J?~:
+              :::      .::.::: .::::::. :::     .~YG&@B5J?J5B@&GY~.   :::.    :::.
+              ';;,   ,;;;' ;;;;;;`    ` ;;;   :JB@@@B~.~?J7~.~B@@@BJ: `;;;;,  `;;;
+               \[[  .[[/   [[['[==/[[[[,[[[ .5&@@@@&: P@@G^PP :&@@@@&5  [[[[[. '[[
+                Y$c.$$"    $$$  '''    $$$$ .5&@@@@&: P@@@&@P :&@@@@&5. $$$ "Y$c$$
+                 Y88P      888 88b    dP888   :JB@@@B~.~?YJ~.~B@@@BJ:   888    Y88
+                  MP       MMM  "YMmMY" MMM     .~YB&@B5J?J5B@&BY~.     MMM     YM
+                                                    :~?J555J?~:                   
 ```
 
 <!-- descripiton -->
 ## Overview:
 [SuperVision][supervision] is an open source *"Google Maps"* for hackers developed by [CosmodiumCS][ccs]. SuperVision's map centralizes public data and maps it. Allowing you to see traffic cameras, transportation, and other data systems **in live time**. It is developed with a type of hacking called "Public Data Hacking" [PDH]. This is basically the process in which you exploit data thats publically available. Whats cool about PDH is that its completely legal, because the data we exploit is already publically available. So by the magical powers of Python, JavaScript, and several markup languages, we generate a powerful map that is ready to use whenever you need! 
 
+---
+
 <!-- map visualization -->
-<!-- ![SuperVision Map](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/map-plots.png?raw=true) -->
 ![SuperVision Map](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/ccs-styled-plots.png?raw=true)
+
+---
 
 <!-- how it works -->
 **How It Works:**
@@ -64,7 +67,6 @@ SuperVision's open source magic allows us to do so much more than what propriata
 ## Local Hosting
 **SuperVision does have a website [here][supervision]** but if you wish to run it locally you can clone the repository and run the [main.py](https://github.com/CosmodiumCS/SuperVision/blob/master/main.py) file. You then can navigate to `127.0.0.1:5000` to view the map.
 
----
 <!-- extraneous -->
 ## What Can SuperVision Track?
 
@@ -79,8 +81,6 @@ SuperVision is capable of plotting traffic, security, and other cameras on its m
 ![Chicago Buses](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/chicago-buses.png?raw=true)
 
 SuperVision is capable of plotting live data. Above we can see the current positions of buses in chicago. Every 10 seconds SuperVision will update any data that it has plotted live for a more consistent flow of where certain live data is on the map.
-
----
 
 <!-- data policy -->
 ## Data Policy
