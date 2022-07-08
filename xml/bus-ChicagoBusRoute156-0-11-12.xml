@@ -39,11 +39,11 @@
 
 	<buses rt="156" rtRtpiFeedName="" rtdd="156"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>4001</id>    
+			<id>4054</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,50 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>156</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.94005584716797</lat>
-			<lon>-87.64892578125</lon>
-			<pid>8106</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K460</run>
-			<fs>Union Station</fs>
-			<op>53982</op>
-			<dip>47</dip>
-			<bid>1674</bid>				
-			<wid1>0K</wid1>
-			<wid2>460</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4062</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>156</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>156</rtdd>  
-			
-			<d>East Bound</d>
+			<d>North Bound</d>
 			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>41.87803268432617</lat>
-			<lon>-87.63952084245354</lon>
+			<dn>NNW</dn> 
+			<lat>41.89032516479492</lat>
+			<lon>-87.63241939544677</lon>
 			<pid>8110</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K496</run>
+			<run>K452</run>
 			<fs>Belmont/Halsted</fs>
-			<op>62732</op>
-			<dip>294</dip>
-			<bid>1671</bid>				
+			<op>44362</op>
+			<dip>6791</dip>
+			<bid>1652</bid>				
 			<wid1>0K</wid1>
-			<wid2>496</wid2>            	
+			<wid2>452</wid2>            	
 		</bus>
 
 
@@ -110,27 +81,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>156</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.885428534613716</lat>
-			<lon>-87.63237762451172</lon>
-			<pid>17465</pid>
-			<pd>Northbound</pd> 
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.90865783691406</lat>
+			<lon>-87.63318481445313</lon>
+			<pid>8106</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K454</run>
-			<fs>Belmont/Sheridan</fs>
-			<op>52726</op>
-			<dip>5010</dip>
-			<bid>1710</bid>				
+			<run>K471</run>
+			<fs>Union Station</fs>
+			<op>45606</op>
+			<dip>15565</dip>
+			<bid>1666</bid>				
 			<wid1>0K</wid1>
-			<wid2>454</wid2>            	
+			<wid2>471</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>4066</id>    
+			<id>4099</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -139,137 +110,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>156</rtdd>  
 			
-			<d>South Bound</d>
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.934658879819125</lat>
+			<lon>-87.63934558370839</lon>
+			<pid>8110</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K451</run>
+			<fs>Belmont/Halsted</fs>
+			<op>28242</op>
+			<dip>23994</dip>
+			<bid>1718</bid>				
+			<wid1>0K</wid1>
+			<wid2>451</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4199</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>156</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>156</rtdd>  
+			
+			<d>East Bound</d>
 			<dd>Southbound</dd> 
-			<dn>SSE</dn> 
-			<lat>41.91878365410699</lat>
-			<lon>-87.63453538682725</lon>
+			<dn>E</dn> 
+			<lat>41.87816365559896</lat>
+			<lon>-87.64112854003906</lon>
 			<pid>8106</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K456</run>
 			<fs>Union Station</fs>
-			<op>52284</op>
-			<dip>11303</dip>
-			<bid>1681</bid>				
+			<op>58700</op>
+			<dip>29017</dip>
+			<bid>1710</bid>				
 			<wid1>0K</wid1>
 			<wid2>456</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4091</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>156</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>156</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.911006927490234</lat>
-			<lon>-87.63300323486328</lon>
-			<pid>8110</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K362</run>
-			<fs>Belmont/Halsted</fs>
-			<op>30016</op>
-			<dip>14307</dip>
-			<bid>1685</bid>				
-			<wid1>0K</wid1>
-			<wid2>362</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4039</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>156</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>156</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SSE</dn> 
-			<lat>41.888315200805664</lat>
-			<lon>-87.63262844085693</lon>
-			<pid>8106</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K473</run>
-			<fs>Union Station</fs>
-			<op>64993</op>
-			<dip>22996</dip>
-			<bid>1727</bid>				
-			<wid1>0K</wid1>
-			<wid2>473</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4060</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>156</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>156</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.879983348231164</lat>
-			<lon>-87.63236310405117</lon>
-			<pid>8106</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K459</run>
-			<fs>Union Station</fs>
-			<op>58535</op>
-			<dip>26058</dip>
-			<bid>1666</bid>				
-			<wid1>0K</wid1>
-			<wid2>459</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1638</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>156</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>156</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.94010543823242</lat>
-			<lon>-87.64819924036662</lon>
-			<pid>8110</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K457</run>
-			<fs>Belmont/Halsted</fs>
-			<op>40760</op>
-			<dip>28414</dip>
-			<bid>1652</bid>				
-			<wid1>0K</wid1>
-			<wid2>457</wid2>            	
 		</bus>
 
 

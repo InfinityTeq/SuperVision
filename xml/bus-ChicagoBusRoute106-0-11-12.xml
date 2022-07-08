@@ -39,11 +39,11 @@
 
 	<buses rt="106" rtRtpiFeedName="" rtdd="106"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1052</id>    
+			<id>1153</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,27 +52,56 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>106</rtdd>  
 			
-			<d>East Bound</d>
+			<d>West Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.70790481567383</lat>
-			<lon>-87.58075103759765</lon>
+			<dn>W</dn> 
+			<lat>41.72086715698242</lat>
+			<lon>-87.6246109008789</lon>
 			<pid>4493</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1010</run>
+			<run>1001</run>
 			<fs>Stony Island/103rd</fs>
-			<op>27716</op>
-			<dip>24647</dip>
-			<bid>1197</bid>				
+			<op>36778</op>
+			<dip>45</dip>
+			<bid>1198</bid>				
 			<wid1>01</wid1>
-			<wid2>010</wid2>            	
+			<wid2>001</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1136</id>    
+			<id>1133</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>106</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>106</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>SSE</dn> 
+			<lat>41.71009035671459</lat>
+			<lon>-87.592477349674</lon>
+			<pid>4493</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1022</run>
+			<fs>Stony Island/103rd</fs>
+			<op>45710</op>
+			<dip>15572</dip>
+			<bid>1200</bid>				
+			<wid1>01</wid1>
+			<wid2>022</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1103</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,18 +113,47 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.72083666666666</lat>
-			<lon>-87.624655</lon>
+			<lat>41.70722579956055</lat>
+			<lon>-87.61924743652344</lon>
 			<pid>4490</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1443</run>
+			<run>1409</run>
 			<fs>95th Red Line</fs>
-			<op>29975</op>
-			<dip>25257</dip>
-			<bid>1200</bid>				
+			<op>55677</op>
+			<dip>18074</dip>
+			<bid>1268</bid>				
 			<wid1>01</wid1>
-			<wid2>443</wid2>            	
+			<wid2>409</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1110</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>106</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>106</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>WSW</dn> 
+			<lat>41.708758333333336</lat>
+			<lon>-87.58078833333333</lon>
+			<pid>4493</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1411</run>
+			<fs>Stony Island/103rd</fs>
+			<op>37222</op>
+			<dip>24939</dip>
+			<bid>1197</bid>				
+			<wid1>01</wid1>
+			<wid2>411</wid2>            	
 		</bus>
 
 

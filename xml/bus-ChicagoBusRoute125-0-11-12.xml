@@ -39,94 +39,9 @@
 
 	<buses rt="125" rtRtpiFeedName="" rtdd="125"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
-
-		<bus>
-			<id>4008</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>125</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>125</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.898159460587934</lat>
-			<lon>-87.62419128417969</lon>
-			<pid>2862</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K654</run>
-			<fs>Desplaines/Harrison</fs>
-			<op>65906</op>
-			<dip>636</dip>
-			<bid>1688</bid>				
-			<wid1>0K</wid1>
-			<wid2>654</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1625</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>125</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>125</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Southbound</dd> 
-			<dn>W</dn> 
-			<lat>41.89331226348877</lat>
-			<lon>-87.62877826690674</lon>
-			<pid>2862</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K408</run>
-			<fs>Desplaines/Harrison</fs>
-			<op>58256</op>
-			<dip>3621</dip>
-			<bid>1678</bid>				
-			<wid1>0K</wid1>
-			<wid2>408</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1712</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>125</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>125</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.89201593399048</lat>
-			<lon>-87.63695621490479</lon>
-			<pid>6369</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K019</run>
-			<fs>Water Tower</fs>
-			<op>66080</op>
-			<dip>8895</dip>
-			<bid>1693</bid>				
-			<wid1>0K</wid1>
-			<wid2>019</wid2>            	
-		</bus>
-
+		<hasService>false</hasService>
 
 
 	</buses>

@@ -39,11 +39,11 @@
 
 	<buses rt="97" rtRtpiFeedName="" rtdd="97"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1884</id>    
+			<id>1869</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,24 +55,24 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>42.019532423753006</lat>
-			<lon>-87.68432206373949</lon>
+			<lat>42.01951599121094</lat>
+			<lon>-87.68398485027376</lon>
 			<pid>4372</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P912</run>
+			<run>P901</run>
 			<fs>Old Orchard</fs>
-			<op>64561</op>
-			<dip>3445</dip>
-			<bid>2494</bid>				
+			<op>34077</op>
+			<dip>3366</dip>
+			<bid>2514</bid>				
 			<wid1>0P</wid1>
-			<wid2>912</wid2>            	
+			<wid2>901</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1877</id>    
+			<id>1723</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -81,56 +81,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>97</rtdd>  
 			
-			<d>South Bound</d>
+			<d>South West Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>S</dn> 
-			<lat>42.04294463823427</lat>
-			<lon>-87.7471343706239</lon>
+			<dn>SSW</dn> 
+			<lat>42.02850341796875</lat>
+			<lon>-87.7540512084961</lon>
 			<pid>4369</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P915</run>
+			<run>P910</run>
 			<fs>Howard Station</fs>
-			<op>38925</op>
-			<dip>8617</dip>
-			<bid>2505</bid>				
+			<op>61694</op>
+			<dip>17268</dip>
+			<bid>2500</bid>				
 			<wid1>0P</wid1>
-			<wid2>915</wid2>            	
+			<wid2>910</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1733</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>97</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>97</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>42.02619171142578</lat>
-			<lon>-87.73779678344727</lon>
-			<pid>4369</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P914</run>
-			<fs>Howard Station</fs>
-			<op>64419</op>
-			<dip>22716</dip>
-			<bid>2229</bid>				
-			<wid1>0P</wid1>
-			<wid2>914</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1929</id>    
+			<id>1834</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -142,24 +113,24 @@
 			<d>North East Bound</d>
 			<dd>Westbound</dd> 
 			<dn>NNE</dn> 
-			<lat>42.03976196289062</lat>
-			<lon>-87.75204895019532</lon>
+			<lat>42.03184826091184</lat>
+			<lon>-87.75210829912606</lon>
 			<pid>4372</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P911</run>
+			<run>P932</run>
 			<fs>Old Orchard</fs>
-			<op>43199</op>
-			<dip>32414</dip>
-			<bid>2514</bid>				
+			<op>38687</op>
+			<dip>27359</dip>
+			<bid>2504</bid>				
 			<wid1>0P</wid1>
-			<wid2>911</wid2>            	
+			<wid2>932</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1789</id>    
+			<id>1713</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -168,21 +139,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>97</rtdd>  
 			
-			<d>East Bound</d>
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>NNE</dn> 
+			<lat>42.05916666666667</lat>
+			<lon>-87.750465</lon>
+			<pid>4372</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P909</run>
+			<fs>Old Orchard</fs>
+			<op>48733</op>
+			<dip>41824</dip>
+			<bid>2229</bid>				
+			<wid1>0P</wid1>
+			<wid2>909</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1882</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>97</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>97</rtdd>  
+			
+			<d>South Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>42.01945114135742</lat>
-			<lon>-87.68112929986448</lon>
+			<dn>SSE</dn> 
+			<lat>42.017122605267694</lat>
+			<lon>-87.67541638542625</lon>
 			<pid>4369</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P942</run>
+			<run>P903</run>
 			<fs>Howard Station</fs>
-			<op>65820</op>
-			<dip>40779</dip>
-			<bid>2473</bid>				
+			<op>30877</op>
+			<dip>42965</dip>
+			<bid>2507</bid>				
 			<wid1>0P</wid1>
-			<wid2>942</wid2>            	
+			<wid2>903</wid2>            	
 		</bus>
 
 

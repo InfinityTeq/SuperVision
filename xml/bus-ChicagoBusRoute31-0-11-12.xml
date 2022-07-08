@@ -39,40 +39,11 @@
 
 	<buses rt="31" rtRtpiFeedName="" rtdd="31"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1272</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>31</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>31</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>WSW</dn> 
-			<lat>41.839168548583984</lat>
-			<lon>-87.66534423828125</lon>
-			<pid>8128</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7763</run>
-			<fs>33rd Place/King Drive</fs>
-			<op>40559</op>
-			<dip>21</dip>
-			<bid>1946</bid>				
-			<wid1>07</wid1>
-			<wid2>763</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1302</id>    
+			<id>1281</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -89,13 +60,42 @@
 			<pid>8125</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7762</run>
+			<run>7755</run>
 			<fs>Ashland Orange Line</fs>
-			<op>40855</op>
+			<op>36365</op>
 			<dip>40</dip>
 			<bid>1947</bid>				
 			<wid1>07</wid1>
-			<wid2>762</wid2>            	
+			<wid2>755</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1284</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>31</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>31</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>NNE</dn> 
+			<lat>41.831853473887726</lat>
+			<lon>-87.6298288457534</lon>
+			<pid>8125</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7756</run>
+			<fs>Ashland Orange Line</fs>
+			<op>29893</op>
+			<dip>8660</dip>
+			<bid>1946</bid>				
+			<wid1>07</wid1>
+			<wid2>756</wid2>            	
 		</bus>
 
 

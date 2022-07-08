@@ -39,11 +39,11 @@
 
 	<buses rt="74" rtRtpiFeedName="" rtdd="74"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1936</id>    
+			<id>1997</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,137 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>74</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.9252926166241</lat>
-			<lon>-87.66063431959886</lon>
-			<pid>8419</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.92359516232513</lat>
+			<lon>-87.78554889767669</lon>
+			<pid>8422</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5252</run>
-			<fs>Narragansett</fs>
-			<op>52734</op>
-			<dip>3067</dip>
+			<run>5801</run>
+			<fs>Halsted</fs>
+			<op>55729</op>
+			<dip>4514</dip>
 			<bid>1499</bid>				
 			<wid1>05</wid1>
-			<wid2>252</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1943</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>74</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>74</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.92361831665039</lat>
-			<lon>-87.79054343700409</lon>
-			<pid>8422</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5819</run>
-			<fs>Halsted</fs>
-			<op>53284</op>
-			<dip>3175</dip>
-			<bid>1612</bid>				
-			<wid1>05</wid1>
-			<wid2>819</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1901</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>74</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>74</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.92519760131836</lat>
-			<lon>-87.66795043945312</lon>
-			<pid>8420</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5821</run>
-			<fs>Grand/Nordica</fs>
-			<op>37231</op>
-			<dip>5010</dip>
-			<bid>1493</bid>				
-			<wid1>05</wid1>
-			<wid2>821</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1980</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>74</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>74</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.92496109008789</lat>
-			<lon>-87.68247477213542</lon>
-			<pid>8419</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5815</run>
-			<fs>Narragansett</fs>
-			<op>56581</op>
-			<dip>9056</dip>
-			<bid>1452</bid>				
-			<wid1>05</wid1>
-			<wid2>815</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8197</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>74</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>74</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.92408752441406</lat>
-			<lon>-87.75384521484375</lon>
-			<pid>8422</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5825</run>
-			<fs>Halsted</fs>
-			<op>43267</op>
-			<dip>13072</dip>
-			<bid>1489</bid>				
-			<wid1>05</wid1>
-			<wid2>825</wid2>            	
+			<wid2>801</wid2>            	
 		</bus>
 
 
@@ -197,27 +81,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>74</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.92456817626953</lat>
-			<lon>-87.72651062011718</lon>
-			<pid>8419</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.92416917710077</lat>
+			<lon>-87.74631118774414</lon>
+			<pid>8422</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5814</run>
-			<fs>Narragansett</fs>
-			<op>44013</op>
-			<dip>21295</dip>
-			<bid>1494</bid>				
+			<run>5808</run>
+			<fs>Halsted</fs>
+			<op>37231</op>
+			<dip>15156</dip>
+			<bid>1493</bid>				
 			<wid1>05</wid1>
-			<wid2>814</wid2>            	
+			<wid2>808</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1972</id>    
+			<id>8172</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -226,27 +110,85 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>74</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.92450160071964</lat>
-			<lon>-87.72186315627326</lon>
-			<pid>8422</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.92467006738635</lat>
+			<lon>-87.71944073663242</lon>
+			<pid>8420</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5818</run>
-			<fs>Halsted</fs>
-			<op>58017</op>
-			<dip>21795</dip>
-			<bid>1451</bid>				
+			<run>5806</run>
+			<fs>Grand/Nordica</fs>
+			<op>31805</op>
+			<dip>19352</dip>
+			<bid>1404</bid>				
 			<wid1>05</wid1>
-			<wid2>818</wid2>            	
+			<wid2>806</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>8117</id>    
+			<id>1985</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>74</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>74</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.9244499206543</lat>
+			<lon>-87.73294302133414</lon>
+			<pid>8420</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5807</run>
+			<fs>Grand/Nordica</fs>
+			<op>43230</op>
+			<dip>23038</dip>
+			<bid>1406</bid>				
+			<wid1>05</wid1>
+			<wid2>807</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8139</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>74</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>74</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.9244499206543</lat>
+			<lon>-87.7364730834961</lon>
+			<pid>8420</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5816</run>
+			<fs>Grand/Nordica</fs>
+			<op>50687</op>
+			<dip>23998</dip>
+			<bid>1488</bid>				
+			<wid1>05</wid1>
+			<wid2>816</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1901</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -259,81 +201,23 @@
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
 			<lat>41.92472839355469</lat>
-			<lon>-87.69827651977539</lon>
+			<lon>-87.70077578226726</lon>
 			<pid>8422</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5833</run>
+			<run>5803</run>
 			<fs>Halsted</fs>
-			<op>45057</op>
-			<dip>28226</dip>
-			<bid>1488</bid>				
+			<op>36339</op>
+			<dip>27524</dip>
+			<bid>1496</bid>				
 			<wid1>05</wid1>
-			<wid2>833</wid2>            	
+			<wid2>803</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1999</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>74</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>74</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.924251556396484</lat>
-			<lon>-87.75607299804688</lon>
-			<pid>8420</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5820</run>
-			<fs>Grand/Nordica</fs>
-			<op>44943</op>
-			<dip>29363</dip>
-			<bid>1500</bid>				
-			<wid1>05</wid1>
-			<wid2>820</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1954</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>74</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>74</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.92408466339111</lat>
-			<lon>-87.76361901419503</lon>
-			<pid>8419</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5812</run>
-			<fs>Narragansett</fs>
-			<op>43441</op>
-			<dip>31430</dip>
-			<bid>1360</bid>				
-			<wid1>05</wid1>
-			<wid2>812</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8125</id>    
+			<id>8191</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -345,24 +229,24 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.924976235005396</lat>
-			<lon>-87.67896999529938</lon>
+			<lat>41.9248161315918</lat>
+			<lon>-87.68782043457031</lon>
 			<pid>8422</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5817</run>
+			<run>5841</run>
 			<fs>Halsted</fs>
-			<op>55960</op>
-			<dip>33500</dip>
-			<bid>1406</bid>				
+			<op>33877</op>
+			<dip>31022</dip>
+			<bid>1494</bid>				
 			<wid1>05</wid1>
-			<wid2>817</wid2>            	
+			<wid2>841</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1966</id>    
+			<id>1916</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -374,24 +258,24 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.92513656616211</lat>
-			<lon>-87.66602285284745</lon>
+			<lat>41.92542257541564</lat>
+			<lon>-87.65101995700743</lon>
 			<pid>8422</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5823</run>
+			<run>5805</run>
 			<fs>Halsted</fs>
-			<op>65272</op>
-			<dip>36988</dip>
-			<bid>1487</bid>				
+			<op>64780</op>
+			<dip>41059</dip>
+			<bid>1405</bid>				
 			<wid1>05</wid1>
-			<wid2>823</wid2>            	
+			<wid2>805</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1914</id>    
+			<id>1961</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -401,20 +285,20 @@
 			<rtdd>74</rtdd>  
 			
 			<d>East Bound</d>
-			<dd>Westbound</dd> 
+			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.92409016535832</lat>
-			<lon>-87.80195676363431</lon>
-			<pid>8420</pid>
-			<pd>Westbound</pd> 
+			<lat>41.92534587257787</lat>
+			<lon>-87.6487509074964</lon>
+			<pid>8422</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5829</run>
-			<fs>Grand/Nordica</fs>
-			<op>64152</op>
-			<dip>42193</dip>
+			<run>5809</run>
+			<fs>Halsted</fs>
+			<op>63860</op>
+			<dip>41750</dip>
 			<bid>1403</bid>				
 			<wid1>05</wid1>
-			<wid2>829</wid2>            	
+			<wid2>809</wid2>            	
 		</bus>
 
 

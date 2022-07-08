@@ -39,127 +39,11 @@
 
 	<buses rt="30" rtRtpiFeedName="" rtdd="30"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1060</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>30</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>30</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.713421957833425</lat>
-			<lon>-87.53535461425781</lon>
-			<pid>8226</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1440</run>
-			<fs>Hegewisch</fs>
-			<op>58798</op>
-			<dip>37255</dip>
-			<bid>1314</bid>				
-			<wid1>01</wid1>
-			<wid2>440</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1142</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>30</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>30</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.6573486328125</lat>
-			<lon>-87.53992004394532</lon>
-			<pid>8227</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1549</run>
-			<fs>Hegewisch</fs>
-			<op>55677</op>
-			<dip>61622</dip>
-			<bid>1267</bid>				
-			<wid1>01</wid1>
-			<wid2>549</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1189</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>30</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>30</rtdd>  
-			
-			<d>North West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NW</dn> 
-			<lat>41.76516342163086</lat>
-			<lon>-87.60452890396118</lon>
-			<pid>8228</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1551</run>
-			<fs>69th Red Line</fs>
-			<op>40416</op>
-			<dip>62179</dip>
-			<bid>1302</bid>				
-			<wid1>01</wid1>
-			<wid2>551</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1082</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>30</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>30</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Southbound</dd> 
-			<dn>N</dn> 
-			<lat>41.65856355236423</lat>
-			<lon>-87.55193513439548</lon>
-			<pid>8227</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1554</run>
-			<fs>Hegewisch</fs>
-			<op>64816</op>
-			<dip>73846</dip>
-			<bid>1312</bid>				
-			<wid1>01</wid1>
-			<wid2>554</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1081</id>    
+			<id>1053</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -171,18 +55,163 @@
 			<d>South East Bound</d>
 			<dd>Southbound</dd> 
 			<dn>SE</dn> 
-			<lat>41.64604888643537</lat>
-			<lon>-87.54287311008999</lon>
+			<lat>41.74441058295114</lat>
+			<lon>-87.57588768005371</lon>
 			<pid>8227</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1553</run>
+			<run>1543</run>
 			<fs>Hegewisch</fs>
-			<op>64772</op>
-			<dip>80565</dip>
+			<op>64816</op>
+			<dip>18376</dip>
 			<bid>1304</bid>				
 			<wid1>01</wid1>
-			<wid2>553</wid2>            	
+			<wid2>543</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1120</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>30</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>30</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.69360412376514</lat>
+			<lon>-87.5352783203125</lon>
+			<pid>8228</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1545</run>
+			<fs>69th Red Line</fs>
+			<op>29371</op>
+			<dip>23280</dip>
+			<bid>1314</bid>				
+			<wid1>01</wid1>
+			<wid2>545</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1145</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>30</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>30</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NW</dn> 
+			<lat>41.7371411679396</lat>
+			<lon>-87.56556007043639</lon>
+			<pid>8228</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1547</run>
+			<fs>69th Red Line</fs>
+			<op>49141</op>
+			<dip>46734</dip>
+			<bid>1267</bid>				
+			<wid1>01</wid1>
+			<wid2>547</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1148</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>30</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>30</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>W</dn> 
+			<lat>41.76877975463867</lat>
+			<lon>-87.62574768066406</lon>
+			<pid>8228</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1544</run>
+			<fs>69th Red Line</fs>
+			<op>29878</op>
+			<dip>69519</dip>
+			<bid>1312</bid>				
+			<wid1>01</wid1>
+			<wid2>544</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1083</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>30</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>30</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>41.65550921256082</lat>
+			<lon>-87.54952199835526</lon>
+			<pid>8227</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1542</run>
+			<fs>Hegewisch</fs>
+			<op>31414</op>
+			<dip>72067</dip>
+			<bid>1115</bid>				
+			<wid1>01</wid1>
+			<wid2>542</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1199</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>30</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>30</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Southbound</dd> 
+			<dn>N</dn> 
+			<lat>41.657462486853966</lat>
+			<lon>-87.55197436992938</lon>
+			<pid>8227</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1541</run>
+			<fs>Hegewisch</fs>
+			<op>36755</op>
+			<dip>73438</dip>
+			<bid>1303</bid>				
+			<wid1>01</wid1>
+			<wid2>541</wid2>            	
 		</bus>
 
 

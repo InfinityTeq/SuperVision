@@ -39,11 +39,11 @@
 
 	<buses rt="20" rtRtpiFeedName="" rtdd="20"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1989</id>    
+			<id>8159</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,53 +55,24 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.88202867507935</lat>
-			<lon>-87.62858600616455</lon>
-			<pid>4096</pid>
+			<lat>41.88196244110932</lat>
+			<lon>-87.63294797330289</lon>
+			<pid>954</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5015</run>
+			<run>5004</run>
 			<fs>Austin</fs>
-			<op>54346</op>
-			<dip>3047</dip>
-			<bid>1542</bid>				
+			<op>43332</op>
+			<dip>2261</dip>
+			<bid>1582</bid>				
 			<wid1>05</wid1>
-			<wid2>015</wid2>            	
+			<wid2>004</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1982</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.88195037841797</lat>
-			<lon>-87.6331664191352</lon>
-			<pid>4096</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5014</run>
-			<fs>Austin</fs>
-			<op>58136</op>
-			<dip>4333</dip>
-			<bid>1428</bid>				
-			<wid1>05</wid1>
-			<wid2>014</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8163</id>    
+			<id>8131</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -113,24 +84,24 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.88040542602539</lat>
-			<lon>-87.74891207295079</lon>
+			<lat>41.88018396165636</lat>
+			<lon>-87.76526599460178</lon>
 			<pid>956</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>MAN</run>
 			<fs>Pulaski</fs>
-			<op>63453</op>
-			<dip>7056</dip>
+			<op>51895</op>
+			<dip>2534</dip>
 			<bid>MAN</bid>				
 			<wid1>05</wid1>
-			<wid2>009</wid2>            	
+			<wid2>008</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1976</id>    
+			<id>1952</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -142,134 +113,192 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.88185119628906</lat>
-			<lon>-87.65159402574811</lon>
-			<pid>4096</pid>
+			<lat>41.88144302368164</lat>
+			<lon>-87.66925430297852</lon>
+			<pid>954</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5003</run>
+			<fs>Austin</fs>
+			<op>40399</op>
+			<dip>12248</dip>
+			<bid>1368</bid>				
+			<wid1>05</wid1>
+			<wid2>003</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8170</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>20</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>20</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.88077659606934</lat>
+			<lon>-87.72107162475587</lon>
+			<pid>957</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5002</run>
+			<fs>Michigan</fs>
+			<op>40981</op>
+			<dip>14836</dip>
+			<bid>1370</bid>				
+			<wid1>05</wid1>
+			<wid2>002</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1964</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>20</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>20</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.880802154541016</lat>
+			<lon>-87.72005775996617</lon>
+			<pid>957</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5001</run>
+			<fs>Michigan</fs>
+			<op>40369</op>
+			<dip>15118</dip>
+			<bid>1367</bid>				
+			<wid1>05</wid1>
+			<wid2>001</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8150</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>20</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>20</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.88101969824897</lat>
+			<lon>-87.70033677419026</lon>
+			<pid>954</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5005</run>
+			<fs>Austin</fs>
+			<op>45065</op>
+			<dip>20768</dip>
+			<bid>1365</bid>				
+			<wid1>05</wid1>
+			<wid2>005</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8183</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>20</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>20</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.881431579589844</lat>
+			<lon>-87.6681418785682</lon>
+			<pid>957</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5006</run>
+			<fs>Michigan</fs>
+			<op>31261</op>
+			<dip>29687</dip>
+			<bid>1579</bid>				
+			<wid1>05</wid1>
+			<wid2>006</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1955</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>20</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>20</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.8806997763144</lat>
+			<lon>-87.73361041094806</lon>
+			<pid>954</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5022</run>
+			<fs>Austin</fs>
+			<op>57759</op>
+			<dip>29902</dip>
+			<bid>1583</bid>				
+			<wid1>05</wid1>
+			<wid2>022</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>2021</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>20</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>20</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.88039171897759</lat>
+			<lon>-87.75806465795485</lon>
+			<pid>954</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5023</run>
 			<fs>Austin</fs>
-			<op>52538</op>
-			<dip>9398</dip>
-			<bid>1549</bid>				
+			<op>58140</op>
+			<dip>36581</dip>
+			<bid>1625</bid>				
 			<wid1>05</wid1>
 			<wid2>023</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4073</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.88117980957031</lat>
-			<lon>-87.68686199188232</lon>
-			<pid>2062</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>MAN</run>
-			<fs>Illinois Center</fs>
-			<op>65834</op>
-			<dip>10735</dip>
-			<bid>MAN</bid>				
-			<wid1>05</wid1>
-			<wid2>463</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>2029</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.883085</lat>
-			<lon>-87.72571833333333</lon>
-			<pid>956</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5009</run>
-			<fs>Pulaski</fs>
-			<op>52534</op>
-			<dip>13498</dip>
-			<bid>1414</bid>				
-			<wid1>05</wid1>
-			<wid2>009</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1917</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.881385803222656</lat>
-			<lon>-87.67591227017917</lon>
-			<pid>4096</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5710</run>
-			<fs>Austin</fs>
-			<op>54988</op>
-			<dip>16056</dip>
-			<bid>1631</bid>				
-			<wid1>05</wid1>
-			<wid2>710</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1944</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.88143263596755</lat>
-			<lon>-87.66805372971754</lon>
-			<pid>2063</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5020</run>
-			<fs>Illinois Center</fs>
-			<op>53153</op>
-			<dip>29716</dip>
-			<bid>1368</bid>				
-			<wid1>05</wid1>
-			<wid2>020</wid2>            	
 		</bus>
 
 
@@ -284,201 +313,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>20</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.88077926635742</lat>
-			<lon>-87.72709083557129</lon>
-			<pid>4096</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5774</run>
-			<fs>Austin</fs>
-			<op>44452</op>
-			<dip>30115</dip>
-			<bid>1537</bid>				
-			<wid1>05</wid1>
-			<wid2>774</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8158</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.881720709422275</lat>
-			<lon>-87.65161011711</lon>
-			<pid>2063</pid>
+			<lat>41.883174896240234</lat>
+			<lon>-87.63091278076172</lon>
+			<pid>957</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5030</run>
-			<fs>Illinois Center</fs>
-			<op>63571</op>
-			<dip>34378</dip>
-			<bid>1365</bid>				
-			<wid1>05</wid1>
-			<wid2>030</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4098</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.881731618245446</lat>
-			<lon>-87.65145568847656</lon>
-			<pid>2063</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>MAN</run>
-			<fs>Illinois Center</fs>
-			<op>66347</op>
-			<dip>34429</dip>
-			<bid>MAN</bid>				
-			<wid1>05</wid1>
-			<wid2>020</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8122</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.88176727294922</lat>
-			<lon>-87.64990234375</lon>
-			<pid>2063</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5018</run>
-			<fs>Illinois Center</fs>
-			<op>58612</op>
-			<dip>34792</dip>
-			<bid>1583</bid>				
-			<wid1>05</wid1>
-			<wid2>018</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8136</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.88042737435603</lat>
-			<lon>-87.75565061707428</lon>
-			<pid>4096</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5027</run>
-			<fs>Austin</fs>
-			<op>63446</op>
-			<dip>37922</dip>
-			<bid>1370</bid>				
-			<wid1>05</wid1>
-			<wid2>027</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8127</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.88026428222656</lat>
-			<lon>-87.76907857259114</lon>
-			<pid>4096</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5011</run>
-			<fs>Austin</fs>
-			<op>36703</op>
-			<dip>41611</dip>
-			<bid>1579</bid>				
-			<wid1>05</wid1>
-			<wid2>011</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1920</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Westbound</dd> 
-			<dn>E</dn> 
-			<lat>41.8805769623303</lat>
-			<lon>-87.77406973916976</lon>
-			<pid>4096</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5022</run>
-			<fs>Austin</fs>
-			<op>57759</op>
-			<dip>43319</dip>
+			<run>5007</run>
+			<fs>Michigan</fs>
+			<op>42900</op>
+			<dip>40489</dip>
 			<bid>1546</bid>				
 			<wid1>05</wid1>
-			<wid2>022</wid2>            	
+			<wid2>007</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1903</id>    
+			<id>2018</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -487,50 +342,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>20</rtdd>  
 			
-			<d>North Bound</d>
+			<d>West Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.8861206817627</lat>
-			<lon>-87.62439010620118</lon>
-			<pid>2063</pid>
+			<dn>W</dn> 
+			<lat>41.882155418395996</lat>
+			<lon>-87.62458419799805</lon>
+			<pid>957</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5758</run>
-			<fs>Illinois Center</fs>
-			<op>57778</op>
-			<dip>43348</dip>
-			<bid>1462</bid>				
+			<run>5020</run>
+			<fs>Michigan</fs>
+			<op>53153</op>
+			<dip>42601</dip>
+			<bid>1577</bid>				
 			<wid1>05</wid1>
-			<wid2>758</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4084</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.8882852130466</lat>
-			<lon>-87.62341605292426</lon>
-			<pid>2063</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5019</run>
-			<fs>Illinois Center</fs>
-			<op>66200</op>
-			<dip>44388</dip>
-			<bid>1625</bid>				
-			<wid1>05</wid1>
-			<wid2>019</wid2>            	
+			<wid2>020</wid2>            	
 		</bus>
 
 

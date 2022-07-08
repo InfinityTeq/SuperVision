@@ -39,11 +39,11 @@
 
 	<buses rt="84" rtRtpiFeedName="" rtdd="84"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1392</id>    
+			<id>8310</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,24 +55,24 @@
 			<d>North West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>NW</dn> 
-			<lat>41.988354347847604</lat>
-			<lon>-87.66766460521801</lon>
+			<lat>41.984127114035864</lat>
+			<lon>-87.66075203635476</lon>
 			<pid>1682</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F944</run>
+			<run>F943</run>
 			<fs>Caldwell/Central</fs>
-			<op>57709</op>
-			<dip>3245</dip>
-			<bid>2970</bid>				
+			<op>33566</op>
+			<dip>802</dip>
+			<bid>3181</bid>				
 			<wid1>0F</wid1>
-			<wid2>944</wid2>            	
+			<wid2>943</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>8257</id>    
+			<id>8248</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -81,19 +81,19 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>84</rtdd>  
 			
-			<d>East Bound</d>
+			<d>South East Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.99026107788086</lat>
-			<lon>-87.72103694035457</lon>
+			<dn>ESE</dn> 
+			<lat>41.99151151320513</lat>
+			<lon>-87.75420043047737</lon>
 			<pid>1681</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F948</run>
 			<fs>Bryn Mawr Red Line</fs>
 			<op>40810</op>
-			<dip>12540</dip>
-			<bid>3183</bid>				
+			<dip>3392</dip>
+			<bid>3189</bid>				
 			<wid1>0F</wid1>
 			<wid2>948</wid2>            	
 		</bus>
@@ -101,36 +101,7 @@
 
 
 		<bus>
-			<id>1042</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>84</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>84</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.99044418334961</lat>
-			<lon>-87.7138671875</lon>
-			<pid>1682</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F951</run>
-			<fs>Caldwell/Central</fs>
-			<op>N/A</op>
-			<dip>16250</dip>
-			<bid>3191</bid>				
-			<wid1>0F</wid1>
-			<wid2>951</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1015</id>    
+			<id>1018</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -142,76 +113,18 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.99068281385634</lat>
-			<lon>-87.6757320827908</lon>
+			<lat>41.99064254760742</lat>
+			<lon>-87.67777236938477</lon>
 			<pid>1681</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F947</run>
+			<run>F942</run>
 			<fs>Bryn Mawr Red Line</fs>
-			<op>57717</op>
-			<dip>24899</dip>
-			<bid>3182</bid>				
+			<op>37221</op>
+			<dip>24338</dip>
+			<bid>3172</bid>				
 			<wid1>0F</wid1>
-			<wid2>947</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>6843</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>84</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>84</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Westbound</dd> 
-			<dn>SSW</dn> 
-			<lat>41.99604034423828</lat>
-			<lon>-87.76411437988281</lon>
-			<pid>1682</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F505</run>
-			<fs>Caldwell/Central</fs>
-			<op>N/A</op>
-			<dip>30579</dip>
-			<bid>2975</bid>				
-			<wid1>0F</wid1>
-			<wid2>505</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8284</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>84</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>84</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>WSW</dn> 
-			<lat>41.983821868896484</lat>
-			<lon>-87.6555404663086</lon>
-			<pid>1681</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F949</run>
-			<fs>Bryn Mawr Red Line</fs>
-			<op>61445</op>
-			<dip>32723</dip>
-			<bid>3169</bid>				
-			<wid1>0F</wid1>
-			<wid2>949</wid2>            	
+			<wid2>942</wid2>            	
 		</bus>
 
 

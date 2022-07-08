@@ -39,11 +39,11 @@
 
 	<buses rt="112" rtRtpiFeedName="" rtdd="112"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1090</id>    
+			<id>1074</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,27 +52,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>112</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Westbound</dd> 
-			<dn>SSW</dn> 
-			<lat>41.71440029144287</lat>
-			<lon>-87.65326690673828</lon>
-			<pid>749</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.691298836155944</lat>
+			<lon>-87.71886203163548</lon>
+			<pid>752</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1058</run>
-			<fs>111th/Pulaski</fs>
-			<op>29730</op>
-			<dip>10282</dip>
-			<bid>1218</bid>				
+			<run>1056</run>
+			<fs>95th Red Line</fs>
+			<op>27801</op>
+			<dip>281</dip>
+			<bid>1224</bid>				
 			<wid1>01</wid1>
-			<wid2>058</wid2>            	
+			<wid2>056</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1180</id>    
+			<id>1201</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,24 +84,24 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.6917839050293</lat>
-			<lon>-87.68775246360086</lon>
+			<lat>41.72179412841797</lat>
+			<lon>-87.62464904785156</lon>
 			<pid>749</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1061</run>
+			<run>1055</run>
 			<fs>111th/Pulaski</fs>
-			<op>37364</op>
-			<dip>26122</dip>
-			<bid>1222</bid>				
+			<op>30094</op>
+			<dip>496</dip>
+			<bid>1220</bid>				
 			<wid1>01</wid1>
-			<wid2>061</wid2>            	
+			<wid2>055</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1055</id>    
+			<id>1087</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -110,21 +110,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>112</rtdd>  
 			
-			<d>North Bound</d>
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.69197170551006</lat>
+			<lon>-87.67145655705379</lon>
+			<pid>752</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1053</run>
+			<fs>95th Red Line</fs>
+			<op>30827</op>
+			<dip>13406</dip>
+			<bid>1218</bid>				
+			<wid1>01</wid1>
+			<wid2>053</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1085</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>112</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>112</rtdd>  
+			
+			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>NNE</dn> 
-			<lat>41.69114303588867</lat>
-			<lon>-87.71955871582031</lon>
+			<dn>W</dn> 
+			<lat>41.69184875488281</lat>
+			<lon>-87.68362722089213</lon>
 			<pid>749</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1069</run>
+			<run>1054</run>
 			<fs>111th/Pulaski</fs>
-			<op>26718</op>
-			<dip>35236</dip>
-			<bid>1220</bid>				
+			<op>26040</op>
+			<dip>24992</dip>
+			<bid>1221</bid>				
 			<wid1>01</wid1>
-			<wid2>069</wid2>            	
+			<wid2>054</wid2>            	
 		</bus>
 
 

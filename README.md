@@ -3,6 +3,7 @@
 <!-- variables -->
 [ccs]: https://cosmodiumcs.com
 [youtube]: https://www.youtube.com/c/CosmodiumCS
+[supervision]: https://supervision-ccs.herokuapp.com/
 
 # SuperVision
 > Blue Cosmo | 07/02/22
@@ -20,7 +21,10 @@
 ```
 
 ## Overview:
-SuperVision is an open source *"Google Maps"* for hackers developed by [CosmodiumCS][ccs]. SuperVision's map centralizes public data and maps it. Allowing you to see traffic cameras, transportation, and other data systems **in live time**. It is developed with a type of hacking called "Public Data Hacking" [PDH]. This is basically the process in which you exploit data thats publically available. Whats cool about PDH is that its completely legal, because the data we exploit is already publically available. So by the magical powers of Python, JavaScript, and several markup languages, we generate a powerful map that is ready to use whenever you need! 
+[SuperVision][supervision] is an open source *"Google Maps"* for hackers developed by [CosmodiumCS][ccs]. SuperVision's map centralizes public data and maps it. Allowing you to see traffic cameras, transportation, and other data systems **in live time**. It is developed with a type of hacking called "Public Data Hacking" [PDH]. This is basically the process in which you exploit data thats publically available. Whats cool about PDH is that its completely legal, because the data we exploit is already publically available. So by the magical powers of Python, JavaScript, and several markup languages, we generate a powerful map that is ready to use whenever you need! 
+
+<!-- map visualization -->
+![SuperVision Map](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/map-plots.png?raw=true)
 
 **How It Works:**
 
@@ -32,7 +36,7 @@ SuperVision works by using Python to generate Keyhole Makrup Language [KML] file
 SuperVision open source magic allows us to do so much more than what propriatary software limited us to. SuperVision has not only mapped thing like cameras, but it can track live data like the locations of public transportation. We can fully customize the tracking of public data to the fullest extent possible [with a lot of debugging of course XP]. SuperVision serves to aid security research and become a reminder of the level of government surveillance that exists today. SuperVision got all its shit from a lot of googling, I can to do this in my spare time, i can only imagine the level of automated surveillance the government is capable of.
 
 ## Resources:
-- [SuperVision]()
+- [SuperVision][supervision]
 - [YouTube Video]()
 - [YouTube Channel][youtube]
 - [Website][ccs]
@@ -47,4 +51,4 @@ SuperVision open source magic allows us to do so much more than what propriatary
 - SuperVision **does not** collect any user data...read the code 
 
 ## Credits
-The original concept comes from an old friend of mine, Shepherd. We worked After a split between us 
+The original concept comes from an old friend of mine, Shepherd. He had the idea to map specific camera locations to kml files and map them on Google Earth. I joined the project and discovered methods of automatically mapping data instead of doing such a thing manually. But after a falling out I took the project to the next step by creating a dynamic mapping environment outside of Google Earth. This has allowed me to map not only all the cameras simultaneously, but also to map live data in real time.

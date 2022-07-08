@@ -39,11 +39,11 @@
 
 	<buses rt="96" rtRtpiFeedName="" rtdd="96"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1730</id>    
+			<id>1749</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,27 +52,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>96</rtdd>  
 			
-			<d>West Bound</d>
+			<d>North Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>42.00893216814313</lat>
-			<lon>-87.68395669119698</lon>
+			<dn>N</dn> 
+			<lat>42.01193943730107</lat>
+			<lon>-87.69976184986255</lon>
 			<pid>2104</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P053</run>
+			<run>P044</run>
 			<fs>Devon/Kedzie</fs>
-			<op>60391</op>
-			<dip>7596</dip>
-			<bid>2331</bid>				
+			<op>54343</op>
+			<dip>13146</dip>
+			<bid>2323</bid>				
 			<wid1>0P</wid1>
-			<wid2>053</wid2>            	
+			<wid2>044</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1835</id>    
+			<id>1819</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,47 +84,18 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>42.00874710083008</lat>
-			<lon>-87.67579569135394</lon>
+			<lat>42.00853201059195</lat>
+			<lon>-87.69249417231633</lon>
 			<pid>2107</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P051</run>
+			<run>P047</run>
 			<fs>Morse Red Line</fs>
-			<op>57175</op>
-			<dip>19730</dip>
-			<bid>2323</bid>				
-			<wid1>0P</wid1>
-			<wid2>051</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1932</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>96</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>96</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Westbound</dd> 
-			<dn>E</dn> 
-			<lat>41.99736785888672</lat>
-			<lon>-87.71067695617675</lon>
-			<pid>2104</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P056</run>
-			<fs>Devon/Kedzie</fs>
-			<op>59695</op>
-			<dip>24519</dip>
+			<op>36512</op>
+			<dip>15178</dip>
 			<bid>2327</bid>				
 			<wid1>0P</wid1>
-			<wid2>056</wid2>            	
+			<wid2>047</wid2>            	
 		</bus>
 
 

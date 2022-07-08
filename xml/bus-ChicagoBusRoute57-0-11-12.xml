@@ -39,11 +39,40 @@
 
 	<buses rt="57" rtRtpiFeedName="" rtdd="57"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1913</id>    
+			<id>1899</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>57</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>57</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SSW</dn> 
+			<lat>41.91737747192383</lat>
+			<lon>-87.75761413574219</lon>
+			<pid>1326</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5181</run>
+			<fs>Forest Park Blue Line Station</fs>
+			<op>50493</op>
+			<dip>26</dip>
+			<bid>1512</bid>				
+			<wid1>05</wid1>
+			<wid2>181</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1972</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,24 +84,24 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.87697625160217</lat>
-			<lon>-87.75493311882019</lon>
+			<lat>41.892730975973194</lat>
+			<lon>-87.75556182861328</lon>
 			<pid>1328</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5181</run>
+			<run>5161</run>
 			<fs>Grand/Latrobe</fs>
-			<op>39568</op>
-			<dip>4023</dip>
-			<bid>1508</bid>				
+			<op>36756</op>
+			<dip>9768</dip>
+			<bid>1511</bid>				
 			<wid1>05</wid1>
-			<wid2>181</wid2>            	
+			<wid2>161</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1960</id>    
+			<id>8181</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -89,42 +118,13 @@
 			<pid>1326</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5191</run>
+			<run>5166</run>
 			<fs>Forest Park Blue Line Station</fs>
-			<op>39775</op>
+			<op>39118</op>
 			<dip>13678</dip>
-			<bid>1512</bid>				
+			<bid>1508</bid>				
 			<wid1>05</wid1>
-			<wid2>191</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1988</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>57</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>57</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.90419714791434</lat>
-			<lon>-87.75582885742188</lon>
-			<pid>1328</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5165</run>
-			<fs>Grand/Latrobe</fs>
-			<op>44555</op>
-			<dip>13978</dip>
-			<bid>1511</bid>				
-			<wid1>05</wid1>
-			<wid2>165</wid2>            	
+			<wid2>166</wid2>            	
 		</bus>
 
 

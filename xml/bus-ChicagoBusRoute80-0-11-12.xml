@@ -39,11 +39,11 @@
 
 	<buses rt="80" rtRtpiFeedName="" rtdd="80"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1024</id>    
+			<id>8300</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,24 +55,24 @@
 			<d>South West Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>WSW</dn> 
-			<lat>41.95230484008789</lat>
-			<lon>-87.83781433105469</lon>
+			<lat>41.952391666666664</lat>
+			<lon>-87.83777</lon>
 			<pid>3084</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F862</run>
+			<run>F216</run>
 			<fs>Broadway</fs>
-			<op>61967</op>
-			<dip>55</dip>
-			<bid>2901</bid>				
+			<op>40747</op>
+			<dip>0</dip>
+			<bid>2948</bid>				
 			<wid1>0F</wid1>
-			<wid2>862</wid2>            	
+			<wid2>216</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>8256</id>    
+			<id>8275</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,47 +84,192 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.954376220703125</lat>
-			<lon>-87.66171573948216</lon>
-			<pid>10909</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F852</run>
-			<fs>Harlem</fs>
-			<op>55096</op>
-			<dip>2912</dip>
-			<bid>2943</bid>				
-			<wid1>0F</wid1>
-			<wid2>852</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8315</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>80</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>80</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.95420706612723</lat>
-			<lon>-87.6781221662249</lon>
+			<lat>41.95428825827206</lat>
+			<lon>-87.67380276848289</lon>
 			<pid>10811</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F857</run>
+			<run>F842</run>
 			<fs>Cumberland</fs>
-			<op>40381</op>
-			<dip>7632</dip>
+			<op>29815</op>
+			<dip>6428</dip>
+			<bid>2938</bid>				
+			<wid1>0F</wid1>
+			<wid2>842</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8245</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>80</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>80</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.952786107217115</lat>
+			<lon>-87.78888124035251</lon>
+			<pid>3084</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F705</run>
+			<fs>Broadway</fs>
+			<op>35291</op>
+			<dip>13440</dip>
+			<bid>2911</bid>				
+			<wid1>0F</wid1>
+			<wid2>705</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8307</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>80</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>80</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.953988051996</lat>
+			<lon>-87.7056741481874</lon>
+			<pid>10811</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F841</run>
+			<fs>Cumberland</fs>
+			<op>33783</op>
+			<dip>15663</dip>
+			<bid>3089</bid>				
+			<wid1>0F</wid1>
+			<wid2>841</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8273</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>80</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>80</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.95344924926758</lat>
+			<lon>-87.74458499830597</lon>
+			<pid>3084</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F847</run>
+			<fs>Broadway</fs>
+			<op>40868</op>
+			<dip>25575</dip>
+			<bid>2945</bid>				
+			<wid1>0F</wid1>
+			<wid2>847</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8293</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>80</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>80</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.95362854003906</lat>
+			<lon>-87.73029413530904</lon>
+			<pid>3084</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F871</run>
+			<fs>Broadway</fs>
+			<op>34447</op>
+			<dip>29503</dip>
+			<bid>2943</bid>				
+			<wid1>0F</wid1>
+			<wid2>871</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8343</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>80</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>80</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.95312212515569</lat>
+			<lon>-87.77607583308566</lon>
+			<pid>10811</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F846</run>
+			<fs>Cumberland</fs>
+			<op>39955</op>
+			<dip>35144</dip>
+			<bid>2883</bid>				
+			<wid1>0F</wid1>
+			<wid2>846</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1015</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>80</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>80</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.953963235708386</lat>
+			<lon>-87.69609163724459</lon>
+			<pid>3084</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F704</run>
+			<fs>Broadway</fs>
+			<op>31686</op>
+			<dip>38913</dip>
 			<bid>2944</bid>				
 			<wid1>0F</wid1>
-			<wid2>857</wid2>            	
+			<wid2>704</wid2>            	
 		</bus>
 
 
@@ -139,282 +284,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>80</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.95282091413225</lat>
-			<lon>-87.78677640642438</lon>
-			<pid>3084</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F873</run>
-			<fs>Broadway</fs>
-			<op>44815</op>
-			<dip>14023</dip>
-			<bid>2994</bid>				
-			<wid1>0F</wid1>
-			<wid2>873</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1556</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>80</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>80</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.95398758678901</lat>
-			<lon>-87.70569275646675</lon>
-			<pid>10811</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F865</run>
-			<fs>Cumberland</fs>
-			<op>52115</op>
-			<dip>15668</dip>
-			<bid>2942</bid>				
-			<wid1>0F</wid1>
-			<wid2>865</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8234</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>80</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>80</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.95338821411133</lat>
-			<lon>-87.74810955341046</lon>
-			<pid>3084</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F854</run>
-			<fs>Broadway</fs>
-			<op>43113</op>
-			<dip>24661</dip>
-			<bid>2956</bid>				
-			<wid1>0F</wid1>
-			<wid2>854</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8250</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>80</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>80</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.95336151123047</lat>
-			<lon>-87.75771067692683</lon>
-			<pid>10811</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F863</run>
-			<fs>Cumberland</fs>
-			<op>45366</op>
-			<dip>30073</dip>
-			<bid>2938</bid>				
-			<wid1>0F</wid1>
-			<wid2>863</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1018</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>80</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>80</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.9537467956543</lat>
-			<lon>-87.72056840595447</lon>
-			<pid>3084</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F860</run>
-			<fs>Broadway</fs>
-			<op>63648</op>
-			<dip>32188</dip>
-			<bid>2948</bid>				
-			<wid1>0F</wid1>
-			<wid2>860</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1558</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>80</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>80</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.95277404785156</lat>
-			<lon>-87.7961196899414</lon>
-			<pid>10811</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F855</run>
-			<fs>Cumberland</fs>
-			<op>37100</op>
-			<dip>40586</dip>
-			<bid>3089</bid>				
-			<wid1>0F</wid1>
-			<wid2>855</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8300</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>80</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>80</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.954076312837145</lat>
-			<lon>-87.68017868768601</lon>
-			<pid>3084</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F859</run>
-			<fs>Broadway</fs>
-			<op>53173</op>
-			<dip>43346</dip>
-			<bid>2911</bid>				
-			<wid1>0F</wid1>
-			<wid2>859</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1021</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>80</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>80</rtdd>  
-			
-			<d>North West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>NW</dn> 
-			<lat>41.952376666666666</lat>
-			<lon>-87.83771333333334</lon>
-			<pid>10811</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F858</run>
-			<fs>Cumberland</fs>
-			<op>54294</op>
-			<dip>52012</dip>
-			<bid>2882</bid>				
-			<wid1>0F</wid1>
-			<wid2>858</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8282</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>80</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>80</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.952889166937936</lat>
-			<lon>-87.64961632622612</lon>
-			<pid>3084</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F853</run>
-			<fs>Broadway</fs>
-			<op>49385</op>
-			<dip>54746</dip>
-			<bid>2945</bid>				
-			<wid1>0F</wid1>
-			<wid2>853</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1355</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>80</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>80</rtdd>  
-			
 			<d>West Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>W</dn> 
 			<lat>41.95460333333333</lat>
-			<lon>-87.65166666666667</lon>
+			<lon>-87.65164833333333</lon>
 			<pid>3084</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F861</run>
+			<run>F845</run>
 			<fs>Broadway</fs>
-			<op>64818</op>
+			<op>39040</op>
 			<dip>55632</dip>
-			<bid>3101</bid>				
+			<bid>2942</bid>				
 			<wid1>0F</wid1>
-			<wid2>861</wid2>            	
+			<wid2>845</wid2>            	
 		</bus>
 
 

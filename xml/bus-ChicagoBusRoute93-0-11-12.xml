@@ -39,11 +39,11 @@
 
 	<buses rt="93" rtRtpiFeedName="" rtdd="93"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1830</id>    
+			<id>1867</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,85 +52,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>93</rtdd>  
 			
-			<d>West Bound</d>
+			<d>North East Bound</d>
 			<dd>Southbound</dd> 
-			<dn>W</dn> 
-			<lat>42.04706153869629</lat>
-			<lon>-87.68607711791992</lon>
+			<dn>ENE</dn> 
+			<lat>42.04844181878226</lat>
+			<lon>-87.68661757877895</lon>
 			<pid>1802</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P010</run>
+			<run>P002</run>
 			<fs>Kimball Brown Line</fs>
-			<op>45142</op>
-			<dip>1042</dip>
-			<bid>2483</bid>				
-			<wid1>0P</wid1>
-			<wid2>010</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1723</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>93</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>93</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.98973083496094</lat>
-			<lon>-87.69937133789062</lon>
-			<pid>1800</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P011</run>
-			<fs>Davis Purple Line</fs>
-			<op>53280</op>
-			<dip>11472</dip>
-			<bid>2481</bid>				
-			<wid1>0P</wid1>
-			<wid2>011</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1720</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>93</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>93</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>42.03485270908901</lat>
-			<lon>-87.69931030273438</lon>
-			<pid>1802</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P032</run>
-			<fs>Kimball Brown Line</fs>
-			<op>43476</op>
-			<dip>13676</dip>
+			<op>58793</op>
+			<dip>1729</dip>
 			<bid>2482</bid>				
 			<wid1>0P</wid1>
-			<wid2>032</wid2>            	
+			<wid2>002</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1873</id>    
+			<id>1887</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -142,24 +84,24 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>42.04106123307172</lat>
-			<lon>-87.6991195678711</lon>
+			<lat>41.9903760413601</lat>
+			<lon>-87.69935607910156</lon>
 			<pid>1800</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P008</run>
+			<run>P004</run>
 			<fs>Davis Purple Line</fs>
-			<op>55615</op>
-			<dip>30301</dip>
+			<op>58311</op>
+			<dip>11685</dip>
 			<bid>2486</bid>				
 			<wid1>0P</wid1>
-			<wid2>008</wid2>            	
+			<wid2>004</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1816</id>    
+			<id>1891</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -171,24 +113,53 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.98692321777344</lat>
-			<lon>-87.69940185546875</lon>
+			<lat>42.00493240356445</lat>
+			<lon>-87.6998519897461</lon>
 			<pid>1802</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P031</run>
+			<run>P009</run>
 			<fs>Kimball Brown Line</fs>
-			<op>34032</op>
-			<dip>31290</dip>
+			<op>34083</op>
+			<dip>24678</dip>
 			<bid>2484</bid>				
 			<wid1>0P</wid1>
-			<wid2>031</wid2>            	
+			<wid2>009</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1810</id>    
+			<id>1761</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>93</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>93</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>E</dn> 
+			<lat>42.0522066116333</lat>
+			<lon>-87.69010677337647</lon>
+			<pid>1800</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P021</run>
+			<fs>Davis Purple Line</fs>
+			<op>60804</op>
+			<dip>36709</dip>
+			<bid>2483</bid>				
+			<wid1>0P</wid1>
+			<wid2>021</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1776</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -205,13 +176,13 @@
 			<pid>1802</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P009</run>
+			<run>P001</run>
 			<fs>Kimball Brown Line</fs>
-			<op>33612</op>
+			<op>43000</op>
 			<dip>42157</dip>
-			<bid>2485</bid>				
+			<bid>2481</bid>				
 			<wid1>0P</wid1>
-			<wid2>009</wid2>            	
+			<wid2>001</wid2>            	
 		</bus>
 
 

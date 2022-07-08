@@ -39,355 +39,7 @@
 
 	<buses rt="147" rtRtpiFeedName="" rtdd="147"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
-
-
-		<bus>
-			<id>4128</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>147</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>147</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.87585343705847</lat>
-			<lon>-87.62343516248337</lon>
-			<pid>4524</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P131</run>
-			<fs>Howard Station</fs>
-			<op>39233</op>
-			<dip>518</dip>
-			<bid>2321</bid>				
-			<wid1>0P</wid1>
-			<wid2>131</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4367</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>147</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>147</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>E</dn> 
-			<lat>42.01936340332031</lat>
-			<lon>-87.67326354980469</lon>
-			<pid>4526</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P730</run>
-			<fs>Congress Plaza</fs>
-			<op>64756</op>
-			<dip>907</dip>
-			<bid>2264</bid>				
-			<wid1>0P</wid1>
-			<wid2>730</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4342</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>147</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>147</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.891884207725525</lat>
-			<lon>-87.62404501438141</lon>
-			<pid>4519</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P462</run>
-			<fs>Devon/Broadway</fs>
-			<op>42858</op>
-			<dip>2681</dip>
-			<bid>2455</bid>				
-			<wid1>0P</wid1>
-			<wid2>462</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4354</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>147</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>147</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNE</dn> 
-			<lat>41.88665124644404</lat>
-			<lon>-87.62445814713188</lon>
-			<pid>4524</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P736</run>
-			<fs>Howard Station</fs>
-			<op>57123</op>
-			<dip>6576</dip>
-			<bid>2427</bid>				
-			<wid1>0P</wid1>
-			<wid2>736</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4396</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>147</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>147</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.996238708496094</lat>
-			<lon>-87.65561443826427</lon>
-			<pid>4526</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P724</run>
-			<fs>Congress Plaza</fs>
-			<op>59647</op>
-			<dip>12964</dip>
-			<bid>2258</bid>				
-			<wid1>0P</wid1>
-			<wid2>724</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1784</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>147</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>147</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>E</dn> 
-			<lat>41.976419712946964</lat>
-			<lon>-87.65283883901743</lon>
-			<pid>4526</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P521</run>
-			<fs>Congress Plaza</fs>
-			<op>57036</op>
-			<dip>21168</dip>
-			<bid>2466</bid>				
-			<wid1>0P</wid1>
-			<wid2>521</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4361</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>147</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>147</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.98537431914231</lat>
-			<lon>-87.65524291992188</lon>
-			<pid>4519</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P712</run>
-			<fs>Devon/Broadway</fs>
-			<op>57158</op>
-			<dip>40136</dip>
-			<bid>2409</bid>				
-			<wid1>0P</wid1>
-			<wid2>712</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4395</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>147</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>147</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.98516311645508</lat>
-			<lon>-87.65523109436035</lon>
-			<pid>4524</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P328</run>
-			<fs>Howard Station</fs>
-			<op>65694</op>
-			<dip>45869</dip>
-			<bid>2240</bid>				
-			<wid1>0P</wid1>
-			<wid2>328</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1515</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>147</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>147</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.99431667687758</lat>
-			<lon>-87.655510380583</lon>
-			<pid>4524</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P738</run>
-			<fs>Howard Station</fs>
-			<op>61434</op>
-			<dip>49351</dip>
-			<bid>2454</bid>				
-			<wid1>0P</wid1>
-			<wid2>738</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4170</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>147</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>147</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.895912170410156</lat>
-			<lon>-87.62440490722656</lon>
-			<pid>4526</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P734</run>
-			<fs>Congress Plaza</fs>
-			<op>58594</op>
-			<dip>52502</dip>
-			<bid>2436</bid>				
-			<wid1>0P</wid1>
-			<wid2>734</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4349</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>147</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>147</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.884839953798235</lat>
-			<lon>-87.62456974838719</lon>
-			<pid>4526</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P721</run>
-			<fs>Congress Plaza</fs>
-			<op>65971</op>
-			<dip>56773</dip>
-			<bid>2430</bid>				
-			<wid1>0P</wid1>
-			<wid2>721</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4394</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>147</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>147</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>42.016011810302736</lat>
-			<lon>-87.66507161458334</lon>
-			<pid>4524</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P761</run>
-			<fs>Howard Station</fs>
-			<op>58786</op>
-			<dip>59457</dip>
-			<bid>2214</bid>				
-			<wid1>0P</wid1>
-			<wid2>761</wid2>            	
-		</bus>
-
+		<time>11:42 AM</time>
 
 
 		<bus>
@@ -400,21 +52,253 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>147</rtdd>  
 			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.98587989807129</lat>
+			<lon>-87.65526434091421</lon>
+			<pid>4522</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P053</run>
+			<fs>Congress Plaza</fs>
+			<op>58591</op>
+			<dip>5914</dip>
+			<bid>2456</bid>				
+			<wid1>0P</wid1>
+			<wid2>053</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4157</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>42.01643923709267</lat>
-			<lon>-87.66519526431435</lon>
+			<dn>N</dn> 
+			<lat>41.886165441468705</lat>
+			<lon>-87.62444181220476</lon>
 			<pid>4524</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P740</run>
+			<run>P617</run>
 			<fs>Howard Station</fs>
-			<op>N/A</op>
-			<dip>59650</dip>
-			<bid>2408</bid>				
+			<op>59647</op>
+			<dip>6371</dip>
+			<bid>2214</bid>				
 			<wid1>0P</wid1>
-			<wid2>740</wid2>            	
+			<wid2>617</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4128</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>42.00324940037083</lat>
+			<lon>-87.66082701811919</lon>
+			<pid>4526</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P005</run>
+			<fs>Congress Plaza</fs>
+			<op>40769</op>
+			<dip>9032</dip>
+			<bid>2436</bid>				
+			<wid1>0P</wid1>
+			<wid2>005</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4134</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.92073440551758</lat>
+			<lon>-87.62953186035156</lon>
+			<pid>4524</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P707</run>
+			<fs>Howard Station</fs>
+			<op>58314</op>
+			<dip>19388</dip>
+			<bid>2264</bid>				
+			<wid1>0P</wid1>
+			<wid2>707</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4156</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.89810145984996</lat>
+			<lon>-87.62419128417969</lon>
+			<pid>4521</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P704</run>
+			<fs>Michigan/Balbo</fs>
+			<op>34357</op>
+			<dip>40671</dip>
+			<bid>2413</bid>				
+			<wid1>0P</wid1>
+			<wid2>704</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4334</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>North East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>NNE</dn> 
+			<lat>41.87520980834961</lat>
+			<lon>-87.62339782714844</lon>
+			<pid>4522</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P725</run>
+			<fs>Congress Plaza</fs>
+			<op>56586</op>
+			<dip>49614</dip>
+			<bid>2454</bid>				
+			<wid1>0P</wid1>
+			<wid2>725</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1918</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.996157438858695</lat>
+			<lon>-87.65559387207031</lon>
+			<pid>4524</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P706</run>
+			<fs>Howard Station</fs>
+			<op>55042</op>
+			<dip>50079</dip>
+			<bid>2258</bid>				
+			<wid1>0P</wid1>
+			<wid2>706</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4144</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.89015267112038</lat>
+			<lon>-87.62420654296875</lon>
+			<pid>4526</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P703</run>
+			<fs>Congress Plaza</fs>
+			<op>39210</op>
+			<dip>54689</dip>
+			<bid>2321</bid>				
+			<wid1>0P</wid1>
+			<wid2>703</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4148</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>42.013898453622495</lat>
+			<lon>-87.66405875727816</lon>
+			<pid>4524</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P709</run>
+			<fs>Howard Station</fs>
+			<op>60550</op>
+			<dip>58500</dip>
+			<bid>2409</bid>				
+			<wid1>0P</wid1>
+			<wid2>709</wid2>            	
 		</bus>
 
 

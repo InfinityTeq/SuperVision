@@ -39,11 +39,11 @@
 
 	<buses rt="43" rtRtpiFeedName="" rtdd="43"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>7921</id>    
+			<id>7974</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,27 +52,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>43</rtdd>  
 			
-			<d>East Bound</d>
+			<d>South Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.81657409667969</lat>
-			<lon>-87.6177353995187</lon>
+			<dn>S</dn> 
+			<lat>41.81700134277344</lat>
+			<lon>-87.63355255126953</lon>
 			<pid>8179</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7761</run>
+			<run>7753</run>
 			<fs>Lake Park</fs>
-			<op>32492</op>
-			<dip>14692</dip>
+			<op>37192</op>
+			<dip>4674</dip>
 			<bid>1937</bid>				
 			<wid1>07</wid1>
-			<wid2>761</wid2>            	
+			<wid2>753</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>7968</id>    
+			<id>1310</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -81,19 +81,48 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>43</rtdd>  
 			
-			<d>West Bound</d>
+			<d>South Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.81760025024414</lat>
-			<lon>-87.64556884765625</lon>
+			<dn>S</dn> 
+			<lat>41.816267830984934</lat>
+			<lon>-87.63116128104073</lon>
 			<pid>8180</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7765</run>
+			<run>7771</run>
 			<fs>42nd/Halsted</fs>
-			<op>33985</op>
-			<dip>21468</dip>
+			<op>40767</op>
+			<dip>9732</dip>
 			<bid>1940</bid>				
+			<wid1>07</wid1>
+			<wid2>771</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>7986</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>43</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>43</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.817386627197266</lat>
+			<lon>-87.59774017333984</lon>
+			<pid>8179</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7765</run>
+			<fs>Lake Park</fs>
+			<op>33985</op>
+			<dip>20267</dip>
+			<bid>1948</bid>				
 			<wid1>07</wid1>
 			<wid2>765</wid2>            	
 		</bus>

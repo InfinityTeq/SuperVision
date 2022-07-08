@@ -39,11 +39,11 @@
 
 	<buses rt="62" rtRtpiFeedName="" rtdd="62"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1399</id>    
+			<id>8015</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,24 +55,24 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.8770751953125</lat>
-			<lon>-87.62772369384766</lon>
+			<lat>41.86184447558958</lat>
+			<lon>-87.62735543322208</lon>
 			<pid>7120</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6222</run>
+			<run>6255</run>
 			<fs>Harlem</fs>
-			<op>35187</op>
-			<dip>4295</dip>
+			<op>40913</op>
+			<dip>9949</dip>
 			<bid>2579</bid>				
 			<wid1>06</wid1>
-			<wid2>222</wid2>            	
+			<wid2>255</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>8045</id>    
+			<id>8099</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,24 +84,169 @@
 			<d>South West Bound</d>
 			<dd>Southbound</dd> 
 			<dn>SW</dn> 
-			<lat>41.854347229003906</lat>
-			<lon>-87.63172912597656</lon>
+			<lat>41.83710861206055</lat>
+			<lon>-87.66690063476562</lon>
 			<pid>7120</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6831</run>
+			<run>6214</run>
 			<fs>Harlem</fs>
-			<op>52136</op>
-			<dip>13427</dip>
-			<bid>2749</bid>				
+			<op>66352</op>
+			<dip>26210</dip>
+			<bid>2825</bid>				
 			<wid1>06</wid1>
-			<wid2>831</wid2>            	
+			<wid2>214</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1503</id>    
+			<id>1573</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>North East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NE</dn> 
+			<lat>41.81834052590763</lat>
+			<lon>-87.69730870863971</lon>
+			<pid>7111</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6211</run>
+			<fs>Kinzie/State</fs>
+			<op>52136</op>
+			<dip>32437</dip>
+			<bid>2829</bid>				
+			<wid1>06</wid1>
+			<wid2>211</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8036</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>North East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NE</dn> 
+			<lat>41.82166009200247</lat>
+			<lon>-87.69187124151932</lon>
+			<pid>7111</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6207</run>
+			<fs>Kinzie/State</fs>
+			<op>31012</op>
+			<dip>34359</dip>
+			<bid>2558</bid>				
+			<wid1>06</wid1>
+			<wid2>207</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8223</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>WSW</dn> 
+			<lat>41.82910358204561</lat>
+			<lon>-87.6808951882755</lon>
+			<pid>7111</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6252</run>
+			<fs>Kinzie/State</fs>
+			<op>43072</op>
+			<dip>38880</dip>
+			<bid>2538</bid>				
+			<wid1>06</wid1>
+			<wid2>252</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1435</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SW</dn> 
+			<lat>41.81287091970444</lat>
+			<lon>-87.7064620256424</lon>
+			<pid>7120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6251</run>
+			<fs>Harlem</fs>
+			<op>42939</op>
+			<dip>40541</dip>
+			<bid>2593</bid>				
+			<wid1>06</wid1>
+			<wid2>251</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1409</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Southbound</dd> 
+			<dn>N</dn> 
+			<lat>41.792038872128444</lat>
+			<lon>-87.79973844497923</lon>
+			<pid>7120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6202</run>
+			<fs>Harlem</fs>
+			<op>30969</op>
+			<dip>69751</dip>
+			<bid>2537</bid>				
+			<wid1>06</wid1>
+			<wid2>202</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1580</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -112,193 +257,19 @@
 			
 			<d>East Bound</d>
 			<dd>Northbound</dd> 
-			<dn>ENE</dn> 
-			<lat>41.80089314778646</lat>
-			<lon>-87.72819119408017</lon>
+			<dn>E</dn> 
+			<lat>41.88922119140625</lat>
+			<lon>-87.62883758544922</lon>
 			<pid>7111</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6256</run>
+			<run>6204</run>
 			<fs>Kinzie/State</fs>
-			<op>33991</op>
-			<dip>20107</dip>
-			<bid>2829</bid>				
-			<wid1>06</wid1>
-			<wid2>256</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8061</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>62</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>62</rtdd>  
-			
-			<d>South West Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SW</dn> 
-			<lat>41.82333755493164</lat>
-			<lon>-87.68940734863281</lon>
-			<pid>7120</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6221</run>
-			<fs>Harlem</fs>
-			<op>53170</op>
-			<dip>34500</dip>
-			<bid>2559</bid>				
-			<wid1>06</wid1>
-			<wid2>221</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8049</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>62</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>62</rtdd>  
-			
-			<d>North East Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NE</dn> 
-			<lat>41.82219720188576</lat>
-			<lon>-87.69098518468157</lon>
-			<pid>7111</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6215</run>
-			<fs>Kinzie/State</fs>
-			<op>43025</op>
-			<dip>34685</dip>
-			<bid>2584</bid>				
-			<wid1>06</wid1>
-			<wid2>215</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1530</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>62</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>62</rtdd>  
-			
-			<d>North East Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NE</dn> 
-			<lat>41.82274627685547</lat>
-			<lon>-87.69010925292969</lon>
-			<pid>7111</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6255</run>
-			<fs>Kinzie/State</fs>
-			<op>25358</op>
-			<dip>34966</dip>
-			<bid>2538</bid>				
-			<wid1>06</wid1>
-			<wid2>255</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1410</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>62</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>62</rtdd>  
-			
-			<d>South West Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SW</dn> 
-			<lat>41.81460160920114</lat>
-			<lon>-87.7036520062071</lon>
-			<pid>7120</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6211</run>
-			<fs>Harlem</fs>
 			<op>50220</op>
-			<dip>39538</dip>
-			<bid>2537</bid>				
-			<wid1>06</wid1>
-			<wid2>211</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1443</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>62</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>62</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.88679676055908</lat>
-			<lon>-87.62945556640625</lon>
-			<pid>7111</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6214</run>
-			<fs>Kinzie/State</fs>
-			<op>53188</op>
-			<dip>68819</dip>
+			<dip>69872</dip>
 			<bid>2853</bid>				
 			<wid1>06</wid1>
-			<wid2>214</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1575</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>62</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>62</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Southbound</dd> 
-			<dn>N</dn> 
-			<lat>41.79225666666667</lat>
-			<lon>-87.79972166666667</lon>
-			<pid>7120</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6220</run>
-			<fs>Harlem</fs>
-			<op>61724</op>
-			<dip>69822</dip>
-			<bid>2854</bid>				
-			<wid1>06</wid1>
-			<wid2>220</wid2>            	
+			<wid2>204</wid2>            	
 		</bus>
 
 

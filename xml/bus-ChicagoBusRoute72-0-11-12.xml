@@ -39,7 +39,210 @@
 
 	<buses rt="72" rtRtpiFeedName="" rtdd="72"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
+
+
+		<bus>
+			<id>8125</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>72</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>72</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.9134521484375</lat>
+			<lon>-87.63141632080078</lon>
+			<pid>12433</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5202</run>
+			<fs>Harlem</fs>
+			<op>60455</op>
+			<dip>2055</dip>
+			<bid>1380</bid>				
+			<wid1>05</wid1>
+			<wid2>202</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8117</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>72</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>72</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.90932083129883</lat>
+			<lon>-87.76564588044819</lon>
+			<pid>12432</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5204</run>
+			<fs>North Avenue Beach</fs>
+			<op>61605</op>
+			<dip>11134</dip>
+			<bid>1385</bid>				
+			<wid1>05</wid1>
+			<wid2>204</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>2025</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>72</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>72</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.90959930419922</lat>
+			<lon>-87.74405239474389</lon>
+			<pid>12432</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5209</run>
+			<fs>North Avenue Beach</fs>
+			<op>37401</op>
+			<dip>17221</dip>
+			<bid>1383</bid>				
+			<wid1>05</wid1>
+			<wid2>209</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1965</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>72</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>72</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.91026840209961</lat>
+			<lon>-87.69910278320313</lon>
+			<pid>12433</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5210</run>
+			<fs>Harlem</fs>
+			<op>40578</op>
+			<dip>22718</dip>
+			<bid>1392</bid>				
+			<wid1>05</wid1>
+			<wid2>210</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>2023</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>72</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>72</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.910221099853516</lat>
+			<lon>-87.69158751389077</lon>
+			<pid>12432</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5208</run>
+			<fs>North Avenue Beach</fs>
+			<op>34473</op>
+			<dip>32011</dip>
+			<bid>1381</bid>				
+			<wid1>05</wid1>
+			<wid2>208</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1987</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>72</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>72</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.9102357228597</lat>
+			<lon>-87.68748233936451</lon>
+			<pid>12432</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5206</run>
+			<fs>North Avenue Beach</fs>
+			<op>39874</op>
+			<dip>33137</dip>
+			<bid>1354</bid>				
+			<wid1>05</wid1>
+			<wid2>206</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1843</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>72</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>72</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.90949630737305</lat>
+			<lon>-87.75996337890625</lon>
+			<pid>12433</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5207</run>
+			<fs>Harlem</fs>
+			<op>40417</op>
+			<dip>40230</dip>
+			<bid>1353</bid>				
+			<wid1>05</wid1>
+			<wid2>207</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,401 +258,24 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.9091911315918</lat>
-			<lon>-87.78087702105123</lon>
-			<pid>100</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>MAN</run>
-			<fs>Pulaski</fs>
-			<op>60938</op>
-			<dip>6825</dip>
-			<bid>MAN</bid>				
-			<wid1>05</wid1>
-			<wid2>219</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8171</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.90959930419922</lat>
-			<lon>-87.74407823624149</lon>
-			<pid>1522</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5520</run>
-			<fs>Pulaski</fs>
-			<op>42396</op>
-			<dip>11657</dip>
-			<bid>1353</bid>				
-			<wid1>05</wid1>
-			<wid2>520</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8186</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.91067123413086</lat>
-			<lon>-87.66553614689754</lon>
-			<pid>12433</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5230</run>
-			<fs>Harlem</fs>
-			<op>65309</op>
-			<dip>12852</dip>
-			<bid>1380</bid>				
-			<wid1>05</wid1>
-			<wid2>230</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1958</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.91046648247298</lat>
-			<lon>-87.67827730400617</lon>
-			<pid>14104</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5273</run>
-			<fs>Narragansett</fs>
-			<op>49076</op>
-			<dip>16609</dip>
-			<bid>1485</bid>				
-			<wid1>05</wid1>
-			<wid2>273</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1908</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.9096794128418</lat>
-			<lon>-87.73706004658683</lon>
-			<pid>12432</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5219</run>
-			<fs>North Avenue Beach</fs>
-			<op>34425</op>
-			<dip>19181</dip>
-			<bid>1386</bid>				
-			<wid1>05</wid1>
-			<wid2>219</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8140</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.91035842895508</lat>
-			<lon>-87.68734936836438</lon>
-			<pid>12433</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5251</run>
-			<fs>Harlem</fs>
-			<op>42486</op>
-			<dip>19328</dip>
-			<bid>1394</bid>				
-			<wid1>05</wid1>
-			<wid2>251</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1953</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.909874631647476</lat>
-			<lon>-87.722192864669</lon>
-			<pid>12432</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5232</run>
-			<fs>North Avenue Beach</fs>
-			<op>63038</op>
-			<dip>23384</dip>
-			<bid>1385</bid>				
-			<wid1>05</wid1>
-			<wid2>232</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1984</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.91006851196289</lat>
-			<lon>-87.70693451503537</lon>
-			<pid>12432</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5233</run>
-			<fs>North Avenue Beach</fs>
-			<op>49245</op>
-			<dip>27672</dip>
-			<bid>1396</bid>				
-			<wid1>05</wid1>
-			<wid2>233</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1897</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.90980911254883</lat>
-			<lon>-87.73636276657517</lon>
-			<pid>12433</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5221</run>
-			<fs>Harlem</fs>
-			<op>43172</op>
-			<dip>33447</dip>
-			<bid>1463</bid>				
-			<wid1>05</wid1>
-			<wid2>221</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1987</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.90965046958318</lat>
-			<lon>-87.74852607363746</lon>
-			<pid>14104</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5214</run>
-			<fs>Narragansett</fs>
-			<op>45769</op>
-			<dip>36936</dip>
-			<bid>1392</bid>				
-			<wid1>05</wid1>
-			<wid2>214</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>2008</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.90956845964704</lat>
-			<lon>-87.7553981236049</lon>
-			<pid>14104</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5213</run>
-			<fs>Narragansett</fs>
-			<op>30239</op>
-			<dip>38899</dip>
-			<bid>1389</bid>				
-			<wid1>05</wid1>
-			<wid2>213</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1964</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
 			<lat>41.91096115112305</lat>
-			<lon>-87.64594081956513</lon>
+			<lon>-87.64594346649793</lon>
 			<pid>12432</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5223</run>
+			<run>5203</run>
 			<fs>North Avenue Beach</fs>
-			<op>59608</op>
-			<dip>45075</dip>
-			<bid>1395</bid>				
-			<wid1>05</wid1>
-			<wid2>223</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>2028</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.91109848022461</lat>
-			<lon>-87.63262176513672</lon>
-			<pid>12432</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5217</run>
-			<fs>North Avenue Beach</fs>
-			<op>52213</op>
-			<dip>48769</dip>
-			<bid>1354</bid>				
-			<wid1>05</wid1>
-			<wid2>217</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8150</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>72</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>72</rtdd>  
-			
-			<d>North West Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>WNW</dn> 
-			<lat>41.913931759920985</lat>
-			<lon>-87.62539742209695</lon>
-			<pid>12432</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5253</run>
-			<fs>North Avenue Beach</fs>
-			<op>49321</op>
-			<dip>52240</dip>
+			<op>37337</op>
+			<dip>45074</dip>
 			<bid>1352</bid>				
 			<wid1>05</wid1>
-			<wid2>253</wid2>            	
+			<wid2>203</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1912</id>    
+			<id>1960</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -458,21 +284,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>72</rtdd>  
 			
-			<d>South Bound</d>
+			<d>North East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>NE</dn> 
+			<lat>41.91375018704322</lat>
+			<lon>-87.6254385671308</lon>
+			<pid>12432</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5205</run>
+			<fs>North Avenue Beach</fs>
+			<op>30239</op>
+			<dip>52159</dip>
+			<bid>1379</bid>				
+			<wid1>05</wid1>
+			<wid2>205</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1954</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>72</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>72</rtdd>  
+			
+			<d>North Bound</d>
 			<dd>Westbound</dd> 
-			<dn>S</dn> 
-			<lat>41.910243601038836</lat>
-			<lon>-87.80403181435405</lon>
+			<dn>N</dn> 
+			<lat>41.91016933835786</lat>
+			<lon>-87.80570470875708</lon>
 			<pid>12433</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5220</run>
+			<run>5504</run>
 			<fs>Harlem</fs>
-			<op>58196</op>
-			<dip>54945</dip>
-			<bid>1393</bid>				
+			<op>34425</op>
+			<dip>54129</dip>
+			<bid>1386</bid>				
 			<wid1>05</wid1>
-			<wid2>220</wid2>            	
+			<wid2>504</wid2>            	
 		</bus>
 
 

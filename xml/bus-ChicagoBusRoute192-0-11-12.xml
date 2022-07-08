@@ -39,94 +39,9 @@
 
 	<buses rt="192" rtRtpiFeedName="" rtdd="192"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
-
-		<bus>
-			<id>4172</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>192</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>192</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.7877311706543</lat>
-			<lon>-87.6037826538086</lon>
-			<pid>2671</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1426</run>
-			<fs>Ogilvie Station</fs>
-			<op>42451</op>
-			<dip>40</dip>
-			<bid>1269</bid>				
-			<wid1>01</wid1>
-			<wid2>426</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4326</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>192</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>192</rtdd>  
-			
-			<d>North West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>WNW</dn> 
-			<lat>41.838619232177734</lat>
-			<lon>-87.6229248046875</lon>
-			<pid>2671</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1425</run>
-			<fs>Ogilvie Station</fs>
-			<op>40394</op>
-			<dip>23913</dip>
-			<bid>1299</bid>				
-			<wid1>01</wid1>
-			<wid2>425</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4182</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>192</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>192</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.88179016113281</lat>
-			<lon>-87.64103698730469</lon>
-			<pid>2671</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1423</run>
-			<fs>Ogilvie Station</fs>
-			<op>55053</op>
-			<dip>44208</dip>
-			<bid>1300</bid>				
-			<wid1>01</wid1>
-			<wid2>423</wid2>            	
-		</bus>
-
+		<hasService>false</hasService>
 
 
 	</buses>

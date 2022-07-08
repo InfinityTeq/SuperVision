@@ -39,11 +39,11 @@
 
 	<buses rt="28" rtRtpiFeedName="" rtdd="28"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1101</id>    
+			<id>1204</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,27 +52,56 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>28</rtdd>  
 			
-			<d>East Bound</d>
+			<d>South Bound</d>
 			<dd>Southbound</dd> 
-			<dn>E</dn> 
-			<lat>41.87821960449219</lat>
-			<lon>-87.62716674804688</lon>
-			<pid>6643</pid>
+			<dn>S</dn> 
+			<lat>41.79539489746094</lat>
+			<lon>-87.58758544921875</lon>
+			<pid>10931</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1812</run>
+			<run>1841</run>
 			<fs>Olive Harvey</fs>
-			<op>55686</op>
-			<dip>3641</dip>
-			<bid>1110</bid>				
+			<op>44151</op>
+			<dip>5470</dip>
+			<bid>1108</bid>				
 			<wid1>01</wid1>
-			<wid2>812</wid2>            	
+			<wid2>841</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1051</id>    
+			<id>1187</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>28</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>28</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.74959681584285</lat>
+			<lon>-87.58584536038913</lon>
+			<pid>10931</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1801</run>
+			<fs>Olive Harvey</fs>
+			<op>38955</op>
+			<dip>22562</dip>
+			<bid>1173</bid>				
+			<wid1>01</wid1>
+			<wid2>801</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1173</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,24 +113,24 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.72789863918138</lat>
-			<lon>-87.58493041992188</lon>
+			<lat>41.755064713327506</lat>
+			<lon>-87.58550262451172</lon>
 			<pid>2162</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1813</run>
+			<run>1412</run>
 			<fs>47th/Lake Park</fs>
-			<op>65810</op>
-			<dip>15945</dip>
-			<bid>1242</bid>				
+			<op>42805</op>
+			<dip>25865</dip>
+			<bid>1109</bid>				
 			<wid1>01</wid1>
-			<wid2>813</wid2>            	
+			<wid2>412</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>8342</id>    
+			<id>1094</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -113,198 +142,24 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.75879099749137</lat>
-			<lon>-87.58567168747169</lon>
-			<pid>8123</pid>
+			<lat>41.77377194263896</lat>
+			<lon>-87.58602905273438</lon>
+			<pid>2162</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1811</run>
-			<fs>Union Station</fs>
-			<op>39100</op>
-			<dip>27234</dip>
-			<bid>1107</bid>				
+			<run>1802</run>
+			<fs>47th/Lake Park</fs>
+			<op>56569</op>
+			<dip>32704</dip>
+			<bid>1101</bid>				
 			<wid1>01</wid1>
-			<wid2>811</wid2>            	
+			<wid2>802</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1170</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>28</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>28</rtdd>  
-			
-			<d>South East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SSE</dn> 
-			<lat>41.80942916870117</lat>
-			<lon>-87.59223175048828</lon>
-			<pid>6643</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1807</run>
-			<fs>Olive Harvey</fs>
-			<op>55604</op>
-			<dip>32908</dip>
-			<bid>1198</bid>				
-			<wid1>01</wid1>
-			<wid2>807</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1071</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>28</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>28</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Southbound</dd> 
-			<dn>W</dn> 
-			<lat>41.79147720336914</lat>
-			<lon>-87.58607927958171</lon>
-			<pid>6643</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1815</run>
-			<fs>Olive Harvey</fs>
-			<op>40361</op>
-			<dip>40904</dip>
-			<bid>1123</bid>				
-			<wid1>01</wid1>
-			<wid2>815</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1140</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>28</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>28</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.722564697265625</lat>
-			<lon>-87.58529663085938</lon>
-			<pid>6643</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1853</run>
-			<fs>Olive Harvey</fs>
-			<op>43516</op>
-			<dip>66263</dip>
-			<bid>1306</bid>				
-			<wid1>01</wid1>
-			<wid2>853</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1201</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>28</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>28</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.849815368652344</lat>
-			<lon>-87.61260223388672</lon>
-			<pid>8123</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1842</run>
-			<fs>Union Station</fs>
-			<op>50822</op>
-			<dip>66426</dip>
-			<bid>1111</bid>				
-			<wid1>01</wid1>
-			<wid2>842</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1202</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>28</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>28</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.718725688421905</lat>
-			<lon>-87.58512115478516</lon>
-			<pid>6643</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1851</run>
-			<fs>Olive Harvey</fs>
-			<op>58133</op>
-			<dip>67660</dip>
-			<bid>1122</bid>				
-			<wid1>01</wid1>
-			<wid2>851</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1092</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>28</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>28</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Southbound</dd> 
-			<dn>W</dn> 
-			<lat>41.7094612121582</lat>
-			<lon>-87.589111328125</lon>
-			<pid>6643</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1814</run>
-			<fs>Olive Harvey</fs>
-			<op>66000</op>
-			<dip>74212</dip>
-			<bid>1130</bid>				
-			<wid1>01</wid1>
-			<wid2>814</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1061</id>    
+			<id>8341</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -314,20 +169,20 @@
 			<rtdd>28</rtdd>  
 			
 			<d>East Bound</d>
-			<dd>Northbound</dd> 
+			<dd>Southbound</dd> 
 			<dn>E</dn> 
-			<lat>41.87819833333333</lat>
-			<lon>-87.63994166666667</lon>
-			<pid>8123</pid>
-			<pd>Northbound</pd> 
+			<lat>41.708763122558594</lat>
+			<lon>-87.59003024631076</lon>
+			<pid>10931</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1809</run>
-			<fs>Union Station</fs>
-			<op>31898</op>
-			<dip>88475</dip>
-			<bid>1101</bid>				
+			<run>1804</run>
+			<fs>Olive Harvey</fs>
+			<op>43103</op>
+			<dip>39345</dip>
+			<bid>1107</bid>				
 			<wid1>01</wid1>
-			<wid2>809</wid2>            	
+			<wid2>804</wid2>            	
 		</bus>
 
 

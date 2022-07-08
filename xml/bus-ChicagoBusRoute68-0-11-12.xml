@@ -39,11 +39,11 @@
 
 	<buses rt="68" rtRtpiFeedName="" rtdd="68"> <!-- @11 @16 -->
 
-		<time>5:30 PM</time>
+		<time>11:42 AM</time>
 
 
 		<bus>
-			<id>1383</id>    
+			<id>8242</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>68</rtdd>  
 			
-			<d>South East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>SE</dn> 
-			<lat>41.99850167168511</lat>
-			<lon>-87.80947875976562</lon>
-			<pid>3215</pid>
-			<pd>Eastbound</pd> 
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>NW</dn> 
+			<lat>41.98058319091797</lat>
+			<lon>-87.77789306640625</lon>
+			<pid>3214</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F916</run>
-			<fs>Jefferson Park Blue Line</fs>
-			<op>52165</op>
-			<dip>8095</dip>
-			<bid>3045</bid>				
+			<run>F401</run>
+			<fs>Park Ridge Metra Station</fs>
+			<op>23477</op>
+			<dip>6095</dip>
+			<bid>2896</bid>				
 			<wid1>0F</wid1>
-			<wid2>916</wid2>            	
+			<wid2>401</wid2>            	
 		</bus>
 
 
@@ -81,50 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>68</rtdd>  
 			
-			<d>North West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>NW</dn> 
-			<lat>41.99860715866089</lat>
-			<lon>-87.80966854095459</lon>
-			<pid>3214</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F431</run>
-			<fs>Park Ridge Metra Station</fs>
-			<op>57195</op>
-			<dip>17079</dip>
-			<bid>2935</bid>				
-			<wid1>0F</wid1>
-			<wid2>431</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8272</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>68</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>68</rtdd>  
-			
-			<d>North West Bound</d>
+			<d>South East Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>WNW</dn> 
-			<lat>41.96936478153352</lat>
-			<lon>-87.7616700203188</lon>
+			<dn>SE</dn> 
+			<lat>41.984668973892454</lat>
+			<lon>-87.78545730833024</lon>
 			<pid>3215</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F407</run>
+			<run>F405</run>
 			<fs>Jefferson Park Blue Line</fs>
-			<op>36456</op>
-			<dip>25108</dip>
-			<bid>2861</bid>				
+			<op>20814</op>
+			<dip>16367</dip>
+			<bid>2935</bid>				
 			<wid1>0F</wid1>
-			<wid2>407</wid2>            	
+			<wid2>405</wid2>            	
 		</bus>
 
 
