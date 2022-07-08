@@ -13,20 +13,20 @@
 
 <!-- ascii art logo -->
 ```                                                     
-      .::::::.  ...    :::::::::::::. .,:::::: :::::::..    
-     ;;;`    `  ;;     ;;; `;;;```.;;;;;;;'''' ;;;;``;;;;   
-     '[==/[[[[,[['     [[[  `]]nnn]]'  [[cccc   [[[,/[[['   
-       '''    $$$      $$$   $$$""     $$""""   $$$$$$c     
-      88b    dP88    .d888   888o      888oo,__ 888b "88bo, 
-       "YMmMY"  "YmmMMMM""   YMMMb     """"YUMMMMMMM   "W"  
-                                      :~?J555J?~:
-:::      .::.::: .::::::. :::     .~YG&@B5J?J5B@&GY~.   :::.    :::.
-';;,   ,;;;' ;;;;;;`    ` ;;;   :JB@@@B~.~?J7~.~B@@@BJ: `;;;;,  `;;;
- \[[  .[[/   [[['[==/[[[[,[[[ .5&@@@@&: P@@G^PP :&@@@@&5  [[[[[. '[[
-  Y$c.$$"    $$$  '''    $$$$ .5&@@@@&: P@@@&@P :&@@@@&5. $$$ "Y$c$$
-   Y88P      888 88b    dP888   :JB@@@B~.~?YJ~.~B@@@BJ:   888    Y88
-    MP       MMM  "YMmMY" MMM     .~YB&@B5J?J5B@&BY~.     MMM     YM
-                                      :~?J555J?~:                   
+              .::::::.  ...    :::::::::::::. .,:::::: :::::::..    
+             ;;;`    `  ;;     ;;; `;;;```.;;;;;;;'''' ;;;;``;;;;   
+             '[==/[[[[,[['     [[[  `]]nnn]]'  [[cccc   [[[,/[[['   
+               '''    $$$      $$$   $$$""     $$""""   $$$$$$c     
+              88b    dP88    .d888   888o      888oo,__ 888b "88bo, 
+               "YMmMY"  "YmmMMMM""   YMMMb     """"YUMMMMMMM   "W"  
+                                              :~?J555J?~:
+        :::      .::.::: .::::::. :::     .~YG&@B5J?J5B@&GY~.   :::.    :::.
+        ';;,   ,;;;' ;;;;;;`    ` ;;;   :JB@@@B~.~?J7~.~B@@@BJ: `;;;;,  `;;;
+         \[[  .[[/   [[['[==/[[[[,[[[ .5&@@@@&: P@@G^PP :&@@@@&5  [[[[[. '[[
+          Y$c.$$"    $$$  '''    $$$$ .5&@@@@&: P@@@&@P :&@@@@&5. $$$ "Y$c$$
+           Y88P      888 88b    dP888   :JB@@@B~.~?YJ~.~B@@@BJ:   888    Y88
+            MP       MMM  "YMmMY" MMM     .~YB&@B5J?J5B@&BY~.     MMM     YM
+                                              :~?J555J?~:                   
 ```
 
 <!-- descripiton -->
@@ -34,7 +34,8 @@
 [SuperVision][supervision] is an open source *"Google Maps"* for hackers developed by [CosmodiumCS][ccs]. SuperVision's map centralizes public data and maps it. Allowing you to see traffic cameras, transportation, and other data systems **in live time**. It is developed with a type of hacking called "Public Data Hacking" [PDH]. This is basically the process in which you exploit data thats publically available. Whats cool about PDH is that its completely legal, because the data we exploit is already publically available. So by the magical powers of Python, JavaScript, and several markup languages, we generate a powerful map that is ready to use whenever you need! 
 
 <!-- map visualization -->
-![SuperVision Map](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/map-plots.png?raw=true)
+<!-- ![SuperVision Map](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/map-plots.png?raw=true) -->
+![SuperVision Map](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/ccs-styled-plots.png?raw=true)
 
 <!-- how it works -->
 **How It Works:**
@@ -86,9 +87,11 @@ SuperVision is capable of plotting live data. Above we can see the current posit
 - SuperVision **only** asks for your device's approximate location. If you say yes it will display the available data closest to you. If you say no, it will display all the full map. 
 - SuperVision **does not** collect any user data...read the code 
 
+<!-- credits -->
 ## Credits
 The original concept comes from an old friend of mine, Shepherd. He had the idea to map specific camera locations to kml files and map them on Google Earth. I joined the project and discovered methods of automatically mapping data instead of doing such a thing manually. But after a falling out I took the project to the next step by creating a dynamic mapping environment outside of Google Earth. This has allowed me to map not only all the cameras simultaneously, but also to map live data in real time.
 
 ---
 
+<!-- copyright -->
 © 2022 by Cosmodium CyberSecurity, LLC
