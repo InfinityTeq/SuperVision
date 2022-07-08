@@ -39,40 +39,11 @@
 
 	<buses rt="86" rtRtpiFeedName="" rtdd="86"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
 
 		<bus>
-			<id>8202</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>86</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>86</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.91819499089168</lat>
-			<lon>-87.78520936232347</lon>
-			<pid>3527</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F302</run>
-			<fs>Devon/Nagle</fs>
-			<op>39618</op>
-			<dip>14482</dip>
-			<bid>3170</bid>				
-			<wid1>0F</wid1>
-			<wid2>302</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8255</id>    
+			<id>1040</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,24 +55,24 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.94012635329674</lat>
-			<lon>-87.78615306985789</lon>
+			<lat>41.972035375134695</lat>
+			<lon>-87.7880235869309</lon>
 			<pid>10905</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F351</run>
+			<run>F357</run>
 			<fs>Ridgeland Green Line</fs>
-			<op>40942</op>
-			<dip>21866</dip>
-			<bid>3175</bid>				
+			<op>62979</op>
+			<dip>10139</dip>
+			<bid>2874</bid>				
 			<wid1>0F</wid1>
-			<wid2>351</wid2>            	
+			<wid2>357</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>8254</id>    
+			<id>1356</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -113,18 +84,105 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.97611830664463</lat>
-			<lon>-87.78778076171875</lon>
+			<lat>41.91426086425781</lat>
+			<lon>-87.78512573242188</lon>
 			<pid>3527</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F371</run>
+			<run>F372</run>
 			<fs>Devon/Nagle</fs>
-			<op>39504</op>
-			<dip>37853</dip>
-			<bid>3179</bid>				
+			<op>42571</op>
+			<dip>13034</dip>
+			<bid>3178</bid>				
 			<wid1>0F</wid1>
-			<wid2>371</wid2>            	
+			<wid2>372</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1402</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>86</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>86</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.92220599834736</lat>
+			<lon>-87.78546259953426</lon>
+			<pid>10905</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F353</run>
+			<fs>Ridgeland Green Line</fs>
+			<op>51961</op>
+			<dip>28427</dip>
+			<bid>3171</bid>				
+			<wid1>0F</wid1>
+			<wid2>353</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>6858</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>86</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>86</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.956537830586335</lat>
+			<lon>-87.78659197748924</lon>
+			<pid>3527</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F355</run>
+			<fs>Devon/Nagle</fs>
+			<op>36044</op>
+			<dip>28507</dip>
+			<bid>3177</bid>				
+			<wid1>0F</wid1>
+			<wid2>355</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1397</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>86</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>86</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.88822555541992</lat>
+			<lon>-87.78275827261118</lon>
+			<pid>10905</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F356</run>
+			<fs>Ridgeland Green Line</fs>
+			<op>38814</op>
+			<dip>42081</dip>
+			<bid>3180</bid>				
+			<wid1>0F</wid1>
+			<wid2>356</wid2>            	
 		</bus>
 
 
@@ -139,50 +197,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>86</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>ENE</dn> 
-			<lat>41.88823318481445</lat>
-			<lon>-87.78312035326688</lon>
-			<pid>10905</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F354</run>
-			<fs>Ridgeland Green Line</fs>
-			<op>45713</op>
-			<dip>41980</dip>
-			<bid>2875</bid>				
-			<wid1>0F</wid1>
-			<wid2>354</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1627</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>86</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>86</rtdd>  
-			
-			<d>South West Bound</d>
+			<d>North Bound</d>
 			<dd>Northbound</dd> 
-			<dn>SW</dn> 
-			<lat>41.99921798706055</lat>
-			<lon>-87.78924560546875</lon>
+			<dn>NNW</dn> 
+			<lat>41.99916330973307</lat>
+			<lon>-87.78869374593098</lon>
 			<pid>3527</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F352</run>
+			<run>F354</run>
 			<fs>Devon/Nagle</fs>
-			<op>49659</op>
-			<dip>46555</dip>
-			<bid>3176</bid>				
+			<op>45713</op>
+			<dip>46398</dip>
+			<bid>2875</bid>				
 			<wid1>0F</wid1>
-			<wid2>352</wid2>            	
+			<wid2>354</wid2>            	
 		</bus>
 
 

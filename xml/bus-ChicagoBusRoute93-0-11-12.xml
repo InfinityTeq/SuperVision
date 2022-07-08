@@ -39,7 +39,7 @@
 
 	<buses rt="93" rtRtpiFeedName="" rtdd="93"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
 
 		<bus>
@@ -52,27 +52,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>93</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.973898730700526</lat>
-			<lon>-87.70858890195436</lon>
-			<pid>1800</pid>
-			<pd>Northbound</pd> 
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>42.05221176147461</lat>
+			<lon>-87.68783760070801</lon>
+			<pid>1802</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P004</run>
-			<fs>Davis Purple Line</fs>
-			<op>58311</op>
-			<dip>3114</dip>
+			<run>P008</run>
+			<fs>Kimball Brown Line</fs>
+			<op>55615</op>
+			<dip>4354</dip>
 			<bid>2486</bid>				
 			<wid1>0P</wid1>
-			<wid2>004</wid2>            	
+			<wid2>008</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1891</id>    
+			<id>1885</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -81,21 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>93</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>42.04339714655801</lat>
-			<lon>-87.69916534423828</lon>
-			<pid>1802</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>42.01676559448242</lat>
+			<lon>-87.69964599609375</lon>
+			<pid>1800</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P010</run>
-			<fs>Kimball Brown Line</fs>
-			<op>43219</op>
-			<dip>10584</dip>
-			<bid>2484</bid>				
+			<run>P009</run>
+			<fs>Davis Purple Line</fs>
+			<op>34083</op>
+			<dip>21805</dip>
+			<bid>2485</bid>				
 			<wid1>0P</wid1>
-			<wid2>010</wid2>            	
+			<wid2>009</wid2>            	
 		</bus>
 
 
@@ -110,18 +110,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>93</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>42.012087854845774</lat>
-			<lon>-87.69959535269902</lon>
-			<pid>1800</pid>
-			<pd>Northbound</pd> 
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.985737124356355</lat>
+			<lon>-87.69938659667969</lon>
+			<pid>1802</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P021</run>
-			<fs>Davis Purple Line</fs>
+			<fs>Kimball Brown Line</fs>
 			<op>60804</op>
-			<dip>19635</dip>
+			<dip>31721</dip>
 			<bid>2483</bid>				
 			<wid1>0P</wid1>
 			<wid2>021</wid2>            	
@@ -139,21 +139,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>93</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.987342336903446</lat>
-			<lon>-87.69939853834069</lon>
-			<pid>1802</pid>
-			<pd>Southbound</pd> 
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>E</dn> 
+			<lat>42.052101135253906</lat>
+			<lon>-87.69642893473308</lon>
+			<pid>1800</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P001</run>
-			<fs>Kimball Brown Line</fs>
-			<op>43000</op>
-			<dip>31127</dip>
+			<run>P007</run>
+			<fs>Davis Purple Line</fs>
+			<op>53265</op>
+			<dip>34991</dip>
 			<bid>2481</bid>				
 			<wid1>0P</wid1>
-			<wid2>001</wid2>            	
+			<wid2>007</wid2>            	
 		</bus>
 
 
@@ -168,21 +168,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>93</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Northbound</dd> 
-			<dn>S</dn> 
-			<lat>42.0484305264657</lat>
-			<lon>-87.68339203951652</lon>
-			<pid>1800</pid>
-			<pd>Northbound</pd> 
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.968442036555366</lat>
+			<lon>-87.71248626708984</lon>
+			<pid>1802</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P002</run>
-			<fs>Davis Purple Line</fs>
-			<op>58793</op>
-			<dip>39864</dip>
+			<run>P011</run>
+			<fs>Kimball Brown Line</fs>
+			<op>53280</op>
+			<dip>42152</dip>
 			<bid>2482</bid>				
 			<wid1>0P</wid1>
-			<wid2>002</wid2>            	
+			<wid2>011</wid2>            	
 		</bus>
 
 

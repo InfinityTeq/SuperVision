@@ -39,9 +39,36 @@
 
 	<buses rt="165" rtRtpiFeedName="" rtdd="165"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
-		<hasService>false</hasService>
+
+		<bus>
+			<id>8012</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>165</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>165</rtdd>  
+			
+			<d>North East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>NNE</dn> 
+			<lat>41.78425422874657</lat>
+			<lon>-87.74111670416755</lon>
+			<pid>4599</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6633</run>
+			<fs>Midway Orange Line</fs>
+			<op>31359</op>
+			<dip>20007</dip>
+			<bid>2630</bid>				
+			<wid1>06</wid1>
+			<wid2>633</wid2>            	
+		</bus>
+
 
 
 	</buses>

@@ -39,7 +39,7 @@
 
 	<buses rt="90" rtRtpiFeedName="" rtdd="90"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
 
 		<bus>
@@ -52,21 +52,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>90</rtdd>  
 			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.91070444990949</lat>
+			<lon>-87.80580920707888</lon>
+			<pid>2944</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F311</run>
+			<fs>Harlem Blue Line</fs>
+			<op>64992</op>
+			<dip>9835</dip>
+			<bid>3052</bid>				
+			<wid1>0F</wid1>
+			<wid2>311</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1036</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>90</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>90</rtdd>  
+			
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.9669092297554</lat>
-			<lon>-87.80718994140625</lon>
+			<lat>41.93435988706701</lat>
+			<lon>-87.80660977083095</lon>
 			<pid>5917</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F207</run>
+			<run>F012</run>
 			<fs>Harlem Green Line</fs>
-			<op>24973</op>
-			<dip>6604</dip>
-			<bid>3052</bid>				
+			<op>56698</op>
+			<dip>19483</dip>
+			<bid>3152</bid>				
 			<wid1>0F</wid1>
-			<wid2>207</wid2>            	
+			<wid2>012</wid2>            	
 		</bus>
 
 
@@ -81,21 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>90</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.916654413396664</lat>
-			<lon>-87.80600807883523</lon>
-			<pid>2944</pid>
-			<pd>Northbound</pd> 
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.911578888588764</lat>
+			<lon>-87.80585755693151</lon>
+			<pid>5917</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F307</run>
-			<fs>Harlem Blue Line</fs>
-			<op>N/A</op>
-			<dip>12120</dip>
+			<run>F306</run>
+			<fs>Harlem Green Line</fs>
+			<op>25229</op>
+			<dip>28362</dip>
 			<bid>3025</bid>				
 			<wid1>0F</wid1>
-			<wid2>307</wid2>            	
+			<wid2>306</wid2>            	
 		</bus>
 
 
@@ -110,21 +139,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>90</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.93844157251819</lat>
-			<lon>-87.80674743652344</lon>
-			<pid>5917</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.962862994219805</lat>
+			<lon>-87.80721282958984</lon>
+			<pid>2944</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F303</run>
-			<fs>Harlem Green Line</fs>
-			<op>50780</op>
-			<dip>17760</dip>
+			<run>F305</run>
+			<fs>Harlem Blue Line</fs>
+			<op>58787</op>
+			<dip>29842</dip>
 			<bid>3067</bid>				
 			<wid1>0F</wid1>
-			<wid2>303</wid2>            	
+			<wid2>305</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1396</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>90</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>90</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.979176811549976</lat>
+			<lon>-87.80690980994183</lon>
+			<pid>2944</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F310</run>
+			<fs>Harlem Blue Line</fs>
+			<op>27864</op>
+			<dip>36471</dip>
+			<bid>3014</bid>				
+			<wid1>0F</wid1>
+			<wid2>310</wid2>            	
 		</bus>
 
 
@@ -139,21 +197,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>90</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.97784290313721</lat>
-			<lon>-87.80702209472656</lon>
-			<pid>2944</pid>
-			<pd>Northbound</pd> 
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>41.88677221104719</lat>
+			<lon>-87.80170064732648</lon>
+			<pid>5917</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F321</run>
-			<fs>Harlem Blue Line</fs>
-			<op>40433</op>
-			<dip>35958</dip>
+			<run>F312</run>
+			<fs>Harlem Green Line</fs>
+			<op>62580</op>
+			<dip>39852</dip>
 			<bid>3026</bid>				
 			<wid1>0F</wid1>
-			<wid2>321</wid2>            	
+			<wid2>312</wid2>            	
 		</bus>
 
 

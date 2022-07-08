@@ -39,36 +39,7 @@
 
 	<buses rt="81" rtRtpiFeedName="" rtdd="81"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
-
-
-		<bus>
-			<id>8311</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>81</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>81</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.965328216552734</lat>
-			<lon>-87.66143617175874</lon>
-			<pid>16551</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F108</run>
-			<fs>Jefferson Park Blue Line</fs>
-			<op>33568</op>
-			<dip>6760</dip>
-			<bid>2950</bid>				
-			<wid1>0F</wid1>
-			<wid2>108</wid2>            	
-		</bus>
-
+		<time>4:02 PM</time>
 
 
 		<bus>
@@ -81,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>81</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.96814339847888</lat>
-			<lon>-87.73732369633045</lon>
-			<pid>16550</pid>
-			<pd>Eastbound</pd> 
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>N</dn> 
+			<lat>41.966222626822336</lat>
+			<lon>-87.64880834306989</lon>
+			<pid>16551</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F124</run>
-			<fs>Wilson/Marine</fs>
+			<fs>Jefferson Park Blue Line</fs>
 			<op>57111</op>
-			<dip>7809</dip>
+			<dip>151</dip>
 			<bid>2953</bid>				
 			<wid1>0F</wid1>
 			<wid2>124</wid2>            	
@@ -110,21 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>81</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.968784968058266</lat>
-			<lon>-87.67686589558919</lon>
-			<pid>16551</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.96788024902344</lat>
+			<lon>-87.75718163662269</lon>
+			<pid>16550</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F107</run>
-			<fs>Jefferson Park Blue Line</fs>
-			<op>40358</op>
-			<dip>12507</dip>
+			<run>F113</run>
+			<fs>Wilson/Marine</fs>
+			<op>58691</op>
+			<dip>2029</dip>
 			<bid>2954</bid>				
 			<wid1>0F</wid1>
-			<wid2>107</wid2>            	
+			<wid2>113</wid2>            	
 		</bus>
 
 
@@ -139,18 +110,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>81</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.96842956542969</lat>
-			<lon>-87.71162145278034</lon>
-			<pid>16550</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.965450286865234</lat>
+			<lon>-87.65815734863281</lon>
+			<pid>16551</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F125</run>
-			<fs>Wilson/Marine</fs>
+			<fs>Jefferson Park Blue Line</fs>
 			<op>64761</op>
-			<dip>15176</dip>
+			<dip>5867</dip>
 			<bid>2955</bid>				
 			<wid1>0F</wid1>
 			<wid2>125</wid2>            	
@@ -159,7 +130,7 @@
 
 
 		<bus>
-			<id>1554</id>    
+			<id>8249</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -168,27 +139,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>81</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.96855926513672</lat>
-			<lon>-87.69615969450578</lon>
-			<pid>16551</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.968318939208984</lat>
+			<lon>-87.72141166355298</lon>
+			<pid>16550</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F106</run>
-			<fs>Jefferson Park Blue Line</fs>
-			<op>39196</op>
-			<dip>18171</dip>
-			<bid>2951</bid>				
+			<run>F118</run>
+			<fs>Wilson/Marine</fs>
+			<op>49802</op>
+			<dip>12391</dip>
+			<bid>2961</bid>				
 			<wid1>0F</wid1>
-			<wid2>106</wid2>            	
+			<wid2>118</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1406</id>    
+			<id>8204</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -200,18 +171,18 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.96841812133789</lat>
-			<lon>-87.7128493569114</lon>
+			<lat>41.9687385559082</lat>
+			<lon>-87.67984880719867</lon>
 			<pid>16551</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F120</run>
+			<run>F115</run>
 			<fs>Jefferson Park Blue Line</fs>
-			<op>59542</op>
-			<dip>22934</dip>
-			<bid>2957</bid>				
+			<op>61376</op>
+			<dip>13370</dip>
+			<bid>2919</bid>				
 			<wid1>0F</wid1>
-			<wid2>120</wid2>            	
+			<wid2>115</wid2>            	
 		</bus>
 
 
@@ -226,18 +197,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>81</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.968719482421875</lat>
-			<lon>-87.68148378225473</lon>
-			<pid>16550</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.96863122888514</lat>
+			<lon>-87.68715997644372</lon>
+			<pid>16551</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F915</run>
-			<fs>Wilson/Marine</fs>
+			<fs>Jefferson Park Blue Line</fs>
 			<op>64757</op>
-			<dip>23874</dip>
+			<dip>15543</dip>
 			<bid>3029</bid>				
 			<wid1>0F</wid1>
 			<wid2>915</wid2>            	
@@ -246,7 +217,7 @@
 
 
 		<bus>
-			<id>1019</id>    
+			<id>1554</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -255,50 +226,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>81</rtdd>  
 			
-			<d>South West Bound</d>
+			<d>East Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>SSW</dn> 
-			<lat>41.965405993991425</lat>
-			<lon>-87.66942490471735</lon>
+			<dn>E</dn> 
+			<lat>41.96846008300781</lat>
+			<lon>-87.70874487835428</lon>
 			<pid>16550</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F111</run>
+			<run>F112</run>
 			<fs>Wilson/Marine</fs>
-			<op>40496</op>
-			<dip>28573</dip>
-			<bid>2917</bid>				
+			<op>52717</op>
+			<dip>15994</dip>
+			<bid>2951</bid>				
 			<wid1>0F</wid1>
-			<wid2>111</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8252</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>81</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>81</rtdd>  
-			
-			<d>North West Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.967745900154114</lat>
-			<lon>-87.65895581245422</lon>
-			<pid>16550</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F122</run>
-			<fs>Wilson/Marine</fs>
-			<op>61420</op>
-			<dip>32989</dip>
-			<bid>2958</bid>				
-			<wid1>0F</wid1>
-			<wid2>122</wid2>            	
+			<wid2>112</wid2>            	
 		</bus>
 
 
@@ -313,27 +255,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>81</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.967911971242806</lat>
-			<lon>-87.75840799432052</lon>
-			<pid>16551</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.96860885620117</lat>
+			<lon>-87.68896855534734</lon>
+			<pid>16550</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F105</run>
-			<fs>Jefferson Park Blue Line</fs>
-			<op>42295</op>
-			<dip>36231</dip>
+			<run>F123</run>
+			<fs>Wilson/Marine</fs>
+			<op>64399</op>
+			<dip>21698</dip>
 			<bid>2918</bid>				
 			<wid1>0F</wid1>
-			<wid2>105</wid2>            	
+			<wid2>123</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>8282</id>    
+			<id>1406</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -342,21 +284,108 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>81</rtdd>  
 			
-			<d>North Bound</d>
+			<d>East Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.96556091308594</lat>
-			<lon>-87.6484461939612</lon>
+			<dn>E</dn> 
+			<lat>41.96860885620117</lat>
+			<lon>-87.6888471036344</lon>
 			<pid>16550</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F110</run>
+			<run>F151</run>
 			<fs>Wilson/Marine</fs>
-			<op>44082</op>
-			<dip>38167</dip>
+			<op>40952</op>
+			<dip>21731</dip>
+			<bid>2957</bid>				
+			<wid1>0F</wid1>
+			<wid2>151</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1019</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>81</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>81</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.96841812133789</lat>
+			<lon>-87.71271260579427</lon>
+			<pid>16551</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F509</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>58761</op>
+			<dip>22878</dip>
+			<bid>2917</bid>				
+			<wid1>0F</wid1>
+			<wid2>509</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8252</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>81</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>81</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.96819326039907</lat>
+			<lon>-87.7324068224108</lon>
+			<pid>16551</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F122</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>61420</op>
+			<dip>28612</dip>
+			<bid>2958</bid>				
+			<wid1>0F</wid1>
+			<wid2>122</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8311</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>81</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>81</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>NW</dn> 
+			<lat>41.96968720598919</lat>
+			<lon>-87.76092789812786</lon>
+			<pid>16551</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F114</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>52581</op>
+			<dip>37295</dip>
 			<bid>2921</bid>				
 			<wid1>0F</wid1>
-			<wid2>110</wid2>            	
+			<wid2>114</wid2>            	
 		</bus>
 
 

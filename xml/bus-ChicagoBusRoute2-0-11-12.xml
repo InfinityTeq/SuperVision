@@ -39,9 +39,36 @@
 
 	<buses rt="2" rtRtpiFeedName="" rtdd="2"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
-		<hasService>false</hasService>
+
+		<bus>
+			<id>7990</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>2</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>2</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.86794662475586</lat>
+			<lon>-87.62049865722656</lon>
+			<pid>5528</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7317</run>
+			<fs>Cottage Grove/60th</fs>
+			<op>57122</op>
+			<dip>17204</dip>
+			<bid>2018</bid>				
+			<wid1>07</wid1>
+			<wid2>317</wid2>            	
+		</bus>
+
 
 
 	</buses>

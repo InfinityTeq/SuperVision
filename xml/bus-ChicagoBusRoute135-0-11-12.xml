@@ -39,9 +39,94 @@
 
 	<buses rt="135" rtRtpiFeedName="" rtdd="135"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
-		<hasService>false</hasService>
+
+		<bus>
+			<id>4104</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>135</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>135</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>E</dn> 
+			<lat>41.8868293762207</lat>
+			<lon>-87.62800584759628</lon>
+			<pid>4510</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P317</run>
+			<fs>Wilson/Clarendon</fs>
+			<op>58052</op>
+			<dip>5278</dip>
+			<bid>2294</bid>				
+			<wid1>0P</wid1>
+			<wid2>317</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1862</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>135</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>135</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.93003845214844</lat>
+			<lon>-87.63194274902344</lon>
+			<pid>4510</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P613</run>
+			<fs>Wilson/Clarendon</fs>
+			<op>58712</op>
+			<dip>26389</dip>
+			<bid>2271</bid>				
+			<wid1>0P</wid1>
+			<wid2>613</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1725</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>135</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>135</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.946319580078125</lat>
+			<lon>-87.64211856617646</lon>
+			<pid>4510</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P710</run>
+			<fs>Wilson/Clarendon</fs>
+			<op>61474</op>
+			<dip>33706</dip>
+			<bid>2465</bid>				
+			<wid1>0P</wid1>
+			<wid2>710</wid2>            	
+		</bus>
+
 
 
 	</buses>

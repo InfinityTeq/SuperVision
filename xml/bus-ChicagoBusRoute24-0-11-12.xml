@@ -39,7 +39,7 @@
 
 	<buses rt="24" rtRtpiFeedName="" rtdd="24"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
 
 		<bus>
@@ -55,53 +55,24 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.885318756103516</lat>
-			<lon>-87.63114166259766</lon>
+			<lat>41.85563558461715</lat>
+			<lon>-87.6302490234375</lon>
 			<pid>6778</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7212</run>
+			<run>7209</run>
 			<fs>87th</fs>
-			<op>50750</op>
-			<dip>50</dip>
+			<op>38749</op>
+			<dip>11047</dip>
 			<bid>2104</bid>				
 			<wid1>07</wid1>
-			<wid2>212</wid2>            	
+			<wid2>209</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1345</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>24</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>24</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNE</dn> 
-			<lat>41.75565719604492</lat>
-			<lon>-87.63249206542969</lon>
-			<pid>6775</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7202</run>
-			<fs>Wacker/Clark</fs>
-			<op>29967</op>
-			<dip>3902</dip>
-			<bid>1984</bid>				
-			<wid1>07</wid1>
-			<wid2>202</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1255</id>    
+			<id>7942</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -113,24 +84,24 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.83160333072438</lat>
-			<lon>-87.62982177734375</lon>
-			<pid>6775</pid>
+			<lat>41.77677187238421</lat>
+			<lon>-87.6300264630999</lon>
+			<pid>6772</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7213</run>
+			<run>7212</run>
 			<fs>Wacker/Clark</fs>
-			<op>44479</op>
-			<dip>31891</dip>
-			<bid>2106</bid>				
+			<op>37192</op>
+			<dip>22510</dip>
+			<bid>1984</bid>				
 			<wid1>07</wid1>
-			<wid2>213</wid2>            	
+			<wid2>212</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1220</id>    
+			<id>1245</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -139,21 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>24</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.79459987542568</lat>
-			<lon>-87.62986285869891</lon>
-			<pid>6778</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.869901929582866</lat>
+			<lon>-87.6304702758789</lon>
+			<pid>6772</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7203</run>
-			<fs>87th</fs>
-			<op>45060</op>
-			<dip>36407</dip>
-			<bid>1986</bid>				
+			<run>7211</run>
+			<fs>Wacker/Clark</fs>
+			<op>52192</op>
+			<dip>57346</dip>
+			<bid>2102</bid>				
 			<wid1>07</wid1>
-			<wid2>203</wid2>            	
+			<wid2>211</wid2>            	
 		</bus>
 
 
@@ -168,21 +139,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>24</rtdd>  
 			
-			<d>North Bound</d>
+			<d>South Bound</d>
 			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.86706215994699</lat>
-			<lon>-87.63037872314453</lon>
-			<pid>6775</pid>
+			<dn>S</dn> 
+			<lat>41.885325</lat>
+			<lon>-87.631315</lon>
+			<pid>6772</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7201</run>
+			<run>7210</run>
 			<fs>Wacker/Clark</fs>
-			<op>45097</op>
-			<dip>45521</dip>
+			<op>40451</op>
+			<dip>64737</dip>
 			<bid>1985</bid>				
 			<wid1>07</wid1>
-			<wid2>201</wid2>            	
+			<wid2>210</wid2>            	
 		</bus>
 
 

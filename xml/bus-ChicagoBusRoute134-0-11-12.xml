@@ -39,9 +39,65 @@
 
 	<buses rt="134" rtRtpiFeedName="" rtdd="134"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
-		<hasService>false</hasService>
+
+		<bus>
+			<id>1655</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>134</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>134</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.88620249430338</lat>
+			<lon>-87.6323979695638</lon>
+			<pid>4508</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K013</run>
+			<fs>Belmont</fs>
+			<op>53276</op>
+			<dip>3870</dip>
+			<bid>1707</bid>				
+			<wid1>0K</wid1>
+			<wid2>013</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1737</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>134</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>134</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>E</dn> 
+			<lat>41.887428283691406</lat>
+			<lon>-87.61498260498047</lon>
+			<pid>4508</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K455</run>
+			<fs>Belmont</fs>
+			<op>34219</op>
+			<dip>9126</dip>
+			<bid>1641</bid>				
+			<wid1>0K</wid1>
+			<wid2>455</wid2>            	
+		</bus>
+
 
 
 	</buses>

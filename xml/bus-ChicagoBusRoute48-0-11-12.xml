@@ -39,9 +39,94 @@
 
 	<buses rt="48" rtRtpiFeedName="" rtdd="48"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
-		<hasService>false</hasService>
+
+		<bus>
+			<id>1439</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>48</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>48</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.76536664095792</lat>
+			<lon>-87.67353959517045</lon>
+			<pid>7805</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6161</run>
+			<fs>87th/Damen</fs>
+			<op>66246</op>
+			<dip>19901</dip>
+			<bid>2587</bid>				
+			<wid1>06</wid1>
+			<wid2>161</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1401</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>48</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>48</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Northbound</dd> 
+			<dn>S</dn> 
+			<lat>41.80573203346946</lat>
+			<lon>-87.68434166185784</lon>
+			<pid>7804</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6162</run>
+			<fs>47th/Western Orange Line</fs>
+			<op>34386</op>
+			<dip>30630</dip>
+			<bid>2553</bid>				
+			<wid1>06</wid1>
+			<wid2>162</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1457</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>48</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>48</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.736407832095495</lat>
+			<lon>-87.67286441200658</lon>
+			<pid>7805</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6191</run>
+			<fs>87th/Damen</fs>
+			<op>45416</op>
+			<dip>30669</dip>
+			<bid>2789</bid>				
+			<wid1>06</wid1>
+			<wid2>191</wid2>            	
+		</bus>
+
 
 
 	</buses>

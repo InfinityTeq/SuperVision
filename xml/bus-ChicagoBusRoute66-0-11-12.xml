@@ -39,7 +39,36 @@
 
 	<buses rt="66" rtRtpiFeedName="" rtdd="66"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
+
+
+		<bus>
+			<id>4098</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>66</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>66</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.89183411774812</lat>
+			<lon>-87.61748561152706</lon>
+			<pid>6665</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5629</run>
+			<fs>Austin</fs>
+			<op>54105</op>
+			<dip>2251</dip>
+			<bid>1455</bid>				
+			<wid1>05</wid1>
+			<wid2>629</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -52,21 +81,79 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>66</rtdd>  
 			
-			<d>South Bound</d>
+			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>S</dn> 
-			<lat>41.892311096191406</lat>
-			<lon>-87.60999298095703</lon>
+			<dn>W</dn> 
+			<lat>41.89682388305664</lat>
+			<lon>-87.62202072143555</lon>
 			<pid>6665</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5609</run>
+			<run>5628</run>
 			<fs>Austin</fs>
-			<op>42839</op>
-			<dip>0</dip>
+			<op>37268</op>
+			<dip>5248</dip>
 			<bid>1477</bid>				
 			<wid1>05</wid1>
-			<wid2>609</wid2>            	
+			<wid2>628</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4125</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>66</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>66</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.89487838745117</lat>
+			<lon>-87.74597930908203</lon>
+			<pid>6662</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5625</run>
+			<fs>Navy Pier</fs>
+			<op>59541</op>
+			<dip>7806</dip>
+			<bid>1472</bid>				
+			<wid1>05</wid1>
+			<wid2>625</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1914</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>66</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>66</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.89659118652344</lat>
+			<lon>-87.63561657891758</lon>
+			<pid>6665</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5632</run>
+			<fs>Austin</fs>
+			<op>61222</op>
+			<dip>9031</dip>
+			<bid>1372</bid>				
+			<wid1>05</wid1>
+			<wid2>632</wid2>            	
 		</bus>
 
 
@@ -84,15 +171,15 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.89190673828125</lat>
-			<lon>-87.61804962158203</lon>
+			<lat>41.89652955943141</lat>
+			<lon>-87.63990165447366</lon>
 			<pid>6665</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5617</run>
 			<fs>Austin</fs>
 			<op>35143</op>
-			<dip>2349</dip>
+			<dip>10269</dip>
 			<bid>1517</bid>				
 			<wid1>05</wid1>
 			<wid2>617</wid2>            	
@@ -101,7 +188,7 @@
 
 
 		<bus>
-			<id>4121</id>    
+			<id>8116</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -113,18 +200,18 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.894831290611855</lat>
-			<lon>-87.76609655526968</lon>
+			<lat>41.89524459838867</lat>
+			<lon>-87.72640991210938</lon>
 			<pid>6662</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5612</run>
+			<run>5635</run>
 			<fs>Navy Pier</fs>
-			<op>44367</op>
-			<dip>2372</dip>
-			<bid>1576</bid>				
+			<op>66347</op>
+			<dip>13210</dip>
+			<bid>1558</bid>				
 			<wid1>05</wid1>
-			<wid2>612</wid2>            	
+			<wid2>635</wid2>            	
 		</bus>
 
 
@@ -142,47 +229,18 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.89672145843506</lat>
-			<lon>-87.62887687683106</lon>
+			<lat>41.89623734445283</lat>
+			<lon>-87.66144272775361</lon>
 			<pid>6665</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5604</run>
+			<run>5627</run>
 			<fs>Austin</fs>
-			<op>63388</op>
-			<dip>7109</dip>
+			<op>60640</op>
+			<dip>16385</dip>
 			<bid>1457</bid>				
 			<wid1>05</wid1>
-			<wid2>604</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4126</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>66</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>66</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.89487838745117</lat>
-			<lon>-87.74597930908203</lon>
-			<pid>6662</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5615</run>
-			<fs>Navy Pier</fs>
-			<op>43548</op>
-			<dip>7806</dip>
-			<bid>1468</bid>				
-			<wid1>05</wid1>
-			<wid2>615</wid2>            	
+			<wid2>627</wid2>            	
 		</bus>
 
 
@@ -200,18 +258,76 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.896541595458984</lat>
-			<lon>-87.63926471647669</lon>
+			<lat>41.89610466003418</lat>
+			<lon>-87.66593139648438</lon>
 			<pid>6665</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5616</run>
 			<fs>Austin</fs>
 			<op>44714</op>
-			<dip>10021</dip>
+			<dip>17622</dip>
 			<bid>1473</bid>				
 			<wid1>05</wid1>
 			<wid2>616</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4124</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>66</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>66</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Westbound</dd> 
+			<dn>S</dn> 
+			<lat>41.895646666666664</lat>
+			<lon>-87.667405</lon>
+			<pid>6665</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5644</run>
+			<fs>Austin</fs>
+			<op>63855</op>
+			<dip>18113</dip>
+			<bid>1476</bid>				
+			<wid1>05</wid1>
+			<wid2>644</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4126</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>66</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>66</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.89552307128906</lat>
+			<lon>-87.70651832955782</lon>
+			<pid>6662</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5633</run>
+			<fs>Navy Pier</fs>
+			<op>63446</op>
+			<dip>18709</dip>
+			<bid>1468</bid>				
+			<wid1>05</wid1>
+			<wid2>633</wid2>            	
 		</bus>
 
 
@@ -229,76 +345,18 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.89548873901367</lat>
-			<lon>-87.71134275548599</lon>
+			<lat>41.89556121826172</lat>
+			<lon>-87.70321197509766</lon>
 			<pid>6662</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5620</run>
 			<fs>Navy Pier</fs>
 			<op>52237</op>
-			<dip>17382</dip>
+			<dip>19618</dip>
 			<bid>1607</bid>				
 			<wid1>05</wid1>
 			<wid2>620</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8167</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>66</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>66</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.896088943481445</lat>
-			<lon>-87.66668579101562</lon>
-			<pid>6665</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5501</run>
-			<fs>Austin</fs>
-			<op>38956</op>
-			<dip>17829</dip>
-			<bid>1478</bid>				
-			<wid1>05</wid1>
-			<wid2>501</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1927</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>66</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>66</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.89575851940718</lat>
-			<lon>-87.68460345659099</lon>
-			<pid>6662</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5610</run>
-			<fs>Navy Pier</fs>
-			<op>43343</op>
-			<dip>24696</dip>
-			<bid>1593</bid>				
-			<wid1>05</wid1>
-			<wid2>610</wid2>            	
 		</bus>
 
 
@@ -316,24 +374,24 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.89564895629883</lat>
-			<lon>-87.7012417767499</lon>
+			<lat>41.89582443237305</lat>
+			<lon>-87.68589334639292</lon>
 			<pid>6665</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5605</run>
+			<run>5624</run>
 			<fs>Austin</fs>
-			<op>39115</op>
-			<dip>27692</dip>
+			<op>58155</op>
+			<dip>23469</dip>
 			<bid>1609</bid>				
 			<wid1>05</wid1>
-			<wid2>605</wid2>            	
+			<wid2>624</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1941</id>    
+			<id>8167</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -345,24 +403,24 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.89559751749039</lat>
-			<lon>-87.70583748817444</lon>
+			<lat>41.8957831894142</lat>
+			<lon>-87.687356589497</lon>
 			<pid>6665</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5614</run>
+			<run>5626</run>
 			<fs>Austin</fs>
-			<op>45240</op>
-			<dip>28929</dip>
-			<bid>1554</bid>				
+			<op>62311</op>
+			<dip>23880</dip>
+			<bid>1478</bid>				
 			<wid1>05</wid1>
-			<wid2>614</wid2>            	
+			<wid2>626</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1904</id>    
+			<id>1994</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -374,105 +432,18 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.896196061286375</lat>
-			<lon>-87.66026538351308</lon>
+			<lat>41.896488189697266</lat>
+			<lon>-87.63789749145508</lon>
 			<pid>6662</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5633</run>
+			<run>5507</run>
 			<fs>Navy Pier</fs>
-			<op>63446</op>
-			<dip>31378</dip>
-			<bid>1475</bid>				
+			<op>52716</op>
+			<dip>37533</dip>
+			<bid>1559</bid>				
 			<wid1>05</wid1>
-			<wid2>633</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1905</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>66</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>66</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.895269207838105</lat>
-			<lon>-87.73345900744927</lon>
-			<pid>6665</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5613</run>
-			<fs>Austin</fs>
-			<op>54186</op>
-			<dip>36497</dip>
-			<bid>1479</bid>				
-			<wid1>05</wid1>
-			<wid2>613</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4098</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>66</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>66</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>S</dn> 
-			<lat>41.89266226426611</lat>
-			<lon>-87.6100082397461</lon>
-			<pid>4603</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5634</run>
-			<fs>Navy Pier</fs>
-			<op>63565</op>
-			<dip>37186</dip>
-			<bid>1556</bid>				
-			<wid1>05</wid1>
-			<wid2>634</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>606</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>66</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>66</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.89652633666992</lat>
-			<lon>-87.63605499267578</lon>
-			<pid>6662</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5608</run>
-			<fs>Navy Pier</fs>
-			<op>25881</op>
-			<dip>38097</dip>
-			<bid>1482</bid>				
-			<wid1>05</wid1>
-			<wid2>608</wid2>            	
+			<wid2>507</wid2>            	
 		</bus>
 
 
@@ -490,24 +461,24 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.896636962890625</lat>
-			<lon>-87.62841415405273</lon>
+			<lat>41.896690368652344</lat>
+			<lon>-87.62458801269531</lon>
 			<pid>6662</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5611</run>
+			<run>5631</run>
 			<fs>Navy Pier</fs>
-			<op>39984</op>
-			<dip>40112</dip>
+			<op>52526</op>
+			<dip>41151</dip>
 			<bid>1570</bid>				
 			<wid1>05</wid1>
-			<wid2>611</wid2>            	
+			<wid2>631</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>605</id>    
+			<id>2010</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -516,56 +487,56 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>66</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>S</dn> 
-			<lat>41.89270257949829</lat>
-			<lon>-87.62032318115234</lon>
-			<pid>6662</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5607</run>
-			<fs>Navy Pier</fs>
-			<op>39919</op>
-			<dip>43737</dip>
-			<bid>1455</bid>				
-			<wid1>05</wid1>
-			<wid2>607</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8197</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>66</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>66</rtdd>  
-			
-			<d>East Bound</d>
+			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>E</dn> 
-			<lat>41.89509836832682</lat>
-			<lon>-87.77490234375</lon>
+			<dn>W</dn> 
+			<lat>41.89487266540527</lat>
+			<lon>-87.76455116271973</lon>
 			<pid>6665</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5636</run>
+			<run>5623</run>
 			<fs>Austin</fs>
-			<op>50528</op>
-			<dip>47915</dip>
-			<bid>1470</bid>				
+			<op>59593</op>
+			<dip>45020</dip>
+			<bid>1553</bid>				
 			<wid1>05</wid1>
-			<wid2>636</wid2>            	
+			<wid2>623</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>4125</id>    
+			<id>1941</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>66</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>66</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.894769032796226</lat>
+			<lon>-87.77075576782227</lon>
+			<pid>6665</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5831</run>
+			<fs>Austin</fs>
+			<op>64241</op>
+			<dip>46713</dip>
+			<bid>1554</bid>				
+			<wid1>05</wid1>
+			<wid2>831</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1905</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -577,18 +548,18 @@
 			<d>East Bound</d>
 			<dd>Westbound</dd> 
 			<dn>ENE</dn> 
-			<lat>41.89519200559522</lat>
-			<lon>-87.77473349649398</lon>
+			<lat>41.89514866813285</lat>
+			<lon>-87.77484493568295</lon>
 			<pid>6665</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5603</run>
+			<run>5634</run>
 			<fs>Austin</fs>
-			<op>38743</op>
-			<dip>47983</dip>
-			<bid>1472</bid>				
+			<op>63565</op>
+			<dip>47948</dip>
+			<bid>1479</bid>				
 			<wid1>05</wid1>
-			<wid2>603</wid2>            	
+			<wid2>634</wid2>            	
 		</bus>
 
 

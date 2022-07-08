@@ -39,36 +39,7 @@
 
 	<buses rt="10" rtRtpiFeedName="" rtdd="10"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
-
-
-		<bus>
-			<id>4003</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>10</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>10</rtdd>  
-			
-			<d>South West Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SW</dn> 
-			<lat>41.888285319010414</lat>
-			<lon>-87.62532636854384</lon>
-			<pid>8222</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K002</run>
-			<fs>Museum of Science &amp; Industry</fs>
-			<op>39448</op>
-			<dip>4605</dip>
-			<bid>1649</bid>				
-			<wid1>0K</wid1>
-			<wid2>002</wid2>            	
-		</bus>
-
+		<time>4:02 PM</time>
 
 
 		<bus>
@@ -81,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>10</rtdd>  
 			
-			<d>North West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.82188415527344</lat>
-			<lon>-87.59858703613281</lon>
-			<pid>8223</pid>
-			<pd>Northbound</pd> 
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.87310310032057</lat>
+			<lon>-87.62510913351308</lon>
+			<pid>8222</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K537</run>
-			<fs>Water Tower</fs>
-			<op>62068</op>
-			<dip>13733</dip>
+			<run>K010</run>
+			<fs>Museum of Science &amp; Industry</fs>
+			<op>40468</op>
+			<dip>11403</dip>
 			<bid>1812</bid>				
 			<wid1>0K</wid1>
-			<wid2>537</wid2>            	
+			<wid2>010</wid2>            	
 		</bus>
 
 
@@ -112,19 +83,48 @@
 			
 			<d>West Bound</d>
 			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.89841079711914</lat>
-			<lon>-87.62246704101562</lon>
+			<dn>WSW</dn> 
+			<lat>41.873294830322266</lat>
+			<lon>-87.62135314941406</lon>
 			<pid>8223</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K021</run>
+			<run>K006</run>
 			<fs>Water Tower</fs>
-			<op>44337</op>
-			<dip>46609</dip>
+			<op>34385</op>
+			<dip>33890</dip>
 			<bid>1715</bid>				
 			<wid1>0K</wid1>
-			<wid2>021</wid2>            	
+			<wid2>006</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4003</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>10</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>10</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.88797100170238</lat>
+			<lon>-87.62447357177734</lon>
+			<pid>8223</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K012</run>
+			<fs>Water Tower</fs>
+			<op>51886</op>
+			<dip>41914</dip>
+			<bid>1649</bid>				
+			<wid1>0K</wid1>
+			<wid2>012</wid2>            	
 		</bus>
 
 

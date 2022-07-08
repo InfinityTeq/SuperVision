@@ -39,11 +39,11 @@
 
 	<buses rt="94" rtRtpiFeedName="" rtdd="94"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
 
 		<bus>
-			<id>1480</id>    
+			<id>1565</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -60,245 +60,13 @@
 			<pid>14119</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6910</run>
+			<run>6914</run>
 			<fs>74th/Damen</fs>
-			<op>44366</op>
+			<op>52705</op>
 			<dip>61</dip>
-			<bid>2667</bid>				
+			<bid>2847</bid>				
 			<wid1>06</wid1>
-			<wid2>910</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1583</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>94</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>94</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.93087293099666</lat>
-			<lon>-87.69764366702756</lon>
-			<pid>14119</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6909</run>
-			<fs>74th/Damen</fs>
-			<op>34206</op>
-			<dip>7179</dip>
-			<bid>2671</bid>				
-			<wid1>06</wid1>
-			<wid2>909</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8018</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>94</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>94</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.89816190194392</lat>
-			<lon>-87.69697017946105</lon>
-			<pid>14119</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6908</run>
-			<fs>74th/Damen</fs>
-			<op>29453</op>
-			<dip>19185</dip>
-			<bid>2665</bid>				
-			<wid1>06</wid1>
-			<wid2>908</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1482</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>94</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>94</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>41.801212310791016</lat>
-			<lon>-87.68449020385742</lon>
-			<pid>14118</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6911</run>
-			<fs>Addison/Rockwell</fs>
-			<op>60835</op>
-			<dip>26812</dip>
-			<bid>2547</bid>				
-			<wid1>06</wid1>
-			<wid2>911</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8064</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>94</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>94</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.871614749615006</lat>
-			<lon>-87.69609832763672</lon>
-			<pid>14119</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6906</run>
-			<fs>74th/Damen</fs>
-			<op>58667</op>
-			<dip>31730</dip>
-			<bid>2669</bid>				
-			<wid1>06</wid1>
-			<wid2>906</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8082</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>94</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>94</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.813793475811295</lat>
-			<lon>-87.6943599994366</lon>
-			<pid>14118</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6928</run>
-			<fs>Addison/Rockwell</fs>
-			<op>45452</op>
-			<dip>34468</dip>
-			<bid>2674</bid>				
-			<wid1>06</wid1>
-			<wid2>928</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1427</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>94</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>94</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.83751678466797</lat>
-			<lon>-87.69509887695312</lon>
-			<pid>14119</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6905</run>
-			<fs>74th/Damen</fs>
-			<op>44778</op>
-			<dip>44133</dip>
-			<bid>2555</bid>				
-			<wid1>06</wid1>
-			<wid2>905</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1468</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>94</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>94</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.876103663790055</lat>
-			<lon>-87.69615173339844</lon>
-			<pid>14118</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6925</run>
-			<fs>Addison/Rockwell</fs>
-			<op>52828</op>
-			<dip>57288</dip>
-			<bid>2844</bid>				
-			<wid1>06</wid1>
-			<wid2>925</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8000</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>94</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>94</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.88717524210612</lat>
-			<lon>-87.70142364501953</lon>
-			<pid>14118</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6926</run>
-			<fs>Addison/Rockwell</fs>
-			<op>34195</op>
-			<dip>62685</dip>
-			<bid>2676</bid>				
-			<wid1>06</wid1>
-			<wid2>926</wid2>            	
+			<wid2>914</wid2>            	
 		</bus>
 
 
@@ -316,18 +84,47 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.79615498860677</lat>
-			<lon>-87.69389628092448</lon>
+			<lat>41.92674966958853</lat>
+			<lon>-87.69753984304575</lon>
 			<pid>14119</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6774</run>
+			<run>6915</run>
 			<fs>74th/Damen</fs>
-			<op>35121</op>
-			<dip>64828</dip>
+			<op>53240</op>
+			<dip>8731</dip>
 			<bid>2851</bid>				
 			<wid1>06</wid1>
-			<wid2>774</wid2>            	
+			<wid2>915</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1476</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>94</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>94</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.78460767375889</lat>
+			<lon>-87.6934891885786</lon>
+			<pid>14118</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6922</run>
+			<fs>Addison/Rockwell</fs>
+			<op>54107</op>
+			<dip>18216</dip>
+			<bid>2841</bid>				
+			<wid1>06</wid1>
+			<wid2>922</wid2>            	
 		</bus>
 
 
@@ -342,21 +139,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>94</rtdd>  
 			
-			<d>North Bound</d>
+			<d>South Bound</d>
 			<dd>Southbound</dd> 
-			<dn>N</dn> 
-			<lat>41.76520856221517</lat>
-			<lon>-87.68319702148438</lon>
+			<dn>S</dn> 
+			<lat>41.89237815455387</lat>
+			<lon>-87.70199584960938</lon>
 			<pid>14119</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6903</run>
+			<run>6913</run>
 			<fs>74th/Damen</fs>
-			<op>66333</op>
-			<dip>79328</dip>
+			<op>52484</op>
+			<dip>22731</dip>
 			<bid>2551</bid>				
 			<wid1>06</wid1>
-			<wid2>903</wid2>            	
+			<wid2>913</wid2>            	
 		</bus>
 
 
@@ -371,21 +168,166 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>94</rtdd>  
 			
-			<d>West Bound</d>
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.822163529829545</lat>
+			<lon>-87.69465637207031</lon>
+			<pid>14118</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6920</run>
+			<fs>Addison/Rockwell</fs>
+			<op>58546</op>
+			<dip>37571</dip>
+			<bid>2677</bid>				
+			<wid1>06</wid1>
+			<wid2>920</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8018</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>94</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>94</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.87188186645508</lat>
+			<lon>-87.69600677490234</lon>
+			<pid>14118</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6919</run>
+			<fs>Addison/Rockwell</fs>
+			<op>53260</op>
+			<dip>55742</dip>
+			<bid>2671</bid>				
+			<wid1>06</wid1>
+			<wid2>919</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1482</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>94</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>94</rtdd>  
+			
+			<d>South Bound</d>
 			<dd>Southbound</dd> 
-			<dn>WSW</dn> 
-			<lat>41.758673333333334</lat>
-			<lon>-87.67044333333334</lon>
+			<dn>S</dn> 
+			<lat>41.80165481567383</lat>
+			<lon>-87.68427658081055</lon>
 			<pid>14119</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6902</run>
+			<run>6911</run>
 			<fs>74th/Damen</fs>
-			<op>31425</op>
-			<dip>87337</dip>
-			<bid>2849</bid>				
+			<op>60835</op>
+			<dip>60183</dip>
+			<bid>2547</bid>				
 			<wid1>06</wid1>
-			<wid2>902</wid2>            	
+			<wid2>911</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8082</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>94</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>94</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.78513901809166</lat>
+			<lon>-87.69358825683594</lon>
+			<pid>14119</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6928</run>
+			<fs>74th/Damen</fs>
+			<op>45452</op>
+			<dip>68832</dip>
+			<bid>2674</bid>				
+			<wid1>06</wid1>
+			<wid2>928</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8064</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>94</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>94</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.944659734176376</lat>
+			<lon>-87.69408416748047</lon>
+			<pid>14118</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6917</run>
+			<fs>Addison/Rockwell</fs>
+			<op>52848</op>
+			<dip>87835</dip>
+			<bid>2669</bid>				
+			<wid1>06</wid1>
+			<wid2>917</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1427</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>94</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>94</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.94620333333334</lat>
+			<lon>-87.69408</lon>
+			<pid>14118</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6942</run>
+			<fs>Addison/Rockwell</fs>
+			<op>49475</op>
+			<dip>88290</dip>
+			<bid>2555</bid>				
+			<wid1>06</wid1>
+			<wid2>942</wid2>            	
 		</bus>
 
 

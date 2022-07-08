@@ -39,7 +39,123 @@
 
 	<buses rt="18" rtRtpiFeedName="" rtdd="18"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
+
+
+		<bus>
+			<id>1692</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>18</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>18</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.85875701904297</lat>
+			<lon>-87.73314666748047</lon>
+			<pid>3916</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K169</run>
+			<fs>Michigan Avenue</fs>
+			<op>52573</op>
+			<dip>2949</dip>
+			<bid>1901</bid>				
+			<wid1>0K</wid1>
+			<wid2>169</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1640</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>18</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>18</rtdd>  
+			
+			<d>North East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>ENE</dn> 
+			<lat>41.864348900027395</lat>
+			<lon>-87.6867562270746</lon>
+			<pid>3916</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K167</run>
+			<fs>Michigan Avenue</fs>
+			<op>52436</op>
+			<dip>16413</dip>
+			<bid>1896</bid>				
+			<wid1>0K</wid1>
+			<wid2>167</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1685</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>18</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>18</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WSW</dn> 
+			<lat>41.8597469329834</lat>
+			<lon>-87.7006332397461</lon>
+			<pid>3918</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K165</run>
+			<fs>16th/Cicero</fs>
+			<op>52284</op>
+			<dip>27325</dip>
+			<bid>1905</bid>				
+			<wid1>0K</wid1>
+			<wid2>165</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1659</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>18</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>18</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.85797119140625</lat>
+			<lon>-87.65587162971497</lon>
+			<pid>3916</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K166</run>
+			<fs>Michigan Avenue</fs>
+			<op>52049</op>
+			<dip>27588</dip>
+			<bid>1904</bid>				
+			<wid1>0K</wid1>
+			<wid2>166</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,53 +171,24 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.86738967895508</lat>
-			<lon>-87.6363754272461</lon>
+			<lat>41.85887145996094</lat>
+			<lon>-87.72955347280033</lon>
 			<pid>3918</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K161</run>
+			<run>K164</run>
 			<fs>16th/Cicero</fs>
-			<op>44335</op>
-			<dip>2656</dip>
+			<op>45750</op>
+			<dip>35366</dip>
 			<bid>1897</bid>				
 			<wid1>0K</wid1>
-			<wid2>161</wid2>            	
+			<wid2>164</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1640</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>18</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>18</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.85755157470703</lat>
-			<lon>-87.68095397949219</lon>
-			<pid>3918</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K604</run>
-			<fs>16th/Cicero</fs>
-			<op>36521</op>
-			<dip>18556</dip>
-			<bid>1896</bid>				
-			<wid1>0K</wid1>
-			<wid2>604</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1693</id>    
+			<id>1617</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -113,76 +200,18 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.85755393618629</lat>
-			<lon>-87.68073272705078</lon>
+			<lat>41.867171803458795</lat>
+			<lon>-87.63872740698642</lon>
 			<pid>3916</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K162</run>
+			<run>K168</run>
 			<fs>Michigan Avenue</fs>
-			<op>39279</op>
-			<dip>20821</dip>
-			<bid>1902</bid>				
+			<op>52478</op>
+			<dip>35777</dip>
+			<bid>1899</bid>				
 			<wid1>0K</wid1>
-			<wid2>162</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1659</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>18</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>18</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.85887145996094</lat>
-			<lon>-87.72675196329753</lon>
-			<pid>3918</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K606</run>
-			<fs>16th/Cicero</fs>
-			<op>36520</op>
-			<dip>34584</dip>
-			<bid>1904</bid>				
-			<wid1>0K</wid1>
-			<wid2>606</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1685</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>18</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>18</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.867134441028945</lat>
-			<lon>-87.64287636496805</lon>
-			<pid>3916</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K165</run>
-			<fs>Michigan Avenue</fs>
-			<op>52284</op>
-			<dip>34651</dip>
-			<bid>1905</bid>				
-			<wid1>0K</wid1>
-			<wid2>165</wid2>            	
+			<wid2>168</wid2>            	
 		</bus>
 
 

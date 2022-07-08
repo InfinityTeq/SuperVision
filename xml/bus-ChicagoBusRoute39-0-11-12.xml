@@ -39,7 +39,65 @@
 
 	<buses rt="39" rtRtpiFeedName="" rtdd="39"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
+
+
+		<bus>
+			<id>1613</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>39</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>39</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>S</dn> 
+			<lat>41.829177742573755</lat>
+			<lon>-87.68069606040841</lon>
+			<pid>7556</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K360</run>
+			<fs>Lake Park</fs>
+			<op>56576</op>
+			<dip>10174</dip>
+			<bid>1808</bid>				
+			<wid1>0K</wid1>
+			<wid2>360</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1623</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>39</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>39</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Westbound</dd> 
+			<dn>S</dn> 
+			<lat>41.825126442857965</lat>
+			<lon>-87.63138686969717</lon>
+			<pid>7555</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K359</run>
+			<fs>St. Louis</fs>
+			<op>40701</op>
+			<dip>15627</dip>
+			<bid>1803</bid>				
+			<wid1>0K</wid1>
+			<wid2>359</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -52,50 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>39</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.82314682006836</lat>
-			<lon>-87.66390609741211</lon>
-			<pid>7556</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K351</run>
-			<fs>Lake Park</fs>
-			<op>31383</op>
-			<dip>18416</dip>
-			<bid>1801</bid>				
-			<wid1>0K</wid1>
-			<wid2>351</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1621</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>39</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>39</rtdd>  
-			
-			<d>West Bound</d>
+			<d>South West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.82324896918403</lat>
-			<lon>-87.6651611328125</lon>
+			<dn>SW</dn> 
+			<lat>41.82348432379254</lat>
+			<lon>-87.68906803454382</lon>
 			<pid>7555</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K353</run>
+			<run>K361</run>
 			<fs>St. Louis</fs>
-			<op>49733</op>
-			<dip>25314</dip>
-			<bid>1802</bid>				
+			<op>29949</op>
+			<dip>36634</dip>
+			<bid>1801</bid>				
 			<wid1>0K</wid1>
-			<wid2>353</wid2>            	
+			<wid2>361</wid2>            	
 		</bus>
 
 
@@ -110,21 +139,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>39</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>ENE</dn> 
-			<lat>41.82388354885963</lat>
-			<lon>-87.6068095545615</lon>
-			<pid>7556</pid>
-			<pd>Eastbound</pd> 
+			<d>South Bound</d>
+			<dd>Westbound</dd> 
+			<dn>S</dn> 
+			<lat>41.8236083984375</lat>
+			<lon>-87.71186828613281</lon>
+			<pid>7555</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K242</run>
-			<fs>Lake Park</fs>
-			<op>52447</op>
-			<dip>42804</dip>
+			<run>K357</run>
+			<fs>St. Louis</fs>
+			<op>53970</op>
+			<dip>43756</dip>
 			<bid>1806</bid>				
 			<wid1>0K</wid1>
-			<wid2>242</wid2>            	
+			<wid2>357</wid2>            	
 		</bus>
 
 
@@ -139,21 +168,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>39</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Westbound</dd> 
-			<dn>S</dn> 
-			<lat>41.823586666666664</lat>
-			<lon>-87.71184666666667</lon>
-			<pid>7555</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.82225777552678</lat>
+			<lon>-87.6039816049429</lon>
+			<pid>7556</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K362</run>
-			<fs>St. Louis</fs>
-			<op>30016</op>
-			<dip>43756</dip>
+			<run>K358</run>
+			<fs>Lake Park</fs>
+			<op>38699</op>
+			<dip>44237</dip>
 			<bid>1804</bid>				
 			<wid1>0K</wid1>
-			<wid2>362</wid2>            	
+			<wid2>358</wid2>            	
 		</bus>
 
 

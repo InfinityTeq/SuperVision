@@ -39,7 +39,7 @@
 
 	<buses rt="43" rtRtpiFeedName="" rtdd="43"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
 
 		<bus>
@@ -52,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>43</rtdd>  
 			
-			<d>East Bound</d>
+			<d>South Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.816368103027344</lat>
-			<lon>-87.63341522216797</lon>
+			<dn>S</dn> 
+			<lat>41.816851070949006</lat>
+			<lon>-87.63354083469936</lon>
 			<pid>8179</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7765</run>
+			<run>7768</run>
 			<fs>Lake Park</fs>
-			<op>33985</op>
-			<dip>4929</dip>
+			<op>36358</op>
+			<dip>4729</dip>
 			<bid>1948</bid>				
 			<wid1>07</wid1>
-			<wid2>765</wid2>            	
+			<wid2>768</wid2>            	
 		</bus>
 
 
@@ -81,21 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>43</rtdd>  
 			
-			<d>South Bound</d>
+			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>S</dn> 
-			<lat>41.81386184692383</lat>
-			<lon>-87.63115692138672</lon>
+			<dn>W</dn> 
+			<lat>41.81643295288086</lat>
+			<lon>-87.63062888697574</lon>
 			<pid>8180</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7753</run>
+			<run>7761</run>
 			<fs>42nd/Halsted</fs>
-			<op>37192</op>
-			<dip>10602</dip>
+			<op>32492</op>
+			<dip>9548</dip>
 			<bid>1937</bid>				
 			<wid1>07</wid1>
-			<wid2>753</wid2>            	
+			<wid2>761</wid2>            	
 		</bus>
 
 
@@ -110,21 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>43</rtdd>  
 			
-			<d>East Bound</d>
+			<d>North West Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.816829681396484</lat>
-			<lon>-87.60243742806571</lon>
+			<dn>NNW</dn> 
+			<lat>41.81729507446289</lat>
+			<lon>-87.59780143289005</lon>
 			<pid>8179</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7771</run>
+			<run>7765</run>
 			<fs>Lake Park</fs>
-			<op>40767</op>
-			<dip>18853</dip>
+			<op>33985</op>
+			<dip>20267</dip>
 			<bid>1940</bid>				
 			<wid1>07</wid1>
-			<wid2>771</wid2>            	
+			<wid2>765</wid2>            	
 		</bus>
 
 

@@ -39,7 +39,7 @@
 
 	<buses rt="71" rtRtpiFeedName="" rtdd="71"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
 
 		<bus>
@@ -52,79 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>71</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>E</dn> 
-			<lat>41.766092351965</lat>
-			<lon>-87.57375933672931</lon>
-			<pid>7029</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.703098392486574</lat>
+			<lon>-87.55952453613281</lon>
+			<pid>7032</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1745</run>
-			<fs>112th/Torrence</fs>
-			<op>30958</op>
-			<dip>16407</dip>
+			<run>1752</run>
+			<fs>69th Red Line</fs>
+			<op>38820</op>
+			<dip>3894</dip>
 			<bid>1183</bid>				
 			<wid1>01</wid1>
-			<wid2>745</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1102</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>71</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>71</rtdd>  
-			
-			<d>South East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SSE</dn> 
-			<lat>41.74447837242713</lat>
-			<lon>-87.55262565612793</lon>
-			<pid>7029</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1744</run>
-			<fs>112th/Torrence</fs>
-			<op>34485</op>
-			<dip>30425</dip>
-			<bid>1182</bid>				
-			<wid1>01</wid1>
-			<wid2>744</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8332</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>71</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>71</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.73420938952216</lat>
-			<lon>-87.55137634277344</lon>
-			<pid>7029</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1755</run>
-			<fs>112th/Torrence</fs>
-			<op>51888</op>
-			<dip>34307</dip>
-			<bid>1190</bid>				
-			<wid1>01</wid1>
-			<wid2>755</wid2>            	
+			<wid2>752</wid2>            	
 		</bus>
 
 
@@ -139,21 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>71</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.76601028442383</lat>
-			<lon>-87.59127616882324</lon>
-			<pid>7032</pid>
-			<pd>Northbound</pd> 
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.7657356262207</lat>
+			<lon>-87.61254119873047</lon>
+			<pid>7029</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1748</run>
-			<fs>69th Red Line</fs>
-			<op>58033</op>
-			<dip>40550</dip>
+			<run>1753</run>
+			<fs>112th/Torrence</fs>
+			<op>50749</op>
+			<dip>5526</dip>
 			<bid>1186</bid>				
 			<wid1>01</wid1>
-			<wid2>748</wid2>            	
+			<wid2>753</wid2>            	
 		</bus>
 
 
@@ -168,21 +110,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>71</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.76596546173096</lat>
-			<lon>-87.59532846723285</lon>
-			<pid>7032</pid>
-			<pd>Northbound</pd> 
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.76603485366046</lat>
+			<lon>-87.58128214690645</lon>
+			<pid>7028</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1758</run>
-			<fs>69th Red Line</fs>
+			<fs>104th/Torrence</fs>
 			<op>56592</op>
-			<dip>41704</dip>
+			<dip>14319</dip>
 			<bid>1180</bid>				
 			<wid1>01</wid1>
 			<wid2>758</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8326</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>71</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>71</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.72972106933594</lat>
+			<lon>-87.55116729736328</lon>
+			<pid>7032</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1751</run>
+			<fs>69th Red Line</fs>
+			<op>50820</op>
+			<dip>15229</dip>
+			<bid>1182</bid>				
+			<wid1>01</wid1>
+			<wid2>751</wid2>            	
 		</bus>
 
 
@@ -197,21 +168,108 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>71</rtdd>  
 			
-			<d>West Bound</d>
+			<d>South East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SE</dn> 
+			<lat>41.75687551498413</lat>
+			<lon>-87.55326700210571</lon>
+			<pid>7029</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1760</run>
+			<fs>112th/Torrence</fs>
+			<op>49864</op>
+			<dip>24158</dip>
+			<bid>1184</bid>				
+			<wid1>01</wid1>
+			<wid2>760</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8332</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>71</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>71</rtdd>  
+			
+			<d>North West Bound</d>
 			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.7688102722168</lat>
-			<lon>-87.62586724953573</lon>
+			<dn>NW</dn> 
+			<lat>41.75268035004105</lat>
+			<lon>-87.54877339238706</lon>
 			<pid>7032</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1747</run>
+			<run>1754</run>
 			<fs>69th Red Line</fs>
-			<op>34336</op>
-			<dip>51342</dip>
-			<bid>1184</bid>				
+			<op>45411</op>
+			<dip>25067</dip>
+			<bid>1190</bid>				
 			<wid1>01</wid1>
-			<wid2>747</wid2>            	
+			<wid2>754</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1133</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>71</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>71</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.76711654663086</lat>
+			<lon>-87.62498474121094</lon>
+			<pid>7032</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1761</run>
+			<fs>69th Red Line</fs>
+			<op>65722</op>
+			<dip>50516</dip>
+			<bid>1189</bid>				
+			<wid1>01</wid1>
+			<wid2>761</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1076</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>71</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>71</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.69288</lat>
+			<lon>-87.55978166666667</lon>
+			<pid>7029</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1762</run>
+			<fs>112th/Torrence</fs>
+			<op>65810</op>
+			<dip>50974</dip>
+			<bid>1191</bid>				
+			<wid1>01</wid1>
+			<wid2>762</wid2>            	
 		</bus>
 
 

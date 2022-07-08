@@ -39,36 +39,7 @@
 
 	<buses rt="96" rtRtpiFeedName="" rtdd="96"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
-
-
-		<bus>
-			<id>1749</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>96</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>96</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>42.008472031813405</lat>
-			<lon>-87.69734555757962</lon>
-			<pid>2107</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P044</run>
-			<fs>Morse Red Line</fs>
-			<op>54343</op>
-			<dip>13863</dip>
-			<bid>2323</bid>				
-			<wid1>0P</wid1>
-			<wid2>044</wid2>            	
-		</bus>
-
+		<time>4:02 PM</time>
 
 
 		<bus>
@@ -84,18 +55,76 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>42.01193700517927</lat>
-			<lon>-87.70682144165039</lon>
+			<lat>42.009063720703125</lat>
+			<lon>-87.67279815673828</lon>
 			<pid>2104</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P047</run>
+			<run>P056</run>
 			<fs>Devon/Kedzie</fs>
-			<op>36512</op>
-			<dip>15118</dip>
+			<op>60391</op>
+			<dip>4538</dip>
 			<bid>2327</bid>				
 			<wid1>0P</wid1>
-			<wid2>047</wid2>            	
+			<wid2>056</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1767</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>96</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>96</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>42.012046813964844</lat>
+			<lon>-87.70041722836702</lon>
+			<pid>2107</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P053</run>
+			<fs>Morse Red Line</fs>
+			<op>58591</op>
+			<dip>11752</dip>
+			<bid>2331</bid>				
+			<wid1>0P</wid1>
+			<wid2>053</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1749</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>96</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>96</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>N</dn> 
+			<lat>41.99753952026367</lat>
+			<lon>-87.7099723815918</lon>
+			<pid>2104</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P051</run>
+			<fs>Devon/Kedzie</fs>
+			<op>57175</op>
+			<dip>24731</dip>
+			<bid>2323</bid>				
+			<wid1>0P</wid1>
+			<wid2>051</wid2>            	
 		</bus>
 
 

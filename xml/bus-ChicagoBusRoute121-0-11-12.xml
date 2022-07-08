@@ -39,9 +39,9 @@
 
 	<buses rt="121" rtRtpiFeedName="" rtdd="121"> <!-- @11 @16 -->
 
-		<time>1:14 PM</time>
+		<time>4:02 PM</time>
 
-		<hasService>false</hasService>
+		<hasService>true</hasService>
 
 
 	</buses>
