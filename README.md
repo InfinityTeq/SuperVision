@@ -71,14 +71,24 @@ SuperVision's open source magic allows us to do so much more than what propriata
 ## What Can SuperVision Track?
 
 ### Cameras
+
+---
+
 <!-- camera footage of cosmo -->
 ![Cosmo Camera](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/cosmo-cam.png)
+
+---
 
 SuperVision is capable of plotting traffic, security, and other cameras on its map. The above is a photo of a traffic camera showing developer [Blue Cosmo][ccs] at an intersection. This shows the vast amount of possible surveillance with a tool as simple as this.
 
 ### Live Data
+
+---
+
 <!-- buses in chicago -->
 ![Chicago Buses](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/chicago-buses.png?raw=true)
+
+---
 
 SuperVision is capable of plotting live data. Above we can see the current positions of buses in chicago. Every 10 seconds SuperVision will update any data that it has plotted live for a more consistent flow of where certain live data is on the map.
 
