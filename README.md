@@ -88,3 +88,7 @@ SuperVision is capable of plotting live data. Above we can see the current posit
 
 ## Credits
 The original concept comes from an old friend of mine, Shepherd. He had the idea to map specific camera locations to kml files and map them on Google Earth. I joined the project and discovered methods of automatically mapping data instead of doing such a thing manually. But after a falling out I took the project to the next step by creating a dynamic mapping environment outside of Google Earth. This has allowed me to map not only all the cameras simultaneously, but also to map live data in real time.
+
+---
+
+© 2022 by Cosmodium CyberSecurity, LLC
