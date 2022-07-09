@@ -1,0 +1,422 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="8" rtRtpiFeedName="" rtdd="8"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>1212</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.94980239868164</lat>
+			<lon>-87.64897918701172</lon>
+			<pid>9368</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7633</run>
+			<fs>79th</fs>
+			<op>60314</op>
+			<dip>43</dip>
+			<bid>374</bid>				
+			<wid1>07</wid1>
+			<wid2>633</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1324</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.75067603588104</lat>
+			<lon>-87.64402973651886</lon>
+			<pid>9376</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7638</run>
+			<fs>Waveland/Broadway</fs>
+			<op>61687</op>
+			<dip>507</dip>
+			<bid>368</bid>				
+			<wid1>07</wid1>
+			<wid2>638</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1368</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.927068437848774</lat>
+			<lon>-87.64881896972656</lon>
+			<pid>9368</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7805</run>
+			<fs>79th</fs>
+			<op>55058</op>
+			<dip>9260</dip>
+			<bid>422</bid>				
+			<wid1>07</wid1>
+			<wid2>805</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1255</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.79615826076932</lat>
+			<lon>-87.64521026611328</lon>
+			<pid>9376</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7803</run>
+			<fs>Waveland/Broadway</fs>
+			<op>52876</op>
+			<dip>18330</dip>
+			<bid>377</bid>				
+			<wid1>07</wid1>
+			<wid2>803</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1220</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.89582308600931</lat>
+			<lon>-87.64781188964844</lon>
+			<pid>9368</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7806</run>
+			<fs>79th</fs>
+			<op>58603</op>
+			<dip>21262</dip>
+			<bid>373</bid>				
+			<wid1>07</wid1>
+			<wid2>806</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1369</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.8805824591189</lat>
+			<lon>-87.64732360839844</lon>
+			<pid>9368</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7625</run>
+			<fs>79th</fs>
+			<op>58766</op>
+			<dip>27140</dip>
+			<bid>511</bid>				
+			<wid1>07</wid1>
+			<wid2>625</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>7982</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.81867753698471</lat>
+			<lon>-87.64573669433594</lon>
+			<pid>9376</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7810</run>
+			<fs>Waveland/Broadway</fs>
+			<op>58748</op>
+			<dip>27151</dip>
+			<bid>509</bid>				
+			<wid1>07</wid1>
+			<wid2>810</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1276</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.818940825381524</lat>
+			<lon>-87.64573669433594</lon>
+			<pid>9376</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7809</run>
+			<fs>Waveland/Broadway</fs>
+			<op>52425</op>
+			<dip>27221</dip>
+			<bid>370</bid>				
+			<wid1>07</wid1>
+			<wid2>809</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1336</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SW</dn> 
+			<lat>41.84682302272066</lat>
+			<lon>-87.64780718214969</lon>
+			<pid>9368</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7629</run>
+			<fs>79th</fs>
+			<op>45608</op>
+			<dip>40393</dip>
+			<bid>372</bid>				
+			<wid1>07</wid1>
+			<wid2>629</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>7949</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.809785570417134</lat>
+			<lon>-87.64554959251767</lon>
+			<pid>9368</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7309</run>
+			<fs>79th</fs>
+			<op>56533</op>
+			<dip>55778</dip>
+			<bid>507</bid>				
+			<wid1>07</wid1>
+			<wid2>309</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>7956</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.919543500216506</lat>
+			<lon>-87.64855294857385</lon>
+			<pid>9376</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7314</run>
+			<fs>Waveland/Broadway</fs>
+			<op>60321</op>
+			<dip>67080</dip>
+			<bid>375</bid>				
+			<wid1>07</wid1>
+			<wid2>314</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1325</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.94139296433021</lat>
+			<lon>-87.64932224668306</lon>
+			<pid>9376</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7635</run>
+			<fs>Waveland/Broadway</fs>
+			<op>61604</op>
+			<dip>75610</dip>
+			<bid>508</bid>				
+			<wid1>07</wid1>
+			<wid2>635</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>7971</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>8</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>8</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.74997666666667</lat>
+			<lon>-87.64311833333333</lon>
+			<pid>9368</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7620</run>
+			<fs>79th</fs>
+			<op>63861</op>
+			<dip>79564</dip>
+			<bid>510</bid>				
+			<wid1>07</wid1>
+			<wid2>620</wid2>            	
+		</bus>
+
+
+
+	</buses>

@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="90" rtRtpiFeedName="" rtdd="90"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>1035</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>90</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>90</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.969496898162056</lat>
+			<lon>-87.8071517944336</lon>
+			<pid>5917</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F305</run>
+			<fs>Harlem Green Line</fs>
+			<op>50322</op>
+			<dip>5506</dip>
+			<bid>851</bid>				
+			<wid1>0F</wid1>
+			<wid2>305</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1380</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>90</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>90</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.92849622453962</lat>
+			<lon>-87.80640644929846</lon>
+			<pid>2944</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F301</run>
+			<fs>Harlem Blue Line</fs>
+			<op>31371</op>
+			<dip>16635</dip>
+			<bid>852</bid>				
+			<wid1>0F</wid1>
+			<wid2>301</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1352</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>90</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>90</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.89114659007003</lat>
+			<lon>-87.80511809558404</lon>
+			<pid>5917</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F302</run>
+			<fs>Harlem Green Line</fs>
+			<op>31471</op>
+			<dip>36489</dip>
+			<bid>853</bid>				
+			<wid1>0F</wid1>
+			<wid2>302</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8238</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>90</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>90</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>41.886795</lat>
+			<lon>-87.80315333333333</lon>
+			<pid>5917</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F304</run>
+			<fs>Harlem Green Line</fs>
+			<op>61391</op>
+			<dip>40203</dip>
+			<bid>849</bid>				
+			<wid1>0F</wid1>
+			<wid2>304</wid2>            	
+		</bus>
+
+
+
+	</buses>

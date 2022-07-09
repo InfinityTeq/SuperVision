@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="56" rtRtpiFeedName="" rtdd="56"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>8204</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>56</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>56</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SE</dn> 
+			<lat>41.96397018432617</lat>
+			<lon>-87.75749969482422</lon>
+			<pid>1971</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F509</run>
+			<fs>Washington/Michigan</fs>
+			<op>60949</op>
+			<dip>2609</dip>
+			<bid>840</bid>				
+			<wid1>0F</wid1>
+			<wid2>509</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8267</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>56</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>56</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NW</dn> 
+			<lat>41.889570236206055</lat>
+			<lon>-87.64510574340821</lon>
+			<pid>1970</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F504</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>39612</op>
+			<dip>8302</dip>
+			<bid>905</bid>				
+			<wid1>0F</wid1>
+			<wid2>504</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8220</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>56</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>56</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SE</dn> 
+			<lat>41.925133420709976</lat>
+			<lon>-87.70103923061438</lon>
+			<pid>1971</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F501</run>
+			<fs>Washington/Michigan</fs>
+			<op>43472</op>
+			<dip>25848</dip>
+			<bid>948</bid>				
+			<wid1>0F</wid1>
+			<wid2>501</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8345</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>56</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>56</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NW</dn> 
+			<lat>41.9267459771572</lat>
+			<lon>-87.70351859850761</lon>
+			<pid>1970</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F503</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>58797</op>
+			<dip>29809</dip>
+			<bid>934</bid>				
+			<wid1>0F</wid1>
+			<wid2>503</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8294</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>56</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>56</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SE</dn> 
+			<lat>41.89656604420055</lat>
+			<lon>-87.65565213290128</lon>
+			<pid>1971</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F507</run>
+			<fs>Washington/Michigan</fs>
+			<op>61341</op>
+			<dip>42322</dip>
+			<bid>921</bid>				
+			<wid1>0F</wid1>
+			<wid2>507</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8297</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>56</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>56</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Northbound</dd> 
+			<dn>S</dn> 
+			<lat>41.97000591571514</lat>
+			<lon>-87.76133375901442</lon>
+			<pid>1970</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F502</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>58787</op>
+			<dip>52830</dip>
+			<bid>873</bid>				
+			<wid1>0F</wid1>
+			<wid2>502</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8251</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>56</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>56</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>SSW</dn> 
+			<lat>41.97000482347276</lat>
+			<lon>-87.761476304796</lon>
+			<pid>1970</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F508</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>61636</op>
+			<dip>52882</dip>
+			<bid>882</bid>				
+			<wid1>0F</wid1>
+			<wid2>508</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8284</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>56</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>56</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.883209228515625</lat>
+			<lon>-87.62651824951172</lon>
+			<pid>1971</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F841</run>
+			<fs>Washington/Michigan</fs>
+			<op>58790</op>
+			<dip>53556</dip>
+			<bid>837</bid>				
+			<wid1>0F</wid1>
+			<wid2>841</wid2>            	
+		</bus>
+
+
+
+	</buses>

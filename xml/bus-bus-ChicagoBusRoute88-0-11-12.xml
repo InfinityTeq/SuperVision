@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="88" rtRtpiFeedName="" rtdd="88"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>8309</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>88</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>88</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>ESE</dn> 
+			<lat>41.97418128837973</lat>
+			<lon>-87.78122284452795</lon>
+			<pid>4672</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F903</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>52165</op>
+			<dip>16860</dip>
+			<bid>864</bid>				
+			<wid1>0F</wid1>
+			<wid2>903</wid2>            	
+		</bus>
+
+
+
+	</buses>

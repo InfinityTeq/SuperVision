@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="147" rtRtpiFeedName="" rtdd="147"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>4349</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>42.01925277709961</lat>
+			<lon>-87.66634368896484</lon>
+			<pid>4525</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P508</run>
+			<fs>Michigan/Balbo</fs>
+			<op>58594</op>
+			<dip>2787</dip>
+			<bid>584</bid>				
+			<wid1>0P</wid1>
+			<wid2>508</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4147</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.87900342941284</lat>
+			<lon>-87.62762451171875</lon>
+			<pid>4524</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P708</run>
+			<fs>Howard Station</fs>
+			<op>58786</op>
+			<dip>2852</dip>
+			<bid>600</bid>				
+			<wid1>0P</wid1>
+			<wid2>708</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4106</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.977928161621094</lat>
+			<lon>-87.65513749556108</lon>
+			<pid>4522</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P308</run>
+			<fs>Congress Plaza</fs>
+			<op>58311</op>
+			<dip>8879</dip>
+			<bid>650</bid>				
+			<wid1>0P</wid1>
+			<wid2>308</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4399</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.89817029779608</lat>
+			<lon>-87.6240234375</lon>
+			<pid>4524</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P717</run>
+			<fs>Howard Station</fs>
+			<op>58506</op>
+			<dip>10850</dip>
+			<bid>541</bid>				
+			<wid1>0P</wid1>
+			<wid2>717</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4377</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.99020661978886</lat>
+			<lon>-87.65538156443628</lon>
+			<pid>4525</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P718</run>
+			<fs>Michigan/Balbo</fs>
+			<op>43611</op>
+			<dip>15294</dip>
+			<bid>522</bid>				
+			<wid1>0P</wid1>
+			<wid2>718</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4358</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.901214599609375</lat>
+			<lon>-87.62421417236328</lon>
+			<pid>4521</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P705</run>
+			<fs>Michigan/Balbo</fs>
+			<op>58123</op>
+			<dip>39488</dip>
+			<bid>562</bid>				
+			<wid1>0P</wid1>
+			<wid2>705</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4149</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.90684127807617</lat>
+			<lon>-87.62532806396484</lon>
+			<pid>4526</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P715</run>
+			<fs>Congress Plaza</fs>
+			<op>58793</op>
+			<dip>48414</dip>
+			<bid>564</bid>				
+			<wid1>0P</wid1>
+			<wid2>715</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4395</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.873331666666665</lat>
+			<lon>-87.62417833333333</lon>
+			<pid>4521</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P703</run>
+			<fs>Michigan/Balbo</fs>
+			<op>38461</op>
+			<dip>50020</dip>
+			<bid>601</bid>				
+			<wid1>0P</wid1>
+			<wid2>703</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4336</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>147</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>147</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.88486168601296</lat>
+			<lon>-87.62457067316228</lon>
+			<pid>4526</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P710</run>
+			<fs>Congress Plaza</fs>
+			<op>57780</op>
+			<dip>56765</dip>
+			<bid>596</bid>				
+			<wid1>0P</wid1>
+			<wid2>710</wid2>            	
+		</bus>
+
+
+
+	</buses>

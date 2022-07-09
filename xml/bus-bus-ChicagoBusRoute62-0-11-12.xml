@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="62" rtRtpiFeedName="" rtdd="62"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>1410</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.883201599121094</lat>
+			<lon>-87.62786102294922</lon>
+			<pid>12431</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6207</run>
+			<fs>Pulaski Orange Line</fs>
+			<op>59596</op>
+			<dip>2096</dip>
+			<bid>798</bid>				
+			<wid1>06</wid1>
+			<wid2>207</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8070</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>ENE</dn> 
+			<lat>41.79414614509134</lat>
+			<lon>-87.77213646383846</lon>
+			<pid>7111</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6202</run>
+			<fs>Kinzie/State</fs>
+			<op>45446</op>
+			<dip>7866</dip>
+			<bid>729</bid>				
+			<wid1>06</wid1>
+			<wid2>202</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1530</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>WSW</dn> 
+			<lat>41.84842777252197</lat>
+			<lon>-87.64361890157063</lon>
+			<pid>12431</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6205</run>
+			<fs>Pulaski Orange Line</fs>
+			<op>37465</op>
+			<dip>18376</dip>
+			<bid>816</bid>				
+			<wid1>06</wid1>
+			<wid2>205</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1506</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SW</dn> 
+			<lat>41.8248426881555</lat>
+			<lon>-87.68689560563597</lon>
+			<pid>7120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6201</run>
+			<fs>Harlem</fs>
+			<op>52484</op>
+			<dip>33612</dip>
+			<bid>726</bid>				
+			<wid1>06</wid1>
+			<wid2>201</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1489</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Northbound</dd> 
+			<dn>S</dn> 
+			<lat>41.889251708984375</lat>
+			<lon>-87.62860751152039</lon>
+			<pid>12430</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6210</run>
+			<fs>Kinzie/State</fs>
+			<op>60690</op>
+			<dip>49543</dip>
+			<bid>801</bid>				
+			<wid1>06</wid1>
+			<wid2>210</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1451</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>WSW</dn> 
+			<lat>41.795135310438816</lat>
+			<lon>-87.76637655789735</lon>
+			<pid>7120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6203</run>
+			<fs>Harlem</fs>
+			<op>53107</op>
+			<dip>60522</dip>
+			<bid>692</bid>				
+			<wid1>06</wid1>
+			<wid2>203</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1569</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>62</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>62</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.87002517927939</lat>
+			<lon>-87.62743377685547</lon>
+			<pid>7111</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6206</run>
+			<fs>Kinzie/State</fs>
+			<op>50178</op>
+			<dip>62292</dip>
+			<bid>757</bid>				
+			<wid1>06</wid1>
+			<wid2>206</wid2>            	
+		</bus>
+
+
+
+	</buses>

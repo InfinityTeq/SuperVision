@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="10" rtRtpiFeedName="" rtdd="10"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>4065</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>10</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>10</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>41.89841842651367</lat>
+			<lon>-87.62239074707031</lon>
+			<pid>8222</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K008</run>
+			<fs>Museum of Science &amp; Industry</fs>
+			<op>57083</op>
+			<dip>41</dip>
+			<bid>276</bid>				
+			<wid1>0K</wid1>
+			<wid2>008</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4066</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>10</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>10</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.884547805786134</lat>
+			<lon>-87.62781524658203</lon>
+			<pid>8223</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K010</run>
+			<fs>Water Tower</fs>
+			<op>29557</op>
+			<dip>39675</dip>
+			<bid>277</bid>				
+			<wid1>0K</wid1>
+			<wid2>010</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4094</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>10</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>10</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SSE</dn> 
+			<lat>41.798526763916016</lat>
+			<lon>-87.58106994628906</lon>
+			<pid>8222</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K001</run>
+			<fs>Museum of Science &amp; Industry</fs>
+			<op>51886</op>
+			<dip>42617</dip>
+			<bid>278</bid>				
+			<wid1>0K</wid1>
+			<wid2>001</wid2>            	
+		</bus>
+
+
+
+	</buses>

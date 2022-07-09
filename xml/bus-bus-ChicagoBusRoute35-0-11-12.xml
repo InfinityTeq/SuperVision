@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="35" rtRtpiFeedName="" rtdd="35"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>1853</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>35</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>35</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>S</dn> 
+			<lat>41.843284606933594</lat>
+			<lon>-87.74412536621094</lon>
+			<pid>14102</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K305</run>
+			<fs>31st Street Beach</fs>
+			<op>58334</op>
+			<dip>1441</dip>
+			<bid>265</bid>				
+			<wid1>0K</wid1>
+			<wid2>305</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1004</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>35</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>35</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.8312328338623</lat>
+			<lon>-87.61617813110351</lon>
+			<pid>7205</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K301</run>
+			<fs>24th Pl/Cicero</fs>
+			<op>34390</op>
+			<dip>8122</dip>
+			<bid>263</bid>				
+			<wid1>0K</wid1>
+			<wid2>301</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1630</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>35</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>35</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>S</dn> 
+			<lat>41.82990124760842</lat>
+			<lon>-87.70458221435547</lon>
+			<pid>14102</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K307</run>
+			<fs>31st Street Beach</fs>
+			<op>58018</op>
+			<dip>17901</dip>
+			<bid>365</bid>				
+			<wid1>0K</wid1>
+			<wid2>307</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1716</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>35</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>35</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.830479747844194</lat>
+			<lon>-87.6708601465765</lon>
+			<pid>7205</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K303</run>
+			<fs>24th Pl/Cicero</fs>
+			<op>29278</op>
+			<dip>23156</dip>
+			<bid>264</bid>				
+			<wid1>0K</wid1>
+			<wid2>303</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1759</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>35</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>35</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.831050872802734</lat>
+			<lon>-87.62187363119686</lon>
+			<pid>14102</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K308</run>
+			<fs>31st Street Beach</fs>
+			<op>64609</op>
+			<dip>43394</dip>
+			<bid>335</bid>				
+			<wid1>0K</wid1>
+			<wid2>308</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1607</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>35</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>35</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.839081666666665</lat>
+			<lon>-87.60782166666667</lon>
+			<pid>14102</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K306</run>
+			<fs>31st Street Beach</fs>
+			<op>58020</op>
+			<dip>50365</dip>
+			<bid>334</bid>				
+			<wid1>0K</wid1>
+			<wid2>306</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1654</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>35</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>35</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>N</dn> 
+			<lat>41.84315872192383</lat>
+			<lon>-87.74383544921875</lon>
+			<pid>7205</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K302</run>
+			<fs>24th Pl/Cicero</fs>
+			<op>30876</op>
+			<dip>51608</dip>
+			<bid>262</bid>				
+			<wid1>0K</wid1>
+			<wid2>302</wid2>            	
+		</bus>
+
+
+
+	</buses>

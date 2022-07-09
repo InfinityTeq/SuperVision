@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="21" rtRtpiFeedName="" rtdd="21"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>4091</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>21</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>21</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.8504524230957</lat>
+			<lon>-87.79418027573738</lon>
+			<pid>4555</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K907</run>
+			<fs>Mercy Hospital</fs>
+			<op>29764</op>
+			<dip>4890</dip>
+			<bid>337</bid>				
+			<wid1>0K</wid1>
+			<wid2>907</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4000</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>21</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>21</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.85202508223684</lat>
+			<lon>-87.69055737947163</lon>
+			<pid>4557</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K951</run>
+			<fs>North Riverside Mall</fs>
+			<op>64993</op>
+			<dip>23020</dip>
+			<bid>359</bid>				
+			<wid1>0K</wid1>
+			<wid2>951</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4043</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>21</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>21</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.85144184253834</lat>
+			<lon>-87.72494916562681</lon>
+			<pid>4555</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K906</run>
+			<fs>Mercy Hospital</fs>
+			<op>55788</op>
+			<dip>23718</dip>
+			<bid>363</bid>				
+			<wid1>0K</wid1>
+			<wid2>906</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4093</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>21</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>21</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.8516878092064</lat>
+			<lon>-87.7174866874263</lon>
+			<pid>4557</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K910</run>
+			<fs>North Riverside Mall</fs>
+			<op>58536</op>
+			<dip>30602</dip>
+			<bid>282</bid>				
+			<wid1>0K</wid1>
+			<wid2>910</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4001</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>21</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>21</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.85207072171298</lat>
+			<lon>-87.68311275135387</lon>
+			<pid>4555</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K902</run>
+			<fs>Mercy Hospital</fs>
+			<op>30941</op>
+			<dip>35279</dip>
+			<bid>362</bid>				
+			<wid1>0K</wid1>
+			<wid2>902</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4198</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>21</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>21</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.850691544382194</lat>
+			<lon>-87.79036913420025</lon>
+			<pid>4557</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K905</run>
+			<fs>North Riverside Mall</fs>
+			<op>56513</op>
+			<dip>50926</dip>
+			<bid>331</bid>				
+			<wid1>0K</wid1>
+			<wid2>905</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4101</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>21</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>21</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Westbound</dd> 
+			<dn>E</dn> 
+			<lat>41.848108333333336</lat>
+			<lon>-87.80919333333334</lon>
+			<pid>4557</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K901</run>
+			<fs>North Riverside Mall</fs>
+			<op>31283</op>
+			<dip>57237</dip>
+			<bid>332</bid>				
+			<wid1>0K</wid1>
+			<wid2>901</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4095</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>21</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>21</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.847470159116</lat>
+			<lon>-87.62349667756453</lon>
+			<pid>4555</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K909</run>
+			<fs>Mercy Hospital</fs>
+			<op>54109</op>
+			<dip>57759</dip>
+			<bid>360</bid>				
+			<wid1>0K</wid1>
+			<wid2>909</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4008</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>21</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>21</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.847554896428036</lat>
+			<lon>-87.6228032038762</lon>
+			<pid>4555</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K908</run>
+			<fs>Mercy Hospital</fs>
+			<op>60542</op>
+			<dip>57923</dip>
+			<bid>336</bid>				
+			<wid1>0K</wid1>
+			<wid2>908</wid2>            	
+		</bus>
+
+
+
+	</buses>

@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="81" rtRtpiFeedName="" rtdd="81"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>8250</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>81</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>81</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.96541673486883</lat>
+			<lon>-87.65891040455212</lon>
+			<pid>16551</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F102</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>57090</op>
+			<dip>6073</dip>
+			<bid>938</bid>				
+			<wid1>0F</wid1>
+			<wid2>102</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8300</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>81</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>81</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.968623599490606</lat>
+			<lon>-87.68816705652185</lon>
+			<pid>16551</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F108</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>33783</op>
+			<dip>15813</dip>
+			<bid>940</bid>				
+			<wid1>0F</wid1>
+			<wid2>108</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1208</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>81</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>81</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.9683952331543</lat>
+			<lon>-87.70867156982422</lon>
+			<pid>16550</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F109</run>
+			<fs>Wilson/Marine</fs>
+			<op>62584</op>
+			<dip>16003</dip>
+			<bid>910</bid>				
+			<wid1>0F</wid1>
+			<wid2>109</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8232</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>81</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>81</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>S</dn> 
+			<lat>41.968823313713074</lat>
+			<lon>-87.66951870918274</lon>
+			<pid>16550</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F005</run>
+			<fs>Wilson/Marine</fs>
+			<op>51994</op>
+			<dip>27341</dip>
+			<bid>937</bid>				
+			<wid1>0F</wid1>
+			<wid2>005</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1584</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>81</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>81</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.96821975708008</lat>
+			<lon>-87.72987330510067</lon>
+			<pid>16551</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F106</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>44828</op>
+			<dip>27868</dip>
+			<bid>843</bid>				
+			<wid1>0F</wid1>
+			<wid2>106</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8348</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>81</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>81</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.968040466308594</lat>
+			<lon>-87.74661075367646</lon>
+			<pid>16551</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F111</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>62524</op>
+			<dip>32802</dip>
+			<bid>875</bid>				
+			<wid1>0F</wid1>
+			<wid2>111</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1557</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>81</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>81</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>SSW</dn> 
+			<lat>41.9700962413441</lat>
+			<lon>-87.76152870871805</lon>
+			<pid>16551</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F110</run>
+			<fs>Jefferson Park Blue Line</fs>
+			<op>62648</op>
+			<dip>37508</dip>
+			<bid>941</bid>				
+			<wid1>0F</wid1>
+			<wid2>110</wid2>            	
+		</bus>
+
+
+
+	</buses>

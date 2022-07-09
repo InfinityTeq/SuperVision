@@ -1,0 +1,596 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="9" rtRtpiFeedName="" rtdd="9"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>8018</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.7209314288515</lat>
+			<lon>-87.66261291503906</lon>
+			<pid>9372</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6019</run>
+			<fs>Irving Park</fs>
+			<op>30930</op>
+			<dip>350</dip>
+			<bid>664</bid>				
+			<wid1>06</wid1>
+			<wid2>019</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8007</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.94924029969332</lat>
+			<lon>-87.66897409004078</lon>
+			<pid>1600</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6026</run>
+			<fs>95th</fs>
+			<op>57635</op>
+			<dip>4814</dip>
+			<bid>660</bid>				
+			<wid1>06</wid1>
+			<wid2>026</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8050</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.739951804832174</lat>
+			<lon>-87.66309413203487</lon>
+			<pid>9372</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6012</run>
+			<fs>Irving Park</fs>
+			<op>58081</op>
+			<dip>7290</dip>
+			<bid>819</bid>				
+			<wid1>06</wid1>
+			<wid2>012</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8071</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.93902875666033</lat>
+			<lon>-87.66871643066406</lon>
+			<pid>1600</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6023</run>
+			<fs>95th</fs>
+			<op>58564</op>
+			<dip>8642</dip>
+			<bid>668</bid>				
+			<wid1>06</wid1>
+			<wid2>023</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1445</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.79951963424683</lat>
+			<lon>-87.66463470458984</lon>
+			<pid>9372</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6824</run>
+			<fs>Irving Park</fs>
+			<op>30996</op>
+			<dip>29151</dip>
+			<bid>671</bid>				
+			<wid1>06</wid1>
+			<wid2>824</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1405</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.87367580247962</lat>
+			<lon>-87.66665914784308</lon>
+			<pid>1600</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6021</run>
+			<fs>95th</fs>
+			<op>58226</op>
+			<dip>32880</dip>
+			<bid>657</bid>				
+			<wid1>06</wid1>
+			<wid2>021</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8092</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.827392759777254</lat>
+			<lon>-87.66540817987351</lon>
+			<pid>9372</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6007</run>
+			<fs>Irving Park</fs>
+			<op>50806</op>
+			<dip>39358</dip>
+			<bid>654</bid>				
+			<wid1>06</wid1>
+			<wid2>007</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8057</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.84734420776367</lat>
+			<lon>-87.66600799560547</lon>
+			<pid>1600</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6020</run>
+			<fs>95th</fs>
+			<op>51852</op>
+			<dip>42697</dip>
+			<bid>667</bid>				
+			<wid1>06</wid1>
+			<wid2>020</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8077</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.83406352996826</lat>
+			<lon>-87.66573333740234</lon>
+			<pid>1600</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6022</run>
+			<fs>95th</fs>
+			<op>58298</op>
+			<dip>48348</dip>
+			<bid>658</bid>				
+			<wid1>06</wid1>
+			<wid2>022</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8067</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.85533485412598</lat>
+			<lon>-87.66597518920898</lon>
+			<pid>9372</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6009</run>
+			<fs>Irving Park</fs>
+			<op>45650</op>
+			<dip>50237</dip>
+			<bid>685</bid>				
+			<wid1>06</wid1>
+			<wid2>009</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8085</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.81782150268555</lat>
+			<lon>-87.6652603149414</lon>
+			<pid>1600</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6018</run>
+			<fs>95th</fs>
+			<op>58001</op>
+			<dip>54296</dip>
+			<bid>666</bid>				
+			<wid1>06</wid1>
+			<wid2>018</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1411</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.88177602431353</lat>
+			<lon>-87.66669733384076</lon>
+			<pid>9372</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6004</run>
+			<fs>Irving Park</fs>
+			<op>N/A</op>
+			<dip>60051</dip>
+			<bid>662</bid>				
+			<wid1>06</wid1>
+			<wid2>004</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8223</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.88526955297438</lat>
+			<lon>-87.66679472842459</lon>
+			<pid>9372</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6030</run>
+			<fs>Irving Park</fs>
+			<op>63036</op>
+			<dip>61306</dip>
+			<bid>818</bid>				
+			<wid1>06</wid1>
+			<wid2>030</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1427</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.921553421020505</lat>
+			<lon>-87.66853790283203</lon>
+			<pid>9372</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6006</run>
+			<fs>Irving Park</fs>
+			<op>50179</op>
+			<dip>74578</dip>
+			<bid>684</bid>				
+			<wid1>06</wid1>
+			<wid2>006</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8060</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.75390577316284</lat>
+			<lon>-87.66360759735107</lon>
+			<pid>1600</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6017</run>
+			<fs>95th</fs>
+			<op>57035</op>
+			<dip>77497</dip>
+			<bid>655</bid>				
+			<wid1>06</wid1>
+			<wid2>017</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8069</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.735090356124076</lat>
+			<lon>-87.66316223144531</lon>
+			<pid>1600</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6013</run>
+			<fs>95th</fs>
+			<op>57061</op>
+			<dip>84584</dip>
+			<bid>665</bid>				
+			<wid1>06</wid1>
+			<wid2>013</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8093</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.955846017865994</lat>
+			<lon>-87.66316018175723</lon>
+			<pid>9372</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6003</run>
+			<fs>Irving Park</fs>
+			<op>38980</op>
+			<dip>89110</dip>
+			<bid>669</bid>				
+			<wid1>06</wid1>
+			<wid2>003</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1502</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.95590113170111</lat>
+			<lon>-87.66319525419776</lon>
+			<pid>9372</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6005</run>
+			<fs>Irving Park</fs>
+			<op>52426</op>
+			<dip>89133</dip>
+			<bid>661</bid>				
+			<wid1>06</wid1>
+			<wid2>005</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8016</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>9</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>9</rtdd>  
+			
+			<d>South West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SSW</dn> 
+			<lat>41.720481872558594</lat>
+			<lon>-87.6629409790039</lon>
+			<pid>1600</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6010</run>
+			<fs>95th</fs>
+			<op>58021</op>
+			<dip>89832</dip>
+			<bid>656</bid>				
+			<wid1>06</wid1>
+			<wid2>010</wid2>            	
+		</bus>
+
+
+
+	</buses>

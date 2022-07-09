@@ -130,7 +130,7 @@ function get_indexes (filepath, item, index_range) {
 
 // plot vehicle data
 transit = [];
-function add_transit (filepath, item, name, id_index, lat_index, lon_index) {
+function add_transit (icon_name, filepath, item, name, id_index, lat_index, lon_index) {
     for (var i=0; i<transit.length; i++) {
         MAP.removeLayer(transit[i]);
     }
@@ -161,20 +161,15 @@ function add_transit (filepath, item, name, id_index, lat_index, lon_index) {
 
             var vehicle = new L.Marker([latitude, longitude], options, popup=name);
 
-            var icon = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "bus", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
-            );
+            // var icon = L.AwesomeMarkers.icon(
+            //     {"extraClasses": "fa-rotate-0", "icon": "bus", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            // );
 
-                 
-            // var icon = L.icon({
-            //     iconUrl: '/assets/bus.svg',
-            //     iconSize: [38, 95],
-            //     iconAnchor: [22, 94],
-            //     popupAnchor: [-3, -76],
-            //     // shadowUrl: 'my-icon-shadow.png',
-            //     shadowSize: [68, 95],
-            //     shadowAnchor: [22, 94]
-            // })
+            var icon = L.icon({
+                iconUrl: '/assets/' + icon_name + '.png',
+                iconSize: [40, 40],
+                popupAnchor: [-3, -76],
+            })
 
             vehicle.setIcon(icon);
             
@@ -199,13 +194,14 @@ L.control.liveupdate ({
              console.log(filepath);
            
             var args = filename.split("-");
-            var item = args[0];
-            var name = args[1];
-            var id = args[2];
-            var lat = args[3];
-            var lon = args[4].split(".")[0];
+            var icon_name = args[0];
+            var item = args[1];
+            var name = args[2];
+            var id = args[3];
+            var lat = args[4];
+            var lon = args[5].split(".")[0];
 
-            add_transit(filepath, item, name, id, lat, lon)
+            add_transit(icon_name, filepath, item, name, id, lat, lon)
         }
 
         console.log('updated')

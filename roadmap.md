@@ -3,12 +3,17 @@
     - [x] specify '/bus', '/train', etc. in '/xml'
     - [x] specific names can be used to make unique transit data
     - [ ] add each to their own feature group
-    - [ ] custom icons
+    - [x] custom icons
 - [ ] possible transits to map
     - [ ] trains
-    - [X] buses
+    - [x] buses
     - [ ] planes?
     - [ ] taxi/uber services
     - [ ] ems/police
     - [ ] shodan api
 - [ ] thumbails for cameras
+- [ ] cleanup custom map name if possible
+- [ ] documentation
+    - [ ] custom map
+    - [ ] all map features
+- [ ] change images to github asset links for consistency

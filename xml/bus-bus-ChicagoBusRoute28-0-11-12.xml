@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="28" rtRtpiFeedName="" rtdd="28"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>1198</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>28</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>28</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.7349516435103</lat>
+			<lon>-87.58509063720703</lon>
+			<pid>10941</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1805</run>
+			<fs>47th/Lake Park</fs>
+			<op>57680</op>
+			<dip>11067</dip>
+			<bid>63</bid>				
+			<wid1>01</wid1>
+			<wid2>805</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1192</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>28</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>28</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.74657183680041</lat>
+			<lon>-87.5859375</lon>
+			<pid>2156</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1804</run>
+			<fs>Stony Island/103rd</fs>
+			<op>57023</op>
+			<dip>23672</dip>
+			<bid>111</bid>				
+			<wid1>01</wid1>
+			<wid2>804</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1146</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>28</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>28</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>W</dn> 
+			<lat>41.79281449317932</lat>
+			<lon>-87.5865957736969</lon>
+			<pid>10941</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1808</run>
+			<fs>47th/Lake Park</fs>
+			<op>60422</op>
+			<dip>32675</dip>
+			<bid>112</bid>				
+			<wid1>01</wid1>
+			<wid2>808</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1119</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>28</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>28</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.79513931274414</lat>
+			<lon>-87.58745193481445</lon>
+			<pid>10941</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1802</run>
+			<fs>47th/Lake Park</fs>
+			<op>37094</op>
+			<dip>33828</dip>
+			<bid>33</bid>				
+			<wid1>01</wid1>
+			<wid2>802</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1178</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>28</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>28</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>ENE</dn> 
+			<lat>41.708553314208984</lat>
+			<lon>-87.58123016357422</lon>
+			<pid>2156</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1807</run>
+			<fs>Stony Island/103rd</fs>
+			<op>N/A</op>
+			<dip>40764</dip>
+			<bid>113</bid>				
+			<wid1>01</wid1>
+			<wid2>807</wid2>            	
+		</bus>
+
+
+
+	</buses>

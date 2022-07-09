@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="43" rtRtpiFeedName="" rtdd="43"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>1277</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>43</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>43</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>W</dn> 
+			<lat>41.81760025024414</lat>
+			<lon>-87.64556884765625</lon>
+			<pid>8179</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7751</run>
+			<fs>Lake Park</fs>
+			<op>49526</op>
+			<dip>15</dip>
+			<bid>506</bid>				
+			<wid1>07</wid1>
+			<wid2>751</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>7939</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>43</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>43</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.816904476710725</lat>
+			<lon>-87.59967504228864</lon>
+			<pid>8179</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7752</run>
+			<fs>Lake Park</fs>
+			<op>40556</op>
+			<dip>19621</dip>
+			<bid>480</bid>				
+			<wid1>07</wid1>
+			<wid2>752</wid2>            	
+		</bus>
+
+
+
+	</buses>

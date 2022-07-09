@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="49" rtRtpiFeedName="" rtdd="49"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>1568</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.765687084198</lat>
+			<lon>-87.68316650390625</lon>
+			<pid>1180</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6705</run>
+			<fs>Berwyn</fs>
+			<op>51232</op>
+			<dip>5524</dip>
+			<bid>803</bid>				
+			<wid1>06</wid1>
+			<wid2>705</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8034</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.96212629171518</lat>
+			<lon>-87.68878936767578</lon>
+			<pid>1178</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6024</run>
+			<fs>79th</fs>
+			<op>58546</op>
+			<dip>6102</dip>
+			<bid>696</bid>				
+			<wid1>06</wid1>
+			<wid2>024</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8000</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.790530395507815</lat>
+			<lon>-87.68386840820312</lon>
+			<pid>1180</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6718</run>
+			<fs>Berwyn</fs>
+			<op>61561</op>
+			<dip>14608</dip>
+			<bid>738</bid>				
+			<wid1>06</wid1>
+			<wid2>718</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1536</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.921520137786864</lat>
+			<lon>-87.68760890960694</lon>
+			<pid>1178</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6312</run>
+			<fs>79th</fs>
+			<op>58337</op>
+			<dip>21006</dip>
+			<bid>740</bid>				
+			<wid1>06</wid1>
+			<wid2>312</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1764</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.910404205322266</lat>
+			<lon>-87.6872787475586</lon>
+			<pid>1178</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P804</run>
+			<fs>79th</fs>
+			<op>54963</op>
+			<dip>25130</dip>
+			<bid>565</bid>				
+			<wid1>0P</wid1>
+			<wid2>804</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8043</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.81943368911743</lat>
+			<lon>-87.68465423583984</lon>
+			<pid>1180</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6704</run>
+			<fs>Berwyn</fs>
+			<op>56630</op>
+			<dip>25178</dip>
+			<bid>734</bid>				
+			<wid1>06</wid1>
+			<wid2>704</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1524</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.84487638473511</lat>
+			<lon>-87.68534069061279</lon>
+			<pid>1180</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6822</run>
+			<fs>Berwyn</fs>
+			<op>52708</op>
+			<dip>34514</dip>
+			<bid>741</bid>				
+			<wid1>06</wid1>
+			<wid2>822</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1482</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.884157493932925</lat>
+			<lon>-87.68658208135349</lon>
+			<pid>1178</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6477</run>
+			<fs>79th</fs>
+			<op>57033</op>
+			<dip>34727</dip>
+			<bid>725</bid>				
+			<wid1>06</wid1>
+			<wid2>477</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1523</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.877863514180085</lat>
+			<lon>-87.68626699642259</lon>
+			<pid>1180</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P720</run>
+			<fs>Berwyn</fs>
+			<op>58343</op>
+			<dip>46632</dip>
+			<bid>599</bid>				
+			<wid1>0P</wid1>
+			<wid2>720</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8214</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.913261318206786</lat>
+			<lon>-87.68720455169678</lon>
+			<pid>1180</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6702</run>
+			<fs>Berwyn</fs>
+			<op>50489</op>
+			<dip>59605</dip>
+			<bid>736</bid>				
+			<wid1>06</wid1>
+			<wid2>702</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1515</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.93163909912109</lat>
+			<lon>-87.68781280517578</lon>
+			<pid>1180</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P311</run>
+			<fs>Berwyn</fs>
+			<op>58161</op>
+			<dip>66330</dip>
+			<bid>619</bid>				
+			<wid1>0P</wid1>
+			<wid2>311</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8021</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.96602411270142</lat>
+			<lon>-87.68870029449462</lon>
+			<pid>1180</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6404</run>
+			<fs>Berwyn</fs>
+			<op>56694</op>
+			<dip>78957</dip>
+			<bid>732</bid>				
+			<wid1>06</wid1>
+			<wid2>404</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1500</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.978358511197364</lat>
+			<lon>-87.68994567353846</lon>
+			<pid>1180</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6403</run>
+			<fs>Berwyn</fs>
+			<op>58066</op>
+			<dip>83662</dip>
+			<bid>730</bid>				
+			<wid1>06</wid1>
+			<wid2>403</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1492</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNE</dn> 
+			<lat>41.97851</lat>
+			<lon>-87.69004833333334</lon>
+			<pid>1180</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6714</run>
+			<fs>Berwyn</fs>
+			<op>59594</op>
+			<dip>83706</dip>
+			<bid>805</bid>				
+			<wid1>06</wid1>
+			<wid2>714</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8047</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>E</dn> 
+			<lat>41.9786</lat>
+			<lon>-87.6896</lon>
+			<pid>1180</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6027</run>
+			<fs>Berwyn</fs>
+			<op>59665</op>
+			<dip>83770</dip>
+			<bid>731</bid>				
+			<wid1>06</wid1>
+			<wid2>027</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1532</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>49</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>49</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SSE</dn> 
+			<lat>41.75075025558472</lat>
+			<lon>-87.68225994110108</lon>
+			<pid>1178</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6405</run>
+			<fs>79th</fs>
+			<op>56628</op>
+			<dip>84123</dip>
+			<bid>802</bid>				
+			<wid1>06</wid1>
+			<wid2>405</wid2>            	
+		</bus>
+
+
+
+	</buses>

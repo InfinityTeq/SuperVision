@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="12" rtRtpiFeedName="" rtdd="12"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>4011</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>12</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>12</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.865718841552734</lat>
+			<lon>-87.75544591535602</lon>
+			<pid>4135</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K206</run>
+			<fs>15th/Indiana</fs>
+			<op>60675</op>
+			<dip>5204</dip>
+			<bid>284</bid>				
+			<wid1>0K</wid1>
+			<wid2>206</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1244</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>12</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>12</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.8671880868765</lat>
+			<lon>-87.6476380274846</lon>
+			<pid>7471</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K207</run>
+			<fs>Central/Harrison</fs>
+			<op>60840</op>
+			<dip>9807</dip>
+			<bid>285</bid>				
+			<wid1>0K</wid1>
+			<wid2>207</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4007</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>12</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>12</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.86624526977539</lat>
+			<lon>-87.71295916649603</lon>
+			<pid>4135</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K205</run>
+			<fs>15th/Indiana</fs>
+			<op>33614</op>
+			<dip>16806</dip>
+			<bid>339</bid>				
+			<wid1>0K</wid1>
+			<wid2>205</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4010</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>12</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>12</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.86652707186612</lat>
+			<lon>-87.7049405184659</lon>
+			<pid>7471</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K204</run>
+			<fs>Central/Harrison</fs>
+			<op>29824</op>
+			<dip>26620</dip>
+			<bid>281</bid>				
+			<wid1>0K</wid1>
+			<wid2>204</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4039</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>12</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>12</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.866878509521484</lat>
+			<lon>-87.6618369362571</lon>
+			<pid>4135</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K211</run>
+			<fs>15th/Indiana</fs>
+			<op>62289</op>
+			<dip>31949</dip>
+			<bid>286</bid>				
+			<wid1>0K</wid1>
+			<wid2>211</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4053</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>12</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>12</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.86724973192402</lat>
+			<lon>-87.63140988817402</lon>
+			<pid>4135</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K210</run>
+			<fs>15th/Indiana</fs>
+			<op>62067</op>
+			<dip>40245</dip>
+			<bid>283</bid>				
+			<wid1>0K</wid1>
+			<wid2>210</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4064</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>12</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>12</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>S</dn> 
+			<lat>41.863097997812126</lat>
+			<lon>-87.62247467041016</lon>
+			<pid>4135</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K201</run>
+			<fs>15th/Indiana</fs>
+			<op>44666</op>
+			<dip>44304</dip>
+			<bid>271</bid>				
+			<wid1>0K</wid1>
+			<wid2>201</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4060</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>12</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>12</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Westbound</dd> 
+			<dn>S</dn> 
+			<lat>41.87229919433594</lat>
+			<lon>-87.7646713256836</lon>
+			<pid>7471</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K209</run>
+			<fs>Central/Harrison</fs>
+			<op>52728</op>
+			<dip>45251</dip>
+			<bid>350</bid>				
+			<wid1>0K</wid1>
+			<wid2>209</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4088</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>12</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>12</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WSW</dn> 
+			<lat>41.87283</lat>
+			<lon>-87.76501833333333</lon>
+			<pid>7471</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K212</run>
+			<fs>Central/Harrison</fs>
+			<op>64617</op>
+			<dip>45464</dip>
+			<bid>353</bid>				
+			<wid1>0K</wid1>
+			<wid2>212</wid2>            	
+		</bus>
+
+
+
+	</buses>

@@ -1,0 +1,422 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="82" rtRtpiFeedName="" rtdd="82"> <!-- @11 @16 -->
+
+		<time>10:21 AM</time>
+
+
+		<bus>
+			<id>1641</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.841251373291016</lat>
+			<lon>-87.7171630859375</lon>
+			<pid>5066</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K809</run>
+			<fs>Lincolnwood Town Center</fs>
+			<op>58110</op>
+			<dip>2347</dip>
+			<bid>309</bid>				
+			<wid1>0K</wid1>
+			<wid2>809</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1669</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.98319625854492</lat>
+			<lon>-87.71376037597656</lon>
+			<pid>5070</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K811</run>
+			<fs>31st/Lawndale</fs>
+			<op>62087</op>
+			<dip>10691</dip>
+			<bid>303</bid>				
+			<wid1>0K</wid1>
+			<wid2>811</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1638</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.86269917981378</lat>
+			<lon>-87.71037292480469</lon>
+			<pid>5066</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K812</run>
+			<fs>Lincolnwood Town Center</fs>
+			<op>62505</op>
+			<dip>12082</dip>
+			<bid>313</bid>				
+			<wid1>0K</wid1>
+			<wid2>812</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1225</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.89073051596588</lat>
+			<lon>-87.71130903711858</lon>
+			<pid>5066</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K807</run>
+			<fs>Lincolnwood Town Center</fs>
+			<op>59663</op>
+			<dip>22382</dip>
+			<bid>305</bid>				
+			<wid1>0K</wid1>
+			<wid2>807</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1653</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.943386286905366</lat>
+			<lon>-87.71269623220783</lon>
+			<pid>5070</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K810</run>
+			<fs>31st/Lawndale</fs>
+			<op>62068</op>
+			<dip>25345</dip>
+			<bid>311</bid>				
+			<wid1>0K</wid1>
+			<wid2>810</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1652</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.93242263793945</lat>
+			<lon>-87.71223449707031</lon>
+			<pid>5066</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K802</run>
+			<fs>Lincolnwood Town Center</fs>
+			<op>52706</op>
+			<dip>37620</dip>
+			<bid>304</bid>				
+			<wid1>0K</wid1>
+			<wid2>802</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1657</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.90645217895508</lat>
+			<lon>-87.71182632446289</lon>
+			<pid>5070</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K805</run>
+			<fs>31st/Lawndale</fs>
+			<op>42772</op>
+			<dip>38886</dip>
+			<bid>301</bid>				
+			<wid1>0K</wid1>
+			<wid2>805</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1708</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.941747188568115</lat>
+			<lon>-87.71244049072266</lon>
+			<pid>5066</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K202</run>
+			<fs>Lincolnwood Town Center</fs>
+			<op>52278</op>
+			<dip>41097</dip>
+			<bid>312</bid>				
+			<wid1>0K</wid1>
+			<wid2>202</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1603</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.88100063800812</lat>
+			<lon>-87.71105694770813</lon>
+			<pid>1679</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K806</run>
+			<fs>31st/Lawndale</fs>
+			<op>58554</op>
+			<dip>43827</dip>
+			<bid>307</bid>				
+			<wid1>0K</wid1>
+			<wid2>806</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1634</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.84300079345703</lat>
+			<lon>-87.71726989746094</lon>
+			<pid>1679</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K813</run>
+			<fs>31st/Lawndale</fs>
+			<op>62184</op>
+			<dip>59537</dip>
+			<bid>310</bid>				
+			<wid1>0K</wid1>
+			<wid2>813</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1924</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNE</dn> 
+			<lat>41.99435408910116</lat>
+			<lon>-87.71399116516113</lon>
+			<pid>5066</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K808</run>
+			<fs>Lincolnwood Town Center</fs>
+			<op>61907</op>
+			<dip>60302</dip>
+			<bid>308</bid>				
+			<wid1>0K</wid1>
+			<wid2>808</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1002</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Southbound</dd> 
+			<dn>N</dn> 
+			<lat>41.836463615542556</lat>
+			<lon>-87.71456508949154</lon>
+			<pid>1679</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K801</run>
+			<fs>31st/Lawndale</fs>
+			<op>50794</op>
+			<dip>63559</dip>
+			<bid>306</bid>				
+			<wid1>0K</wid1>
+			<wid2>801</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1643</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NW</dn> 
+			<lat>42.009195096565016</lat>
+			<lon>-87.71366408376983</lon>
+			<pid>5066</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K814</run>
+			<fs>Lincolnwood Town Center</fs>
+			<op>58083</op>
+			<dip>66386</dip>
+			<bid>302</bid>				
+			<wid1>0K</wid1>
+			<wid2>814</wid2>            	
+		</bus>
+
+
+
+	</buses>
