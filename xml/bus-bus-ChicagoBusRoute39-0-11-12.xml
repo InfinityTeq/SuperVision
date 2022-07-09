@@ -39,36 +39,7 @@
 
 	<buses rt="39" rtRtpiFeedName="" rtdd="39"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
-
-
-		<bus>
-			<id>1651</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>39</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>39</rtdd>  
-			
-			<d>South West Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>SW</dn> 
-			<lat>41.82661585905114</lat>
-			<lon>-87.68389456612724</lon>
-			<pid>7556</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K351</run>
-			<fs>Lake Park</fs>
-			<op>64664</op>
-			<dip>11504</dip>
-			<bid>299</bid>				
-			<wid1>0K</wid1>
-			<wid2>351</wid2>            	
-		</bus>
-
+		<time>4:49 PM</time>
 
 
 		<bus>
@@ -81,21 +52,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>39</rtdd>  
 			
-			<d>South West Bound</d>
+			<d>North East Bound</d>
 			<dd>Westbound</dd> 
-			<dn>SW</dn> 
-			<lat>41.82518309253757</lat>
-			<lon>-87.68638804807502</lon>
+			<dn>NE</dn> 
+			<lat>41.827489918675916</lat>
+			<lon>-87.68232148269126</lon>
 			<pid>7555</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K381</run>
+			<run>K352</run>
 			<fs>St. Louis</fs>
-			<op>38764</op>
-			<dip>35678</dip>
+			<op>52573</op>
+			<dip>32392</dip>
 			<bid>351</bid>				
 			<wid1>0K</wid1>
-			<wid2>381</wid2>            	
+			<wid2>352</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1621</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>39</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>39</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>SSW</dn> 
+			<lat>41.82352867126465</lat>
+			<lon>-87.60462265014648</lon>
+			<pid>7556</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K529</run>
+			<fs>Lake Park</fs>
+			<op>62690</op>
+			<dip>43676</dip>
+			<bid>268</bid>				
+			<wid1>0K</wid1>
+			<wid2>529</wid2>            	
 		</bus>
 
 

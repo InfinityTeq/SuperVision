@@ -39,11 +39,11 @@
 
 	<buses rt="124" rtRtpiFeedName="" rtdd="124"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
+		<time>4:49 PM</time>
 
 
 		<bus>
-			<id>1677</id>    
+			<id>1656</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -60,19 +60,19 @@
 			<pid>10950</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K006</run>
+			<run>K009</run>
 			<fs>Navy Pier</fs>
-			<op>61331</op>
+			<op>57207</op>
 			<dip>32</dip>
-			<bid>272</bid>				
+			<bid>274</bid>				
 			<wid1>0K</wid1>
-			<wid2>006</wid2>            	
+			<wid2>009</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>8104</id>    
+			<id>1701</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,24 +84,24 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.88449478149414</lat>
-			<lon>-87.62338638305664</lon>
+			<lat>41.89186797603484</lat>
+			<lon>-87.6156756493353</lon>
 			<pid>4708</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K002</run>
+			<run>K012</run>
 			<fs>Ogilvie &amp; Union Stations</fs>
-			<op>58773</op>
-			<dip>6454</dip>
-			<bid>274</bid>				
+			<op>52836</op>
+			<dip>1764</dip>
+			<bid>273</bid>				
 			<wid1>0K</wid1>
-			<wid2>002</wid2>            	
+			<wid2>012</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1656</id>    
+			<id>1677</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -113,18 +113,47 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.88436508178711</lat>
-			<lon>-87.62343776927275</lon>
+			<lat>41.89108649167147</lat>
+			<lon>-87.61324691772461</lon>
 			<pid>10950</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K009</run>
+			<run>K034</run>
 			<fs>Navy Pier</fs>
-			<op>57207</op>
-			<dip>6891</dip>
-			<bid>273</bid>				
+			<op>66017</op>
+			<dip>11918</dip>
+			<bid>272</bid>				
 			<wid1>0K</wid1>
-			<wid2>009</wid2>            	
+			<wid2>034</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1636</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>124</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>124</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Westbound</dd> 
+			<dn>E</dn> 
+			<lat>41.878028869628906</lat>
+			<lon>-87.64043485201321</lon>
+			<pid>4708</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K351</run>
+			<fs>Ogilvie &amp; Union Stations</fs>
+			<op>64664</op>
+			<dip>13892</dip>
+			<bid>275</bid>				
+			<wid1>0K</wid1>
+			<wid2>351</wid2>            	
 		</bus>
 
 

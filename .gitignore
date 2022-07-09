@@ -1,3 +1,4 @@
-/code/
-/resources/
-/venv/
+code/
+resources/
+venv/
+creds.key

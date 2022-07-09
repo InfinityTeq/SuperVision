@@ -39,123 +39,7 @@
 
 	<buses rt="36" rtRtpiFeedName="" rtdd="36"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
-
-
-		<bus>
-			<id>1830</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>36</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>36</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Southbound</dd> 
-			<dn>WSW</dn> 
-			<lat>41.99979019165039</lat>
-			<lon>-87.6709213256836</lon>
-			<pid>5905</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P303</run>
-			<fs>LaSalle Metra Station</fs>
-			<op>58052</op>
-			<dip>41</dip>
-			<bid>516</bid>				
-			<wid1>0P</wid1>
-			<wid2>303</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1796</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>36</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>36</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.87519454956055</lat>
-			<lon>-87.63304901123047</lon>
-			<pid>5907</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P312</run>
-			<fs>Devon/Clark</fs>
-			<op>58125</op>
-			<dip>53</dip>
-			<bid>523</bid>				
-			<wid1>0P</wid1>
-			<wid2>312</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1886</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>36</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>36</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.98958368301392</lat>
-			<lon>-87.66029605865478</lon>
-			<pid>5905</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P801</run>
-			<fs>LaSalle Metra Station</fs>
-			<op>54922</op>
-			<dip>6795</dip>
-			<bid>603</bid>				
-			<wid1>0P</wid1>
-			<wid2>801</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1882</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>36</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>36</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.896999497847126</lat>
-			<lon>-87.62821197509766</lon>
-			<pid>5907</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P304</run>
-			<fs>Devon/Clark</fs>
-			<op>52215</op>
-			<dip>9512</dip>
-			<bid>519</bid>				
-			<wid1>0P</wid1>
-			<wid2>304</wid2>            	
-		</bus>
-
+		<time>4:49 PM</time>
 
 
 		<bus>
@@ -168,19 +52,19 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>36</rtdd>  
 			
-			<d>South East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SSE</dn> 
-			<lat>41.96399688720703</lat>
-			<lon>-87.65657043457031</lon>
-			<pid>5905</pid>
-			<pd>Southbound</pd> 
+			<d>North East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NE</dn> 
+			<lat>41.87543749453417</lat>
+			<lon>-87.633056640625</lon>
+			<pid>5906</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P317</run>
-			<fs>LaSalle Metra Station</fs>
+			<fs>Devon/Clark</fs>
 			<op>61150</op>
-			<dip>16401</dip>
-			<bid>520</bid>				
+			<dip>174</dip>
+			<bid>519</bid>				
 			<wid1>0P</wid1>
 			<wid2>317</wid2>            	
 		</bus>
@@ -188,7 +72,36 @@
 
 
 		<bus>
-			<id>1829</id>    
+			<id>1794</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>36</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>36</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.998182115100676</lat>
+			<lon>-87.66112899780273</lon>
+			<pid>5905</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P323</run>
+			<fs>LaSalle Metra Station</fs>
+			<op>63606</op>
+			<dip>3477</dip>
+			<bid>612</bid>				
+			<wid1>0P</wid1>
+			<wid2>323</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1782</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -200,24 +113,24 @@
 			<d>South East Bound</d>
 			<dd>Southbound</dd> 
 			<dn>SSE</dn> 
-			<lat>41.95690318516323</lat>
-			<lon>-87.65204911004929</lon>
+			<lat>41.96207885742187</lat>
+			<lon>-87.65532989501953</lon>
 			<pid>5905</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P315</run>
+			<run>P354</run>
 			<fs>LaSalle Metra Station</fs>
-			<op>63651</op>
-			<dip>19346</dip>
-			<bid>602</bid>				
+			<op>64815</op>
+			<dip>17196</dip>
+			<bid>515</bid>				
 			<wid1>0P</wid1>
-			<wid2>315</wid2>            	
+			<wid2>354</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1822</id>    
+			<id>1819</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -226,21 +139,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>36</rtdd>  
 			
-			<d>North West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.925516764322914</lat>
-			<lon>-87.64055589316548</lon>
-			<pid>5907</pid>
-			<pd>Northbound</pd> 
+			<d>South East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SSE</dn> 
+			<lat>41.96152605329241</lat>
+			<lon>-87.65498570033482</lon>
+			<pid>5905</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P310</run>
-			<fs>Devon/Clark</fs>
-			<op>58121</op>
-			<dip>21421</dip>
-			<bid>513</bid>				
+			<run>P319</run>
+			<fs>LaSalle Metra Station</fs>
+			<op>60867</op>
+			<dip>17424</dip>
+			<bid>514</bid>				
 			<wid1>0P</wid1>
-			<wid2>310</wid2>            	
+			<wid2>319</wid2>            	
 		</bus>
 
 
@@ -258,24 +171,24 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>NNW</dn> 
-			<lat>41.94782395796342</lat>
-			<lon>-87.64751260930842</lon>
+			<lat>41.92324704540019</lat>
+			<lon>-87.63926634496572</lon>
 			<pid>5907</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P309</run>
+			<run>P352</run>
 			<fs>Devon/Clark</fs>
-			<op>58114</op>
-			<dip>30063</dip>
+			<op>61718</op>
+			<dip>20517</dip>
 			<bid>521</bid>				
 			<wid1>0P</wid1>
-			<wid2>309</wid2>            	
+			<wid2>352</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1771</id>    
+			<id>1725</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -284,19 +197,77 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>36</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SSE</dn> 
-			<lat>41.92603600543478</lat>
-			<lon>-87.64075569484545</lon>
-			<pid>5905</pid>
-			<pd>Southbound</pd> 
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>E</dn> 
+			<lat>41.947318333333335</lat>
+			<lon>-87.64747166666666</lon>
+			<pid>5906</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P813</run>
+			<fs>Devon/Clark</fs>
+			<op>65562</op>
+			<dip>29893</dip>
+			<bid>518</bid>				
+			<wid1>0P</wid1>
+			<wid2>813</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1829</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>36</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>36</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.954307556152344</lat>
+			<lon>-87.65048217773438</lon>
+			<pid>5907</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P315</run>
+			<fs>Devon/Clark</fs>
+			<op>63651</op>
+			<dip>32546</dip>
+			<bid>604</bid>				
+			<wid1>0P</wid1>
+			<wid2>315</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1830</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>36</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>36</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.95438980102539</lat>
+			<lon>-87.65053202311198</lon>
+			<pid>5907</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P314</run>
-			<fs>LaSalle Metra Station</fs>
+			<fs>Devon/Clark</fs>
 			<op>60777</op>
-			<dip>31606</dip>
-			<bid>517</bid>				
+			<dip>32629</dip>
+			<bid>516</bid>				
 			<wid1>0P</wid1>
 			<wid2>314</wid2>            	
 		</bus>
@@ -315,25 +286,25 @@
 			
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.9003791809082</lat>
-			<lon>-87.62831115722656</lon>
+			<dn>SSE</dn> 
+			<lat>41.9121901772239</lat>
+			<lon>-87.63226249001242</lon>
 			<pid>5905</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P313</run>
+			<run>P320</run>
 			<fs>LaSalle Metra Station</fs>
-			<op>58271</op>
-			<dip>42659</dip>
+			<op>61663</op>
+			<dip>37355</dip>
 			<bid>524</bid>				
 			<wid1>0P</wid1>
-			<wid2>313</wid2>            	
+			<wid2>320</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1725</id>    
+			<id>1886</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -342,27 +313,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>36</rtdd>  
 			
-			<d>North Bound</d>
+			<d>West Bound</d>
 			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.98488206574411</lat>
-			<lon>-87.66004943847656</lon>
+			<dn>WSW</dn> 
+			<lat>41.99821853637695</lat>
+			<lon>-87.66117921422739</lon>
 			<pid>5907</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P306</run>
+			<run>P358</run>
 			<fs>Devon/Clark</fs>
-			<op>58179</op>
-			<dip>44612</dip>
-			<bid>518</bid>				
+			<op>65820</op>
+			<dip>49639</dip>
+			<bid>603</bid>				
 			<wid1>0P</wid1>
-			<wid2>306</wid2>            	
+			<wid2>358</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1794</id>    
+			<id>1894</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -371,21 +342,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>36</rtdd>  
 			
-			<d>North Bound</d>
+			<d>West Bound</d>
 			<dd>Southbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.87484474182129</lat>
-			<lon>-87.63299560546875</lon>
+			<dn>W</dn> 
+			<lat>41.87687168121338</lat>
+			<lon>-87.63282642364501</lon>
 			<pid>5905</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P301</run>
+			<run>P356</run>
 			<fs>LaSalle Metra Station</fs>
-			<op>40784</op>
-			<dip>54017</dip>
-			<bid>514</bid>				
+			<op>62214</op>
+			<dip>52647</dip>
+			<bid>609</bid>				
 			<wid1>0P</wid1>
-			<wid2>301</wid2>            	
+			<wid2>356</wid2>            	
 		</bus>
 
 

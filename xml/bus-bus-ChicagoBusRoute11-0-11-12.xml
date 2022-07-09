@@ -39,7 +39,7 @@
 
 	<buses rt="11" rtRtpiFeedName="" rtdd="11"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
+		<time>4:49 PM</time>
 
 
 		<bus>
@@ -52,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>11</rtdd>  
 			
-			<d>West Bound</d>
+			<d>North West Bound</d>
 			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.966068267822266</lat>
-			<lon>-87.68852996826172</lon>
+			<dn>NNW</dn> 
+			<lat>41.97253662792605</lat>
+			<lon>-87.6910708982553</lon>
 			<pid>7171</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P101</run>
+			<run>P104</run>
 			<fs>Howard/McCormick</fs>
-			<op>56586</op>
-			<dip>0</dip>
+			<op>37254</op>
+			<dip>2701</dip>
 			<bid>636</bid>				
 			<wid1>0P</wid1>
-			<wid2>101</wid2>            	
+			<wid2>104</wid2>            	
 		</bus>
 
 
@@ -83,19 +83,19 @@
 			
 			<d>South East Bound</d>
 			<dd>Southbound</dd> 
-			<dn>ESE</dn> 
-			<lat>41.99124755859375</lat>
-			<lon>-87.70884658813476</lon>
+			<dn>SE</dn> 
+			<lat>41.98564529418945</lat>
+			<lon>-87.69947052001953</lon>
 			<pid>7170</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P102</run>
+			<run>P131</run>
 			<fs>Western Brown Line</fs>
-			<op>43346</op>
-			<dip>12364</dip>
+			<op>58547</op>
+			<dip>15655</dip>
 			<bid>560</bid>				
 			<wid1>0P</wid1>
-			<wid2>102</wid2>            	
+			<wid2>131</wid2>            	
 		</bus>
 
 
@@ -113,18 +113,18 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.999177856445314</lat>
-			<lon>-87.70928080240886</lon>
+			<lat>42.01218872070312</lat>
+			<lon>-87.7089614868164</lon>
 			<pid>7171</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P103</run>
+			<run>P105</run>
 			<fs>Howard/McCormick</fs>
-			<op>45375</op>
-			<dip>16038</dip>
+			<op>60393</op>
+			<dip>20794</dip>
 			<bid>558</bid>				
 			<wid1>0P</wid1>
-			<wid2>103</wid2>            	
+			<wid2>105</wid2>            	
 		</bus>
 
 

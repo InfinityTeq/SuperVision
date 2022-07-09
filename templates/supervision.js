@@ -185,6 +185,9 @@ function add_transit (icon_name, filepath, item, name, id_index, lat_index, lon_
 L.control.liveupdate ({
     update_map: function () {
         // TODO: make this better
+
+        // get_indexes('xml/airplane-plane-AirPlane-0-1-2.xml', 'plane', 3)
+
         xml_list = ARRAY;
 
         for (var i = 0; i <xml_list.length; i++){
@@ -207,7 +210,7 @@ L.control.liveupdate ({
         console.log('updated')
     },
     position: 'topleft',
-    interval: 10000
+    interval: 15000
 })
 .addTo(MAP)
 .startUpdating();

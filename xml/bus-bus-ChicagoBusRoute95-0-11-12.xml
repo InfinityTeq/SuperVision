@@ -39,11 +39,11 @@
 
 	<buses rt="95" rtRtpiFeedName="" rtdd="95"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
+		<time>4:49 PM</time>
 
 
 		<bus>
-			<id>1103</id>    
+			<id>1177</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,21 +52,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>95</rtdd>  
 			
-			<d>North Bound</d>
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.726318359375</lat>
+			<lon>-87.55794016520183</lon>
+			<pid>10956</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1917</run>
+			<fs>87th/Damen</fs>
+			<op>64790</op>
+			<dip>4588</dip>
+			<bid>124</bid>				
+			<wid1>01</wid1>
+			<wid2>917</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1170</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>95</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>95</rtdd>  
+			
+			<d>East Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.735443115234375</lat>
-			<lon>-87.68216743469239</lon>
+			<dn>E</dn> 
+			<lat>41.72095231276292</lat>
+			<lon>-87.67713047907903</lon>
 			<pid>8147</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1906</run>
+			<run>1910</run>
 			<fs>92nd/Buffalo</fs>
-			<op>58685</op>
-			<dip>2749</dip>
-			<bid>21</bid>				
+			<op>61810</op>
+			<dip>9551</dip>
+			<bid>39</bid>				
 			<wid1>01</wid1>
-			<wid2>906</wid2>            	
+			<wid2>910</wid2>            	
 		</bus>
 
 
@@ -81,137 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>95</rtdd>  
 			
-			<d>West Bound</d>
+			<d>South Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.726318359375</lat>
-			<lon>-87.55788930257161</lon>
+			<dn>S</dn> 
+			<lat>41.73625833333333</lat>
+			<lon>-87.67309166666666</lon>
 			<pid>10956</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1903</run>
+			<run>MAN</run>
 			<fs>87th/Damen</fs>
-			<op>58781</op>
-			<dip>4574</dip>
-			<bid>40</bid>				
+			<op>56525</op>
+			<dip>51071</dip>
+			<bid>MAN</bid>				
 			<wid1>01</wid1>
-			<wid2>903</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1177</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>95</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>95</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.721277457017166</lat>
-			<lon>-87.65364382817195</lon>
-			<pid>8147</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1905</run>
-			<fs>92nd/Buffalo</fs>
-			<op>55621</op>
-			<dip>15941</dip>
-			<bid>124</bid>				
-			<wid1>01</wid1>
-			<wid2>905</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1093</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>95</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>95</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.722328186035156</lat>
-			<lon>-87.585573049692</lon>
-			<pid>8147</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1904</run>
-			<fs>92nd/Buffalo</fs>
-			<op>58151</op>
-			<dip>37164</dip>
-			<bid>118</bid>				
-			<wid1>01</wid1>
-			<wid2>904</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1209</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>95</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>95</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.72101593017578</lat>
-			<lon>-87.68175252278645</lon>
-			<pid>10956</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1901</run>
-			<fs>87th/Damen</fs>
-			<op>45710</op>
-			<dip>42799</dip>
-			<bid>19</bid>				
-			<wid1>01</wid1>
-			<wid2>901</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8334</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>95</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>95</rtdd>  
-			
-			<d>South West Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>WSW</dn> 
-			<lat>41.72849655151367</lat>
-			<lon>-87.54430389404297</lon>
-			<pid>8147</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1309</run>
-			<fs>92nd/Buffalo</fs>
-			<op>50725</op>
-			<dip>51384</dip>
-			<bid>37</bid>				
-			<wid1>01</wid1>
-			<wid2>309</wid2>            	
+			<wid2>912</wid2>            	
 		</bus>
 
 

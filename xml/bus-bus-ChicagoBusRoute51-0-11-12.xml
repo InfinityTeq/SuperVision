@@ -39,7 +39,7 @@
 
 	<buses rt="51" rtRtpiFeedName="" rtdd="51"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
+		<time>4:49 PM</time>
 
 
 		<bus>
@@ -52,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>51</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.80141830444336</lat>
-			<lon>-87.66445622678663</lon>
-			<pid>7020</pid>
-			<pd>Westbound</pd> 
+			<d>North Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>N</dn> 
+			<lat>41.80484390258789</lat>
+			<lon>-87.7044906616211</lon>
+			<pid>7021</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7755</run>
-			<fs>Kedzie Orange Line</fs>
-			<op>58699</op>
-			<dip>11719</dip>
+			<run>7754</run>
+			<fs>47th Red Line</fs>
+			<op>52763</op>
+			<dip>0</dip>
 			<bid>435</bid>				
 			<wid1>07</wid1>
-			<wid2>755</wid2>            	
+			<wid2>754</wid2>            	
 		</bus>
 
 
@@ -81,21 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>51</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.80151304651479</lat>
-			<lon>-87.6476698078093</lon>
-			<pid>7021</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WSW</dn> 
+			<lat>41.80155878067016</lat>
+			<lon>-87.65062198638915</lon>
+			<pid>7020</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7754</run>
-			<fs>47th Red Line</fs>
-			<op>52763</op>
-			<dip>17170</dip>
+			<run>7757</run>
+			<fs>Kedzie Orange Line</fs>
+			<op>40473</op>
+			<dip>7928</dip>
 			<bid>490</bid>				
 			<wid1>07</wid1>
-			<wid2>754</wid2>            	
+			<wid2>757</wid2>            	
 		</bus>
 
 
@@ -110,21 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>51</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Westbound</dd> 
-			<dn>N</dn> 
-			<lat>41.804855</lat>
-			<lon>-87.704385</lon>
-			<pid>7020</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.801719665527344</lat>
+			<lon>-87.63271869596888</lon>
+			<pid>7021</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7753</run>
-			<fs>Kedzie Orange Line</fs>
-			<op>52210</op>
-			<dip>24535</dip>
+			<run>7660</run>
+			<fs>47th Red Line</fs>
+			<op>52460</op>
+			<dip>21258</dip>
 			<bid>434</bid>				
 			<wid1>07</wid1>
-			<wid2>753</wid2>            	
+			<wid2>660</wid2>            	
 		</bus>
 
 

@@ -39,7 +39,36 @@
 
 	<buses rt="112" rtRtpiFeedName="" rtdd="112"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
+		<time>4:49 PM</time>
+
+
+		<bus>
+			<id>1133</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>112</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>112</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.72173309326172</lat>
+			<lon>-87.62844004775539</lon>
+			<pid>749</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1056</run>
+			<fs>111th/Pulaski</fs>
+			<op>37368</op>
+			<dip>1538</dip>
+			<bid>4</bid>				
+			<wid1>01</wid1>
+			<wid2>056</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -52,21 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>112</rtdd>  
 			
-			<d>East Bound</d>
+			<d>North Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.69184875488281</lat>
-			<lon>-87.67836932014016</lon>
+			<dn>NNE</dn> 
+			<lat>41.715859262566816</lat>
+			<lon>-87.65256687632778</lon>
 			<pid>752</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1055</run>
+			<run>1058</run>
 			<fs>95th Red Line</fs>
-			<op>50720</op>
-			<dip>11493</dip>
+			<op>59536</op>
+			<dip>25382</dip>
 			<bid>92</bid>				
 			<wid1>01</wid1>
-			<wid2>055</wid2>            	
+			<wid2>058</wid2>            	
 		</bus>
 
 
@@ -84,47 +113,18 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.69187458583287</lat>
-			<lon>-87.68033163888114</lon>
+			<lat>41.69168472290039</lat>
+			<lon>-87.69047072127059</lon>
 			<pid>749</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1054</run>
+			<run>1059</run>
 			<fs>111th/Pulaski</fs>
-			<op>42340</op>
-			<dip>24079</dip>
+			<op>N/A</op>
+			<dip>26859</dip>
 			<bid>116</bid>				
 			<wid1>01</wid1>
-			<wid2>054</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1133</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>112</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>112</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.72245766460032</lat>
-			<lon>-87.62487273285355</lon>
-			<pid>752</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1052</run>
-			<fs>95th Red Line</fs>
-			<op>39762</op>
-			<dip>34798</dip>
-			<bid>4</bid>				
-			<wid1>01</wid1>
-			<wid2>052</wid2>            	
+			<wid2>059</wid2>            	
 		</bus>
 
 

@@ -39,11 +39,11 @@
 
 	<buses rt="155" rtRtpiFeedName="" rtdd="155"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
+		<time>4:49 PM</time>
 
 
 		<bus>
-			<id>1879</id>    
+			<id>1859</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>155</rtdd>  
 			
-			<d>South Bound</d>
+			<d>East Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>S</dn> 
-			<lat>41.99763107299805</lat>
-			<lon>-87.70934295654297</lon>
+			<dn>E</dn> 
+			<lat>41.997833251953125</lat>
+			<lon>-87.70954895019531</lon>
 			<pid>905</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P045</run>
+			<run>P083</run>
 			<fs>Morse Red Line</fs>
-			<op>59614</op>
-			<dip>141</dip>
-			<bid>642</bid>				
+			<op>65364</op>
+			<dip>0</dip>
+			<bid>639</bid>				
 			<wid1>0P</wid1>
-			<wid2>045</wid2>            	
+			<wid2>083</wid2>            	
 		</bus>
 
 
@@ -81,79 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>155</rtdd>  
 			
-			<d>West Bound</d>
+			<d>South Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.99815833859327</lat>
-			<lon>-87.66312110714796</lon>
+			<dn>S</dn> 
+			<lat>42.001365661621094</lat>
+			<lon>-87.66075897216797</lon>
 			<pid>904</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P041</run>
+			<run>P049</run>
 			<fs>Kedzie</fs>
-			<op>58057</op>
-			<dip>5689</dip>
-			<bid>536</bid>				
-			<wid1>0P</wid1>
-			<wid2>041</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1887</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>155</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>155</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.997894287109375</lat>
-			<lon>-87.67972739083426</lon>
-			<pid>905</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P046</run>
-			<fs>Morse Red Line</fs>
-			<op>65562</op>
-			<dip>8662</dip>
-			<bid>639</bid>				
-			<wid1>0P</wid1>
-			<wid2>046</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1858</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>155</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>155</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.9975600332584</lat>
-			<lon>-87.69958078636313</lon>
-			<pid>904</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P043</run>
-			<fs>Kedzie</fs>
-			<op>58505</op>
-			<dip>16193</dip>
+			<op>62506</op>
+			<dip>3675</dip>
 			<bid>640</bid>				
 			<wid1>0P</wid1>
-			<wid2>043</wid2>            	
+			<wid2>049</wid2>            	
 		</bus>
 
 
@@ -171,18 +113,134 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>42.00788116455078</lat>
-			<lon>-87.66728340707174</lon>
+			<lat>41.99769592285156</lat>
+			<lon>-87.69157744616997</lon>
 			<pid>905</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P042</run>
+			<run>P081</run>
 			<fs>Morse Red Line</fs>
-			<op>57145</op>
-			<dip>21369</dip>
+			<op>60028</op>
+			<dip>5276</dip>
 			<bid>626</bid>				
 			<wid1>0P</wid1>
-			<wid2>042</wid2>            	
+			<wid2>081</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1724</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>155</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>155</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.9981569143442</lat>
+			<lon>-87.66097200833835</lon>
+			<pid>905</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P082</run>
+			<fs>Morse Red Line</fs>
+			<op>64561</op>
+			<dip>13998</dip>
+			<bid>641</bid>				
+			<wid1>0P</wid1>
+			<wid2>082</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1879</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>155</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>155</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.99756780484827</lat>
+			<lon>-87.69911733487757</lon>
+			<pid>904</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P103</run>
+			<fs>Kedzie</fs>
+			<op>45375</op>
+			<dip>16069</dip>
+			<bid>545</bid>				
+			<wid1>0P</wid1>
+			<wid2>103</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1929</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>155</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>155</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>W</dn> 
+			<lat>42.005489349365234</lat>
+			<lon>-87.66381631578717</lon>
+			<pid>905</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P046</run>
+			<fs>Morse Red Line</fs>
+			<op>64803</op>
+			<dip>17794</dip>
+			<bid>536</bid>				
+			<wid1>0P</wid1>
+			<wid2>046</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1858</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>155</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>155</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>N</dn> 
+			<lat>41.997679623690516</lat>
+			<lon>-87.70994567871094</lon>
+			<pid>904</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P048</run>
+			<fs>Kedzie</fs>
+			<op>61651</op>
+			<dip>19245</dip>
+			<bid>642</bid>				
+			<wid1>0P</wid1>
+			<wid2>048</wid2>            	
 		</bus>
 
 

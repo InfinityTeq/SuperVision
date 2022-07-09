@@ -39,36 +39,7 @@
 
 	<buses rt="57" rtRtpiFeedName="" rtdd="57"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
-
-
-		<bus>
-			<id>1919</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>57</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>57</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SSW</dn> 
-			<lat>41.91737747192383</lat>
-			<lon>-87.75761413574219</lon>
-			<pid>1326</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5161</run>
-			<fs>Forest Park Blue Line Station</fs>
-			<op>35313</op>
-			<dip>26</dip>
-			<bid>201</bid>				
-			<wid1>05</wid1>
-			<wid2>161</wid2>            	
-		</bus>
-
+		<time>4:49 PM</time>
 
 
 		<bus>
@@ -84,16 +55,16 @@
 			<d>East Bound</d>
 			<dd>Southbound</dd> 
 			<dn>E</dn> 
-			<lat>41.87117605942946</lat>
-			<lon>-87.75332157428448</lon>
+			<lat>41.87128448486328</lat>
+			<lon>-87.74748724860115</lon>
 			<pid>1326</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5164</run>
 			<fs>Forest Park Blue Line Station</fs>
 			<op>51895</op>
-			<dip>17645</dip>
-			<bid>196</bid>				
+			<dip>19245</dip>
+			<bid>201</bid>				
 			<wid1>05</wid1>
 			<wid2>164</wid2>            	
 		</bus>

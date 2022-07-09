@@ -11,9 +11,12 @@
     - [ ] taxi/uber services
     - [ ] ems/police
     - [ ] shodan api
+    - [ ] satellite
+    - [ ] iss
 - [ ] thumbails for cameras
 - [ ] cleanup custom map name if possible
 - [ ] documentation
     - [ ] custom map
     - [ ] all map features
 - [ ] change images to github asset links for consistency
+- [ ] flight data

@@ -39,36 +39,7 @@
 
 	<buses rt="106" rtRtpiFeedName="" rtdd="106"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
-
-
-		<bus>
-			<id>1058</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>106</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>106</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.70810123912075</lat>
-			<lon>-87.59405745121471</lon>
-			<pid>4493</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1009</run>
-			<fs>Stony Island/103rd</fs>
-			<op>56569</op>
-			<dip>14258</dip>
-			<bid>32</bid>				
-			<wid1>01</wid1>
-			<wid2>009</wid2>            	
-		</bus>
-
+		<time>4:49 PM</time>
 
 
 		<bus>
@@ -81,21 +52,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>106</rtdd>  
 			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.7075972701564</lat>
+			<lon>-87.59381195993134</lon>
+			<pid>4493</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1034</run>
+			<fs>Stony Island/103rd</fs>
+			<op>65718</op>
+			<dip>21046</dip>
+			<bid>114</bid>				
+			<wid1>01</wid1>
+			<wid2>034</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1058</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>106</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>106</rtdd>  
+			
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.707278551374166</lat>
-			<lon>-87.61622554234096</lon>
+			<lat>41.721778106689456</lat>
+			<lon>-87.62381973266602</lon>
 			<pid>4490</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1418</run>
+			<run>1420</run>
 			<fs>95th Red Line</fs>
-			<op>31414</op>
-			<dip>17137</dip>
-			<bid>114</bid>				
+			<op>62121</op>
+			<dip>24757</dip>
+			<bid>32</bid>				
 			<wid1>01</wid1>
-			<wid2>418</wid2>            	
+			<wid2>420</wid2>            	
 		</bus>
 
 

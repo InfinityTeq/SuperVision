@@ -39,7 +39,36 @@
 
 	<buses rt="103" rtRtpiFeedName="" rtdd="103"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
+		<time>4:49 PM</time>
+
+
+		<bus>
+			<id>8342</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>103</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>103</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.706844329833984</lat>
+			<lon>-87.65075867751548</lon>
+			<pid>717</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1008</run>
+			<fs>95th Red Line</fs>
+			<op>35569</op>
+			<dip>20823</dip>
+			<bid>79</bid>				
+			<wid1>01</wid1>
+			<wid2>008</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,76 +84,18 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.720848333333336</lat>
-			<lon>-87.62459333333334</lon>
+			<lat>41.70658874511719</lat>
+			<lon>-87.6688003540039</lon>
 			<pid>711</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1001</run>
+			<run>1275</run>
 			<fs>Pulaski</fs>
-			<op>49294</op>
-			<dip>0</dip>
+			<op>52446</op>
+			<dip>21073</dip>
 			<bid>80</bid>				
 			<wid1>01</wid1>
-			<wid2>001</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1145</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>103</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>103</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.70663070678711</lat>
-			<lon>-87.6664047241211</lon>
-			<pid>717</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1005</run>
-			<fs>95th Red Line</fs>
-			<op>27779</op>
-			<dip>16292</dip>
-			<bid>78</bid>				
-			<wid1>01</wid1>
-			<wid2>005</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8342</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>103</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>103</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.70633188883463</lat>
-			<lon>-87.69848759969075</lon>
-			<pid>711</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1003</run>
-			<fs>Pulaski</fs>
-			<op>54360</op>
-			<dip>29305</dip>
-			<bid>79</bid>				
-			<wid1>01</wid1>
-			<wid2>003</wid2>            	
+			<wid2>275</wid2>            	
 		</bus>
 
 

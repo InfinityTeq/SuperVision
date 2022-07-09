@@ -39,65 +39,7 @@
 
 	<buses rt="4" rtRtpiFeedName="" rtdd="4"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
-
-
-		<bus>
-			<id>4034</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>4</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>4</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>41.72199249267578</lat>
-			<lon>-87.60750579833984</lon>
-			<pid>441</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7408</run>
-			<fs>Illinois Center</fs>
-			<op>57200</op>
-			<dip>955</dip>
-			<bid>500</bid>				
-			<wid1>07</wid1>
-			<wid2>408</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>7916</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>4</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>4</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.766242467440094</lat>
-			<lon>-87.6054669893705</lon>
-			<pid>441</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7406</run>
-			<fs>Illinois Center</fs>
-			<op>57155</op>
-			<dip>17925</dip>
-			<bid>457</bid>				
-			<wid1>07</wid1>
-			<wid2>406</wid2>            	
-		</bus>
-
+		<time>4:49 PM</time>
 
 
 		<bus>
@@ -110,21 +52,137 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>4</rtdd>  
 			
+			<d>South Bound</d>
+			<dd>Northbound</dd> 
+			<dn>S</dn> 
+			<lat>41.720243333333336</lat>
+			<lon>-87.60366</lon>
+			<pid>8131</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7421</run>
+			<fs>Illinois Center</fs>
+			<op>62978</op>
+			<dip>13999</dip>
+			<bid>503</bid>				
+			<wid1>07</wid1>
+			<wid2>421</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1294</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>4</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>4</rtdd>  
+			
 			<d>East Bound</d>
 			<dd>Southbound</dd> 
 			<dn>E</dn> 
-			<lat>41.831058502197266</lat>
-			<lon>-87.62000932364629</lon>
-			<pid>8136</pid>
+			<lat>41.83111463274275</lat>
+			<lon>-87.61394609723773</lon>
+			<pid>432</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7418</run>
-			<fs>115th Street</fs>
-			<op>60827</op>
-			<dip>24460</dip>
-			<bid>495</bid>				
+			<run>7907</run>
+			<fs>95th/CSU</fs>
+			<op>64905</op>
+			<dip>26026</dip>
+			<bid>501</bid>				
 			<wid1>07</wid1>
-			<wid2>418</wid2>            	
+			<wid2>907</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1295</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>4</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>4</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.759262547348484</lat>
+			<lon>-87.6053177804658</lon>
+			<pid>8131</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7429</run>
+			<fs>Illinois Center</fs>
+			<op>63055</op>
+			<dip>28572</dip>
+			<bid>472</bid>				
+			<wid1>07</wid1>
+			<wid2>429</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1272</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>4</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>4</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.766395568847656</lat>
+			<lon>-87.60546875</lon>
+			<pid>8131</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7428</run>
+			<fs>Illinois Center</fs>
+			<op>62572</op>
+			<dip>31167</dip>
+			<bid>471</bid>				
+			<wid1>07</wid1>
+			<wid2>428</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4017</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>4</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>4</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.81320279836655</lat>
+			<lon>-87.6065673828125</lon>
+			<pid>441</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>MAN</run>
+			<fs>Illinois Center</fs>
+			<op>62454</op>
+			<dip>35281</dip>
+			<bid>MAN</bid>				
+			<wid1>07</wid1>
+			<wid2>426</wid2>            	
 		</bus>
 
 
@@ -139,195 +197,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>4</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.81629829406738</lat>
-			<lon>-87.60669746398926</lon>
-			<pid>432</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7417</run>
-			<fs>95th/CSU</fs>
-			<op>60796</op>
-			<dip>32582</dip>
-			<bid>487</bid>				
-			<wid1>07</wid1>
-			<wid2>417</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>7951</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>4</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>4</rtdd>  
-			
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.81311974158654</lat>
-			<lon>-87.606566795936</lon>
+			<lat>41.86582059276347</lat>
+			<lon>-87.62406158447266</lon>
 			<pid>441</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7405</run>
+			<run>7020</run>
 			<fs>Illinois Center</fs>
-			<op>55020</op>
-			<dip>35253</dip>
-			<bid>456</bid>				
+			<op>57858</op>
+			<dip>58131</dip>
+			<bid>497</bid>				
 			<wid1>07</wid1>
-			<wid2>405</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1310</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>4</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>4</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.80282032128537</lat>
-			<lon>-87.6064682006836</lon>
-			<pid>8136</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7420</run>
-			<fs>115th Street</fs>
-			<op>61093</op>
-			<dip>37583</dip>
-			<bid>459</bid>				
-			<wid1>07</wid1>
-			<wid2>420</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1321</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>4</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>4</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.83125696182251</lat>
-			<lon>-87.61529178619385</lon>
-			<pid>8131</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7401</run>
-			<fs>Illinois Center</fs>
-			<op>42807</op>
-			<dip>56528</dip>
-			<bid>460</bid>				
-			<wid1>07</wid1>
-			<wid2>401</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>7923</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>4</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>4</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.86138095855713</lat>
-			<lon>-87.62394714355469</lon>
-			<pid>441</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7422</run>
-			<fs>Illinois Center</fs>
-			<op>61518</op>
-			<dip>56532</dip>
-			<bid>489</bid>				
-			<wid1>07</wid1>
-			<wid2>422</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1275</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>4</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>4</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.86452140808105</lat>
-			<lon>-87.6240463256836</lon>
-			<pid>441</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7801</run>
-			<fs>Illinois Center</fs>
-			<op>52272</op>
-			<dip>57664</dip>
-			<bid>504</bid>				
-			<wid1>07</wid1>
-			<wid2>801</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>7977</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>4</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>4</rtdd>  
-			
-			<d>North East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>ENE</dn> 
-			<lat>41.720977783203125</lat>
-			<lon>-87.60865020751953</lon>
-			<pid>432</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7407</run>
-			<fs>95th/CSU</fs>
-			<op>56619</op>
-			<dip>68844</dip>
-			<bid>458</bid>				
-			<wid1>07</wid1>
-			<wid2>407</wid2>            	
+			<wid2>020</wid2>            	
 		</bus>
 
 
@@ -342,21 +226,166 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>4</rtdd>  
 			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.88334644704625</lat>
+			<lon>-87.62422180175781</lon>
+			<pid>441</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7475</run>
+			<fs>Illinois Center</fs>
+			<op>55710</op>
+			<dip>64798</dip>
+			<bid>487</bid>				
+			<wid1>07</wid1>
+			<wid2>475</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1249</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>4</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>4</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.85149955749512</lat>
+			<lon>-87.62370491027832</lon>
+			<pid>8131</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7477</run>
+			<fs>Illinois Center</fs>
+			<op>65904</op>
+			<dip>66084</dip>
+			<bid>496</bid>				
+			<wid1>07</wid1>
+			<wid2>477</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>7977</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>4</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>4</rtdd>  
+			
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.68579166666667</lat>
-			<lon>-87.61150833333333</lon>
+			<lat>41.721235994432796</lat>
+			<lon>-87.60930270836002</lon>
+			<pid>432</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7422</run>
+			<fs>95th/CSU</fs>
+			<op>61518</op>
+			<dip>68761</dip>
+			<bid>458</bid>				
+			<wid1>07</wid1>
+			<wid2>422</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1310</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>4</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>4</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.86272039413452</lat>
+			<lon>-87.62399291992188</lon>
+			<pid>8131</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7425</run>
+			<fs>Illinois Center</fs>
+			<op>61756</op>
+			<dip>70207</dip>
+			<bid>488</bid>				
+			<wid1>07</wid1>
+			<wid2>425</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1207</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>4</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>4</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.86809134850135</lat>
+			<lon>-87.62400900033803</lon>
+			<pid>8131</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7430</run>
+			<fs>Illinois Center</fs>
+			<op>63279</op>
+			<dip>72297</dip>
+			<bid>389</bid>				
+			<wid1>07</wid1>
+			<wid2>430</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1315</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>4</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>4</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.68575666666667</lat>
+			<lon>-87.61150166666667</lon>
 			<pid>8136</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7413</run>
+			<run>7423</run>
 			<fs>115th Street</fs>
-			<op>55710</op>
+			<op>45378</op>
 			<dip>80872</dip>
-			<bid>501</bid>				
+			<bid>499</bid>				
 			<wid1>07</wid1>
-			<wid2>413</wid2>            	
+			<wid2>423</wid2>            	
 		</bus>
 
 

@@ -39,11 +39,11 @@
 
 	<buses rt="111" rtRtpiFeedName="" rtdd="111"> <!-- @11 @16 -->
 
-		<time>10:21 AM</time>
+		<time>4:49 PM</time>
 
 
 		<bus>
-			<id>1151</id>    
+			<id>8325</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,85 +52,56 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>111</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Northbound</dd> 
-			<dn>S</dn> 
-			<lat>41.680389404296875</lat>
-			<lon>-87.66248321533203</lon>
-			<pid>6356</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1304</run>
-			<fs>95th Red Line</fs>
-			<op>61900</op>
-			<dip>35</dip>
-			<bid>88</bid>				
-			<wid1>01</wid1>
-			<wid2>304</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1170</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>111</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>111</rtdd>  
-			
-			<d>South Bound</d>
+			<d>West Bound</d>
 			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.706129372838035</lat>
-			<lon>-87.61376962317041</lon>
-			<pid>6354</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1102</run>
-			<fs>117th/Marshfield</fs>
-			<op>29877</op>
-			<dip>9334</dip>
-			<bid>82</bid>				
-			<wid1>01</wid1>
-			<wid2>102</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1087</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>111</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>111</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Northbound</dd> 
-			<dn>E</dn> 
+			<dn>W</dn> 
 			<lat>41.69242858886719</lat>
-			<lon>-87.6329110567687</lon>
-			<pid>6356</pid>
-			<pd>Northbound</pd> 
+			<lon>-87.64231153215681</lon>
+			<pid>6354</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1104</run>
-			<fs>95th Red Line</fs>
-			<op>61895</op>
-			<dip>16858</dip>
-			<bid>86</bid>				
+			<run>1152</run>
+			<fs>117th/Marshfield</fs>
+			<op>39035</op>
+			<dip>22222</dip>
+			<bid>90</bid>				
 			<wid1>01</wid1>
-			<wid2>104</wid2>            	
+			<wid2>152</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1118</id>    
+			<id>1064</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>111</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>111</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.706738419966264</lat>
+			<lon>-87.61370086669922</lon>
+			<pid>6356</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1108</run>
+			<fs>95th Red Line</fs>
+			<op>63716</op>
+			<dip>27278</dip>
+			<bid>83</bid>				
+			<wid1>01</wid1>
+			<wid2>108</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1109</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -142,47 +113,18 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.68063333333333</lat>
-			<lon>-87.66251</lon>
+			<lat>41.68172721862793</lat>
+			<lon>-87.66262092590333</lon>
 			<pid>6354</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1051</run>
+			<run>1151</run>
 			<fs>117th/Marshfield</fs>
-			<op>29793</op>
-			<dip>33747</dip>
-			<bid>7</bid>				
+			<op>50775</op>
+			<dip>33346</dip>
+			<bid>84</bid>				
 			<wid1>01</wid1>
-			<wid2>051</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1105</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>111</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>111</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Northbound</dd> 
-			<dn>S</dn> 
-			<lat>41.721205</lat>
-			<lon>-87.62393666666667</lon>
-			<pid>6356</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1103</run>
-			<fs>95th Red Line</fs>
-			<op>33605</op>
-			<dip>35666</dip>
-			<bid>85</bid>				
-			<wid1>01</wid1>
-			<wid2>103</wid2>            	
+			<wid2>151</wid2>            	
 		</bus>
 
 

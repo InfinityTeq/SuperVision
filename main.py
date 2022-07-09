@@ -9,9 +9,11 @@ TODO:
 
 # imports
 import os
-import folium # pip req
+import folium
 from folium.plugins import *
-from flask import Flask, render_template, send_from_directory # pip req
+from flask import Flask, render_template, send_from_directory 
+from opensky_api import OpenSkyApi
+
 
 # packages
 from packages import get_real_time
@@ -97,6 +99,7 @@ def bus_xml(file):
     print(url)
 
     if url:
+        # get_flights.get()
         return get_xml_data.get(url, file)
 
     else:
