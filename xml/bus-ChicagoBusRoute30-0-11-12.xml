@@ -39,7 +39,7 @@
 
 	<buses rt="30" rtRtpiFeedName="" rtdd="30"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
+		<time>4:53 PM</time>
 
 
 		<bus>
@@ -52,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>30</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.729233511563</lat>
-			<lon>-87.54295349121094</lon>
-			<pid>8227</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.672066081653945</lat>
+			<lon>-87.53982705780955</lon>
+			<pid>8228</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1551</run>
-			<fs>Hegewisch</fs>
+			<fs>69th Red Line</fs>
 			<op>40416</op>
-			<dip>30648</dip>
+			<dip>11462</dip>
 			<bid>1302</bid>				
 			<wid1>01</wid1>
 			<wid2>551</wid2>            	
@@ -81,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>30</rtdd>  
 			
-			<d>North West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NW</dn> 
-			<lat>41.74395179748535</lat>
-			<lon>-87.57501545658818</lon>
-			<pid>8228</pid>
-			<pd>Northbound</pd> 
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.730158696409134</lat>
+			<lon>-87.54420458684203</lon>
+			<pid>8227</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1554</run>
-			<fs>69th Red Line</fs>
+			<fs>Hegewisch</fs>
 			<op>64816</op>
-			<dip>50464</dip>
+			<dip>29978</dip>
 			<bid>1312</bid>				
 			<wid1>01</wid1>
 			<wid2>554</wid2>            	

@@ -39,7 +39,7 @@
 
 	<buses rt="130" rtRtpiFeedName="" rtdd="130"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
+		<time>4:53 PM</time>
 
 
 		<bus>
@@ -52,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>130</rtdd>  
 			
-			<d>South East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>SSE</dn> 
-			<lat>41.86527316975144</lat>
-			<lon>-87.61969713894825</lon>
-			<pid>10884</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.88523139953613</lat>
+			<lon>-87.6397933959961</lon>
+			<pid>8094</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K116</run>
-			<fs>Museum Campus</fs>
+			<fs>Ogilvie &amp; Union Stations</fs>
 			<op>65137</op>
-			<dip>12244</dip>
+			<dip>16603</dip>
 			<bid>1822</bid>				
 			<wid1>0K</wid1>
 			<wid2>116</wid2>            	

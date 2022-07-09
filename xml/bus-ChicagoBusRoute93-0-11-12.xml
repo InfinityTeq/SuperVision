@@ -39,36 +39,7 @@
 
 	<buses rt="93" rtRtpiFeedName="" rtdd="93"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
-
-
-		<bus>
-			<id>1887</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>93</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>93</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Southbound</dd> 
-			<dn>W</dn> 
-			<lat>42.05221176147461</lat>
-			<lon>-87.68783760070801</lon>
-			<pid>1802</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P008</run>
-			<fs>Kimball Brown Line</fs>
-			<op>55615</op>
-			<dip>4354</dip>
-			<bid>2486</bid>				
-			<wid1>0P</wid1>
-			<wid2>008</wid2>            	
-		</bus>
-
+		<time>4:53 PM</time>
 
 
 		<bus>
@@ -81,79 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>93</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>42.01676559448242</lat>
-			<lon>-87.69964599609375</lon>
-			<pid>1800</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P009</run>
-			<fs>Davis Purple Line</fs>
-			<op>34083</op>
-			<dip>21805</dip>
-			<bid>2485</bid>				
-			<wid1>0P</wid1>
-			<wid2>009</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1761</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>93</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>93</rtdd>  
-			
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.985737124356355</lat>
-			<lon>-87.69938659667969</lon>
+			<lat>42.03091212681362</lat>
+			<lon>-87.69941711425781</lon>
 			<pid>1802</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P021</run>
+			<run>P009</run>
 			<fs>Kimball Brown Line</fs>
-			<op>60804</op>
-			<dip>31721</dip>
-			<bid>2483</bid>				
+			<op>34083</op>
+			<dip>15123</dip>
+			<bid>2485</bid>				
 			<wid1>0P</wid1>
-			<wid2>021</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1776</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>93</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>93</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>42.052101135253906</lat>
-			<lon>-87.69642893473308</lon>
-			<pid>1800</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P007</run>
-			<fs>Davis Purple Line</fs>
-			<op>53265</op>
-			<dip>34991</dip>
-			<bid>2481</bid>				
-			<wid1>0P</wid1>
-			<wid2>007</wid2>            	
+			<wid2>009</wid2>            	
 		</bus>
 
 
@@ -168,21 +81,79 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>93</rtdd>  
 			
-			<d>East Bound</d>
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>42.04471688521536</lat>
+			<lon>-87.69900512695312</lon>
+			<pid>1800</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P032</run>
+			<fs>Davis Purple Line</fs>
+			<op>43476</op>
+			<dip>31633</dip>
+			<bid>2482</bid>				
+			<wid1>0P</wid1>
+			<wid2>032</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1776</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>93</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>93</rtdd>  
+			
+			<d>South Bound</d>
 			<dd>Southbound</dd> 
-			<dn>E</dn> 
-			<lat>41.968442036555366</lat>
-			<lon>-87.71248626708984</lon>
+			<dn>S</dn> 
+			<lat>41.98193086896624</lat>
+			<lon>-87.69920894077846</lon>
 			<pid>1802</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P011</run>
+			<run>P007</run>
 			<fs>Kimball Brown Line</fs>
-			<op>53280</op>
-			<dip>42152</dip>
-			<bid>2482</bid>				
+			<op>53265</op>
+			<dip>33111</dip>
+			<bid>2481</bid>				
 			<wid1>0P</wid1>
-			<wid2>011</wid2>            	
+			<wid2>007</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1887</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>93</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>93</rtdd>  
+			
+			<d>North East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>ENE</dn> 
+			<lat>41.968444677499626</lat>
+			<lon>-87.71244049072266</lon>
+			<pid>1802</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P008</run>
+			<fs>Kimball Brown Line</fs>
+			<op>55615</op>
+			<dip>42157</dip>
+			<bid>2486</bid>				
+			<wid1>0P</wid1>
+			<wid2>008</wid2>            	
 		</bus>
 
 

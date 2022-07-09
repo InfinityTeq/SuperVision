@@ -39,36 +39,7 @@
 
 	<buses rt="43" rtRtpiFeedName="" rtdd="43"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
-
-
-		<bus>
-			<id>7986</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>43</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>43</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>S</dn> 
-			<lat>41.816851070949006</lat>
-			<lon>-87.63354083469936</lon>
-			<pid>8179</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7768</run>
-			<fs>Lake Park</fs>
-			<op>36358</op>
-			<dip>4729</dip>
-			<bid>1948</bid>				
-			<wid1>07</wid1>
-			<wid2>768</wid2>            	
-		</bus>
-
+		<time>4:53 PM</time>
 
 
 		<bus>
@@ -83,16 +54,16 @@
 			
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.81643295288086</lat>
-			<lon>-87.63062888697574</lon>
+			<dn>WSW</dn> 
+			<lat>41.81662368774414</lat>
+			<lon>-87.62203216552734</lon>
 			<pid>8180</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7761</run>
 			<fs>42nd/Halsted</fs>
 			<op>32492</op>
-			<dip>9548</dip>
+			<dip>7172</dip>
 			<bid>1937</bid>				
 			<wid1>07</wid1>
 			<wid2>761</wid2>            	
@@ -110,21 +81,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>43</rtdd>  
 			
-			<d>North West Bound</d>
+			<d>East Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.81729507446289</lat>
-			<lon>-87.59780143289005</lon>
+			<dn>E</dn> 
+			<lat>41.81657409667969</lat>
+			<lon>-87.61772657121931</lon>
 			<pid>8179</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7765</run>
 			<fs>Lake Park</fs>
 			<op>33985</op>
-			<dip>20267</dip>
+			<dip>14694</dip>
 			<bid>1940</bid>				
 			<wid1>07</wid1>
 			<wid2>765</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>7986</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>43</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>43</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.81762666666667</lat>
+			<lon>-87.64531166666667</lon>
+			<pid>8180</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7768</run>
+			<fs>42nd/Halsted</fs>
+			<op>36358</op>
+			<dip>21455</dip>
+			<bid>1948</bid>				
+			<wid1>07</wid1>
+			<wid2>768</wid2>            	
 		</bus>
 
 

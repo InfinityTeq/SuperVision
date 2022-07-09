@@ -39,7 +39,7 @@
 
 	<buses rt="115" rtRtpiFeedName="" rtdd="115"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
+		<time>4:53 PM</time>
 
 
 		<bus>
@@ -52,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>115</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>41.6851109287195</lat>
-			<lon>-87.63732535378975</lon>
-			<pid>6358</pid>
-			<pd>Northbound</pd> 
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>41.68532711526622</lat>
+			<lon>-87.62690801205842</lon>
+			<pid>6357</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1107</run>
-			<fs>95th Red Line</fs>
-			<op>42342</op>
-			<dip>10637</dip>
+			<run>1110</run>
+			<fs>117th/Marshfield</fs>
+			<op>37368</op>
+			<dip>24222</dip>
 			<bid>1227</bid>				
 			<wid1>01</wid1>
-			<wid2>107</wid2>            	
+			<wid2>110</wid2>            	
 		</bus>
 
 
@@ -81,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>115</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.711465563092915</lat>
-			<lon>-87.6055415562221</lon>
-			<pid>6358</pid>
-			<pd>Northbound</pd> 
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>41.684998497596155</lat>
+			<lon>-87.65191873403695</lon>
+			<pid>6357</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1144</run>
-			<fs>95th Red Line</fs>
+			<fs>117th/Marshfield</fs>
 			<op>44347</op>
-			<dip>27816</dip>
+			<dip>31062</dip>
 			<bid>1214</bid>				
 			<wid1>01</wid1>
 			<wid2>144</wid2>            	
@@ -111,17 +111,17 @@
 			<rtdd>115</rtdd>  
 			
 			<d>West Bound</d>
-			<dd>Southbound</dd> 
+			<dd>Northbound</dd> 
 			<dn>W</dn> 
-			<lat>41.685096740722656</lat>
-			<lon>-87.6437668270535</lon>
-			<pid>6357</pid>
-			<pd>Southbound</pd> 
+			<lat>41.72209167480469</lat>
+			<lon>-87.60367091252253</lon>
+			<pid>6358</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1113</run>
-			<fs>117th/Marshfield</fs>
+			<fs>95th Red Line</fs>
 			<op>65308</op>
-			<dip>28806</dip>
+			<dip>31933</dip>
 			<bid>1273</bid>				
 			<wid1>01</wid1>
 			<wid2>113</wid2>            	

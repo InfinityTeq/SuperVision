@@ -4,18 +4,7 @@
 
 '''
 TODO:
-- make transit data more dynamic
-    - [x] specify '/bus', '/train', etc. in '/xml'
-    - [x] specific names can be used to make unique transit data
-    - add each to their own feature group
-    - custom icons
-- possible transits to map
-    - trains
-    - buses
-    - planes?
-    - taxi/uber services
-    - ems/police
-    - shodan api
+
 '''
 
 # imports
@@ -31,15 +20,6 @@ from packages import get_xml_data
 
 # main code, makes map
 def main():
-
-    '''
-https://api.mapbox.com/styles/v1/cosmodiumcs/cl5cuv2ar000315o5qr197too/wmts?access_token=pk.eyJ1IjoiY29zbW9kaXVtY3MiLCJhIjoiY2w1Y3VucHRjMDZtdjNkb3libjNlMjEyZSJ9.z2TV_0S6PuuIHS847jCq1A
-
-       tiles='"http://{s}.tiles.mapbox.com/v1/cosmodiumcs/cl5cuv2ar000315o5qr197too/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiY29zbW9kaXVtY3MiLCJhIjoiY2w1Y3VucHRjMDZtdjNkb3libjNlMjEyZSJ9.z2TV_0S6PuuIHS847jCq1A',
-       attr='CosmodiumCS Mapbox Attribution')
-
-       https://api.mapbox.com/styles/v1/cosmodiumcs/cl5cuv2ar000315o5qr197too/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY29zbW9kaXVtY3MiLCJhIjoiY2w1Y3VucHRjMDZtdjNkb3libjNlMjEyZSJ9.z2TV_0S6PuuIHS847jCq1A
-    '''
 
     # generate map
     map = folium.Map(zoom_start=12, control_scale=True, width='100%', height='80%', tiles='https://api.mapbox.com/styles/v1/cosmodiumcs/cl5cuv2ar000315o5qr197too/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY29zbW9kaXVtY3MiLCJhIjoiY2w1Y3VucHRjMDZtdjNkb3libjNlMjEyZSJ9.z2TV_0S6PuuIHS847jCq1A', attr='CosmodiumCS Theme')

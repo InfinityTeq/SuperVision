@@ -39,36 +39,7 @@
 
 	<buses rt="206" rtRtpiFeedName="" rtdd="206"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
-
-
-		<bus>
-			<id>1588</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>206</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>206</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>42.04124450683594</lat>
-			<lon>-87.69102154356061</lon>
-			<pid>3190</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F909</run>
-			<fs>Howard</fs>
-			<op>49388</op>
-			<dip>19109</dip>
-			<bid>3040</bid>				
-			<wid1>0F</wid1>
-			<wid2>909</wid2>            	
-		</bus>
-
+		<time>4:53 PM</time>
 
 
 		<bus>
@@ -81,21 +52,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>206</rtdd>  
 			
-			<d>North Bound</d>
+			<d>North East Bound</d>
 			<dd>Westbound</dd> 
-			<dn>N</dn> 
-			<lat>42.0551513671875</lat>
-			<lon>-87.69878387451172</lon>
-			<pid>8114</pid>
+			<dn>NE</dn> 
+			<lat>42.01774215698242</lat>
+			<lon>-87.67292785644531</lon>
+			<pid>8113</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F453</run>
 			<fs>Central/Crawford</fs>
 			<op>37272</op>
-			<dip>20885</dip>
+			<dip>0</dip>
 			<bid>3037</bid>				
 			<wid1>0F</wid1>
 			<wid2>453</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1588</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>206</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>206</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>NNW</dn> 
+			<lat>42.06424551495051</lat>
+			<lon>-87.69866723529363</lon>
+			<pid>8114</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F909</run>
+			<fs>Central/Crawford</fs>
+			<op>49388</op>
+			<dip>25818</dip>
+			<bid>3040</bid>				
+			<wid1>0F</wid1>
+			<wid2>909</wid2>            	
 		</bus>
 
 

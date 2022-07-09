@@ -39,11 +39,11 @@
 
 	<buses rt="134" rtRtpiFeedName="" rtdd="134"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
+		<time>4:53 PM</time>
 
 
 		<bus>
-			<id>1655</id>    
+			<id>4008</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,24 +55,24 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.88620249430338</lat>
-			<lon>-87.6323979695638</lon>
+			<lat>41.879188537597656</lat>
+			<lon>-87.6323013305664</lon>
 			<pid>4508</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K013</run>
+			<run>K435</run>
 			<fs>Belmont</fs>
-			<op>53276</op>
-			<dip>3870</dip>
-			<bid>1707</bid>				
+			<op>66017</op>
+			<dip>1258</dip>
+			<bid>1731</bid>				
 			<wid1>0K</wid1>
-			<wid2>013</wid2>            	
+			<wid2>435</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1737</id>    
+			<id>4066</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -81,21 +81,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>134</rtdd>  
 			
-			<d>East Bound</d>
+			<d>North Bound</d>
 			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>41.887428283691406</lat>
-			<lon>-87.61498260498047</lon>
+			<dn>N</dn> 
+			<lat>41.91151809692383</lat>
+			<lon>-87.62577819824219</lon>
 			<pid>4508</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K455</run>
+			<run>K654</run>
 			<fs>Belmont</fs>
-			<op>34219</op>
-			<dip>9126</dip>
-			<bid>1641</bid>				
+			<op>65906</op>
+			<dip>19372</dip>
+			<bid>1688</bid>				
 			<wid1>0K</wid1>
-			<wid2>455</wid2>            	
+			<wid2>654</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1008</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>134</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>134</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>WSW</dn> 
+			<lat>41.92578125</lat>
+			<lon>-87.63338470458984</lon>
+			<pid>4508</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K408</run>
+			<fs>Belmont</fs>
+			<op>29316</op>
+			<dip>25715</dip>
+			<bid>1678</bid>				
+			<wid1>0K</wid1>
+			<wid2>408</wid2>            	
 		</bus>
 
 

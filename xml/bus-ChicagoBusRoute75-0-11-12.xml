@@ -39,36 +39,7 @@
 
 	<buses rt="75" rtRtpiFeedName="" rtdd="75"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
-
-
-		<bus>
-			<id>1387</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>75</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>75</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.76127624511719</lat>
-			<lon>-87.55584716796875</lon>
-			<pid>1541</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6575</run>
-			<fs>Damen</fs>
-			<op>58098</op>
-			<dip>231</dip>
-			<bid>2545</bid>				
-			<wid1>06</wid1>
-			<wid2>575</wid2>            	
-		</bus>
-
+		<time>4:53 PM</time>
 
 
 		<bus>
@@ -81,50 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>75</rtdd>  
 			
-			<d>South East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>ESE</dn> 
-			<lat>41.759822845458984</lat>
-			<lon>-87.63579559326172</lon>
-			<pid>1540</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6576</run>
-			<fs>Lakefront</fs>
-			<op>59662</op>
-			<dip>12974</dip>
-			<bid>2569</bid>				
-			<wid1>06</wid1>
-			<wid2>576</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8085</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>75</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>75</rtdd>  
-			
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.75851821899414</lat>
-			<lon>-87.60963980356853</lon>
+			<lat>41.758949279785156</lat>
+			<lon>-87.57603454589844</lon>
 			<pid>1541</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6574</run>
+			<run>6576</run>
 			<fs>Damen</fs>
-			<op>58564</op>
-			<dip>15254</dip>
-			<bid>2842</bid>				
+			<op>59662</op>
+			<dip>6023</dip>
+			<bid>2569</bid>				
 			<wid1>06</wid1>
-			<wid2>574</wid2>            	
+			<wid2>576</wid2>            	
 		</bus>
 
 
@@ -139,21 +81,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>75</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.75836298417072</lat>
-			<lon>-87.61545422612404</lon>
-			<pid>1540</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.75832818838266</lat>
+			<lon>-87.61929532564604</lon>
+			<pid>1541</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6581</run>
-			<fs>Lakefront</fs>
+			<fs>Damen</fs>
 			<op>57132</op>
-			<dip>24236</dip>
+			<dip>17969</dip>
 			<bid>2843</bid>				
 			<wid1>06</wid1>
 			<wid2>581</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1534</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>75</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>75</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.75831136703491</lat>
+			<lon>-87.61808223724366</lon>
+			<pid>1540</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6577</run>
+			<fs>Lakefront</fs>
+			<op>56628</op>
+			<dip>23520</dip>
+			<bid>2839</bid>				
+			<wid1>06</wid1>
+			<wid2>577</wid2>            	
 		</bus>
 
 
@@ -168,21 +139,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>75</rtdd>  
 			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.75886154174805</lat>
+			<lon>-87.57688703693327</lon>
+			<pid>1540</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6579</run>
+			<fs>Lakefront</fs>
+			<op>63483</op>
+			<dip>34836</dip>
+			<bid>2573</bid>				
+			<wid1>06</wid1>
+			<wid2>579</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1387</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>75</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>75</rtdd>  
+			
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
+			<dn>WNW</dn> 
 			<lat>41.75956726074219</lat>
 			<lon>-87.67388153076172</lon>
 			<pid>1541</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6579</run>
+			<run>6575</run>
 			<fs>Damen</fs>
-			<op>63483</op>
+			<op>58098</op>
 			<dip>42399</dip>
-			<bid>2573</bid>				
+			<bid>2545</bid>				
 			<wid1>06</wid1>
-			<wid2>579</wid2>            	
+			<wid2>575</wid2>            	
 		</bus>
 
 

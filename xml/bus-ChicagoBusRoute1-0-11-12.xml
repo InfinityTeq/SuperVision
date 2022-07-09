@@ -39,36 +39,7 @@
 
 	<buses rt="1" rtRtpiFeedName="" rtdd="1"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
-
-
-		<bus>
-			<id>7912</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>1</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>1</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>ENE</dn> 
-			<lat>41.87813186645508</lat>
-			<lon>-87.63253784179688</lon>
-			<pid>6351</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7105</run>
-			<fs>34th/Michigan</fs>
-			<op>60458</op>
-			<dip>2142</dip>
-			<bid>1978</bid>				
-			<wid1>07</wid1>
-			<wid2>105</wid2>            	
-		</bus>
-
+		<time>4:53 PM</time>
 
 
 		<bus>
@@ -81,21 +52,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>1</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.84206340623938</lat>
-			<lon>-87.62325950290845</lon>
-			<pid>8085</pid>
-			<pd>Northbound</pd> 
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.87813949584961</lat>
+			<lon>-87.6314468383789</lon>
+			<pid>6351</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7103</run>
-			<fs>Union Station</fs>
+			<fs>34th/Michigan</fs>
 			<op>39746</op>
-			<dip>4188</dip>
+			<dip>2434</dip>
 			<bid>1974</bid>				
 			<wid1>07</wid1>
 			<wid2>103</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1349</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>1</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>1</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.8781989642552</lat>
+			<lon>-87.62841728755406</lon>
+			<pid>6351</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7758</run>
+			<fs>34th/Michigan</fs>
+			<op>35095</op>
+			<dip>3260</dip>
+			<bid>1975</bid>				
+			<wid1>07</wid1>
+			<wid2>758</wid2>            	
 		</bus>
 
 
@@ -110,21 +110,79 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>1</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.86582176052794</lat>
-			<lon>-87.62406158447266</lon>
-			<pid>8085</pid>
-			<pd>Northbound</pd> 
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.8725346156529</lat>
+			<lon>-87.62427389962333</lon>
+			<pid>6351</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7208</run>
-			<fs>Union Station</fs>
+			<fs>34th/Michigan</fs>
 			<op>37332</op>
-			<dip>12874</dip>
+			<dip>6568</dip>
 			<bid>1976</bid>				
 			<wid1>07</wid1>
 			<wid2>208</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>7912</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>1</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>1</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.867757578365136</lat>
+			<lon>-87.62402806516553</lon>
+			<pid>8085</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7105</run>
+			<fs>Union Station</fs>
+			<op>60458</op>
+			<dip>13627</dip>
+			<bid>1978</bid>				
+			<wid1>07</wid1>
+			<wid2>105</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1331</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>1</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>1</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.83232498168945</lat>
+			<lon>-87.62316131591797</lon>
+			<pid>6351</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7319</run>
+			<fs>34th/Michigan</fs>
+			<op>61588</op>
+			<dip>21319</dip>
+			<bid>1980</bid>				
+			<wid1>07</wid1>
+			<wid2>319</wid2>            	
 		</bus>
 
 

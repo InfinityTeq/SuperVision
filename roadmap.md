@@ -1,0 +1,14 @@
+# ROADMAP
+- [ ] make transit data more dynamic
+    - [x] specify '/bus', '/train', etc. in '/xml'
+    - [x] specific names can be used to make unique transit data
+    - [ ] add each to their own feature group
+    - [ ] custom icons
+- [ ] possible transits to map
+    - [ ] trains
+    - [X] buses
+    - [ ] planes?
+    - [ ] taxi/uber services
+    - [ ] ems/police
+    - [ ] shodan api
+- [ ] thumbails for cameras

@@ -39,11 +39,11 @@
 
 	<buses rt="157" rtRtpiFeedName="" rtdd="157"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
+		<time>4:53 PM</time>
 
 
 		<bus>
-			<id>8146</id>    
+			<id>8127</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,27 +52,27 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>157</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Westbound</dd> 
-			<dn>E</dn> 
-			<lat>41.898441314697266</lat>
-			<lon>-87.6183090209961</lon>
-			<pid>14130</pid>
-			<pd>Westbound</pd> 
+			<d>West Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>W</dn> 
+			<lat>41.853675842285156</lat>
+			<lon>-87.72450256347656</lon>
+			<pid>14132</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5781</run>
-			<fs>Pulaski Pink Line</fs>
-			<op>38743</op>
-			<dip>0</dip>
-			<bid>1597</bid>				
+			<run>5424</run>
+			<fs>Chestnut/Lake Shore</fs>
+			<op>52751</op>
+			<dip>436</dip>
+			<bid>1610</bid>				
 			<wid1>05</wid1>
-			<wid2>781</wid2>            	
+			<wid2>424</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1962</id>    
+			<id>8111</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -81,21 +81,79 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>157</rtdd>  
 			
-			<d>North East Bound</d>
+			<d>South Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>ENE</dn> 
-			<lat>41.85239028930664</lat>
-			<lon>-87.72084045410156</lon>
+			<dn>S</dn> 
+			<lat>41.85367965698242</lat>
+			<lon>-87.72480010986328</lon>
 			<pid>14132</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5662</run>
+			<run>MAN</run>
 			<fs>Chestnut/Lake Shore</fs>
-			<op>59557</op>
-			<dip>2462</dip>
-			<bid>1541</bid>				
+			<op>65834</op>
+			<dip>543</dip>
+			<bid>MAN</bid>				
 			<wid1>05</wid1>
-			<wid2>662</wid2>            	
+			<wid2>231</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1988</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>157</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>157</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Westbound</dd> 
+			<dn>S</dn> 
+			<lat>41.89315068721771</lat>
+			<lon>-87.62429809570312</lon>
+			<pid>14130</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5012</run>
+			<fs>Pulaski Pink Line</fs>
+			<op>50721</op>
+			<dip>4570</dip>
+			<bid>1503</bid>				
+			<wid1>05</wid1>
+			<wid2>012</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8149</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>157</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>157</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.86974174499512</lat>
+			<lon>-87.64123596191406</lon>
+			<pid>14130</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5776</run>
+			<fs>Pulaski Pink Line</fs>
+			<op>50477</op>
+			<dip>17947</dip>
+			<bid>1366</bid>				
+			<wid1>05</wid1>
+			<wid2>776</wid2>            	
 		</bus>
 
 
@@ -113,18 +171,134 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.8933690045331</lat>
-			<lon>-87.62210969667177</lon>
+			<lat>41.86946105957031</lat>
+			<lon>-87.65426170825958</lon>
 			<pid>14130</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5010</run>
 			<fs>Pulaski Pink Line</fs>
 			<op>52536</op>
-			<dip>3855</dip>
+			<dip>21676</dip>
 			<bid>1619</bid>				
 			<wid1>05</wid1>
 			<wid2>010</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1966</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>157</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>157</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.86946773529053</lat>
+			<lon>-87.65905825297038</lon>
+			<pid>14132</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5231</run>
+			<fs>Chestnut/Lake Shore</fs>
+			<op>49328</op>
+			<dip>23012</dip>
+			<bid>1336</bid>				
+			<wid1>05</wid1>
+			<wid2>231</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8146</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>157</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>157</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.869301645379316</lat>
+			<lon>-87.6640625</lon>
+			<pid>14130</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5781</run>
+			<fs>Pulaski Pink Line</fs>
+			<op>38743</op>
+			<dip>24536</dip>
+			<bid>1597</bid>				
+			<wid1>05</wid1>
+			<wid2>781</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8126</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>157</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>157</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>N</dn> 
+			<lat>41.87777340796686</lat>
+			<lon>-87.63987633489793</lon>
+			<pid>14132</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5775</run>
+			<fs>Chestnut/Lake Shore</fs>
+			<op>51813</op>
+			<dip>31464</dip>
+			<bid>1530</bid>				
+			<wid1>05</wid1>
+			<wid2>775</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1962</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>157</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>157</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>N</dn> 
+			<lat>41.89029502868652</lat>
+			<lon>-87.62404251098633</lon>
+			<pid>14132</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5662</run>
+			<fs>Chestnut/Lake Shore</fs>
+			<op>59557</op>
+			<dip>40427</dip>
+			<bid>1541</bid>				
+			<wid1>05</wid1>
+			<wid2>662</wid2>            	
 		</bus>
 
 
@@ -139,18 +313,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>157</rtdd>  
 			
-			<d>South Bound</d>
+			<d>South West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>S</dn> 
-			<lat>41.883750915527344</lat>
-			<lon>-87.6245346069336</lon>
+			<dn>WSW</dn> 
+			<lat>41.85412489849588</lat>
+			<lon>-87.71660182787025</lon>
 			<pid>14130</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5773</run>
 			<fs>Pulaski Pink Line</fs>
 			<op>45601</op>
-			<dip>8112</dip>
+			<dip>42539</dip>
 			<bid>1371</bid>				
 			<wid1>05</wid1>
 			<wid2>773</wid2>            	
@@ -171,15 +345,15 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.86909338144156</lat>
-			<lon>-87.68127793532152</lon>
+			<lat>41.89842987060547</lat>
+			<lon>-87.61889934539795</lon>
 			<pid>14132</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5784</run>
 			<fs>Chestnut/Lake Shore</fs>
 			<op>50162</op>
-			<dip>15795</dip>
+			<dip>46239</dip>
 			<bid>1515</bid>				
 			<wid1>05</wid1>
 			<wid2>784</wid2>            	
@@ -200,163 +374,18 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.86928939819336</lat>
-			<lon>-87.66666412353516</lon>
+			<lat>41.89843575613839</lat>
+			<lon>-87.6185049874442</lon>
 			<pid>14132</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5783</run>
 			<fs>Chestnut/Lake Shore</fs>
 			<op>33570</op>
-			<dip>20905</dip>
+			<dip>46347</dip>
 			<bid>1363</bid>				
 			<wid1>05</wid1>
 			<wid2>783</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8127</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>157</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>157</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.86931610107422</lat>
-			<lon>-87.6633895190794</lon>
-			<pid>14130</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5755</run>
-			<fs>Pulaski Pink Line</fs>
-			<op>38636</op>
-			<dip>24335</dip>
-			<bid>1610</bid>				
-			<wid1>05</wid1>
-			<wid2>755</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1988</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>157</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>157</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.86973571777344</lat>
-			<lon>-87.63989822952836</lon>
-			<pid>14132</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5012</run>
-			<fs>Chestnut/Lake Shore</fs>
-			<op>50721</op>
-			<dip>28261</dip>
-			<bid>1503</bid>				
-			<wid1>05</wid1>
-			<wid2>012</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8149</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>157</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>157</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.89678021481163</lat>
-			<lon>-87.6212561757941</lon>
-			<pid>14132</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5776</run>
-			<fs>Chestnut/Lake Shore</fs>
-			<op>50477</op>
-			<dip>44161</dip>
-			<bid>1366</bid>				
-			<wid1>05</wid1>
-			<wid2>776</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8126</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>157</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>157</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Westbound</dd> 
-			<dn>S</dn> 
-			<lat>41.853858947753906</lat>
-			<lon>-87.72396850585938</lon>
-			<pid>14130</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5775</run>
-			<fs>Pulaski Pink Line</fs>
-			<op>51813</op>
-			<dip>45717</dip>
-			<bid>1530</bid>				
-			<wid1>05</wid1>
-			<wid2>775</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1966</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>157</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>157</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Westbound</dd> 
-			<dn>E</dn> 
-			<lat>41.85406</lat>
-			<lon>-87.72441333333333</lon>
-			<pid>14130</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5618</run>
-			<fs>Pulaski Pink Line</fs>
-			<op>49328</op>
-			<dip>45835</dip>
-			<bid>1336</bid>				
-			<wid1>05</wid1>
-			<wid2>618</wid2>            	
 		</bus>
 
 

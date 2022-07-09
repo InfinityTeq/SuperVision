@@ -39,7 +39,7 @@
 
 	<buses rt="201" rtRtpiFeedName="" rtdd="201"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
+		<time>4:53 PM</time>
 
 
 		<bus>
@@ -52,50 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>201</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Westbound</dd> 
-			<dn>N</dn> 
-			<lat>42.01821517944336</lat>
-			<lon>-87.67284393310547</lon>
-			<pid>4319</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>42.06252670288086</lat>
+			<lon>-87.7343251154973</lon>
+			<pid>4318</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P908</run>
-			<fs>Old Orchard</fs>
+			<fs>Howard Station</fs>
 			<op>29697</op>
-			<dip>40</dip>
+			<dip>6071</dip>
 			<bid>2476</bid>				
 			<wid1>0P</wid1>
 			<wid2>908</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1713</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>201</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>201</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Westbound</dd> 
-			<dn>N</dn> 
-			<lat>42.02609003240412</lat>
-			<lon>-87.68528386896307</lon>
-			<pid>4319</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P941</run>
-			<fs>Old Orchard</fs>
-			<op>50183</op>
-			<dip>5910</dip>
-			<bid>2500</bid>				
-			<wid1>0P</wid1>
-			<wid2>941</wid2>            	
 		</bus>
 
 
@@ -110,21 +81,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>201</rtdd>  
 			
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>NNW</dn> 
+			<lat>42.03085277926537</lat>
+			<lon>-87.68594261907762</lon>
+			<pid>4319</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P913</run>
+			<fs>Old Orchard</fs>
+			<op>50346</op>
+			<dip>7668</dip>
+			<bid>2513</bid>				
+			<wid1>0P</wid1>
+			<wid2>913</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1713</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>201</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>201</rtdd>  
+			
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>42.06430912017822</lat>
-			<lon>-87.70405387878418</lon>
+			<lat>42.06415557861328</lat>
+			<lon>-87.68635317484538</lon>
 			<pid>4318</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P906</run>
+			<run>P941</run>
 			<fs>Howard Station</fs>
-			<op>49933</op>
-			<dip>14823</dip>
-			<bid>2513</bid>				
+			<op>50183</op>
+			<dip>19635</dip>
+			<bid>2500</bid>				
 			<wid1>0P</wid1>
-			<wid2>906</wid2>            	
+			<wid2>941</wid2>            	
 		</bus>
 
 
@@ -139,18 +139,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>201</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>SSE</dn> 
-			<lat>42.038181992827866</lat>
-			<lon>-87.68772300344999</lon>
-			<pid>4318</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>42.064401626586914</lat>
+			<lon>-87.69926834106445</lon>
+			<pid>4319</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P907</run>
-			<fs>Howard Station</fs>
+			<fs>Old Orchard</fs>
 			<op>62150</op>
-			<dip>34491</dip>
+			<dip>28982</dip>
 			<bid>2504</bid>				
 			<wid1>0P</wid1>
 			<wid2>907</wid2>            	
@@ -168,18 +168,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>201</rtdd>  
 			
-			<d>South West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>SW</dn> 
-			<lat>42.06407296785744</lat>
-			<lon>-87.72886050644742</lon>
-			<pid>4319</pid>
-			<pd>Westbound</pd> 
+			<d>South Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>SSE</dn> 
+			<lat>42.03140024038461</lat>
+			<lon>-87.68613926814153</lon>
+			<pid>4318</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P461</run>
-			<fs>Old Orchard</fs>
+			<fs>Howard Station</fs>
 			<op>45588</op>
-			<dip>37133</dip>
+			<dip>37015</dip>
 			<bid>2510</bid>				
 			<wid1>0P</wid1>
 			<wid2>461</wid2>            	

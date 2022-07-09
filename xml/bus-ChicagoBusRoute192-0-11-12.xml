@@ -39,11 +39,11 @@
 
 	<buses rt="192" rtRtpiFeedName="" rtdd="192"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
+		<time>4:53 PM</time>
 
 
 		<bus>
-			<id>4173</id>    
+			<id>4187</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,18 +55,105 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.84808349609375</lat>
-			<lon>-87.62362670898438</lon>
+			<lat>41.791978931427</lat>
+			<lon>-87.60614776611328</lon>
 			<pid>2671</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1206</run>
+			<run>1423</run>
 			<fs>Ogilvie Station</fs>
-			<op>29975</op>
-			<dip>27397</dip>
-			<bid>1207</bid>				
+			<op>50115</op>
+			<dip>2198</dip>
+			<bid>1300</bid>				
 			<wid1>01</wid1>
-			<wid2>206</wid2>            	
+			<wid2>423</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4192</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>192</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>192</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.848140716552734</lat>
+			<lon>-87.6236343383789</lon>
+			<pid>2671</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1420</run>
+			<fs>Ogilvie Station</fs>
+			<op>55053</op>
+			<dip>27399</dip>
+			<bid>1161</bid>				
+			<wid1>01</wid1>
+			<wid2>420</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4111</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>192</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>192</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.86592102050781</lat>
+			<lon>-87.62407684326172</lon>
+			<pid>2671</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1419</run>
+			<fs>Ogilvie Station</fs>
+			<op>42451</op>
+			<dip>33906</dip>
+			<bid>1157</bid>				
+			<wid1>01</wid1>
+			<wid2>419</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4314</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>192</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>192</rtdd>  
+			
+			<d>North East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NE</dn> 
+			<lat>41.88044738769531</lat>
+			<lon>-87.63986206054688</lon>
+			<pid>2671</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1315</run>
+			<fs>Ogilvie Station</fs>
+			<op>54389</op>
+			<dip>43463</dip>
+			<bid>1142</bid>				
+			<wid1>01</wid1>
+			<wid2>315</wid2>            	
 		</bus>
 
 

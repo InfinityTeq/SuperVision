@@ -39,11 +39,11 @@
 
 	<buses rt="148" rtRtpiFeedName="" rtdd="148"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
+		<time>4:53 PM</time>
 
 
 		<bus>
-			<id>4138</id>    
+			<id>4161</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,24 +55,24 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.88801090137379</lat>
-			<lon>-87.62447295317779</lon>
+			<lat>41.89404296875</lat>
+			<lon>-87.6241455078125</lon>
 			<pid>6403</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P104</run>
+			<run>P834</run>
 			<fs>Foster/Marine Drive</fs>
-			<op>58073</op>
-			<dip>5855</dip>
-			<bid>2363</bid>				
+			<op>40984</op>
+			<dip>8090</dip>
+			<bid>2395</bid>				
 			<wid1>0P</wid1>
-			<wid2>104</wid2>            	
+			<wid2>834</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>4154</id>    
+			<id>4342</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,24 +84,24 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>NNW</dn> 
-			<lat>41.908111572265625</lat>
-			<lon>-87.62541198730469</lon>
+			<lat>41.907840728759766</lat>
+			<lon>-87.6253433227539</lon>
 			<pid>6403</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P713</run>
+			<run>P672</run>
 			<fs>Foster/Marine Drive</fs>
-			<op>45479</op>
-			<dip>13416</dip>
-			<bid>2445</bid>				
+			<op>40769</op>
+			<dip>13318</dip>
+			<bid>2412</bid>				
 			<wid1>0P</wid1>
-			<wid2>713</wid2>            	
+			<wid2>672</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1789</id>    
+			<id>4381</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -110,21 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>148</rtdd>  
 			
-			<d>North Bound</d>
+			<d>West Bound</d>
 			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.9544792175293</lat>
-			<lon>-87.64417266845703</lon>
+			<dn>W</dn> 
+			<lat>41.95461845397949</lat>
+			<lon>-87.64583969116211</lon>
 			<pid>6403</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P714</run>
+			<run>MAN</run>
 			<fs>Foster/Marine Drive</fs>
-			<op>55606</op>
-			<dip>31541</dip>
-			<bid>2434</bid>				
+			<op>58537</op>
+			<dip>32089</dip>
+			<bid>MAN</bid>				
 			<wid1>0P</wid1>
-			<wid2>714</wid2>            	
+			<wid2>672</wid2>            	
 		</bus>
 
 

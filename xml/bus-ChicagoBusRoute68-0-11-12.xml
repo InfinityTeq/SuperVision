@@ -39,69 +39,11 @@
 
 	<buses rt="68" rtRtpiFeedName="" rtdd="68"> <!-- @11 @16 -->
 
-		<time>4:02 PM</time>
+		<time>4:53 PM</time>
 
 
 		<bus>
-			<id>8238</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>68</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>68</rtdd>  
-			
-			<d>North West Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>NW</dn> 
-			<lat>42.01027297973633</lat>
-			<lon>-87.83158874511719</lon>
-			<pid>3215</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F431</run>
-			<fs>Jefferson Park Blue Line</fs>
-			<op>57195</op>
-			<dip>177</dip>
-			<bid>2935</bid>				
-			<wid1>0F</wid1>
-			<wid2>431</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8256</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>68</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>68</rtdd>  
-			
-			<d>North West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>NW</dn> 
-			<lat>41.97514724731445</lat>
-			<lon>-87.76824951171875</lon>
-			<pid>3214</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F126</run>
-			<fs>Park Ridge Metra Station</fs>
-			<op>28677</op>
-			<dip>2813</dip>
-			<bid>3065</bid>				
-			<wid1>0F</wid1>
-			<wid2>126</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8289</id>    
+			<id>1585</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -112,19 +54,48 @@
 			
 			<d>South East Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>ESE</dn> 
-			<lat>41.9817644292658</lat>
-			<lon>-87.78027371493253</lon>
+			<dn>SE</dn> 
+			<lat>41.99263023376465</lat>
+			<lon>-87.79961349487304</lon>
 			<pid>3215</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F507</run>
+			<run>F411</run>
 			<fs>Jefferson Park Blue Line</fs>
-			<op>37227</op>
-			<dip>18181</dip>
-			<bid>3112</bid>				
+			<op>61967</op>
+			<dip>11532</dip>
+			<bid>2879</bid>				
 			<wid1>0F</wid1>
-			<wid2>507</wid2>            	
+			<wid2>411</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1357</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>68</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>68</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.99761199951172</lat>
+			<lon>-87.80770874023438</lon>
+			<pid>3214</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F407</run>
+			<fs>Park Ridge Metra Station</fs>
+			<op>52165</op>
+			<dip>16390</dip>
+			<bid>2861</bid>				
+			<wid1>0F</wid1>
+			<wid2>407</wid2>            	
 		</bus>
 
 
