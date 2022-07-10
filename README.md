@@ -56,10 +56,17 @@ SuperVision works by using Python to generate Keyhole Makrup Language [KML] file
 
 SuperVision's open source magic allows us to do so much more than what propriatary software limited us to. SuperVision has not only mapped thing like cameras, but it can track live data like the locations of public transportation. We can fully customize the tracking of public data to the fullest extent possible [with a lot of debugging of course XP]. 
 
+---
+
+<!-- youtube embed -->
+![Devlog One](https://www.youtube.com/watch?v=knagAWTn7FQ)
+
+---
+
 <!-- resources -->
 ## Resources:
 - [SuperVision][supervision]
-- [YouTube Video]()
+- [YouTube Video](https://youtu.be/knagAWTn7FQ)
 - [YouTube Channel][youtube]
 - [Website][ccs]
 
