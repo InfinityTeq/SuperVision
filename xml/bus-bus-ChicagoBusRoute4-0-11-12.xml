@@ -39,7 +39,36 @@
 
 	<buses rt="4" rtRtpiFeedName="" rtdd="4"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
+
+
+		<bus>
+			<id>1206</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>4</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>4</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.72806286420978</lat>
+			<lon>-87.604736328125</lon>
+			<pid>16543</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7438</run>
+			<fs>95th</fs>
+			<op>64953</op>
+			<dip>8412</dip>
+			<bid>430</bid>				
+			<wid1>07</wid1>
+			<wid2>438</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,15 +84,15 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.865874932736766</lat>
-			<lon>-87.62416652757294</lon>
+			<lat>41.790549657116195</lat>
+			<lon>-87.60610407999117</lon>
 			<pid>432</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7430</run>
 			<fs>95th/CSU</fs>
 			<op>63279</op>
-			<dip>10602</dip>
+			<dip>42081</dip>
 			<bid>460</bid>				
 			<wid1>07</wid1>
 			<wid2>430</wid2>            	
@@ -84,15 +113,15 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.74162498849337</lat>
-			<lon>-87.60491180419922</lon>
+			<lat>41.80721173967634</lat>
+			<lon>-87.60646493094308</lon>
 			<pid>8131</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7435</run>
 			<fs>Illinois Center</fs>
 			<op>64286</op>
-			<dip>22102</dip>
+			<dip>46287</dip>
 			<bid>406</bid>				
 			<wid1>07</wid1>
 			<wid2>435</wid2>            	
@@ -110,50 +139,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>4</rtdd>  
 			
-			<d>East Bound</d>
+			<d>South Bound</d>
 			<dd>Southbound</dd> 
-			<dn>E</dn> 
-			<lat>41.831031799316406</lat>
-			<lon>-87.61921807491419</lon>
+			<dn>S</dn> 
+			<lat>41.75674222120598</lat>
+			<lon>-87.60537571693534</lon>
 			<pid>8136</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7477</run>
 			<fs>115th Street</fs>
 			<op>65904</op>
-			<dip>24710</dip>
+			<dip>54423</dip>
 			<bid>488</bid>				
 			<wid1>07</wid1>
 			<wid2>477</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1295</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>4</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>4</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.795204162597656</lat>
-			<lon>-87.60626220703125</lon>
-			<pid>432</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7429</run>
-			<fs>95th/CSU</fs>
-			<op>63055</op>
-			<dip>40314</dip>
-			<bid>495</bid>				
-			<wid1>07</wid1>
-			<wid2>429</wid2>            	
 		</bus>
 
 

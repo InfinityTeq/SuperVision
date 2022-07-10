@@ -39,36 +39,7 @@
 
 	<buses rt="52" rtRtpiFeedName="" rtdd="52"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
-
-
-		<bus>
-			<id>7904</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>52</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>52</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.89501463477291</lat>
-			<lon>-87.7064706603093</lon>
-			<pid>14117</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K535</run>
-			<fs>Chicago/Kedzie</fs>
-			<op>62208</op>
-			<dip>46556</dip>
-			<bid>364</bid>				
-			<wid1>0K</wid1>
-			<wid2>535</wid2>            	
-		</bus>
-
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -81,21 +52,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>52</rtdd>  
 			
-			<d>South West Bound</d>
-			<dd>Southbound</dd> 
-			<dn>WSW</dn> 
-			<lat>41.77887240323153</lat>
-			<lon>-87.70321322354404</lon>
-			<pid>14120</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.80807643466525</lat>
+			<lon>-87.70387268066406</lon>
+			<pid>14117</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K583</run>
-			<fs>63rd Place</fs>
+			<fs>Chicago/Kedzie</fs>
 			<op>60444</op>
-			<dip>47253</dip>
+			<dip>11963</dip>
 			<bid>260</bid>				
 			<wid1>0K</wid1>
 			<wid2>583</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>7904</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>52</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>52</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.84452196267935</lat>
+			<lon>-87.70509338378906</lon>
+			<pid>14120</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K535</run>
+			<fs>63rd Place</fs>
+			<op>62208</op>
+			<dip>22347</dip>
+			<bid>364</bid>				
+			<wid1>0K</wid1>
+			<wid2>535</wid2>            	
 		</bus>
 
 

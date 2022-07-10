@@ -39,7 +39,36 @@
 
 	<buses rt="146" rtRtpiFeedName="" rtdd="146"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
+
+
+		<bus>
+			<id>4368</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>146</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>146</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>E</dn> 
+			<lat>41.86485166666667</lat>
+			<lon>-87.61567333333333</lon>
+			<pid>6581</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>MAN</run>
+			<fs>Foster/Broadway</fs>
+			<op>62506</op>
+			<dip>3025</dip>
+			<bid>MAN</bid>				
+			<wid1>0P</wid1>
+			<wid2>615</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -52,79 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>146</rtdd>  
 			
-			<d>East Bound</d>
+			<d>West Bound</d>
 			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>41.8661994934082</lat>
-			<lon>-87.60762786865234</lon>
+			<dn>W</dn> 
+			<lat>41.86508560180664</lat>
+			<lon>-87.61572265625</lon>
 			<pid>6582</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P678</run>
 			<fs>Berwyn/Broadway</fs>
 			<op>64659</op>
-			<dip>10</dip>
+			<dip>3036</dip>
 			<bid>528</bid>				
 			<wid1>0P</wid1>
 			<wid2>678</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4365</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>146</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>146</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>WNW</dn> 
-			<lat>41.86508560180664</lat>
-			<lon>-87.61572265625</lon>
-			<pid>6581</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>MAN</run>
-			<fs>Foster/Broadway</fs>
-			<op>62150</op>
-			<dip>3036</dip>
-			<bid>MAN</bid>				
-			<wid1>0P</wid1>
-			<wid2>615</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4394</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>146</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>146</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>41.864808333333336</lat>
-			<lon>-87.615875</lon>
-			<pid>6581</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>MAN</run>
-			<fs>Foster/Broadway</fs>
-			<op>62431</op>
-			<dip>3093</dip>
-			<bid>MAN</bid>				
-			<wid1>0P</wid1>
-			<wid2>615</wid2>            	
 		</bus>
 
 
@@ -142,18 +113,76 @@
 			<d>East Bound</d>
 			<dd>Northbound</dd> 
 			<dn>E</dn> 
-			<lat>41.86484</lat>
-			<lon>-87.61597666666667</lon>
-			<pid>6582</pid>
+			<lat>41.86478</lat>
+			<lon>-87.61574166666666</lon>
+			<pid>6581</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>MAN</run>
-			<fs>Berwyn/Broadway</fs>
+			<fs>Foster/Broadway</fs>
 			<op>63715</op>
-			<dip>3108</dip>
+			<dip>3045</dip>
 			<bid>MAN</bid>				
 			<wid1>0P</wid1>
-			<wid2>678</wid2>            	
+			<wid2>615</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4394</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>146</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>146</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>W</dn> 
+			<lat>41.86758804321289</lat>
+			<lon>-87.62181091308594</lon>
+			<pid>6581</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>MAN</run>
+			<fs>Foster/Broadway</fs>
+			<op>62431</op>
+			<dip>5407</dip>
+			<bid>MAN</bid>				
+			<wid1>0P</wid1>
+			<wid2>615</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4365</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>146</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>146</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.88652801513672</lat>
+			<lon>-87.62440490722656</lon>
+			<pid>6581</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>MAN</run>
+			<fs>Foster/Broadway</fs>
+			<op>62150</op>
+			<dip>14805</dip>
+			<bid>MAN</bid>				
+			<wid1>0P</wid1>
+			<wid2>615</wid2>            	
 		</bus>
 
 
@@ -171,15 +200,15 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.8900395443565</lat>
-			<lon>-87.62400817871094</lon>
+			<lat>41.95796024098116</lat>
+			<lon>-87.64635175817153</lon>
 			<pid>6395</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P227</run>
 			<fs>Wilson/Marine</fs>
 			<op>63652</op>
-			<dip>16132</dip>
+			<dip>43220</dip>
 			<bid>544</bid>				
 			<wid1>0P</wid1>
 			<wid2>227</wid2>            	

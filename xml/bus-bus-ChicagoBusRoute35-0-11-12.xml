@@ -39,7 +39,7 @@
 
 	<buses rt="35" rtRtpiFeedName="" rtdd="35"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -52,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>35</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.831031799316406</lat>
-			<lon>-87.63002673999684</lon>
-			<pid>17464</pid>
-			<pd>Westbound</pd> 
+			<d>North Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>N</dn> 
+			<lat>41.82968781634075</lat>
+			<lon>-87.6948013305664</lon>
+			<pid>7100</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K312</run>
-			<fs>36th/Kedzie</fs>
+			<fs>Cottage Grove</fs>
 			<op>66080</op>
-			<dip>11949</dip>
+			<dip>3487</dip>
 			<bid>262</bid>				
 			<wid1>0K</wid1>
 			<wid2>312</wid2>            	

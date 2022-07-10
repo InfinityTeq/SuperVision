@@ -39,65 +39,7 @@
 
 	<buses rt="126" rtRtpiFeedName="" rtdd="126"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
-
-
-		<bus>
-			<id>1651</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>126</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>126</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>WNW</dn> 
-			<lat>41.87726974487305</lat>
-			<lon>-87.6784896850586</lon>
-			<pid>1117</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K014</run>
-			<fs>Austin</fs>
-			<op>N/A</op>
-			<dip>20124</dip>
-			<bid>300</bid>				
-			<wid1>0K</wid1>
-			<wid2>014</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1650</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>126</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>126</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.87762451171875</lat>
-			<lon>-87.68325805664062</lon>
-			<pid>1116</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K112</run>
-			<fs>Congress Plaza</fs>
-			<op>N/A</op>
-			<dip>25050</dip>
-			<bid>367</bid>				
-			<wid1>0K</wid1>
-			<wid2>112</wid2>            	
-		</bus>
-
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -110,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>126</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.87802942787729</lat>
-			<lon>-87.6403639258408</lon>
-			<pid>1116</pid>
-			<pd>Eastbound</pd> 
+			<d>South Bound</d>
+			<dd>Westbound</dd> 
+			<dn>S</dn> 
+			<lat>41.87849252874201</lat>
+			<lon>-87.64107444069602</lon>
+			<pid>1117</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K013</run>
-			<fs>Congress Plaza</fs>
+			<fs>Austin</fs>
 			<op>64993</op>
-			<dip>40214</dip>
+			<dip>7077</dip>
 			<bid>294</bid>				
 			<wid1>0K</wid1>
 			<wid2>013</wid2>            	
@@ -139,21 +81,79 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>126</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.876861572265625</lat>
-			<lon>-87.74646499921691</lon>
-			<pid>1117</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.87709426879883</lat>
+			<lon>-87.72577314023619</lon>
+			<pid>1116</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K111</run>
-			<fs>Austin</fs>
+			<fs>Congress Plaza</fs>
 			<op>65995</op>
-			<dip>40429</dip>
+			<dip>13306</dip>
 			<bid>280</bid>				
 			<wid1>0K</wid1>
 			<wid2>111</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1650</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>126</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>126</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.87471577272577</lat>
+			<lon>-87.62407580876754</lon>
+			<pid>1116</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K112</run>
+			<fs>Congress Plaza</fs>
+			<op>N/A</op>
+			<dip>45986</dip>
+			<bid>367</bid>				
+			<wid1>0K</wid1>
+			<wid2>112</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1651</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>126</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>126</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>NNE</dn> 
+			<lat>41.87625333333333</lat>
+			<lon>-87.77395</lon>
+			<pid>1117</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K014</run>
+			<fs>Austin</fs>
+			<op>N/A</op>
+			<dip>48261</dip>
+			<bid>300</bid>				
+			<wid1>0K</wid1>
+			<wid2>014</wid2>            	
 		</bus>
 
 

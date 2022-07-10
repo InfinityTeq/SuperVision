@@ -39,7 +39,36 @@
 
 	<buses rt="54" rtRtpiFeedName="" rtdd="54"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
+
+
+		<bus>
+			<id>1916</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>54</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>54</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.95032593299602</lat>
+			<lon>-87.74729919433594</lon>
+			<pid>4590</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5417</run>
+			<fs>24th Pl</fs>
+			<op>50528</op>
+			<dip>3757</dip>
+			<bid>186</bid>				
+			<wid1>05</wid1>
+			<wid2>417</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,15 +84,15 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.876813125610354</lat>
-			<lon>-87.74506740570068</lon>
+			<lat>41.956892342403016</lat>
+			<lon>-87.74735023235452</lon>
 			<pid>4588</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5415</run>
 			<fs>Montrose</fs>
 			<op>63788</op>
-			<dip>11049</dip>
+			<dip>40362</dip>
 			<bid>144</bid>				
 			<wid1>05</wid1>
 			<wid2>415</wid2>            	
@@ -81,50 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>54</rtdd>  
 			
-			<d>South Bound</d>
+			<d>North Bound</d>
 			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.920125325520836</lat>
-			<lon>-87.74633026123047</lon>
+			<dn>N</dn> 
+			<lat>41.8463077545166</lat>
+			<lon>-87.74455261230469</lon>
 			<pid>4590</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5443</run>
 			<fs>24th Pl</fs>
 			<op>54186</op>
-			<dip>14874</dip>
+			<dip>41998</dip>
 			<bid>248</bid>				
 			<wid1>05</wid1>
 			<wid2>443</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1916</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>54</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>54</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.91818928718567</lat>
-			<lon>-87.74607944488525</lon>
-			<pid>4588</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5417</run>
-			<fs>Montrose</fs>
-			<op>50528</op>
-			<dip>26190</dip>
-			<bid>186</bid>				
-			<wid1>05</wid1>
-			<wid2>417</wid2>            	
 		</bus>
 
 

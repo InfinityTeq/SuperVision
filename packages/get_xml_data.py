@@ -2,8 +2,8 @@ import urllib.request
 from bs4 import BeautifulSoup # pip req
 from opensky_api import OpenSkyApi
 
-key = open('../creds.key', 'r').read()
-api = OpenSkyApi(username='CosmodiumCS', password=key)
+# key = open('../creds.key', 'r').read()
+api = OpenSkyApi(username='CosmodiumCS', password='key')
 planes = api.get_states()
 
 def get_flights(save_file_name):

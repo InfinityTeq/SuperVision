@@ -39,7 +39,36 @@
 
 	<buses rt="97" rtRtpiFeedName="" rtdd="97"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
+
+
+		<bus>
+			<id>1537</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>97</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>97</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>N</dn> 
+			<lat>42.01814</lat>
+			<lon>-87.672955</lon>
+			<pid>4371</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P082</run>
+			<fs>Skokie Yellow Line</fs>
+			<op>57036</op>
+			<dip>0</dip>
+			<bid>622</bid>				
+			<wid1>0P</wid1>
+			<wid2>082</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -52,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>97</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>42.02628707885742</lat>
-			<lon>-87.72718821486382</lon>
-			<pid>4371</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>42.02636750103676</lat>
+			<lon>-87.7088444330921</lon>
+			<pid>4370</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P912</run>
-			<fs>Skokie Yellow Line</fs>
+			<fs>Howard Station</fs>
 			<op>50465</op>
-			<dip>17801</dip>
+			<dip>19656</dip>
 			<bid>652</bid>				
 			<wid1>0P</wid1>
 			<wid2>912</wid2>            	

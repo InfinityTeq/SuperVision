@@ -39,7 +39,7 @@
 
 	<buses rt="106" rtRtpiFeedName="" rtdd="106"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -52,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>106</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Westbound</dd> 
-			<dn>S</dn> 
-			<lat>41.70827102661133</lat>
-			<lon>-87.58080291748047</lon>
-			<pid>4491</pid>
-			<pd>Westbound</pd> 
+			<d>North Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>N</dn> 
+			<lat>41.708070948504016</lat>
+			<lon>-87.580694447393</lon>
+			<pid>4492</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1031</run>
-			<fs>95th Red Line</fs>
+			<fs>Stony Island/103rd</fs>
 			<op>39811</op>
-			<dip>218</dip>
+			<dip>17801</dip>
 			<bid>114</bid>				
 			<wid1>01</wid1>
 			<wid2>031</wid2>            	

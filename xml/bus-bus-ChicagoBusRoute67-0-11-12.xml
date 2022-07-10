@@ -39,65 +39,7 @@
 
 	<buses rt="67" rtRtpiFeedName="" rtdd="67"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
-
-
-		<bus>
-			<id>1564</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>67</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>67</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.7731819152832</lat>
-			<lon>-87.60558319091797</lon>
-			<pid>4605</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6727</run>
-			<fs>Ford City</fs>
-			<op>64557</op>
-			<dip>10617</dip>
-			<bid>714</bid>				
-			<wid1>06</wid1>
-			<wid2>727</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1467</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>67</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>67</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.768768310546875</lat>
-			<lon>-87.64924357487605</lon>
-			<pid>4611</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6728</run>
-			<fs>67th/South Shore</fs>
-			<op>66289</op>
-			<dip>29217</dip>
-			<bid>708</bid>				
-			<wid1>06</wid1>
-			<wid2>728</wid2>            	
-		</bus>
-
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -110,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>67</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.76444053649902</lat>
-			<lon>-87.70063591003418</lon>
-			<pid>4605</pid>
-			<pd>Westbound</pd> 
+			<d>North Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>N</dn> 
+			<lat>41.756507873535156</lat>
+			<lon>-87.73304748535156</lon>
+			<pid>4611</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6730</run>
-			<fs>Ford City</fs>
+			<fs>67th/South Shore</fs>
 			<op>66238</op>
-			<dip>39631</dip>
+			<dip>0</dip>
 			<bid>749</bid>				
 			<wid1>06</wid1>
 			<wid2>730</wid2>            	
@@ -139,21 +81,108 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>67</rtdd>  
 			
-			<d>North Bound</d>
-			<dd>Westbound</dd> 
-			<dn>N</dn> 
-			<lat>41.75587463378906</lat>
-			<lon>-87.73303985595703</lon>
-			<pid>4605</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.7679663033321</lat>
+			<lon>-87.68328094482422</lon>
+			<pid>4610</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6729</run>
-			<fs>Ford City</fs>
+			<fs>67th/South Shore</fs>
 			<op>66288</op>
-			<dip>52446</dip>
+			<dip>19654</dip>
 			<bid>709</bid>				
 			<wid1>06</wid1>
 			<wid2>729</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8050</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>67</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>67</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.76897430419922</lat>
+			<lon>-87.63546152583888</lon>
+			<pid>4611</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6724</run>
+			<fs>67th/South Shore</fs>
+			<op>63541</op>
+			<dip>33057</dip>
+			<bid>695</bid>				
+			<wid1>06</wid1>
+			<wid2>724</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1564</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>67</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>67</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.764681331446916</lat>
+			<lon>-87.68750312680103</lon>
+			<pid>4605</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6727</run>
+			<fs>Ford City</fs>
+			<op>64557</op>
+			<dip>36024</dip>
+			<bid>714</bid>				
+			<wid1>06</wid1>
+			<wid2>727</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1467</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>67</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>67</rtdd>  
+			
+			<d>North East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>NE</dn> 
+			<lat>41.77462034959059</lat>
+			<lon>-87.57565307617188</lon>
+			<pid>4611</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6728</run>
+			<fs>67th/South Shore</fs>
+			<op>66289</op>
+			<dip>51365</dip>
+			<bid>708</bid>				
+			<wid1>06</wid1>
+			<wid2>728</wid2>            	
 		</bus>
 
 

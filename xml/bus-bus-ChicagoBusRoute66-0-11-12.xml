@@ -39,11 +39,11 @@
 
 	<buses rt="66" rtRtpiFeedName="" rtdd="66"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
-			<id>1964</id>    
+			<id>8138</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,21 +52,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>66</rtdd>  
 			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.89608596801758</lat>
-			<lon>-87.66682861328125</lon>
-			<pid>6665</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.89487047015496</lat>
+			<lon>-87.75827040762272</lon>
+			<pid>6662</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5623</run>
-			<fs>Austin</fs>
-			<op>64338</op>
-			<dip>17868</dip>
-			<bid>156</bid>				
+			<run>5630</run>
+			<fs>Navy Pier</fs>
+			<op>66393</op>
+			<dip>4503</dip>
+			<bid>259</bid>				
 			<wid1>05</wid1>
-			<wid2>623</wid2>            	
+			<wid2>630</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1955</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>66</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>66</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.896141052246094</lat>
+			<lon>-87.66256463723104</lon>
+			<pid>6662</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5629</run>
+			<fs>Navy Pier</fs>
+			<op>66310</op>
+			<dip>30727</dip>
+			<bid>238</bid>				
+			<wid1>05</wid1>
+			<wid2>629</wid2>            	
 		</bus>
 
 
@@ -84,15 +113,15 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.89563688591345</lat>
-			<lon>-87.69424381540783</lon>
+			<lat>41.89668655395508</lat>
+			<lon>-87.62508392333984</lon>
 			<pid>6662</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5673</run>
 			<fs>Navy Pier</fs>
 			<op>61619</op>
-			<dip>22072</dip>
+			<dip>41016</dip>
 			<bid>257</bid>				
 			<wid1>05</wid1>
 			<wid2>673</wid2>            	

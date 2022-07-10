@@ -39,36 +39,7 @@
 
 	<buses rt="81" rtRtpiFeedName="" rtdd="81"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
-
-
-		<bus>
-			<id>1602</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>81</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>81</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.96541950919411</lat>
-			<lon>-87.65879388289018</lon>
-			<pid>16551</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F192</run>
-			<fs>Jefferson Park Blue Line</fs>
-			<op>34447</op>
-			<dip>6041</dip>
-			<bid>912</bid>				
-			<wid1>0F</wid1>
-			<wid2>192</wid2>            	
-		</bus>
-
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -81,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>81</rtdd>  
 			
-			<d>West Bound</d>
+			<d>North West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.968631744384766</lat>
-			<lon>-87.68698058257232</lon>
+			<dn>NW</dn> 
+			<lat>41.9699735874083</lat>
+			<lon>-87.76125019352611</lon>
 			<pid>16551</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F121</run>
 			<fs>Jefferson Park Blue Line</fs>
 			<op>65929</op>
-			<dip>15516</dip>
+			<dip>37448</dip>
 			<bid>941</bid>				
 			<wid1>0F</wid1>
 			<wid2>121</wid2>            	

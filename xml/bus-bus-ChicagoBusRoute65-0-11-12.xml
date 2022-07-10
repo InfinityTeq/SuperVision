@@ -39,7 +39,36 @@
 
 	<buses rt="65" rtRtpiFeedName="" rtdd="65"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
+
+
+		<bus>
+			<id>1954</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>65</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>65</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>ESE</dn> 
+			<lat>41.901268005371094</lat>
+			<lon>-87.71418762207031</lon>
+			<pid>6656</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>5542</run>
+			<fs>Navy Pier</fs>
+			<op>66200</op>
+			<dip>25728</dip>
+			<bid>224</bid>				
+			<wid1>05</wid1>
+			<wid2>542</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -52,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>65</rtdd>  
 			
-			<d>West Bound</d>
+			<d>North West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.89170837402344</lat>
-			<lon>-87.62605701793323</lon>
+			<dn>WNW</dn> 
+			<lat>41.90718523661295</lat>
+			<lon>-87.72888120015462</lon>
 			<pid>6657</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5515</run>
 			<fs>Nordica</fs>
 			<op>66124</op>
-			<dip>4772</dip>
+			<dip>36029</dip>
 			<bid>129</bid>				
 			<wid1>05</wid1>
 			<wid2>515</wid2>            	
@@ -83,16 +112,16 @@
 			
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.890968322753906</lat>
-			<lon>-87.66720920138889</lon>
+			<dn>WNW</dn> 
+			<lat>41.91809713429418</lat>
+			<lon>-87.76223044559873</lon>
 			<pid>6657</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5513</run>
 			<fs>Nordica</fs>
 			<op>66141</op>
-			<dip>16623</dip>
+			<dip>46586</dip>
 			<bid>190</bid>				
 			<wid1>05</wid1>
 			<wid2>513</wid2>            	

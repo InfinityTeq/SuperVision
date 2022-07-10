@@ -39,7 +39,65 @@
 
 	<buses rt="79" rtRtpiFeedName="" rtdd="79"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
+
+
+		<bus>
+			<id>1266</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>79</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>79</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.75092132568359</lat>
+			<lon>-87.68186614990235</lon>
+			<pid>1628</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7656</run>
+			<fs>Lakefront</fs>
+			<op>63313</op>
+			<dip>147</dip>
+			<bid>382</bid>				
+			<wid1>07</wid1>
+			<wid2>656</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1368</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>79</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>79</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Westbound</dd> 
+			<dn>SSE</dn> 
+			<lat>41.75176863236861</lat>
+			<lon>-87.54458410089666</lon>
+			<pid>1598</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7660</run>
+			<fs>Western</fs>
+			<op>52460</op>
+			<dip>192</dip>
+			<bid>385</bid>				
+			<wid1>07</wid1>
+			<wid2>660</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,47 +113,18 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.75197982788086</lat>
-			<lon>-87.5494613647461</lon>
+			<lat>41.75066121419271</lat>
+			<lon>-87.64141337076823</lon>
 			<pid>1599</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7661</run>
 			<fs>Ford City</fs>
 			<op>64453</op>
-			<dip>1821</dip>
+			<dip>28844</dip>
 			<bid>386</bid>				
 			<wid1>07</wid1>
 			<wid2>661</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1206</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>79</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>79</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.750254976576656</lat>
-			<lon>-87.67142044288525</lon>
-			<pid>6493</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7438</run>
-			<fs>79th Cottage Grove</fs>
-			<op>64953</op>
-			<dip>3388</dip>
-			<bid>430</bid>				
-			<wid1>07</wid1>
-			<wid2>438</wid2>            	
 		</bus>
 
 
@@ -113,15 +142,15 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.751739501953125</lat>
-			<lon>-87.56501152401879</lon>
+			<lat>41.75048632738067</lat>
+			<lon>-87.65385716135908</lon>
 			<pid>1598</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7668</run>
 			<fs>Western</fs>
 			<op>N/A</op>
-			<dip>6339</dip>
+			<dip>32538</dip>
 			<bid>384</bid>				
 			<wid1>07</wid1>
 			<wid2>668</wid2>            	
@@ -142,24 +171,24 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.75126647949219</lat>
-			<lon>-87.60675458210271</lon>
+			<lat>41.75012944956295</lat>
+			<lon>-87.68520330210201</lon>
 			<pid>1599</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7651</run>
+			<run>7659</run>
 			<fs>Ford City</fs>
-			<op>52168</op>
-			<dip>18717</dip>
+			<op>64908</op>
+			<dip>42765</dip>
 			<bid>383</bid>				
 			<wid1>07</wid1>
-			<wid2>651</wid2>            	
+			<wid2>659</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1266</id>    
+			<id>1370</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -168,21 +197,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>79</rtdd>  
 			
-			<d>West Bound</d>
+			<d>North Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.7510674794515</lat>
-			<lon>-87.61749521891277</lon>
-			<pid>1598</pid>
+			<dn>N</dn> 
+			<lat>41.7505556453358</lat>
+			<lon>-87.74130197004838</lon>
+			<pid>1599</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7656</run>
-			<fs>Western</fs>
-			<op>63313</op>
-			<dip>21890</dip>
-			<bid>382</bid>				
+			<run>7658</run>
+			<fs>Ford City</fs>
+			<op>65901</op>
+			<dip>51034</dip>
+			<bid>388</bid>				
 			<wid1>07</wid1>
-			<wid2>656</wid2>            	
+			<wid2>658</wid2>            	
 		</bus>
 
 
@@ -200,47 +229,18 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.75031020001667</lat>
-			<lon>-87.66581465558308</lon>
+			<lat>41.751888275146484</lat>
+			<lon>-87.55357347908667</lon>
 			<pid>1612</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7650</run>
+			<run>7665</run>
 			<fs>Lakefront</fs>
 			<op>63114</op>
-			<dip>27121</dip>
+			<dip>59226</dip>
 			<bid>420</bid>				
 			<wid1>07</wid1>
-			<wid2>650</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1368</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>79</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>79</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.75127896395597</lat>
-			<lon>-87.60591888427734</lon>
-			<pid>1612</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7660</run>
-			<fs>Lakefront</fs>
-			<op>52460</op>
-			<dip>44320</dip>
-			<bid>385</bid>				
-			<wid1>07</wid1>
-			<wid2>660</wid2>            	
+			<wid2>665</wid2>            	
 		</bus>
 
 

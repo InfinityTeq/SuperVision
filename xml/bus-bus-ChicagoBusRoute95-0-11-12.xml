@@ -39,7 +39,36 @@
 
 	<buses rt="95" rtRtpiFeedName="" rtdd="95"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
+
+
+		<bus>
+			<id>1078</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>95</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>95</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>S</dn> 
+			<lat>41.727779388427734</lat>
+			<lon>-87.68236541748047</lon>
+			<pid>8147</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1916</run>
+			<fs>92nd/Buffalo</fs>
+			<op>65308</op>
+			<dip>5681</dip>
+			<bid>19</bid>				
+			<wid1>01</wid1>
+			<wid2>916</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,76 +84,18 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.72597885131836</lat>
-			<lon>-87.56975555419922</lon>
+			<lat>41.721050199915155</lat>
+			<lon>-87.67648903268282</lon>
 			<pid>10956</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1917</run>
 			<fs>87th/Damen</fs>
 			<op>64790</op>
-			<dip>7928</dip>
+			<dip>41414</dip>
 			<bid>40</bid>				
 			<wid1>01</wid1>
 			<wid2>917</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1177</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>95</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>95</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>S</dn> 
-			<lat>41.72129440307617</lat>
-			<lon>-87.68216705322266</lon>
-			<pid>8147</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1915</run>
-			<fs>92nd/Buffalo</fs>
-			<op>55609</op>
-			<dip>8035</dip>
-			<bid>124</bid>				
-			<wid1>01</wid1>
-			<wid2>915</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1078</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>95</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>95</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.7217903137207</lat>
-			<lon>-87.6234130859375</lon>
-			<pid>10956</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1916</run>
-			<fs>87th/Damen</fs>
-			<op>65308</op>
-			<dip>26789</dip>
-			<bid>19</bid>				
-			<wid1>01</wid1>
-			<wid2>916</wid2>            	
 		</bus>
 
 

@@ -39,7 +39,7 @@
 
 	<buses rt="28" rtRtpiFeedName="" rtdd="28"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -52,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>28</rtdd>  
 			
-			<d>South West Bound</d>
+			<d>South Bound</d>
 			<dd>Southbound</dd> 
-			<dn>SW</dn> 
-			<lat>41.8092155456543</lat>
-			<lon>-87.59170532226562</lon>
+			<dn>S</dn> 
+			<lat>41.738714562087765</lat>
+			<lon>-87.58573150634766</lon>
 			<pid>2156</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1852</run>
 			<fs>Stony Island/103rd</fs>
 			<op>64904</op>
-			<dip>140</dip>
+			<dip>26528</dip>
 			<bid>63</bid>				
 			<wid1>01</wid1>
 			<wid2>852</wid2>            	

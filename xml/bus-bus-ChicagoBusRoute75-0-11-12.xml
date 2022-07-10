@@ -39,7 +39,36 @@
 
 	<buses rt="75" rtRtpiFeedName="" rtdd="75"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
+
+
+		<bus>
+			<id>1405</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>75</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>75</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.75886154174805</lat>
+			<lon>-87.58637432719387</lon>
+			<pid>1541</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6575</run>
+			<fs>Damen</fs>
+			<op>64497</op>
+			<dip>8847</dip>
+			<bid>787</bid>				
+			<wid1>06</wid1>
+			<wid2>575</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -52,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>75</rtdd>  
 			
-			<d>South West Bound</d>
+			<d>North Bound</d>
 			<dd>Westbound</dd> 
-			<dn>SW</dn> 
-			<lat>41.76127624511719</lat>
-			<lon>-87.55584716796875</lon>
+			<dn>N</dn> 
+			<lat>41.75470202902089</lat>
+			<lon>-87.62458801269531</lon>
 			<pid>1541</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6574</run>
 			<fs>Damen</fs>
 			<op>66246</op>
-			<dip>231</dip>
+			<dip>24443</dip>
 			<bid>788</bid>				
 			<wid1>06</wid1>
 			<wid2>574</wid2>            	
@@ -84,15 +113,15 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.75947952270508</lat>
-			<lon>-87.66299438476562</lon>
+			<lat>41.7588792767441</lat>
+			<lon>-87.5743547406113</lon>
 			<pid>1540</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6572</run>
 			<fs>Lakefront</fs>
 			<op>63735</op>
-			<dip>3011</dip>
+			<dip>35515</dip>
 			<bid>691</bid>				
 			<wid1>06</wid1>
 			<wid2>572</wid2>            	
@@ -113,76 +142,18 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.758766174316406</lat>
-			<lon>-87.59651511056083</lon>
+			<lat>41.7559326171875</lat>
+			<lon>-87.65807647705078</lon>
 			<pid>1541</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6573</run>
 			<fs>Damen</fs>
 			<op>64466</op>
-			<dip>11619</dip>
+			<dip>36806</dip>
 			<bid>790</bid>				
 			<wid1>06</wid1>
 			<wid2>573</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1405</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>75</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>75</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.75837707519531</lat>
-			<lon>-87.6147689819336</lon>
-			<pid>1540</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6575</run>
-			<fs>Lakefront</fs>
-			<op>64497</op>
-			<dip>24403</dip>
-			<bid>787</bid>				
-			<wid1>06</wid1>
-			<wid2>575</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8224</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>75</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>75</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Westbound</dd> 
-			<dn>N</dn> 
-			<lat>41.75930392742157</lat>
-			<lon>-87.6357650756836</lon>
-			<pid>1541</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6571</run>
-			<fs>Damen</fs>
-			<op>62910</op>
-			<dip>29101</dip>
-			<bid>789</bid>				
-			<wid1>06</wid1>
-			<wid2>571</wid2>            	
 		</bus>
 
 

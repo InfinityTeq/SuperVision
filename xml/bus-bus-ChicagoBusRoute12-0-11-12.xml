@@ -39,11 +39,11 @@
 
 	<buses rt="12" rtRtpiFeedName="" rtdd="12"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
-			<id>4060</id>    
+			<id>4001</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>12</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.86615753173828</lat>
-			<lon>-87.72557122366769</lon>
-			<pid>3879</pid>
-			<pd>Eastbound</pd> 
+			<d>North Bound</d>
+			<dd>Westbound</dd> 
+			<dn>N</dn> 
+			<lat>41.86732521057129</lat>
+			<lon>-87.62417602539062</lon>
+			<pid>7471</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>MAN</run>
-			<fs>Kedzie</fs>
-			<op>65137</op>
-			<dip>13374</dip>
-			<bid>MAN</bid>				
+			<run>K221</run>
+			<fs>Central/Harrison</fs>
+			<op>45051</op>
+			<dip>3350</dip>
+			<bid>284</bid>				
 			<wid1>0K</wid1>
-			<wid2>193</wid2>            	
+			<wid2>221</wid2>            	
 		</bus>
 
 
@@ -81,50 +81,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>12</rtdd>  
 			
-			<d>West Bound</d>
+			<d>North Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.86914596557617</lat>
-			<lon>-87.67936553955079</lon>
+			<dn>N</dn> 
+			<lat>41.867587983608246</lat>
+			<lon>-87.76411437988281</lon>
 			<pid>7471</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K216</run>
 			<fs>Central/Harrison</fs>
 			<op>65683</op>
-			<dip>19277</dip>
+			<dip>43501</dip>
 			<bid>281</bid>				
 			<wid1>0K</wid1>
 			<wid2>216</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4001</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>12</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>12</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.86907196044922</lat>
-			<lon>-87.67715371938853</lon>
-			<pid>4135</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K221</run>
-			<fs>15th/Indiana</fs>
-			<op>45051</op>
-			<dip>26998</dip>
-			<bid>284</bid>				
-			<wid1>0K</wid1>
-			<wid2>221</wid2>            	
 		</bus>
 
 

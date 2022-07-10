@@ -39,7 +39,36 @@
 
 	<buses rt="82" rtRtpiFeedName="" rtdd="82"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
+
+
+		<bus>
+			<id>1708</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>82</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>82</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.86033499240875</lat>
+			<lon>-87.71530151367188</lon>
+			<pid>1656</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K220</run>
+			<fs>Devon/Kedzie</fs>
+			<op>65312</op>
+			<dip>11682</dip>
+			<bid>312</bid>				
+			<wid1>0K</wid1>
+			<wid2>220</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,76 +84,18 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.874990181844744</lat>
-			<lon>-87.71080017089844</lon>
+			<lat>41.93230152130127</lat>
+			<lon>-87.71218872070312</lon>
 			<pid>1662</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K821</run>
 			<fs>Devon/Kedzie</fs>
 			<op>65131</op>
-			<dip>16584</dip>
+			<dip>37625</dip>
 			<bid>302</bid>				
 			<wid1>0K</wid1>
 			<wid2>821</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1225</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>82</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>82</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.869649342128206</lat>
-			<lon>-87.71070861816406</lon>
-			<pid>6598</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K819</run>
-			<fs>Cermak</fs>
-			<op>65720</op>
-			<dip>52338</dip>
-			<bid>305</bid>				
-			<wid1>0K</wid1>
-			<wid2>819</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1708</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>82</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>82</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.836499532063804</lat>
-			<lon>-87.72588602701823</lon>
-			<pid>5069</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K220</run>
-			<fs>31st/Komensky</fs>
-			<op>65312</op>
-			<dip>68642</dip>
-			<bid>312</bid>				
-			<wid1>0K</wid1>
-			<wid2>220</wid2>            	
 		</bus>
 
 

@@ -39,36 +39,9 @@
 
 	<buses rt="68" rtRtpiFeedName="" rtdd="68"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
-
-		<bus>
-			<id>8294</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>68</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>68</rtdd>  
-			
-			<d>North West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>NW</dn> 
-			<lat>42.010066986083984</lat>
-			<lon>-87.83128356933594</lon>
-			<pid>3214</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F511</run>
-			<fs>Park Ridge Metra Station</fs>
-			<op>49685</op>
-			<dip>24658</dip>
-			<bid>901</bid>				
-			<wid1>0F</wid1>
-			<wid2>511</wid2>            	
-		</bus>
-
+		<hasService>true</hasService>
 
 
 	</buses>

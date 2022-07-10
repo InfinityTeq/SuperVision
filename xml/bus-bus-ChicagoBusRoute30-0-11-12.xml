@@ -39,7 +39,7 @@
 
 	<buses rt="30" rtRtpiFeedName="" rtdd="30"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -52,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>30</rtdd>  
 			
-			<d>North Bound</d>
+			<d>South West Bound</d>
 			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.70189581246212</lat>
-			<lon>-87.53527069091797</lon>
+			<dn>SW</dn> 
+			<lat>41.77066947318412</lat>
+			<lon>-87.61217168859534</lon>
 			<pid>8228</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1582</run>
 			<fs>69th Red Line</fs>
 			<op>40416</op>
-			<dip>26494</dip>
+			<dip>65179</dip>
 			<bid>24</bid>				
 			<wid1>01</wid1>
 			<wid2>582</wid2>            	

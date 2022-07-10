@@ -39,7 +39,36 @@
 
 	<buses rt="152" rtRtpiFeedName="" rtdd="152"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
+
+
+		<bus>
+			<id>8346</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>152</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>152</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.94623422622681</lat>
+			<lon>-87.73484516143799</lon>
+			<pid>899</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>MAN</run>
+			<fs>Lake Shore</fs>
+			<op>43113</op>
+			<dip>27499</dip>
+			<bid>MAN</bid>				
+			<wid1>0F</wid1>
+			<wid2>253</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,76 +84,18 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.945701599121094</lat>
-			<lon>-87.78213324913612</lon>
+			<lat>41.946872166224885</lat>
+			<lon>-87.67682211739677</lon>
 			<pid>899</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F215</run>
 			<fs>Lake Shore</fs>
 			<op>63497</op>
-			<dip>14627</dip>
+			<dip>43296</dip>
 			<bid>898</bid>				
 			<wid1>0F</wid1>
 			<wid2>215</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8310</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>152</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>152</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.945984068371004</lat>
-			<lon>-87.76648784819103</lon>
-			<pid>7727</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F213</run>
-			<fs>Central</fs>
-			<op>59500</op>
-			<dip>36954</dip>
-			<bid>860</bid>				
-			<wid1>0F</wid1>
-			<wid2>213</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8346</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>152</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>152</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Westbound</dd> 
-			<dn>E</dn> 
-			<lat>41.944888548417524</lat>
-			<lon>-87.83492175015536</lon>
-			<pid>3041</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>MAN</run>
-			<fs>Cumberland</fs>
-			<op>43113</op>
-			<dip>55626</dip>
-			<bid>MAN</bid>				
-			<wid1>0F</wid1>
-			<wid2>253</wid2>            	
 		</bus>
 
 

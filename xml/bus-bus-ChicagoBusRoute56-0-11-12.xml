@@ -39,7 +39,7 @@
 
 	<buses rt="56" rtRtpiFeedName="" rtdd="56"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -52,19 +52,48 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>56</rtdd>  
 			
-			<d>North West Bound</d>
+			<d>South East Bound</d>
 			<dd>Southbound</dd> 
-			<dn>NW</dn> 
-			<lat>41.9697380065918</lat>
-			<lon>-87.76175689697266</lon>
+			<dn>SE</dn> 
+			<lat>41.962074279785156</lat>
+			<lon>-87.75582885742188</lon>
 			<pid>1971</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>MAN</run>
+			<run>F564</run>
 			<fs>Washington/Michigan</fs>
 			<op>40952</op>
-			<dip>24</dip>
-			<bid>MAN</bid>				
+			<dip>3458</dip>
+			<bid>934</bid>				
+			<wid1>0F</wid1>
+			<wid2>564</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8250</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>56</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>56</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SE</dn> 
+			<lat>41.92440026493396</lat>
+			<lon>-87.69982405840341</lon>
+			<pid>1971</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F123</run>
+			<fs>Washington/Michigan</fs>
+			<op>65982</op>
+			<dip>26281</dip>
+			<bid>882</bid>				
 			<wid1>0F</wid1>
 			<wid2>123</wid2>            	
 		</bus>
@@ -81,50 +110,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>56</rtdd>  
 			
-			<d>North Bound</d>
+			<d>North West Bound</d>
 			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.88531651990167</lat>
-			<lon>-87.64277543692754</lon>
+			<dn>NW</dn> 
+			<lat>41.92598170618857</lat>
+			<lon>-87.70227887553554</lon>
 			<pid>1970</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F513</run>
 			<fs>Jefferson Park Blue Line</fs>
 			<op>49804</op>
-			<dip>6239</dip>
+			<dip>29343</dip>
 			<bid>845</bid>				
 			<wid1>0F</wid1>
 			<wid2>513</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8250</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>56</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>56</rtdd>  
-			
-			<d>South West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>SSW</dn> 
-			<lat>41.9697380065918</lat>
-			<lon>-87.76175689697266</lon>
-			<pid>1970</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F151</run>
-			<fs>Jefferson Park Blue Line</fs>
-			<op>65982</op>
-			<dip>52982</dip>
-			<bid>882</bid>				
-			<wid1>0F</wid1>
-			<wid2>151</wid2>            	
 		</bus>
 
 

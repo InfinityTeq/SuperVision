@@ -39,7 +39,7 @@
 
 	<buses rt="20" rtRtpiFeedName="" rtdd="20"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -53,49 +53,20 @@
 			<rtdd>20</rtdd>  
 			
 			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.880653175147806</lat>
-			<lon>-87.74275908599029</lon>
-			<pid>954</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5014</run>
-			<fs>Austin</fs>
-			<op>40981</op>
-			<dip>32403</dip>
-			<bid>133</bid>				
-			<wid1>05</wid1>
-			<wid2>014</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1938</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>20</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>20</rtdd>  
-			
-			<d>South Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>S</dn> 
-			<lat>41.88261575698853</lat>
-			<lon>-87.6245346069336</lon>
+			<dn>W</dn> 
+			<lat>41.88066101074219</lat>
+			<lon>-87.74263763427734</lon>
 			<pid>957</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>5073</run>
+			<run>5014</run>
 			<fs>Michigan</fs>
-			<op>58598</op>
-			<dip>42449</dip>
-			<bid>251</bid>				
+			<op>40981</op>
+			<dip>8896</dip>
+			<bid>133</bid>				
 			<wid1>05</wid1>
-			<wid2>073</wid2>            	
+			<wid2>014</wid2>            	
 		</bus>
 
 

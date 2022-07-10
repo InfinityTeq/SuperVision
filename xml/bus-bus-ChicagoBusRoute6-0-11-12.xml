@@ -39,7 +39,65 @@
 
 	<buses rt="6" rtRtpiFeedName="" rtdd="6"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
+
+
+		<bus>
+			<id>8341</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>6</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>6</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Southbound</dd> 
+			<dn>N</dn> 
+			<lat>41.88623046875</lat>
+			<lon>-87.62227630615234</lon>
+			<pid>7107</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1624</run>
+			<fs>79th/South Shore</fs>
+			<op>65810</op>
+			<dip>2033</dip>
+			<bid>101</bid>				
+			<wid1>01</wid1>
+			<wid2>624</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4188</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>6</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>6</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.76029792198768</lat>
+			<lon>-87.55690061129056</lon>
+			<pid>14134</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1627</run>
+			<fs>Wacker/Columbus</fs>
+			<op>65311</op>
+			<dip>6164</dip>
+			<bid>99</bid>				
+			<wid1>01</wid1>
+			<wid2>627</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,76 +113,18 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.88649368286133</lat>
-			<lon>-87.62078094482422</lon>
+			<lat>41.86965148679672</lat>
+			<lon>-87.62056646039409</lon>
 			<pid>7107</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1671</run>
 			<fs>79th/South Shore</fs>
 			<op>54972</op>
-			<dip>303</dip>
+			<dip>12833</dip>
 			<bid>96</bid>				
 			<wid1>01</wid1>
 			<wid2>671</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4188</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>6</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>6</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.76661149510797</lat>
-			<lon>-87.56649780273438</lon>
-			<pid>7107</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>MAN</run>
-			<fs>79th/South Shore</fs>
-			<op>65311</op>
-			<dip>60069</dip>
-			<bid>MAN</bid>				
-			<wid1>01</wid1>
-			<wid2>626</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8341</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>6</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>6</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.873268127441406</lat>
-			<lon>-87.62390899658203</lon>
-			<pid>14134</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1624</run>
-			<fs>Wacker/Columbus</fs>
-			<op>65810</op>
-			<dip>66521</dip>
-			<bid>101</bid>				
-			<wid1>01</wid1>
-			<wid2>624</wid2>            	
 		</bus>
 
 

@@ -39,7 +39,7 @@
 
 	<buses rt="60" rtRtpiFeedName="" rtdd="60"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -52,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>60</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.88318634033203</lat>
-			<lon>-87.62792205810547</lon>
-			<pid>1345</pid>
-			<pd>Eastbound</pd> 
+			<d>South Bound</d>
+			<dd>Westbound</dd> 
+			<dn>S</dn> 
+			<lat>41.88151454925537</lat>
+			<lon>-87.6412353515625</lon>
+			<pid>1350</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>K617</run>
-			<fs>Randolph/Harbor Dr</fs>
+			<fs>Cicero/24th Pl</fs>
 			<op>63792</op>
-			<dip>44959</dip>
+			<dip>8831</dip>
 			<bid>270</bid>				
 			<wid1>0K</wid1>
 			<wid2>617</wid2>            	

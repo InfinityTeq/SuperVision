@@ -39,36 +39,7 @@
 
 	<buses rt="55" rtRtpiFeedName="" rtdd="55"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
-
-
-		<bus>
-			<id>1488</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>55</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>55</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.79518127441406</lat>
-			<lon>-87.59423623766217</lon>
-			<pid>5425</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6517</run>
-			<fs>Midway Orange Line</fs>
-			<op>63412</op>
-			<dip>5115</dip>
-			<bid>689</bid>				
-			<wid1>06</wid1>
-			<wid2>517</wid2>            	
-		</bus>
-
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -81,18 +52,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>55</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.7942008972168</lat>
-			<lon>-87.63116455078125</lon>
-			<pid>5424</pid>
-			<pd>Eastbound</pd> 
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.793863863558386</lat>
+			<lon>-87.61336414234059</lon>
+			<pid>5425</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6518</run>
-			<fs>Museum of Science &amp; Industry</fs>
+			<fs>Midway Orange Line</fs>
 			<op>66274</op>
-			<dip>34717</dip>
+			<dip>10790</dip>
 			<bid>773</bid>				
 			<wid1>06</wid1>
 			<wid2>518</wid2>            	
@@ -110,21 +81,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>55</rtdd>  
 			
-			<d>North West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>WNW</dn> 
-			<lat>41.78557735681534</lat>
-			<lon>-87.73840868473053</lon>
-			<pid>5425</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.7934907913208</lat>
+			<lon>-87.7027042388916</lon>
+			<pid>5424</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6048</run>
-			<fs>Midway Orange Line</fs>
+			<fs>Museum of Science &amp; Industry</fs>
 			<op>64480</op>
-			<dip>51895</dip>
+			<dip>15087</dip>
 			<bid>702</bid>				
 			<wid1>06</wid1>
 			<wid2>048</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1488</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>55</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>55</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.79349136352539</lat>
+			<lon>-87.70536164676442</lon>
+			<pid>5425</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6517</run>
+			<fs>Midway Orange Line</fs>
+			<op>63412</op>
+			<dip>37444</dip>
+			<bid>689</bid>				
+			<wid1>06</wid1>
+			<wid2>517</wid2>            	
 		</bus>
 
 

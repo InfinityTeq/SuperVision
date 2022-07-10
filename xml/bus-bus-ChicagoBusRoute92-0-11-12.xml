@@ -39,7 +39,7 @@
 
 	<buses rt="92" rtRtpiFeedName="" rtdd="92"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -52,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>92</rtdd>  
 			
-			<d>North West Bound</d>
+			<d>East Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>WNW</dn> 
-			<lat>41.970516204833984</lat>
-			<lon>-87.76219177246094</lon>
+			<dn>E</dn> 
+			<lat>41.97615432739258</lat>
+			<lon>-87.66854095458984</lon>
 			<pid>16548</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F912</run>
+			<run>F931</run>
 			<fs>Bryn Mawr Red Line</fs>
 			<op>62290</op>
-			<dip>33</dip>
-			<bid>886</bid>				
+			<dip>29639</dip>
+			<bid>947</bid>				
 			<wid1>0F</wid1>
-			<wid2>912</wid2>            	
+			<wid2>931</wid2>            	
 		</bus>
 
 
@@ -81,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>92</rtdd>  
 			
-			<d>West Bound</d>
+			<d>North West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.97628402709961</lat>
-			<lon>-87.67611694335938</lon>
+			<dn>WNW</dn> 
+			<lat>41.97033207590987</lat>
+			<lon>-87.76188213069264</lon>
 			<pid>16549</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F911</run>
 			<fs>Jefferson Park Blue Line</fs>
 			<op>62580</op>
-			<dip>9578</dip>
+			<dip>37217</dip>
 			<bid>913</bid>				
 			<wid1>0F</wid1>
 			<wid2>911</wid2>            	

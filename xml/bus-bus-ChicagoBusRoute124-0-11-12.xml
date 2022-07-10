@@ -39,9 +39,36 @@
 
 	<buses rt="124" rtRtpiFeedName="" rtdd="124"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
-		<hasService>true</hasService>
+
+		<bus>
+			<id>1636</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>124</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>124</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>N</dn> 
+			<lat>41.88300138201032</lat>
+			<lon>-87.63970118931361</lon>
+			<pid>10950</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>K034</run>
+			<fs>Navy Pier</fs>
+			<op>66017</op>
+			<dip>2014</dip>
+			<bid>273</bid>				
+			<wid1>0K</wid1>
+			<wid2>034</wid2>            	
+		</bus>
+
 
 
 	</buses>

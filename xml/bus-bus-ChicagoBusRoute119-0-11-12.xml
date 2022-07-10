@@ -39,7 +39,7 @@
 
 	<buses rt="119" rtRtpiFeedName="" rtdd="119"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -55,15 +55,15 @@
 			<d>East Bound</d>
 			<dd>Northbound</dd> 
 			<dn>E</dn> 
-			<lat>41.67727279663086</lat>
-			<lon>-87.67317962646484</lon>
+			<lat>41.72205</lat>
+			<lon>-87.60148833333334</lon>
 			<pid>754</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1316</run>
 			<fs>95th Red Line</fs>
 			<op>65784</op>
-			<dip>2317</dip>
+			<dip>33404</dip>
 			<bid>75</bid>				
 			<wid1>01</wid1>
 			<wid2>316</wid2>            	
@@ -81,18 +81,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>119</rtdd>  
 			
-			<d>South Bound</d>
+			<d>West Bound</d>
 			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.70901403621752</lat>
-			<lon>-87.61989733637596</lon>
+			<dn>W</dn> 
+			<lat>41.67772674560547</lat>
+			<lon>-87.68047332763672</lon>
 			<pid>757</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1319</run>
 			<fs>Western</fs>
 			<op>66000</op>
-			<dip>6345</dip>
+			<dip>34867</dip>
 			<bid>93</bid>				
 			<wid1>01</wid1>
 			<wid2>319</wid2>            	

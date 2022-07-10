@@ -39,7 +39,7 @@
 
 	<buses rt="80" rtRtpiFeedName="" rtdd="80"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -55,15 +55,15 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.954498291015625</lat>
-			<lon>-87.65390014648438</lon>
+			<lat>41.953531819005164</lat>
+			<lon>-87.74720271941155</lon>
 			<pid>1031</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F860</run>
 			<fs>Harlem</fs>
 			<op>64992</op>
-			<dip>728</dip>
+			<dip>27200</dip>
 			<bid>842</bid>				
 			<wid1>0F</wid1>
 			<wid2>860</wid2>            	
@@ -84,15 +84,15 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.9539909362793</lat>
-			<lon>-87.70553830774818</lon>
+			<lat>41.952816009521484</lat>
+			<lon>-87.79392550541804</lon>
 			<pid>1031</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F859</run>
 			<fs>Harlem</fs>
 			<op>63751</op>
-			<dip>15631</dip>
+			<dip>39992</dip>
 			<bid>857</bid>				
 			<wid1>0F</wid1>
 			<wid2>859</wid2>            	

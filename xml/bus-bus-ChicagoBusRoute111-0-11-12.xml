@@ -39,11 +39,11 @@
 
 	<buses rt="111" rtRtpiFeedName="" rtdd="111"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
-			<id>1064</id>    
+			<id>1109</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,21 +52,50 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>111</rtdd>  
 			
-			<d>East Bound</d>
+			<d>South Bound</d>
 			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>41.692230224609375</lat>
-			<lon>-87.65290069580078</lon>
+			<dn>S</dn> 
+			<lat>41.67792200159143</lat>
+			<lon>-87.66243743896484</lon>
 			<pid>6356</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1108</run>
+			<run>1151</run>
 			<fs>95th Red Line</fs>
-			<op>63716</op>
-			<dip>11402</dip>
-			<bid>90</bid>				
+			<op>50775</op>
+			<dip>948</dip>
+			<bid>85</bid>				
 			<wid1>01</wid1>
-			<wid2>108</wid2>            	
+			<wid2>151</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1182</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>111</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>111</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Southbound</dd> 
+			<dn>W</dn> 
+			<lat>41.692588806152344</lat>
+			<lon>-87.6218125479562</lon>
+			<pid>6354</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>1273</run>
+			<fs>117th/Marshfield</fs>
+			<op>51978</op>
+			<dip>16578</dip>
+			<bid>84</bid>				
+			<wid1>01</wid1>
+			<wid2>273</wid2>            	
 		</bus>
 
 

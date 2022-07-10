@@ -39,7 +39,7 @@
 
 	<buses rt="74" rtRtpiFeedName="" rtdd="74"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
 
 
 		<bus>
@@ -55,15 +55,15 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.92532066932091</lat>
-			<lon>-87.65763643704928</lon>
+			<lat>41.92432139470027</lat>
+			<lon>-87.74879484910231</lon>
 			<pid>8420</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5825</run>
 			<fs>Grand/Nordica</fs>
 			<op>66314</op>
-			<dip>2239</dip>
+			<dip>27355</dip>
 			<bid>198</bid>				
 			<wid1>05</wid1>
 			<wid2>825</wid2>            	
@@ -84,15 +84,15 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.9248208741884</lat>
-			<lon>-87.70127002612965</lon>
+			<lat>41.9238226517387</lat>
+			<lon>-87.77989163606063</lon>
 			<pid>8420</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5819</run>
 			<fs>Grand/Nordica</fs>
 			<op>64250</op>
-			<dip>14386</dip>
+			<dip>35852</dip>
 			<bid>183</bid>				
 			<wid1>05</wid1>
 			<wid2>819</wid2>            	
@@ -110,18 +110,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>74</rtdd>  
 			
-			<d>East Bound</d>
+			<d>North West Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.924617767333984</lat>
-			<lon>-87.71451099102313</lon>
+			<dn>NW</dn> 
+			<lat>41.92477845412034</lat>
+			<lon>-87.64771775465745</lon>
 			<pid>8422</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>5822</run>
 			<fs>Halsted</fs>
 			<op>65271</op>
-			<dip>23826</dip>
+			<dip>45883</dip>
 			<bid>231</bid>				
 			<wid1>05</wid1>
 			<wid2>822</wid2>            	

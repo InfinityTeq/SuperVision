@@ -39,7 +39,65 @@
 
 	<buses rt="76" rtRtpiFeedName="" rtdd="76"> <!-- @11 @16 -->
 
-		<time>9:15 PM</time>
+		<time>9:44 PM</time>
+
+
+		<bus>
+			<id>8300</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>76</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>76</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.93278121948242</lat>
+			<lon>-87.64720049771395</lon>
+			<pid>4621</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F152</run>
+			<fs>Harlem</fs>
+			<op>63455</op>
+			<dip>4969</dip>
+			<bid>929</bid>				
+			<wid1>0F</wid1>
+			<wid2>152</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8310</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>76</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>76</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.93192672729492</lat>
+			<lon>-87.71549483268491</lon>
+			<pid>4619</pid>
+			<pd>Eastbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F663</run>
+			<fs>Nature Museum</fs>
+			<op>59500</op>
+			<dip>24711</dip>
+			<bid>928</bid>				
+			<wid1>0F</wid1>
+			<wid2>663</wid2>            	
+		</bus>
+
 
 
 		<bus>
@@ -55,15 +113,15 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.9322624206543</lat>
-			<lon>-87.6858242259306</lon>
+			<lat>41.93104553222656</lat>
+			<lon>-87.78767776489258</lon>
 			<pid>4621</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F615</run>
 			<fs>Harlem</fs>
 			<op>65193</op>
-			<dip>15457</dip>
+			<dip>45327</dip>
 			<bid>931</bid>				
 			<wid1>0F</wid1>
 			<wid2>615</wid2>            	
@@ -81,18 +139,18 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>76</rtdd>  
 			
-			<d>East Bound</d>
+			<d>South East Bound</d>
 			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.93164825439453</lat>
-			<lon>-87.73760057532269</lon>
+			<dn>SE</dn> 
+			<lat>41.93287862490301</lat>
+			<lon>-87.63949323680303</lon>
 			<pid>4619</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F617</run>
 			<fs>Nature Museum</fs>
 			<op>61837</op>
-			<dip>18662</dip>
+			<dip>46497</dip>
 			<bid>933</bid>				
 			<wid1>0F</wid1>
 			<wid2>617</wid2>            	
@@ -110,50 +168,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>76</rtdd>  
 			
-			<d>West Bound</d>
+			<d>North East Bound</d>
 			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.931949615478516</lat>
-			<lon>-87.7196159362793</lon>
+			<dn>NE</dn> 
+			<lat>41.931182861328125</lat>
+			<lon>-87.80550384521484</lon>
 			<pid>4621</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F616</run>
 			<fs>Harlem</fs>
 			<op>66062</op>
-			<dip>26866</dip>
+			<dip>50380</dip>
 			<bid>927</bid>				
 			<wid1>0F</wid1>
 			<wid2>616</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8300</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>76</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>76</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.93202590942383</lat>
-			<lon>-87.69674732646004</lon>
-			<pid>4619</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F152</run>
-			<fs>Nature Museum</fs>
-			<op>63455</op>
-			<dip>30831</dip>
-			<bid>929</bid>				
-			<wid1>0F</wid1>
-			<wid2>152</wid2>            	
 		</bus>
 
 
