@@ -59,7 +59,7 @@ SuperVision's open source magic allows us to do so much more than what propriata
 ---
 
 <!-- youtube embed -->
-[![Devlog One](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=knagAWTn7FQ "SuperVision : The Hacker Google Mapper")
+[![Devlog One](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/supervision-tn.png?raw=true)](https://www.youtube.com/watch?v=knagAWTn7FQ "SuperVision : The Hacker Google Mapper")
 
 ---
 
