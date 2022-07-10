@@ -63,6 +63,8 @@ SuperVision's open source magic allows us to do so much more than what propriata
 
 ---
 
+Watch the first devlog for SuperVision now!! It will give you an update on what the project is and how it was built in the best way possible :D
+
 <!-- resources -->
 ## Resources:
 - [SuperVision][supervision]
