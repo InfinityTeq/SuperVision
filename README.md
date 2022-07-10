@@ -87,16 +87,27 @@ SuperVision's open source magic allows us to do so much more than what propriata
 
 SuperVision is capable of plotting traffic, security, and other cameras on its map. The above is a photo of a traffic camera showing developer [Blue Cosmo][ccs] at an intersection. This shows the vast amount of possible surveillance with a tool as simple as this.
 
-### Live Data
+### Vehicles
 
 ---
 
 <!-- buses in chicago -->
-![Chicago Buses](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/chicago-buses.png?raw=true)
+![Chicago Buses](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/chicago-bus.png?raw=true)
 
 ---
 
 SuperVision is capable of plotting live data. Above we can see the current positions of buses in chicago. Every 10 seconds SuperVision will update any data that it has plotted live for a more consistent flow of where certain live data is on the map.
+
+### Aircraft
+
+---
+
+<!-- airplanes -->
+![Airplanes](https://github.com/CosmodiumCS/SuperVision/blob/master/assets/airplane-plot.png?raw=true)
+
+---
+
+SuperVision plots the positions of aircraft in live time. Every 10 seconds, SuperVision updates their positions and displays their country of origin in a popup [when hovered].
 
 <!-- data policy -->
 ## Data Policy

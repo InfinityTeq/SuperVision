@@ -39,11 +39,40 @@
 
 	<buses rt="3" rtRtpiFeedName="" rtdd="3"> <!-- @11 @16 -->
 
-		<time>4:49 PM</time>
+		<time>9:15 PM</time>
 
 
 		<bus>
-			<id>1273</id>    
+			<id>1212</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>3</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>3</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.885423891472094</lat>
+			<lon>-87.62458096128522</lon>
+			<pid>5343</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>7328</run>
+			<fs>95th/CSU</fs>
+			<op>64464</op>
+			<dip>6893</dip>
+			<bid>447</bid>				
+			<wid1>07</wid1>
+			<wid2>328</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1311</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -55,105 +84,18 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.72956333989682</lat>
-			<lon>-87.61428833007812</lon>
+			<lat>41.8254739512568</lat>
+			<lon>-87.61691284179688</lon>
 			<pid>5342</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7323</run>
+			<run>7383</run>
 			<fs>Michigan/Chicago</fs>
-			<op>62560</op>
-			<dip>4701</dip>
-			<bid>492</bid>				
+			<op>49668</op>
+			<dip>40006</dip>
+			<bid>442</bid>				
 			<wid1>07</wid1>
-			<wid2>323</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>7957</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>3</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>3</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.81139516830444</lat>
-			<lon>-87.61670684814453</lon>
-			<pid>5343</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7315</run>
-			<fs>95th/CSU</fs>
-			<op>61588</op>
-			<dip>35700</dip>
-			<bid>493</bid>				
-			<wid1>07</wid1>
-			<wid2>315</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1301</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>3</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>3</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.8112907409668</lat>
-			<lon>-87.61670684814453</lon>
-			<pid>5343</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7325</run>
-			<fs>95th/CSU</fs>
-			<op>63320</op>
-			<dip>35724</dip>
-			<bid>444</bid>				
-			<wid1>07</wid1>
-			<wid2>325</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>7987</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>3</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>3</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.794566127232144</lat>
-			<lon>-87.6159896850586</lon>
-			<pid>5343</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7311</run>
-			<fs>95th/CSU</fs>
-			<op>57034</op>
-			<dip>41820</dip>
-			<bid>485</bid>				
-			<wid1>07</wid1>
-			<wid2>311</wid2>            	
+			<wid2>383</wid2>            	
 		</bus>
 
 
@@ -171,24 +113,24 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.78895830128291</lat>
-			<lon>-87.61588705402531</lon>
+			<lat>41.788743221398555</lat>
+			<lon>-87.61584935043797</lon>
 			<pid>5343</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7314</run>
+			<run>7325</run>
 			<fs>95th/CSU</fs>
-			<op>60321</op>
-			<dip>43864</dip>
-			<bid>461</bid>				
+			<op>63320</op>
+			<dip>43961</dip>
+			<bid>448</bid>				
 			<wid1>07</wid1>
-			<wid2>314</wid2>            	
+			<wid2>325</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1212</id>    
+			<id>1320</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -200,134 +142,18 @@
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.845689750012056</lat>
-			<lon>-87.61726077986353</lon>
+			<lat>41.86455170313517</lat>
+			<lon>-87.6240463256836</lon>
 			<pid>5342</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7328</run>
+			<run>7330</run>
 			<fs>Michigan/Chicago</fs>
-			<op>64464</op>
-			<dip>47383</dip>
-			<bid>439</bid>				
+			<op>64611</op>
+			<dip>55638</dip>
+			<bid>485</bid>				
 			<wid1>07</wid1>
-			<wid2>328</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1245</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>3</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>3</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.85214444210655</lat>
-			<lon>-87.61890170448704</lon>
-			<pid>5342</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7329</run>
-			<fs>Michigan/Chicago</fs>
-			<op>65854</op>
-			<dip>49868</dip>
-			<bid>491</bid>				
-			<wid1>07</wid1>
-			<wid2>329</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>7933</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>3</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>3</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.863945198059085</lat>
-			<lon>-87.6240234375</lon>
-			<pid>5342</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7318</run>
-			<fs>Michigan/Chicago</fs>
-			<op>61916</op>
-			<dip>55416</dip>
-			<bid>403</bid>				
-			<wid1>07</wid1>
-			<wid2>318</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1374</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>3</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>3</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.75009778650796</lat>
-			<lon>-87.61497497558594</lon>
-			<pid>5343</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7322</run>
-			<fs>95th/CSU</fs>
-			<op>62009</op>
-			<dip>58114</dip>
-			<bid>399</bid>				
-			<wid1>07</wid1>
-			<wid2>322</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1311</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>3</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>3</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.72135331895616</lat>
-			<lon>-87.60931396484375</lon>
-			<pid>5343</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7313</run>
-			<fs>95th/CSU</fs>
-			<op>57770</op>
-			<dip>69960</dip>
-			<bid>442</bid>				
-			<wid1>07</wid1>
-			<wid2>313</wid2>            	
+			<wid2>330</wid2>            	
 		</bus>
 
 

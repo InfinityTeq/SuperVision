@@ -7,7 +7,7 @@
 - [ ] possible transits to map
     - [ ] trains
     - [x] buses
-    - [ ] planes?
+    - [x] planes?
     - [ ] taxi/uber services
     - [ ] ems/police
     - [ ] shodan api

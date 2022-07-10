@@ -39,40 +39,11 @@
 
 	<buses rt="63" rtRtpiFeedName="" rtdd="63"> <!-- @11 @16 -->
 
-		<time>4:49 PM</time>
+		<time>9:15 PM</time>
 
 
 		<bus>
-			<id>1464</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>63</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>63</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.7794463634491</lat>
-			<lon>-87.66461229324341</lon>
-			<pid>4339</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6325</run>
-			<fs>63rd St Beach</fs>
-			<op>63036</op>
-			<dip>11567</dip>
-			<bid>761</bid>				
-			<wid1>06</wid1>
-			<wid2>325</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1519</id>    
+			<id>1435</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,18 +55,18 @@
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.779884963739114</lat>
-			<lon>-87.63685795518218</lon>
+			<lat>41.78040385696123</lat>
+			<lon>-87.60530306258292</lon>
 			<pid>5211</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6316</run>
+			<run>6320</run>
 			<fs>Midway Orange Line</fs>
-			<op>61612</op>
-			<dip>19595</dip>
-			<bid>810</bid>				
+			<op>63062</op>
+			<dip>10403</dip>
+			<bid>706</bid>				
 			<wid1>06</wid1>
-			<wid2>316</wid2>            	
+			<wid2>320</wid2>            	
 		</bus>
 
 
@@ -113,18 +84,18 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.7796516418457</lat>
-			<lon>-87.65204901444285</lon>
-			<pid>5210</pid>
+			<lat>41.7794189453125</lat>
+			<lon>-87.6637954711914</lon>
+			<pid>10930</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6326</run>
-			<fs>63rd St Beach</fs>
-			<op>66151</op>
-			<dip>29560</dip>
+			<run>6044</run>
+			<fs>Stony Island</fs>
+			<op>N/A</op>
+			<dip>26145</dip>
 			<bid>776</bid>				
 			<wid1>06</wid1>
-			<wid2>326</wid2>            	
+			<wid2>044</wid2>            	
 		</bus>
 
 
@@ -139,19 +110,19 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>63</rtdd>  
 			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.78052884478902</lat>
-			<lon>-87.587959112123</lon>
-			<pid>4339</pid>
-			<pd>Eastbound</pd> 
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.7793083190918</lat>
+			<lon>-87.6746285756429</lon>
+			<pid>5211</pid>
+			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>6327</run>
-			<fs>63rd St Beach</fs>
+			<fs>Midway Orange Line</fs>
 			<op>66320</op>
-			<dip>33585</dip>
-			<bid>706</bid>				
+			<dip>31261</dip>
+			<bid>775</bid>				
 			<wid1>06</wid1>
 			<wid2>327</wid2>            	
 		</bus>
@@ -159,7 +130,7 @@
 
 
 		<bus>
-			<id>1459</id>    
+			<id>8049</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -171,47 +142,18 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.780532215916836</lat>
-			<lon>-87.5876649368641</lon>
-			<pid>4339</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6313</run>
-			<fs>63rd St Beach</fs>
-			<op>60421</op>
-			<dip>33665</dip>
-			<bid>687</bid>				
-			<wid1>06</wid1>
-			<wid2>313</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1435</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>63</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>63</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.780535587044646</lat>
-			<lon>-87.58720291492551</lon>
+			<lat>41.78036910609195</lat>
+			<lon>-87.6083570781507</lon>
 			<pid>5210</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6320</run>
+			<run>6323</run>
 			<fs>63rd St Beach</fs>
-			<op>63062</op>
-			<dip>48138</dip>
+			<op>61650</op>
+			<dip>42138</dip>
 			<bid>814</bid>				
 			<wid1>06</wid1>
-			<wid2>320</wid2>            	
+			<wid2>323</wid2>            	
 		</bus>
 
 
@@ -226,21 +168,79 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>63</rtdd>  
 			
-			<d>North West Bound</d>
+			<d>North East Bound</d>
 			<dd>Westbound</dd> 
-			<dn>NW</dn> 
-			<lat>41.785575128370716</lat>
-			<lon>-87.73846607823526</lon>
+			<dn>NE</dn> 
+			<lat>41.78458551260141</lat>
+			<lon>-87.73923081618089</lon>
 			<pid>5211</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>6314</run>
+			<run>6330</run>
 			<fs>Midway Orange Line</fs>
-			<op>58386</op>
-			<dip>54369</dip>
+			<op>53224</op>
+			<dip>53955</dip>
 			<bid>759</bid>				
 			<wid1>06</wid1>
-			<wid2>314</wid2>            	
+			<wid2>330</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1464</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>63</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>63</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.78649166666667</lat>
+			<lon>-87.73868166666666</lon>
+			<pid>5211</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6325</run>
+			<fs>Midway Orange Line</fs>
+			<op>63036</op>
+			<dip>54740</dip>
+			<bid>735</bid>				
+			<wid1>06</wid1>
+			<wid2>325</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>8063</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>63</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>63</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>WNW</dn> 
+			<lat>41.78644666666667</lat>
+			<lon>-87.73876</lon>
+			<pid>5211</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>6326</run>
+			<fs>Midway Orange Line</fs>
+			<op>66151</op>
+			<dip>54754</dip>
+			<bid>777</bid>				
+			<wid1>06</wid1>
+			<wid2>326</wid2>            	
 		</bus>
 
 

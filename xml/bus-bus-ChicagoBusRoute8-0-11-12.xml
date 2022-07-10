@@ -39,7 +39,7 @@
 
 	<buses rt="8" rtRtpiFeedName="" rtdd="8"> <!-- @11 @16 -->
 
-		<time>4:49 PM</time>
+		<time>9:15 PM</time>
 
 
 		<bus>
@@ -55,16 +55,16 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.940119536026664</lat>
-			<lon>-87.64927872367527</lon>
+			<lat>41.878454800309804</lat>
+			<lon>-87.64725178685681</lon>
 			<pid>9368</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>7874</run>
 			<fs>79th</fs>
 			<op>61079</op>
-			<dip>4105</dip>
-			<bid>507</bid>				
+			<dip>27967</dip>
+			<bid>422</bid>				
 			<wid1>07</wid1>
 			<wid2>874</wid2>            	
 		</bus>
@@ -72,7 +72,7 @@
 
 
 		<bus>
-			<id>7980</id>    
+			<id>1350</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,53 +84,24 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.86973329023881</lat>
-			<lon>-87.64704132080078</lon>
+			<lat>41.84149117903276</lat>
+			<lon>-87.6463623046875</lon>
 			<pid>9368</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7810</run>
+			<run>7509</run>
 			<fs>79th</fs>
-			<op>58748</op>
-			<dip>31363</dip>
-			<bid>378</bid>				
+			<op>60458</op>
+			<dip>43376</dip>
+			<bid>373</bid>				
 			<wid1>07</wid1>
-			<wid2>810</wid2>            	
+			<wid2>509</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>1347</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>8</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>8</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.8647876661651</lat>
-			<lon>-87.6468505859375</lon>
-			<pid>9368</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7809</run>
-			<fs>79th</fs>
-			<op>52425</op>
-			<dip>33256</dip>
-			<bid>371</bid>				
-			<wid1>07</wid1>
-			<wid2>809</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1368</id>    
+			<id>7982</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -141,19 +112,19 @@
 			
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.84189693744366</lat>
-			<lon>-87.64637756347656</lon>
+			<dn>NNW</dn> 
+			<lat>41.89161612770774</lat>
+			<lon>-87.64763502641158</lon>
 			<pid>9376</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>7814</run>
+			<run>7654</run>
 			<fs>Waveland/Broadway</fs>
-			<op>59683</op>
-			<dip>36036</dip>
-			<bid>369</bid>				
+			<op>64440</op>
+			<dip>56388</dip>
+			<bid>370</bid>				
 			<wid1>07</wid1>
-			<wid2>814</wid2>            	
+			<wid2>654</wid2>            	
 		</bus>
 
 

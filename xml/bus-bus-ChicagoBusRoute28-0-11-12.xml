@@ -39,11 +39,11 @@
 
 	<buses rt="28" rtRtpiFeedName="" rtdd="28"> <!-- @11 @16 -->
 
-		<time>4:49 PM</time>
+		<time>9:15 PM</time>
 
 
 		<bus>
-			<id>1119</id>    
+			<id>1149</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,79 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>28</rtdd>  
 			
-			<d>South Bound</d>
+			<d>South West Bound</d>
 			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.744803497756735</lat>
-			<lon>-87.58586861430734</lon>
+			<dn>SW</dn> 
+			<lat>41.8092155456543</lat>
+			<lon>-87.59170532226562</lon>
 			<pid>2156</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1807</run>
+			<run>1852</run>
 			<fs>Stony Island/103rd</fs>
-			<op>44151</op>
-			<dip>24320</dip>
-			<bid>33</bid>				
-			<wid1>01</wid1>
-			<wid2>807</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1178</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>28</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>28</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.79404154363668</lat>
-			<lon>-87.58772781659972</lon>
-			<pid>10941</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1806</run>
-			<fs>47th/Lake Park</fs>
-			<op>58798</op>
-			<dip>33411</dip>
-			<bid>113</bid>				
-			<wid1>01</wid1>
-			<wid2>806</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1198</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>28</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>28</rtdd>  
-			
-			<d>North West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.80763501537089</lat>
-			<lon>-87.590246239487</lon>
-			<pid>10941</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1808</run>
-			<fs>47th/Lake Park</fs>
-			<op>60422</op>
-			<dip>38587</dip>
+			<op>64904</op>
+			<dip>140</dip>
 			<bid>63</bid>				
 			<wid1>01</wid1>
-			<wid2>808</wid2>            	
+			<wid2>852</wid2>            	
 		</bus>
 
 

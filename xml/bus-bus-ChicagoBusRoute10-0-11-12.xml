@@ -39,65 +39,9 @@
 
 	<buses rt="10" rtRtpiFeedName="" rtdd="10"> <!-- @11 @16 -->
 
-		<time>4:49 PM</time>
+		<time>9:15 PM</time>
 
-
-		<bus>
-			<id>4066</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>10</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>10</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.86283493041992</lat>
-			<lon>-87.61858367919922</lon>
-			<pid>8223</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K008</run>
-			<fs>Water Tower</fs>
-			<op>57083</op>
-			<dip>29767</dip>
-			<bid>277</bid>				
-			<wid1>0K</wid1>
-			<wid2>008</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4065</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>10</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>10</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.86304333333333</lat>
-			<lon>-87.618635</lon>
-			<pid>8223</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K031</run>
-			<fs>Water Tower</fs>
-			<op>34385</op>
-			<dip>29843</dip>
-			<bid>276</bid>				
-			<wid1>0K</wid1>
-			<wid2>031</wid2>            	
-		</bus>
-
+		<hasService>false</hasService>
 
 
 	</buses>

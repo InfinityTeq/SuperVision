@@ -39,36 +39,7 @@
 
 	<buses rt="30" rtRtpiFeedName="" rtdd="30"> <!-- @11 @16 -->
 
-		<time>4:49 PM</time>
-
-
-		<bus>
-			<id>1076</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>30</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>30</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Southbound</dd> 
-			<dn>W</dn> 
-			<lat>41.76877975463867</lat>
-			<lon>-87.6258773803711</lon>
-			<pid>8227</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1549</run>
-			<fs>Hegewisch</fs>
-			<op>N/A</op>
-			<dip>69</dip>
-			<bid>29</bid>				
-			<wid1>01</wid1>
-			<wid2>549</wid2>            	
-		</bus>
-
+		<time>9:15 PM</time>
 
 
 		<bus>
@@ -81,50 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>30</rtdd>  
 			
-			<d>South East Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SE</dn> 
-			<lat>41.76574223836263</lat>
-			<lon>-87.60556376139323</lon>
-			<pid>8227</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.70189581246212</lat>
+			<lon>-87.53527069091797</lon>
+			<pid>8228</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>1582</run>
-			<fs>Hegewisch</fs>
+			<fs>69th Red Line</fs>
 			<op>40416</op>
-			<dip>7101</dip>
-			<bid>28</bid>				
-			<wid1>01</wid1>
-			<wid2>582</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1083</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>30</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>30</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Southbound</dd> 
-			<dn>N</dn> 
-			<lat>41.65175365871853</lat>
-			<lon>-87.54705810546875</lon>
-			<pid>8227</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>1583</run>
-			<fs>Hegewisch</fs>
-			<op>58188</op>
-			<dip>70031</dip>
+			<dip>26494</dip>
 			<bid>24</bid>				
 			<wid1>01</wid1>
-			<wid2>583</wid2>            	
+			<wid2>582</wid2>            	
 		</bus>
 
 

@@ -39,123 +39,7 @@
 
 	<buses rt="78" rtRtpiFeedName="" rtdd="78"> <!-- @11 @16 -->
 
-		<time>4:49 PM</time>
-
-
-		<bus>
-			<id>8315</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>78</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>78</rtdd>  
-			
-			<d>North East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>ENE</dn> 
-			<lat>41.95270404815674</lat>
-			<lon>-87.80792999267578</lon>
-			<pid>7911</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F790</run>
-			<fs>Montrose Beach</fs>
-			<op>63648</op>
-			<dip>802</dip>
-			<bid>889</bid>				
-			<wid1>0F</wid1>
-			<wid2>790</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1393</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>78</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>78</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Westbound</dd> 
-			<dn>SSE</dn> 
-			<lat>41.96398696899414</lat>
-			<lon>-87.66654815673829</lon>
-			<pid>7910</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F832</run>
-			<fs>Harlem</fs>
-			<op>57195</op>
-			<dip>9628</dip>
-			<bid>892</bid>				
-			<wid1>0F</wid1>
-			<wid2>832</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8267</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>78</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>78</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.96128463745117</lat>
-			<lon>-87.70400965763973</lon>
-			<pid>7910</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F792</run>
-			<fs>Harlem</fs>
-			<op>63039</op>
-			<dip>20834</dip>
-			<bid>891</bid>				
-			<wid1>0F</wid1>
-			<wid2>792</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>8316</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>78</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>78</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>E</dn> 
-			<lat>41.96117401123047</lat>
-			<lon>-87.70416164398193</lon>
-			<pid>7911</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F789</run>
-			<fs>Montrose Beach</fs>
-			<op>38892</op>
-			<dip>30907</dip>
-			<bid>915</bid>				
-			<wid1>0F</wid1>
-			<wid2>789</wid2>            	
-		</bus>
-
+		<time>9:15 PM</time>
 
 
 		<bus>
@@ -171,16 +55,45 @@
 			<d>East Bound</d>
 			<dd>Eastbound</dd> 
 			<dn>E</dn> 
-			<lat>41.96157859802246</lat>
-			<lon>-87.66987228393555</lon>
-			<pid>7911</pid>
+			<lat>41.96009063720703</lat>
+			<lon>-87.79124340112658</lon>
+			<pid>7743</pid>
 			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F793</run>
-			<fs>Montrose Beach</fs>
-			<op>61491</op>
-			<dip>40476</dip>
+			<run>F832</run>
+			<fs>Wilson/Marine</fs>
+			<op>57195</op>
+			<dip>6528</dip>
 			<bid>894</bid>				
+			<wid1>0F</wid1>
+			<wid2>832</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1046</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>78</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>78</rtdd>  
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd> 
+			<dn>W</dn> 
+			<lat>41.96128592857948</lat>
+			<lon>-87.70391974815955</lon>
+			<pid>7910</pid>
+			<pd>Westbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>F793</run>
+			<fs>Harlem</fs>
+			<op>61491</op>
+			<dip>20810</dip>
+			<bid>889</bid>				
 			<wid1>0F</wid1>
 			<wid2>793</wid2>            	
 		</bus>
@@ -197,19 +110,19 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>78</rtdd>  
 			
-			<d>South West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>SW</dn> 
-			<lat>41.95851469039917</lat>
-			<lon>-87.79772644042968</lon>
-			<pid>7910</pid>
-			<pd>Westbound</pd> 
+			<d>East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>E</dn> 
+			<lat>41.961151123046875</lat>
+			<lon>-87.71334062542832</lon>
+			<pid>7743</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>F795</run>
-			<fs>Harlem</fs>
+			<fs>Wilson/Marine</fs>
 			<op>64757</op>
-			<dip>46548</dip>
-			<bid>890</bid>				
+			<dip>28378</dip>
+			<bid>896</bid>				
 			<wid1>0F</wid1>
 			<wid2>795</wid2>            	
 		</bus>
@@ -217,7 +130,7 @@
 
 
 		<bus>
-			<id>1354</id>    
+			<id>1393</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -226,21 +139,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>78</rtdd>  
 			
-			<d>South West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>SW</dn> 
-			<lat>41.95318833333333</lat>
-			<lon>-87.80903166666667</lon>
-			<pid>7910</pid>
-			<pd>Westbound</pd> 
+			<d>South East Bound</d>
+			<dd>Eastbound</dd> 
+			<dn>SE</dn> 
+			<lat>41.96501972990216</lat>
+			<lon>-87.63935621729436</lon>
+			<pid>7911</pid>
+			<pd>Eastbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F791</run>
-			<fs>Harlem</fs>
-			<op>44153</op>
-			<dip>50106</dip>
-			<bid>895</bid>				
+			<run>F796</run>
+			<fs>Montrose Beach</fs>
+			<op>62907</op>
+			<dip>50554</dip>
+			<bid>892</bid>				
 			<wid1>0F</wid1>
-			<wid2>791</wid2>            	
+			<wid2>796</wid2>            	
 		</bus>
 
 

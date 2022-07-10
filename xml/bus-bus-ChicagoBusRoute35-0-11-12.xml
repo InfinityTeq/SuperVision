@@ -39,7 +39,7 @@
 
 	<buses rt="35" rtRtpiFeedName="" rtdd="35"> <!-- @11 @16 -->
 
-		<time>4:49 PM</time>
+		<time>9:15 PM</time>
 
 
 		<bus>
@@ -52,108 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>35</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>S</dn> 
-			<lat>41.84335545131138</lat>
-			<lon>-87.7441294144611</lon>
-			<pid>14102</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K312</run>
-			<fs>31st Street Beach</fs>
-			<op>66080</op>
-			<dip>1415</dip>
-			<bid>335</bid>				
-			<wid1>0K</wid1>
-			<wid2>312</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1630</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>35</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>35</rtdd>  
-			
 			<d>West Bound</d>
 			<dd>Westbound</dd> 
 			<dn>W</dn> 
-			<lat>41.82736587524414</lat>
-			<lon>-87.69681628545125</lon>
+			<lat>41.831031799316406</lat>
+			<lon>-87.63002673999684</lon>
 			<pid>17464</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>MAN</run>
+			<run>K312</run>
 			<fs>36th/Kedzie</fs>
-			<op>58020</op>
-			<dip>32863</dip>
-			<bid>MAN</bid>				
+			<op>66080</op>
+			<dip>11949</dip>
+			<bid>262</bid>				
 			<wid1>0K</wid1>
-			<wid2>309</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1004</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>35</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>35</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>N</dn> 
-			<lat>41.83675846300627</lat>
-			<lon>-87.61345672607422</lon>
-			<pid>14102</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K308</run>
-			<fs>31st Street Beach</fs>
-			<op>64609</op>
-			<dip>48112</dip>
-			<bid>263</bid>				
-			<wid1>0K</wid1>
-			<wid2>308</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1716</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>35</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>35</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Eastbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.83905792236328</lat>
-			<lon>-87.60780334472656</lon>
-			<pid>14102</pid>
-			<pd>Eastbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K311</run>
-			<fs>31st Street Beach</fs>
-			<op>64722</op>
-			<dip>50365</dip>
-			<bid>264</bid>				
-			<wid1>0K</wid1>
-			<wid2>311</wid2>            	
+			<wid2>312</wid2>            	
 		</bus>
 
 

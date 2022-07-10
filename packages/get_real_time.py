@@ -1,5 +1,5 @@
 xml_dictionary = {
-    'airplane-plane-AirPlane-0-1-2.xml': 'airplane-plane-AirPlane-0-1-2.xml',
+    # 'airplane-plane-AirPlane-0-1-2.xml': 'airplane-plane-AirPlane-0-1-2.xml',
     'bus-bus-ChicagoBusRoute1-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=1',
 	'bus-bus-ChicagoBusRoute2-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=2',
 	'bus-bus-ChicagoBusRoute3-0-11-12.xml': 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?route=3',

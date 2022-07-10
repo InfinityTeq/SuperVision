@@ -39,36 +39,9 @@
 
 	<buses rt="130" rtRtpiFeedName="" rtdd="130"> <!-- @11 @16 -->
 
-		<time>4:49 PM</time>
+		<time>9:15 PM</time>
 
-
-		<bus>
-			<id>1605</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>130</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>130</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Westbound</dd> 
-			<dn>W</dn> 
-			<lat>41.86750030517578</lat>
-			<lon>-87.6263918195452</lon>
-			<pid>8094</pid>
-			<pd>Westbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K013</run>
-			<fs>Ogilvie &amp; Union Stations</fs>
-			<op>64993</op>
-			<dip>6579</dip>
-			<bid>290</bid>				
-			<wid1>0K</wid1>
-			<wid2>013</wid2>            	
-		</bus>
-
+		<hasService>false</hasService>
 
 
 	</buses>

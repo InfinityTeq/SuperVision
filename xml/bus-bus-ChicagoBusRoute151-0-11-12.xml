@@ -39,40 +39,11 @@
 
 	<buses rt="151" rtRtpiFeedName="" rtdd="151"> <!-- @11 @16 -->
 
-		<time>4:49 PM</time>
+		<time>9:15 PM</time>
 
 
 		<bus>
-			<id>4003</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>East Bound</d>
-			<dd>Northbound</dd> 
-			<dn>E</dn> 
-			<lat>41.87779235839844</lat>
-			<lon>-87.64002990722656</lon>
-			<pid>6411</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K618</run>
-			<fs>Belmont/Halsted</fs>
-			<op>40890</op>
-			<dip>0</dip>
-			<bid>355</bid>				
-			<wid1>0K</wid1>
-			<wid2>618</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1795</id>    
+			<id>4393</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -84,24 +55,24 @@
 			<d>East Bound</d>
 			<dd>Southbound</dd> 
 			<dn>E</dn> 
-			<lat>41.99815950895611</lat>
-			<lon>-87.66194915771484</lon>
+			<lat>41.99810028076172</lat>
+			<lon>-87.66859817504883</lon>
 			<pid>8102</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P574</run>
+			<run>P518</run>
 			<fs>Union Station</fs>
-			<op>N/A</op>
-			<dip>3210</dip>
-			<bid>546</bid>				
+			<op>65997</op>
+			<dip>1318</dip>
+			<bid>643</bid>				
 			<wid1>0P</wid1>
-			<wid2>574</wid2>            	
+			<wid2>518</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>4007</id>    
+			<id>4351</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -110,27 +81,56 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>151</rtdd>  
 			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.937864112854</lat>
-			<lon>-87.63948097229004</lon>
-			<pid>8095</pid>
-			<pd>Southbound</pd> 
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.919955706987224</lat>
+			<lon>-87.63549604572233</lon>
+			<pid>6413</pid>
+			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K433</run>
-			<fs>Union Station</fs>
-			<op>61228</op>
-			<dip>3511</dip>
-			<bid>341</bid>				
-			<wid1>0K</wid1>
-			<wid2>433</wid2>            	
+			<run>P519</run>
+			<fs>Devon/Clark</fs>
+			<op>65541</op>
+			<dip>21294</dip>
+			<bid>646</bid>				
+			<wid1>0P</wid1>
+			<wid2>519</wid2>            	
 		</bus>
 
 
 
 		<bus>
-			<id>4170</id>    
+			<id>1742</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>151</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>151</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.920477786306606</lat>
+			<lon>-87.63558597887976</lon>
+			<pid>6413</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P520</run>
+			<fs>Devon/Clark</fs>
+			<op>62480</op>
+			<dip>21487</dip>
+			<bid>554</bid>				
+			<wid1>0P</wid1>
+			<wid2>520</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4345</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -140,20 +140,49 @@
 			<rtdd>151</rtdd>  
 			
 			<d>East Bound</d>
-			<dd>Northbound</dd> 
+			<dd>Southbound</dd> 
 			<dn>E</dn> 
-			<lat>41.883166027069095</lat>
-			<lon>-87.62881603240967</lon>
-			<pid>6413</pid>
-			<pd>Northbound</pd> 
+			<lat>41.95280937526537</lat>
+			<lon>-87.6481409487517</lon>
+			<pid>8102</pid>
+			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P511</run>
-			<fs>Devon/Clark</fs>
-			<op>62431</op>
-			<dip>4979</dip>
-			<bid>645</bid>				
+			<run>P580</run>
+			<fs>Union Station</fs>
+			<op>52463</op>
+			<dip>24265</dip>
+			<bid>549</bid>				
 			<wid1>0P</wid1>
-			<wid2>511</wid2>            	
+			<wid2>580</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4399</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>151</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>151</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>E</dn> 
+			<lat>41.952873865763344</lat>
+			<lon>-87.6471487681071</lon>
+			<pid>8102</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P581</run>
+			<fs>Union Station</fs>
+			<op>65694</op>
+			<dip>24535</dip>
+			<bid>593</bid>				
+			<wid1>0P</wid1>
+			<wid2>581</wid2>            	
 		</bus>
 
 
@@ -170,396 +199,19 @@
 			
 			<d>North Bound</d>
 			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.906494140625</lat>
-			<lon>-87.62542833600726</lon>
-			<pid>6414</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P520</run>
-			<fs>Devon/Clark</fs>
-			<op>62480</op>
-			<dip>15018</dip>
-			<bid>644</bid>				
-			<wid1>0P</wid1>
-			<wid2>520</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1658</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.91340132682554</lat>
-			<lon>-87.63153716056577</lon>
-			<pid>6411</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K402</run>
-			<fs>Belmont/Halsted</fs>
-			<op>62763</op>
-			<dip>18613</dip>
-			<bid>347</bid>				
-			<wid1>0K</wid1>
-			<wid2>402</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4059</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.89903825702089</lat>
-			<lon>-87.62419891357422</lon>
-			<pid>8095</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K401</run>
-			<fs>Union Station</fs>
-			<op>49278</op>
-			<dip>20453</dip>
-			<bid>346</bid>				
-			<wid1>0K</wid1>
-			<wid2>401</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4055</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.896268647292565</lat>
-			<lon>-87.62436439251077</lon>
-			<pid>8095</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K407</run>
-			<fs>Union Station</fs>
-			<op>63802</op>
-			<dip>21460</dip>
-			<bid>345</bid>				
-			<wid1>0K</wid1>
-			<wid2>407</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4161</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NNW</dn> 
-			<lat>41.92823808089547</lat>
-			<lon>-87.63876774000084</lon>
-			<pid>6414</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P519</run>
-			<fs>Devon/Clark</fs>
-			<op>65541</op>
-			<dip>24696</dip>
-			<bid>552</bid>				
-			<wid1>0P</wid1>
-			<wid2>519</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4141</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
 			<dn>N</dn> 
-			<lat>41.92923146486282</lat>
-			<lon>-87.63867712020874</lon>
+			<lat>41.99477128724794</lat>
+			<lon>-87.6555369609111</lon>
 			<pid>6413</pid>
 			<pd>Northbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P509</run>
+			<run>P516</run>
 			<fs>Devon/Clark</fs>
-			<op>58537</op>
-			<dip>25042</dip>
-			<bid>550</bid>				
+			<op>62953</op>
+			<dip>52757</dip>
+			<bid>644</bid>				
 			<wid1>0P</wid1>
-			<wid2>509</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4054</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>North West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>NW</dn> 
-			<lat>41.93253824266337</lat>
-			<lon>-87.63892480882548</lon>
-			<pid>6411</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K583</run>
-			<fs>Belmont/Halsted</fs>
-			<op>60444</op>
-			<dip>26308</dip>
-			<bid>342</bid>				
-			<wid1>0K</wid1>
-			<wid2>583</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1624</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>North Bound</d>
-			<dd>Northbound</dd> 
-			<dn>N</dn> 
-			<lat>41.93540627615793</lat>
-			<lon>-87.63937991006034</lon>
-			<pid>6411</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>K813</run>
-			<fs>Belmont/Halsted</fs>
-			<op>62184</op>
-			<dip>27413</dip>
-			<bid>356</bid>				
-			<wid1>0K</wid1>
-			<wid2>813</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4157</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SSE</dn> 
-			<lat>41.9416748046875</lat>
-			<lon>-87.63970184326172</lon>
-			<pid>8102</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P573</run>
-			<fs>Union Station</fs>
-			<op>61185</op>
-			<dip>29666</dip>
-			<bid>592</bid>				
-			<wid1>0P</wid1>
-			<wid2>573</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4392</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>S</dn> 
-			<lat>41.883399963378906</lat>
-			<lon>-87.62452697753906</lon>
-			<pid>8102</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P767</run>
-			<fs>Union Station</fs>
-			<op>62152</op>
-			<dip>53912</dip>
-			<bid>553</bid>				
-			<wid1>0P</wid1>
-			<wid2>767</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4351</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>South Bound</d>
-			<dd>Southbound</dd> 
-			<dn>SSE</dn> 
-			<lat>41.8833864997415</lat>
-			<lon>-87.62452637915517</lon>
-			<pid>8102</pid>
-			<pd>Southbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P512</run>
-			<fs>Union Station</fs>
-			<op>61270</op>
-			<dip>53917</dip>
-			<bid>646</bid>				
-			<wid1>0P</wid1>
-			<wid2>512</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>1871</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.99823833333333</lat>
-			<lon>-87.6613</lon>
-			<pid>6414</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P513</run>
-			<fs>Devon/Clark</fs>
-			<op>62402</op>
-			<dip>55645</dip>
-			<bid>621</bid>				
-			<wid1>0P</wid1>
-			<wid2>513</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4399</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.998172760009766</lat>
-			<lon>-87.66799412217252</lon>
-			<pid>6414</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P510</run>
-			<fs>Devon/Clark</fs>
-			<op>58591</op>
-			<dip>57436</dip>
-			<bid>551</bid>				
-			<wid1>0P</wid1>
-			<wid2>510</wid2>            	
-		</bus>
-
-
-
-		<bus>
-			<id>4345</id>    
-			<consist></consist>    
-			<cars></cars>    
-			<rtpiFeedName></rtpiFeedName>
-			<m>1</m>	  	
-			<rt>151</rt>
-			<rtRtpiFeedName></rtRtpiFeedName>
-			<rtdd>151</rtdd>  
-			
-			<d>West Bound</d>
-			<dd>Northbound</dd> 
-			<dn>W</dn> 
-			<lat>41.998143937852646</lat>
-			<lon>-87.6705339219835</lon>
-			<pid>6414</pid>
-			<pd>Northbound</pd> 
-			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>P576</run>
-			<fs>Devon/Clark</fs>
-			<op>64413</op>
-			<dip>58122</dip>
-			<bid>549</bid>				
-			<wid1>0P</wid1>
-			<wid2>576</wid2>            	
+			<wid2>516</wid2>            	
 		</bus>
 
 

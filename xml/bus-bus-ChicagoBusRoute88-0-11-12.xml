@@ -39,11 +39,11 @@
 
 	<buses rt="88" rtRtpiFeedName="" rtdd="88"> <!-- @11 @16 -->
 
-		<time>4:49 PM</time>
+		<time>9:15 PM</time>
 
 
 		<bus>
-			<id>8319</id>    
+			<id>1403</id>    
 			<consist></consist>    
 			<cars></cars>    
 			<rtpiFeedName></rtpiFeedName>
@@ -52,21 +52,21 @@
 			<rtRtpiFeedName></rtRtpiFeedName>
 			<rtdd>88</rtdd>  
 			
-			<d>West Bound</d>
+			<d>South West Bound</d>
 			<dd>Westbound</dd> 
-			<dn>WNW</dn> 
-			<lat>41.97234413840554</lat>
-			<lon>-87.77512817382812</lon>
+			<dn>SW</dn> 
+			<lat>41.96964645385742</lat>
+			<lon>-87.7615966796875</lon>
 			<pid>1728</pid>
 			<pd>Westbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
-			<run>F908</run>
+			<run>F431</run>
 			<fs>Devon/Canfield</fs>
-			<op>49385</op>
-			<dip>4243</dip>
-			<bid>844</bid>				
+			<op>58300</op>
+			<dip>13</dip>
+			<bid>902</bid>				
 			<wid1>0F</wid1>
-			<wid2>908</wid2>            	
+			<wid2>431</wid2>            	
 		</bus>
 
 
